@@ -41,9 +41,13 @@ Written by: Jonathan Gray Liliana Bounegru
 最近、ある批評で指摘がありましたが、最近のあるレビューが言うように、私たちは「事実だけではなく、数量化がどのように行われているのか」をただす必要があり、その影響は「意図と手段に依存する」のです。
 私たちは、データ･ジャーナリズムを安定化させるのではなく、むしろその多様な側面に注目し、異なる方法で実践するための可能性を拓きたいのです。
 
+共同実験
+本書が何のための本ではないのかについて簡単に述べておきましょう。従来の意味での単なる教科書やハンドブックではありません。
+各章は、確立された知識の集合体ではなく、さらなる調査や実験のための興味深い方向性を示すことを目的としています。
+本書は単なるチュートリアルや「ハウツー」の実践的なガイドブックではありません。データ分析やデータ可視化など、データプラクティスのさまざまな側面に関する資料やコースはすでに無数にあります。
+単なる「舞台裏」のケーススタディの本ではなく、プロジェクトがどのように行われたかを示す記事やブログ記事、クリエイターへのインタビューなどが豊富に掲載されています。
+最近の学術論文ばかりではなく、あまたの書籍や雑誌に散在するデータ･ジャーナリズムに関する新たに出現した文献にも目を配っています。
 
-A collective experiment
-It is worth briefly noting what this book is not. It is not just a textbook or handbook in the conventional sense: the chapters don’t add up to an established body of knowledge, but are rather intended to indicate interesting directions for further inquiry and experimentation. The book is not just a practical guidebook of tutorials or “how tos”: there are already countless readily available materials and courses on different aspects of data practice (e.g. data analysis and data visualisation). It is not just a book of “behind the scenes” case studies: there are plenty of articles and blog posts showing how projects were done, including interviews with their creators. It is not just a book of recent academic perspectives: there is an emerging body of literature on data journalism scattered across numerous books and journals.8
 
 Rather the book has been designed as a collective experiment in accounting for data journalism practices and a collective invitation to explore how such practices may be modified. It is collective in that, as with the first edition, we have been able to assemble a comparatively large number of contributors (more than seventy) for a short book, and the editorial process has benefitted from recommendations from contributors. Through what could be considered a kind of curated “snowball editorial”, we have sought to follow how data journalism is done by different actors, in different places, around different topics, through different means. Through the process we have trawled through many shortlists, longlists, outlets and datasets to curate different perspectives on data journalism practices. Though there were many, many more contributors we would have liked to include, we had to operate within the constraints of a printable book, as well as giving voice to a balance of genders, geographies and themes.
 
