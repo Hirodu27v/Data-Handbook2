@@ -107,16 +107,18 @@ Written by: Jonathan Gray Liliana Bounegru
 6 データ・ジャーナリズムのプロジェクトは、どのようにして既成のデータ・ソースを調査し、どのような問題がデータによって説明されているのかを再考する市民の参加と介在の場を作ることができるのか
 7 データ・ジャーナリストはどのようにして、統計学、データサイエンス、ソーシャルメディア分析などの分野とは一線を画した、データを扱う独自のスタイルを育成し、積極的に確率することができるのか
 8 データ・ジャーナリズムの分野では、どのようにして自分の仕事をアーカイブ化して保存するための記憶行為を発展させるか、また、どのようにして慣行や文化との関係のなかにそれを位置づけることができるのか
-9 How can data journalism projects collaborate around transnational issues in ways which avoid the logic of the platform and the colony, and affirm innovations at the periphery?
-10 How can data journalism support marginalised communities to use data to tell their own stories on their own terms, rather than telling their stories for them?
-11 How can data journalism projects develop their own alternative and inventive ways of accounting for their value and impact in the world, beyond social media metrics and impact methodologies established in other fields?
-12 How might data journalism develop a style of objectivity which affirms, rather than minimises, its own role in intervening in the world and in shaping relations between different actors in collective life?
+9 データ・ジャーナリズムのプロジェクトは、プラットフォームや植民地の論理を避け、周縁部でのイノベーションを肯定するような方法で、国境を越えた問題を中心にどのように協力できるだろうか
+10 データ・ジャーナリズムは、どのようにして疎外されたコミュニティがデータを利用して、彼らのために（内向きの）物語を語るのではなく、（外部へ向けた）自分たちの言葉で自分たちの物語を語ることができるように支援することができるのだろうか
+11 データ・ジャーナリズムのプロジェクトは、どのようにしてソーシャルメディアの測定基準や他の分野で確立されたインパクト測定の方法論を超えて、世界における価値とインパクトを説明する代替的で独創的な方法を開発できるのか
+12 データ・ジャーナリズムは、どのようにして世界に介入し、社会における異なる主体間の関係を形成する上での自らの役割を最小化せず、肯定する客観性のスタイルを発展させることができるのか
 
-Words of thanks
+謝辞
+アムステルダム大学出版局がこの実験的プロジェクトに協力してくれたことに感謝します。数名の寄稿者が、2010年にアムステルダムで開催されたデータ・ジャーナリズムに関する最初の欧州会議の一つに、参加したことを考えると、適切な選択だったと思います。
+オープンアクセスの資金調達は、オランダ科学研究機構(NWO, 324-98-014#NWO#)の助成金を受けました。
+本書の構想は、（学際的ネットワークの）パブリック・データ・ラボに関連する友人や同僚との議論を通じて生まれました。特に、アンドレアス・バークバク、エリック・ボラ、ノーチェ・マーレス、リチャード・ロジャース、トマソ・ヴェントリーニ、エスター・ウェルトフレーデとの本をめぐる会話から恩恵を受けました。
+また、コロンビア大学（ブルーノ・ラトゥールとの話し合いで）、ユトレヒト大学、カリフォルニア大学バークレー校、スタンフォード大学、アムステルダム大学、マイアミ大学、オールボー大学コペンハーゲン校、パリ政治学院、ケンブリッジ大学、ロンドン・スクール・オブ・エコノミクス、カーディフ大学、ランカスター大学、ペルージャでの国際ジャーナリズム・フェスティバルなどでイベントや訪問を行い、本書の方向性を練るためのスペースを提供してもらいました。
+ キングス・カレッジ・ロンドンでデータ・ジャーナリズムの修士課程を履修している大学院生が、本書の中心となる「批判データ実践」の概念を検証するのに協力してくれました。
 
-We are most grateful to Amsterdam University Press for being so supportive with this experimental project, including the publication of an online beta as well as their support for an open access digital version of the book. It is perhaps also an apt choice, given that several of the contributors convened at one of the first European conferences on data journalism which took place in Amsterdam in 2010. Open access funding is supported by a grant from the Netherlands Organisation for Scientific Research (NWO, 324-98-014).
-
-The vision for the book was germinated through discussions with friends and colleagues associated with the Public Data Lab. We particularly benefited from conversations about the book with Andreas Birkbak, Erik Borra, Noortje Marres, Richard Rogers, Tommaso Venturini and Esther Weltevrede. We were also provided with space to develop the direction of this book through events and visits to Columbia University (in discussion with Bruno Latour); Utrecht University; the University of California Berkeley; Stanford University; the University of Amsterdam; the University of Miami; Aalborg University Copenhagen; Sciences Po, Paris; the University of Cambridge; London School of Economics; Cardiff University; Lancaster University and the International Journalism Festival in Perugia. Graduate students taking the MA course in data journalism at King’s College London helped us to test the notion of “critical data practice” which lies at the heart of this book.
 
 Our longstanding hope to do another edition was both nurtured and materialised thanks to Rina Tsubaki, who helped to gather support from the European Journalism Centre and the Google News Initiative. We are grateful to Adam Thomas, Bianca Lemmens, Biba Klomp‏, Letizia Gambini, Arne Grauls and Simon Rogers for providing us with both editorial independence and enduring support to scale up our efforts. The editorial assistance of Daniela Demarchi has been tremendously valuable in helping us to chart a clear course through sprawling currents of texts, footnotes, references emails and spreadsheets.
 
