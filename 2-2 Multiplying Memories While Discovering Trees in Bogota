@@ -10,9 +10,10 @@ Written by: Maria Isabel Magaña
 彼らの反応は「じゃあ5万エントリダウンロードできるようにアプリを改修しておきます」というものでした。
 私たちの解決策は？植物園のデータ収集に協力してくれた他の組織に働きかけたのです。そのうちの一つが、市の土地台帳に関連するすべての情報を収集しているアイデカです。
 彼らは直ちに全データセットを提供してくれました。私たちは誰もがアクセスできるように、それを公開することにしました（これを不透明性に対する私たちの小さな復讐と呼んでいます）。
- The Botanical Garden realized this and stopped any further conversation with us, and we decided not to continue a legal battle.
+植物園はこれに気づき、私たちとのそれ以上の論争をやめたので、私たちは法廷闘争を続けないことに決めました。
+また、ボゴタ市長室や国勢調査の公開データを盛り込み、樹木との関連で分析できる情報を相互参照できるようにしました。最後に、環境の専門家や林業従事者へのインタビューを行い、本市の課題を把握することができました。
 
-In addition, we included public data from the Mayor's Office of Bogotá and the National Census, to cross-reference information that we could analyze in relation to trees. Finally, we conducted interviews with environmental experts and forestry engineers that allowed us to understand the challenges the city faces. They had done so much work and so many investigations analyzing not only the reality of arborization, but also the history behind the trees in the city. And most of this work was largely unnoticed by authorities, journalists and many others.
+They had done so much work and so many investigations analyzing not only the reality of arborization, but also the history behind the trees in the city. And most of this work was largely unnoticed by authorities, journalists and many others.
 
 The final product was an eight piece data project that showed the reality of the arborization plan of the city, mapped every single tree – with information about its height, species, and benefits for the city-, debunked many myths around tree planting, and told the stories of some historical trees in town. We used Leaflet and SoundCloud for the interactive and the design was implemented by our talented group of coders. We also used the StoryMapJS to allow the users to explore the historic trees of the city.
 
