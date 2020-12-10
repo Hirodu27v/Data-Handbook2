@@ -4,11 +4,11 @@ Written by: Maria Isabel Magaña
 木は市民の日常生活で、意識に上ることはほとんどありません。しかし、私たちのデータチームのうちの１人は違いました。彼女は樹木が好きで、それに気付かずに通りを歩くことはできませんでした。
 彼女は、（通りにある）全ての樹種をよく知っています。混沌とした都会の中での彼女の自然への愛が、私たちに気付かせてくれました。これまで、誰かが街中に植えられている木について話したことがあっただろうか?
 そして、その単純な質問が、他の多くの人々を呼び集めるきっかけとなりました。私たちは彼らについて何を知っているのか？誰が手入れを担当しているのか？街の汚染を浄化するのに本当に役に立つのだろうか？街にはもっと木が必要なのだろうか？豊かな地域だけに背の高い木があるのは本当か？街には歴史的な木があるのか？
+日常的に目にする緑の「巨人」と市民をつなぐこと、そして市の緑化計画の実態を理解することの二つを目指して調査に着手しました。まず、植物園が2007年に作成したボゴタの植樹に関する都市センサスを分析しました。これは、毎月更新される唯一の情報セットです。
+植物園は、私たちが法的主張に満ちた情報公開請求を何度も提出したにもかかわらず、完全なデータを提供することを拒みました。
+彼らの立場は実にシンプルで、「すでにデータはDataVizポータルにあるじゃないか」というものです。私たちは「ダウンロードできるのは1万エントリだけで、データベースは120万エントリで構成されている。公共のデータなんだから、使えるようにしてよ」と主張しました。
+彼らの反応は「じゃあ5万エントリダウンロードできるようにアプリを改修しておきます」というものでした。
 
-
-We began our investigation aiming to do two different things: connect the citizens with the green giants they see everyday and understand the reality of the city’s arborization plan.1
-
-To do so, we analyzed the urban census of tree planting in Bogotá that the Botanical Garden made in 2007, the only set of information available and that is updated every month. The Botanical Garden refused to give us the full data even after we submitted multiple freedom of information requests filled with legal arguments. Their position was a simple one: the data was already available in their DataViz portal. Our argument: you can only download 10,000 entries and the database is made up of 1.2 million entries. It’s public data, just give it to us! Their answer: We won’t give it to you but we will improve our app so you can download 50,000 entries.
 
 Our solution? Reach out to other organizations that had helped the Botanical Garden collect the data. One of those entities was Ideca, which collects all the information related to the city’s cadastre. They gave us the whole dataset in no time. We, obviously, decided to publish it so that everyone can access it (call it our little revenge against opacity). The Botanical Garden realized this and stopped any further conversation with us, and we decided not to continue a legal battle.
 
