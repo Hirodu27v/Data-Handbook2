@@ -8,9 +8,9 @@ Written by: Maria Isabel Magaña
 植物園は、私たちが法的主張に満ちた情報公開請求を何度も提出したにもかかわらず、完全なデータを提供することを拒みました。
 彼らの立場は実にシンプルで、「すでにデータはDataVizポータルにあるじゃないか」というものです。私たちは「ダウンロードできるのは1万エントリだけで、データベースは120万エントリで構成されている。公共のデータなんだから、使えるようにしてよ」と主張しました。
 彼らの反応は「じゃあ5万エントリダウンロードできるようにアプリを改修しておきます」というものでした。
-
-
-Our solution? Reach out to other organizations that had helped the Botanical Garden collect the data. One of those entities was Ideca, which collects all the information related to the city’s cadastre. They gave us the whole dataset in no time. We, obviously, decided to publish it so that everyone can access it (call it our little revenge against opacity). The Botanical Garden realized this and stopped any further conversation with us, and we decided not to continue a legal battle.
+私たちの解決策は？植物園のデータ収集に協力してくれた他の組織に働きかけたのです。そのうちの一つが、市の土地台帳に関連するすべての情報を収集しているアイデカです。
+彼らは直ちに全データセットを提供してくれました。私たちは誰もがアクセスできるように、それを公開することにしました（これを不透明性に対する私たちの小さな復讐と呼んでいます）。
+ The Botanical Garden realized this and stopped any further conversation with us, and we decided not to continue a legal battle.
 
 In addition, we included public data from the Mayor's Office of Bogotá and the National Census, to cross-reference information that we could analyze in relation to trees. Finally, we conducted interviews with environmental experts and forestry engineers that allowed us to understand the challenges the city faces. They had done so much work and so many investigations analyzing not only the reality of arborization, but also the history behind the trees in the city. And most of this work was largely unnoticed by authorities, journalists and many others.
 
