@@ -12,14 +12,15 @@ Written by: Maria Isabel Magaña
 彼らは直ちに全データセットを提供してくれました。私たちは誰もがアクセスできるように、それを公開することにしました（これを不透明性に対する私たちの小さな復讐と呼んでいます）。
 植物園はこれに気づき、私たちとのそれ以上の論争をやめたので、私たちは法廷闘争を続けないことに決めました。
 また、ボゴタ市長室や国勢調査の公開データを盛り込み、樹木との関連で分析できる情報を相互参照できるようにしました。最後に、環境の専門家や林業従事者へのインタビューを行い、本市の課題を把握することができました。
+彼らは、緑化の実態だけでなく、街の木々の歴史を分析し、多くの調査を行っていました。 そして、そのほとんどは、当局やジャーナリスト、その他多くの人たちにはほとんど知られていませんでした。
+最終的に完成したのは、8つのデータプロジェクトで、都市の緑化計画の実態を示し、木の高さ、樹種、都市にとっての利点などの情報を含む一本一本の木をマッピングし、植樹にまつわる多くの俗説を覆し、街の歴史的な木の物語を語ったものでした。
+インタラクティブな操作を可能にするためLeaflet（地図データを扱うためのJavaScript ライブラリ）とSoundCloud（音声ファイル共有サービス）を使用し、私たちの優秀なコーダーグループがデザインを担当しました。また、StoryMapJS(地図と連動してテキストや画像をスライド表示できる無償ツール)を利用して、歴史ある街の木々を探索できるようにしました。
+私たちは、他の類似プロジェクトを調査して、どの作品がこのストーリーにとって重要であるかを見極め、デザイナーと共に素晴らしいUXエクスペリエンスを作成しました。
+これは私たちにとって初めてのビッグデータプロジェクトであり、試行錯誤と探究心に満ちたものでした。
+さらに重要なのは、市民を巻き込んで、共同で樹のカタログを作るのに協力してもらったり、マッピングした樹木に関する経験談を共有してもらったりしたことです。
 
-They had done so much work and so many investigations analyzing not only the reality of arborization, but also the history behind the trees in the city. And most of this work was largely unnoticed by authorities, journalists and many others.
 
-The final product was an eight piece data project that showed the reality of the arborization plan of the city, mapped every single tree – with information about its height, species, and benefits for the city-, debunked many myths around tree planting, and told the stories of some historical trees in town. We used Leaflet and SoundCloud for the interactive and the design was implemented by our talented group of coders. We also used the StoryMapJS to allow the users to explore the historic trees of the city.
-
-We decided how and which pieces were important for the story after researching many other similar projects and then partnered with a designer to create a nice UX experience. It was our first big data project and a lot of it involved trial and error as well as exploration.
-
-More importantly, we involved citizens by inviting them to help us build a collaborative tree catalog and to share their own stories regarding the trees we had mapped. We did so through social media, inviting them to add information about tree species to a spreadsheet. Bogotá’s residents continue to help us enrich the catalogue to this day. In addition, we shared a WhatsApp number where people could send voice notes with their stories about trees. We received almost 100 voice messages from people telling stories of trees where they had their first kiss, trees that taught them how to climb, that protected them from thieves or that were missed because they were cut down. We decided to include this audio as an extra filter in the visualization app, so users could also get to know the city’s trees through people’s stories.
+We did so through social media, inviting them to add information about tree species to a spreadsheet. Bogotá’s residents continue to help us enrich the catalogue to this day. In addition, we shared a WhatsApp number where people could send voice notes with their stories about trees. We received almost 100 voice messages from people telling stories of trees where they had their first kiss, trees that taught them how to climb, that protected them from thieves or that were missed because they were cut down. We decided to include this audio as an extra filter in the visualization app, so users could also get to know the city’s trees through people’s stories.
 
 The main article and visual was then republished by a national newspaper (both in print and online), and shared by local authorities and many citizens who wanted to tell their stories and transform the relationship people had with their environment. So far, people have used the map to investigate the city’s nature and to support their own research on the city’s trees.
 
