@@ -1,0 +1,35 @@
+From Coffee to Colonialism: Data Investigations into How the Poor Feed the Rich
+Written by: Raúl Sánchez Ximena Villagrán
+At the beginning of 2016, a small group of journalists decided to investigate the journey of a chocolate bar, banana or cup of coffee from the original plantations to their desks. Our investigation was prompted by reports that all of these products were produced in poor countries and mostly consumed in rich countries.
+
+Starting from that data we decided to ask some questions: How are labour conditions in these plantations? Is there a concentration of land ownership by a small group? What kinds of environmental damage do these products cause in these countries? So El Diario and El Faro (two digital and independent media outlets) joined forces to investigate the dark side of the agroindustry business model in developing countries.1
+
+‘Enslaved Land’ project is a one year crossborder and data-driven investigation that comes with a subheading that gets straight to the point: “This is how poor countries are used to feed rich countries”.2 In fact, colonialism is the main issue of this project. As journalists, we didn’t want to tell the story of the poor indigenous people without examining a more systemic picture. We wanted to explain how land property, corruption, organized crime, local conflicts and supply chains of certain products are still part of a system of colonialism.
+
+In this project, we investigated five crops consumed widely in Europe and the US: sugar, coffee, cocoa, banana and palm oil in Guatemala, Colombia, Ivory Coast and Honduras. As a data driven investigation, we used the data to get from pattern to story. The choice of crops and countries was made based on a previous data analysis of 68 million records of United Nations World Trade Database (Fig. 1).
+
+Figure 1: Network graph showing imports and exports of coffee in 2014.
+Figure 1: Network graph showing imports and exports of coffee in 2014.
+This investigation shows how balance of power between rich and poor countries has changed from the 15th century to present and prove that these crops are produced thanks to exploitative, slave-like conditions for workers, illegal business practices and sustained environmental damage.
+
+The focus of our stories were selected because of the data. In Honduras, the key was to use geographic information to tell the story. We compiled the land use atlas of the country and matched the surface of palm plantations with protected areas. We found that 7,000 palm oil hectares were illegally planted in protected areas of the country. As a result, our reporter could investigate the specific zones with palm plantations in protected areas. The story uses individual cases to highlight and narrate systemic abuse, such as the case of ‘Monchito’, a Honduran peasant that grows African palm in Jeannette Kawas National Park.
+
+This project isn’t only about land use. In Guatemala, we created a database of all sugar mills in the country. We dived into the local company registry to know the owners and the directors of the mills. Then we linked these people and entities with offshore companies using business public records of Panama, Virgin Islands and Bahamas. To find how they create and manage the offshore structure, El Faro had access to the Panama Papers database so we used that information to reconstruct how one of the biggest mills of the country worked with Mossack Fonseca law firm to avoid taxes.
+
+A transnational investigation that aimed to discover corruption and businesses malpractices in third world countries is a challenge. We had to work in rural areas where there is no governmental presence, and in most cases the reporting had some risks. Also, we managed with countries where there is a considerable lack of transparency, non-open data and, in some cases, public administrations that didn’t know what information they had.
+
+Honduras and Guatemala were only a part of the investigation. More than 10 people worked together to produce this material. All this work was coordinated from the offices of eldiario.es in Spain and El Faro in El Salvador working alongside journalists in Colombia, Guatemala, Honduras and Ivory Coast.
+
+This work was undertaken by not just journalists, but by editors, photographers, designers and developers who participated in the development and production process to make an integrated web product. This project would not have been possible without them.
+
+We used an integrated scrolly-telling narrative for each of the investigations. For us, the way that users read and interact with the stories is as important as the investigation itself. We chose to combine satellite images, photos, data visualizations and narrative because we wanted the reader to understand the link between the products they consumed and the farmers, companies, and other actors involved in their production.
+
+This structure allowed us to use a narrative where personal stories were as important as data analysis. For example, we told the story of John Pérez, a Colombian peasant whose land was stolen by paramilitary groups and banana corporations during the armed conflict, with a zoomable map that takes you from his plantation to the final destination of the Colombian banana production.
+
+This project showed that data journalism can enrich traditional reporting techniques to connect stories about individuals to broader social, economic and political phenomena.
+
+It was also published by Plaza Pública in Guatemala, Ciper in Chile and was included in the Guatemalan radio show ConCriterio. The latter led to a pronouncement from the Guatemalan Tax Agency asking for resources to fight against the tax fraud of sugar mills.
+
+Works Cited
+
+Sánchez et al, ‘La tierra esclava’ , April 2017.
