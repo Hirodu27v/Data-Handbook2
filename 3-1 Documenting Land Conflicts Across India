@@ -15,6 +15,13 @@ Written by: Kumar Sambhav Shrivastava Ankur Paliwal
  インドには現在進行中の土地紛争に関するそのようなデータベースはありませんでした。そこで、私たちはデータベースを構築することにしました。
  2016年11月には、インドで進行中のすべての土地紛争をマッピングし、文書による記録を目的とした、調査ベースのデータジャーナリズムプロジェクト「Land Conflict Watch」に着手しました。
  私たちは、土地統治を専門とする学者と相談しながら、文書による記録の方法論を開発しました。全国の研究者やジャーナリストのネットワークをまとめ、この方法論に沿って、それぞれの地域の紛争を記録しました。
+このプロジェクトでは、土地の使用や所有権をめぐって対立する要求や主張があり、コミュニティが当事者の一人となっている状況を土地紛争と定義しました。
+村レベルから国レベルまで、あらゆる場所でそのような要求や主張が、すでに文書や音、映像で記録されている継続的な紛争も対象です。
+これらの記録には、ニュース報道、村議会の決議、開発プロジェクトの協議記録、人々が政府当局に提出した苦情、警察の記録、裁判所の文書などがあります。
+民間人同士の財産紛争や民間人と政府との間の訴訟などは、より広範な国民に直接影響を与えるものでない限り除外しました。
+研究者とジャーナリストは、自分たちの地域に関する全国および地元のメディアの報道を追跡し、地元の活動家、コミュニティ、弁護士と交流して紛争の事例を見つけ出します。
+そして、公開されている政府の文書や独立した調査、影響を受けた当事者への聞き取り調査などから情報を収集し、検証します。
+紛争の場所、紛争の背景にある理由、影響を受けた人々の数、影響を受けた地域、土地の種類（私有地、共有地、森林など）、関係する政府機関や企業の名前、紛争の概要などのデータを記録します。
 
 
 
@@ -27,10 +34,6 @@ Written by: Kumar Sambhav Shrivastava Ankur Paliwal
 
 
 
-
-For the purpose of this project, we defined land conflict as any situation that has conflicting demands or claims over the use or ownership of land, and where communities are one of the contesting parties. Ongoing conflicts where such demands or claims have already been recorded in a written or audio-visual format at any place, from the village level to the national level, are included. These records could be news reports, village assembly resolutions, records of public consultation for development projects, complaints submitted by people to government authorities, police records or court documents. Conflicts such as the property disputes between two private parties or between a private party and the government are excluded unless they directly affect broader publics.
-
-The researchers and journalists track national and local media coverage about their regions and interact with local activists, community organisations and lawyers to find cases of conflicts. They then collect and verify information from publicly-available government documents, independent studies, and by talking to affected parties. Data such as location of conflict, reasons behind the conflicts, number of affected people, affected area, land type – whether private, common or forest –names of the government and corporate agencies involved and a narrative summary of the conflict are documented.
 
 Researchers file all the data into reporting-and-review software built into the Land Conflict Watch website. Data is examined and verified by dedicated reviewers. The software allows to-and-fro work flow between the researchers and the reviewers before the data is published. The dashboard, on the portal, not only presents the macro picture of the ongoing conflicts at national level but zooms in to give details of each conflicts, along with the supporting documents to back data, at the micro level. It also provides the approximate location of the conflict on the interactive map.
 
