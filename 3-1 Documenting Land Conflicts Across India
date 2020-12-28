@@ -22,6 +22,11 @@ Written by: Kumar Sambhav Shrivastava Ankur Paliwal
 研究者とジャーナリストは、自分たちの地域に関する全国および地元のメディアの報道を追跡し、地元の活動家、コミュニティ、弁護士と交流して紛争の事例を見つけ出します。
 そして、公開されている政府の文書や独立した調査、影響を受けた当事者への聞き取り調査などから情報を収集し、検証します。
 紛争の場所、紛争の背景にある理由、影響を受けた人々の数、影響を受けた地域、土地の種類（私有地、共有地、森林など）、関係する政府機関や企業の名前、紛争の概要などのデータを記録します。
+調査員は、すべてのデータを土地紛争ウォッチのウェブサイトに組み込まれたレポート・レビュー・ソフトウェアにファイルします。データは専任のレビュアーによって調査・検証されることになっています。
+データが公開される前に、研究者と査読者との間で双方向の作業を行うために、このソフトウェアは役立っています。
+ポータル上のダッシュボードでは、国全体を表示し、進行中の地域の紛争を示すとともに、それぞれの紛争の詳細とデータを裏付ける資料を提供するズームイン機能もあります。また、インタラクティブな地図上に紛争のおおよその位置を表示しています。
+現在、約35名のジャーナリストや研究者が寄稿しており、2018年9月時点で、640件以上を記録しています。
+これらの紛争は730万人近くに影響を与え、240万ヘクタール以上の土地にまたがっています。影響を受けたプロジェクトやスキームには、1860億米ドル相当の投資が行われています。
 
 
 
@@ -32,12 +37,6 @@ Written by: Kumar Sambhav Shrivastava Ankur Paliwal
 
 
 
-
-
-
-Researchers file all the data into reporting-and-review software built into the Land Conflict Watch website. Data is examined and verified by dedicated reviewers. The software allows to-and-fro work flow between the researchers and the reviewers before the data is published. The dashboard, on the portal, not only presents the macro picture of the ongoing conflicts at national level but zooms in to give details of each conflicts, along with the supporting documents to back data, at the micro level. It also provides the approximate location of the conflict on the interactive map.
-
-About 35 journalists and researchers are currently contributing. As of September 2018, the project had documented over 640 cases. These conflicts affect close to 7.3 million people and span over 2.4 million hectares of land. Investments worth $186 billion USD are attached to projects and schemes affected by these conflicts.
 
 As a conflict is documented, it is profiled on the portal as well as on social media to give heads-up to national journalists and researchers. The project team then collaborates with journalists to create in-depth, investigative stories at the intersection of land rights, land conflicts, politics, economy, class, gender and the environment using this data. We also collaborate with national and international media to get these stories published. Many of these stories have been republished by other mainstream media outlets. We have also conducted trainings of journalists on the use of the database in finding and scaling up stories around land governance.
 
