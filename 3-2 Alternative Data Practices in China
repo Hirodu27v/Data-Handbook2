@@ -1,10 +1,16 @@
-Alternative Data Practices in China
+中国における代替データ実践
 Written by: Jinxin Ma
-A couple of years ago, I delivered a presentation introducing data journalism in China at the Google News Summit, organized by Google News Lab. It was a beautiful winter day in the heart of the Silicon Valley, and the audience was a full room of a hundred or so senior media professionals mostly from western countries. I started by asking them to raise their hands if they think, firstly, if there is no good data in China, and secondly, if there is no real journalism in China. Both questions got quite some hands up, along with some laughters.
+数年前、私はGoogle News Labが主催するGoogle News Summitで中国のデータ・ジャーナリズムを紹介するプレゼンテーションを行いました。
+美しい冬の日で、シリコンバレーの中心部にある会場は、欧米諸国のメディア関係者を中心とした100人ほどの先輩方で埋め尽くされていました。
+私は、まず第一に、中国には良いデータがないと思うかどうか、第二に、中国には本当のジャーナリズムがないと思うかどうか、手を挙げてもらうことから始めました。どちらの質問にも結構な数の手が挙がり、笑いを誘いました。
+これは、国際的なジャーナリズム会議に出席したり、講演したりする際に、偏見ではないにしても、よく出くわす二つのコメントです。
+この6年間、私が観察したところでは、中国にはデータがないのではなく、膨大な量のデータが存在し、日々蓄積されており、その質は向上しています。
+真のジャーナリズムがないとはいえず、毎日多くのジャーナリストが印象的な記事を書いています。しかしながら、そのすべてが日の目を見るわけではありません。
+課題解決型のデータ作成
 
-These are two common comments, if not bias, that I encounter often when I attend or speak at international journalism conferences. From my observation in the past six years, instead of having no data, there are huge amounts of data existing and being accumulated every day in China, and its quality is improving. Instead of having no real journalism, there are many journalists producing impressive stories every day, though not all of them ultimately get published.
 
-Issue-driven Data Creation
+
+
 
 Even before the term “data journalism” was introduced to China, data stories existed. While nowadays we normally use the term “data-driven stories” in China, there was a period when we see the contrary: instead of having data driving stories, we witnessed stories, or particular issues, driving the production of data. These are always issues that resonate with regular citizens, such as the air pollution.
 
