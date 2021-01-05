@@ -10,12 +10,12 @@ Written by: Jinxin Ma
 中国に「データ・ジャーナリズム」という言葉が導入される前から、データ・ストーリーは存在していました。
 現在、中国では「データ駆動型ストーリー」という言葉が普通に使われていますが、データがストーリーを導くのではなく、ストーリー、つまり特定の問題がデータの生成を促していた時期がありました。それは、大気汚染のような一般市民の心に響く問題です。
 生態環境部は2010年からリアルタイムの大気汚染指数を発表していますが、重要な数値が一つ欠けていました。PM2.5、つまり人体に不可逆的な害をもたらす直径2.5マイクロメートル以下の汚染物質は公表されていなかったのです。
+大気汚染の深刻さとPM2.5の公式データの不足を受けて、2011年11月、「我为祖国测空气」という全国的なキャンペーンが開始されました。
+このキャンペーンは、環境保護のNPOが始めたもので、市民から資金を集めて検査機器を調達し、興味のあるボランティアにはトレーニングを提供しました。
+その中には、中国で最も広く利用されているソーシャルメディアの一つである新浪微博で700万人以上のフォロワーを持つ有名なビジネスリーダー、潘石屹氏も含まれています。
+2012年1月から２年間のキャンペーンの後、PM2.5のデータは最終的に政府のデータリリースに盛り込まれました。幸先の良いスタートでしたが、課題も残りました。
+現地の米大使館が発表したデータとの食い違いがすぐ明らかになり、データの正確性と説明責任に疑問が投げかけられたのです。
 
-
-
-In the wake of the seriousness of air pollution and lack of official data of PM2.5, a nationwide campaign started in November 2011 called I test the air for the motherland, advocating for every citizen to contribute to monitoring air quality and publishing results to social media platforms.2 The campaign was initiated by an environmental non-profit, with testing equipment crowd-funded from citizens, and they also provided training to interested volunteers. The movement was widely spread after a few online influencers joined forces, including Pan Shiyi, a well-known business leader, who then had more than 7 million followers on Sina Weibo, one of China’s most widely used social media platforms.3
-
-After two years of public campaigning, starting from January 2012, the data of PM2.5 was finally included in the government data release. It was a good start, but challenges remained. There was immediately observation on the discrepancies with the data released by the U.S. Embassy there, which brough doubts regarding the accuracy and accountability of the data.4
 
 In terms of functionality, it was also not journalist-friendly. Despite hourly updates of the data from more than 100 cities, the information is only provided on a rolling basis on the webpage, but not downloadable as a dataset in any format. Though data has been centralized, historical data is not accessible for the public. In other words, without being able to write a script to scrape the data every hour and save it locally, it is impossible to do any analysis of trends over time or undertake comparisons between cities.
 
