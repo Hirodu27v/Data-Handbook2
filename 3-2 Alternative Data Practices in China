@@ -15,11 +15,12 @@ Written by: Jinxin Ma
 その中には、中国で最も広く利用されているソーシャルメディアの一つである新浪微博で700万人以上のフォロワーを持つ有名なビジネスリーダー、潘石屹氏も含まれています。
 2012年1月から２年間のキャンペーンの後、PM2.5のデータは最終的に政府のデータリリースに盛り込まれました。幸先の良いスタートでしたが、課題も残りました。
 現地の米大使館が発表したデータとの食い違いがすぐ明らかになり、データの正確性と説明責任に疑問が投げかけられたのです。
+また、機能面でもジャーナリストには使いにくいものでした。100以上の都市のデータが1時間ごとに更新されるにもかかわらず、その情報はウェブページ上で随時更新されるだけで、データセットとしてダウンロードすることはできません。
+さらに、データは一元化されているが、過去のデータは一般には公開されていませんでした。
+1時間ごとにデータをスクレイピングしてローカルに保存するスクリプトを書くことができなければ、経時的な傾向の分析や都市間の比較を行うことができない状態だったのです。
+しかし、話はこれで終わりではありません。課題解決型のデータ生成は継続しています。
+データがうまく構造化されていなかったり、ユーザーフレンドリーなフォーマットではなかったり、データ・ジャーナリストが限られた技術力で苦労したりしているときは、市民やテックギークが手助けしてくれることがあります。
 
-
-In terms of functionality, it was also not journalist-friendly. Despite hourly updates of the data from more than 100 cities, the information is only provided on a rolling basis on the webpage, but not downloadable as a dataset in any format. Though data has been centralized, historical data is not accessible for the public. In other words, without being able to write a script to scrape the data every hour and save it locally, it is impossible to do any analysis of trends over time or undertake comparisons between cities.
-
-That was not the end of the story. Issue-driven data generation continues. When the data is not well structured or in a user-friendly format, and when data journalists struggle with limited technical skills, civil society or tech geeks can come in to provide support.
 
 One early example back in 2011 was PM25.in, which scrapes air pollution data and releases it in a clean format. The site claims to have more than 1 billion search queries since they started operating.5 Another example is Qing Yue, a non-governmental organization which collects and cleans environmental data from government websites at all levels, and then releases it to the public in user-friendly formats. Their processed data turns out to be widely used by not only data teams in established media outlets but also government agencies themselves for better policy making.
 
