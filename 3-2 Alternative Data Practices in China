@@ -20,11 +20,16 @@ Written by: Jinxin Ma
 1時間ごとにデータをスクレイピングしてローカルに保存するスクリプトを書くことができなければ、経時的な傾向の分析や都市間の比較を行うことができない状態だったのです。
 しかし、話はこれで終わりではありません。課題解決型のデータ生成は継続しています。
 データがうまく構造化されていなかったり、ユーザーフレンドリーなフォーマットではなかったり、データ・ジャーナリストが限られた技術力で苦労したりしているときは、市民やテックギークが手助けしてくれることがあります。
+初期、すなわち2011年の例として、大気汚染データをスクレーピングしてクリーンな形式で公開しているPM25.inを紹介します。
+もう一つの例である非政府組織のQing Yueは、政府のウェブサイトから環境データを収集、クリーニングし、ユーザーが使いやすい形式で一般に公開しています。
+処理されたデータは、メディアのデータチームだけでなく、政府機関もより良い政策立案のために広く利用しています。
+データの生成と、特定の問題に対する意識の高まりが連携し、2015年、深刻な大気汚染を調査したドキュメンタリーが全国を席巻しました。
+自主制作映画「穹頂之下」は、全国の有害スモッグの環境危機を暴露し、問題の根源と責任を負う様々な当事者を追求しました。
+この映画は、スタイルとインパクトの両面で、アル・ゴアの『不都合な真実』と比肩するものです。
+ストーリーテリングの面では、多くの科学的データ、分析に基づき、長年の傾向を説明するためのチャート、環境とエネルギー産業内の腐敗のソーシャルネットワークを可視化しました。
+オンラインで公開されるとすぐに、この映画は口コミで拡散され、3日以内に2億回のヒットを記録しましたが、1週間以内に検閲されて削除されました。
+しかし、この映画は、大気汚染データへのアクセスと品質など、この問題に対する国民の意識を高め、国民的な議論に火をつけることに成功。国の指導者たちにこの問題の重要性を認識させることに成功しました。
 
-
-One early example back in 2011 was PM25.in, which scrapes air pollution data and releases it in a clean format. The site claims to have more than 1 billion search queries since they started operating.5 Another example is Qing Yue, a non-governmental organization which collects and cleans environmental data from government websites at all levels, and then releases it to the public in user-friendly formats. Their processed data turns out to be widely used by not only data teams in established media outlets but also government agencies themselves for better policy making.
-
-The generation of data and the rising awareness around certain issues have gone hand in hand. In 2015, a documentary investigating the serious air pollution took the country by storm. The self-funded film, entitled Under the Dome, exposed the environmental crisis of noxious smog across the country, and then traced after the roots of the problem and the various parties responsible.6 The film has been compared with Al Gore's An Inconvenient Truth in both style and impact. In the storytelling, it presented lots of scientific data, charts to show analysis and explain the trends over the years, as well as a social network visualizations of corruption within environment and energy industries. As soon as it was released online, the film went viral and reached 200 million hits within 3 days, before it was censored and taken down within a week. But it had successfully raised public awareness and ignited a national debate on the issue, including around the accessibility and quality of air pollution data, and it has successfully made the country’s leadership aware of the significance of the issue.
 
 Two weeks after the release of the documentary, at the press conference the National People’s Congress, addressing a question about air pollution which referred to the film, Premier Li Keqiang admitted that the government was failing to satisfy public demands to halt pollution, acknowledged some of the problems raised by the documentary, including lax enforcement of pollution restrictions, and emphasized that the government would impose heavier punishments to cut the toxic smog.7 At the end of August 2015, the new Air Pollution Prevention and Control Law was released, and was implemented Jan 2016.8
 
