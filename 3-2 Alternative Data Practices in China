@@ -35,11 +35,13 @@ Written by: Jinxin Ma
 より確立されたシステムにおいては、データはより容易に入手可能で使いやすくなり、ジャーナリストの仕事は、取り込んだデータを基に記事を書くという、より単純なものになります。
 中国では、そのプロセスは直線的ではなく、市民、政府、民間組織、メディアの力学はよりインタラクティブなものになっています。データは、単にストーリーの出発点としての役割を果たすだけでなく、後の段階でその姿を浮かび上がらせることができ、ジャーナリストと一般市民との間の新しい種類の関係をはぐくんでいます。
 
-Evolving Data Culture
-
-The data environment in China has been changing rapidly in the past decade, partly driven by the dynamics described above, and partly due to other factors such as the global open data movement, rapidly growing internet companies, surprisingly high mobile penetration rate, etc. Data culture has been evolving around these trends as well.
-
-Government legislation provides the policy backbone for data availability. To the surprise of many, China does have laws around Freedom of Information. The State Council Regulations on the Disclosure of Government Information was adopted in 2007 and came into force on May 1, 2008, which has a disclosure mandate and affirms a commitment on government transparency. Following the regulation, government agencies at all levels started dedicated web pages to disclose the information they have, including data. However, even though it gave journalists the right to request certain data or information from the authorities, in the first three years since the law enforcement, there is no publicly known cases of any media or journalists requesting data disclosure, according to a study in 2011 published by Caixin media.9 The study revealed that, in 2010, the Southern Weekly, a leading newspaper, sent a testing request to 29 environmental bureau for certain information disclosure only got a 44% response rate, and within media organizations there is normally no supporting system such as a legal team that could help the journalists push their demands further. One journalist who, in his personal capacity, actually took the government to the court for not disclosing information, ended up losing his job. The difficulties and risks that Chinese journalists encounter when leveraging legal tools can be much greater than their western peers.
+進化するデータ文化
+中国のデータ環境はこの10年間で急速に変化していますが、その背景には上記のようなダイナミクスもありますし、グローバルなオープンデータ運動、インターネット企業の急成長、モバイル普及率の驚くべき高さなどの他の要因もあります。データ文化もまた、これらの動向を中心に進化してきました。
+政府の法律は、データの入手可能性に関する政策のバックボーンを提供しています。多くの人が驚きますが、中国には情報の自由に関する法律があります。
+国務院により「政府情報公開条例」が 2007 年に採択され、2008 年 5 月 1 日に施行されました。この条例にのっとり、各レベルの政府機関は、データを含む保有する情報を開示するための専用のウェブページを開設しました。
+しかし、財新が2011年に発表した調査によると、特定のデータや情報を要求する権利を与えられたにもかかわらず、法が施行されてから最初の３年間に、メディアやジャーナリストがデータ開示を要求した事例は確認されていません。
+2010年に大手新聞社南方週末が29の環境局に試験的に情報開示を求めたところ、回答率はわずか44%で、メディア組織内には通常、ジャーナリストの要求を実現するための法的チームのような支援システムは存在しないことが明らかになりました。
+あるジャーナリストは、情報を開示しなかったことで政府を提訴し、結局は職を失うことになったのです。中国のジャーナリストが法的手段を利用する際に直面する困難とリスクは、欧米のジャーナリストよりもはるかに大きいと言えるでしょう。
 
 In the wake of the global open data movement and increasing interest in big data, China was also reacting to these trends. In 2012, both Shanghai and Beijing launched their own open data portals, each with hundreds of datasets, around areas such as land usage, transportation, education, pollution monitoring, etc. In the following years, more than a dozen open data portals have been set up, not only in the biggest cities, but also in local districts and less developed provinces. The development was rather bottom-up, without standard template or structure for data release at the local level, which made the data collection at the user end not much easier. By 2015, the State Council has released the Big Data Development Action Plan, where open data was officially recognized as one of the ten key national projects, and a concrete timeline for opening government data was presented.10 However, the official data is not always where journalists start, and also not always aligned with public interests and concerns.
 
