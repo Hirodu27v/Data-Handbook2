@@ -42,10 +42,13 @@ Written by: Jinxin Ma
 しかし、財新が2011年に発表した調査によると、特定のデータや情報を要求する権利を与えられたにもかかわらず、法が施行されてから最初の３年間に、メディアやジャーナリストがデータ開示を要求した事例は確認されていません。
 2010年に大手新聞社南方週末が29の環境局に試験的に情報開示を求めたところ、回答率はわずか44%で、メディア組織内には通常、ジャーナリストの要求を実現するための法的チームのような支援システムは存在しないことが明らかになりました。
 あるジャーナリストは、情報を開示しなかったことで政府を提訴し、結局は職を失うことになったのです。中国のジャーナリストが法的手段を利用する際に直面する困難とリスクは、欧米のジャーナリストよりもはるかに大きいと言えるでしょう。
-
-In the wake of the global open data movement and increasing interest in big data, China was also reacting to these trends. In 2012, both Shanghai and Beijing launched their own open data portals, each with hundreds of datasets, around areas such as land usage, transportation, education, pollution monitoring, etc. In the following years, more than a dozen open data portals have been set up, not only in the biggest cities, but also in local districts and less developed provinces. The development was rather bottom-up, without standard template or structure for data release at the local level, which made the data collection at the user end not much easier. By 2015, the State Council has released the Big Data Development Action Plan, where open data was officially recognized as one of the ten key national projects, and a concrete timeline for opening government data was presented.10 However, the official data is not always where journalists start, and also not always aligned with public interests and concerns.
-
-On the other hand, the private sector, especially the technology giants such as Alibaba or Tencent, have over the years accumulated huge amount of data. According to its latest official results, Alibaba’s annual active consumers have reached 601 million by September 30, 2018.11 The e-commerce data from such a strong user base – equivalent to the entire Southeast Asian population – can reveal lots of trading trends, demographic shifts, urban migration directions, consumer habit changes, etc. There are also vertical review sites where more specific data is available, such as Dianping, the China equivalent of Yelp. Despite concerns around privacy and security, if used properly, those platforms provide rich resources for data journalists to mine.
+世界的なオープンデータの取り組みとビッグデータへの関心の高まりを受けて、中国も対応しています。
+2012年には、上海と北京の両都市が、土地利用、交通、教育、公害監視などの分野で、それぞれ数百のデータセットを持つ独自のオープンデータポータルを立ち上げました。
+その後数年の間に、大都市だけでなく、地方や発展途上の省にも10以上のオープンデータポータルが開設されました。
+開発はどちらかというとボトムアップ型で、地方レベルでデータを公開するための標準的なテンプレートや構造がないため、ユーザー側でのデータ収集は容易ではありませんでした。
+2015年には国務院が「ビッグデータ開発行動計画」を発表し、オープンデータが国家10大重点プロジェクトの一つとして正式に認められ、政府のデータをオープンにする具体的なタイムラインが提示されました。
+しかし、公式データはジャーナリストの出発点になるとは限らず、公共の利益や関心事と必ずしも一致しているとは限りません。
+一方、民間企業、特にアリババやテンセントなどのテクノロジー大手は、長年にわたって膨大なデータを蓄積してきた。最新の公式結果によると、アリババの年間アクティブ消費者数は2018年9月30日までに6億100万人に達している。東南アジアの全人口に相当する、このような強力なユーザーベースからのeコマースデータからは、取引傾向、人口動態の変化、都市部の移動方向、消費者の習慣の変化などを多く知ることができます。また、中国のYelpに相当するDianpingのように、より具体的なデータが利用可能なレビューサイトもあります。プライバシーやセキュリティに関する懸念はあるものの、適切に使用されれば、これらのプラットフォームはデータジャーナリストが採掘するための豊富なリソースを提供してくれます。
 
 One outstanding example in leveraging the big data is the Rising Lab, a team under the Shanghai Media Group, specializing on data stories about urban life.12 The set-up of the Lab was an answer to the emerging trend of urbanization: China has more than 600 cities now, compared to 193 in 1978, with 56% of the population living in urban areas, according to a government report in 2016.13 Shifting together with the rapid urbanization is rise of internet and mobile use, as well as lifestyle changes such as the rapid adoption of sharing economy models. These trends are having a big impact on data aggregation.
 
