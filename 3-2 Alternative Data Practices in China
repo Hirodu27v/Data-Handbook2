@@ -48,11 +48,18 @@ Written by: Jinxin Ma
 開発はどちらかというとボトムアップ型で、地方レベルでデータを公開するための標準的なテンプレートや構造がないため、ユーザー側でのデータ収集は容易ではありませんでした。
 2015年には国務院が「ビッグデータ開発行動計画」を発表し、オープンデータが国家10大重点プロジェクトの一つとして正式に認められ、政府のデータをオープンにする具体的なタイムラインが提示されました。
 しかし、公式データはジャーナリストの出発点になるとは限らず、公共の利益や関心事と必ずしも一致しているとは限りません。
-一方、民間企業、特にアリババやテンセントなどのテクノロジー大手は、長年にわたって膨大なデータを蓄積してきた。最新の公式結果によると、アリババの年間アクティブ消費者数は2018年9月30日までに6億100万人に達している。東南アジアの全人口に相当する、このような強力なユーザーベースからのeコマースデータからは、取引傾向、人口動態の変化、都市部の移動方向、消費者の習慣の変化などを多く知ることができます。また、中国のYelpに相当するDianpingのように、より具体的なデータが利用可能なレビューサイトもあります。プライバシーやセキュリティに関する懸念はあるものの、適切に使用されれば、これらのプラットフォームはデータジャーナリストが採掘するための豊富なリソースを提供してくれます。
+一方、民間企業、特にアリババやテンセントなどのテクノロジー大手は、長年にわたって膨大なデータを蓄積しています。
+最新の公式発表によれば、アリババの年間アクティブ消費者数は2018年9月30日までに6億100万人に達しました。
+東南アジアの全人口に相当する、このような強力なユーザーベースからのeコマースデータからは、取引傾向、人口動態の変化、都市部における移動、消費者の習慣の変化などを多く知ることができます。
+また、中国にはYelpに相当する大衆点評のように、より詳細なデータを利用できるレビューサイトもあります。
+プライバシーやセキュリティに関する懸念はあるものの、適切に使用されれば、これらのプラットフォームはデータ・ジャーナリストに豊富なリソースを提供してくれます。
+ビッグデータ活用の優れた例として、上海メディアグループの下で都市生活に関するデータストーリーを専門とするチーム「Rising Lab」を挙げたいと思います。
+同ラボの設立は、都市化という新たなトレンドに対応したものでした。2016年の政府報告書によると、中国には1978年時点で193都市があったのに対し、現在は600以上の都市があり、人口の56％が都市部に住んでいます。
+同ラボは、テック企業とのパートナーシップ契約や技術支援のもと、都市生活者がよく利用するウェブサイトやアプリから、（不動産）物件の価格、コーヒーショップやバーの数、コワーキングスペースの数、公共交通機関の利用のしやすさなど、都市生活のさまざまな側面を反映したデータを収集しました。
+独自の手法を駆使して、商業的な魅力、イノベーションのレベル、生活の多様性など、さまざまな側面から都市のランキングを作成しています。
+ランキングとストーリーは、入手可能な新しいデータに基づいて毎年更新されますが、一貫性を確保するために同じ方法論に基づいています。
+ラボのディレクターである沈从乐氏によると、このコンセプトとストーリーは好評を博しており、都市計画政策や企業のビジネス上の意思決定に影響を与え始めている。
 
-One outstanding example in leveraging the big data is the Rising Lab, a team under the Shanghai Media Group, specializing on data stories about urban life.12 The set-up of the Lab was an answer to the emerging trend of urbanization: China has more than 600 cities now, compared to 193 in 1978, with 56% of the population living in urban areas, according to a government report in 2016.13 Shifting together with the rapid urbanization is rise of internet and mobile use, as well as lifestyle changes such as the rapid adoption of sharing economy models. These trends are having a big impact on data aggregation.
-
-With partnership agreements and technical support from tech companies, the Lab collected data from frequently-used websites and apps by city dwellers, such as property price, number of coffee shops and bars, number of co-working spaces or easiness of public transportation, etc. reflecting various aspects of urban life. Coupled with its original methodology, the Lab has produced a series of city rankings on different aspects, such as commercial attractiveness, level of innovation, diversity of life, etc. The rankings and the stories are updated every year based on new data available but following the same methodology to ensure consistency. The concept and stories have been well received and even starting to influence urban planning policies and company’s business decisions, according to SHEN Congle, Director of the Lab.
 
 The Lab’s success illustrated the new dynamics emerging between data providers, journalists, and citizens. It shows how softer topics also become a playground for data journalism, along side of the other pressing issues such as environmental crisis, corruption, judicial injustice, public health and money laundering. It also explores new potential business models for data journalism, as well as how data-based products can bring value to governments and businesses.
 
