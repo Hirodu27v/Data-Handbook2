@@ -77,14 +77,14 @@ Written by: Jinxin Ma
 ここでは、特に中国関連のストーリーを報じたいと考えている人、どこから手を付けようか悩んでいる人に向けた内容になっています。
 それは簡単なことではありません。ほとんどのデータソースは中国語でしか入手できないため、まず言語の壁があるでしょう。
 次に、データの正確性や完全性、不整合などの問題があります。これらの問題を発見し、それに対処するためのすべての適切なスキルを持っていると仮定してみましょう。
+まず、最大手は誰でしょう？あまたの大手メディアがデータチームを立ち上げていますが、彼らのストーリーを追いかけ、記者に話を聞いてヒントを得るのもいいでしょう。
+ここでは、あなたが知っておくべきもののうちいくつかをご紹介します。
+財新、Data Visualization Lab；
+澎湃新聞、, Beautiful Data Channel;
+上海メディアグループ, The Rising Lab;
+DT Finance
+第二に、どこでデータを見つけることができるのでしょう？包括的なリストは別のハンドブックになりますので、ここではいくつかの提案を紹介します。
 
-First of all, who are the biggest players? Quite a number of the leading media outlets have established data teams, and it is good to follow their stories and talk to their reporters for tips. Here are a few ones you should know:
-
-Caixin Media, Data Visualization Lab;17
-The Paper, Beautiful Data Channel18;
-Shanghai Media Group, The Rising Lab;19
-DT Finance.20
-Secondly, where to find the data? A comprehensive list would be a separate handbook so here are just a few suggestions to get started:
 
 Start with government websites, both central ministries and local agencies. You would need to know which department is the right one(s) for the data you are looking for, and you should check both the thematic areas of ministries (for example the Ministry of Environmental Protection) and the dedicated data website at the local level if it exists.
 There will be data that you don’t even expect - for example, would you expect that the Chinese government publicized millions of court judgements after 2014 in full text? Legal documents are relatively transparent in the U.S. but not in China. But the Supreme People’s Court (SPC) started a database called China Judgments Online just doing that.
