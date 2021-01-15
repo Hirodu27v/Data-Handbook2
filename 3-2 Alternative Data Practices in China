@@ -78,16 +78,18 @@ Written by: Jinxin Ma
 ここでは、特に中国関連のストーリーを報じたいと考えている人、どこから手を付けようか悩んでいる人に向けた内容になっています。
 それは簡単なことではありません。ほとんどのデータソースは中国語でしか入手できないため、まず言語の壁があるでしょう。
 次に、データの正確性や完全性、不整合などの問題があります。これらの問題を発見し、それに対処するためのすべての適切なスキルを持っていると仮定してみましょう。
-まず、最大手は誰でしょう？あまたの大手メディアがデータチームを立ち上げていますが、彼らのストーリーを追いかけ、記者に話を聞いてヒントを得るのもいいでしょう。
+まず、最大手は誰か（を見極めましょう）。あまたの大手メディアがデータチームを立ち上げていますが、彼らのストーリーを追いかけ、記者に話を聞いてヒントを得るのもいいでしょう。
 ここでは、あなたが知っておくべきもののうちいくつかをご紹介します。
 財新、Data Visualization Lab；
 澎湃新聞、, Beautiful Data Channel;
 上海メディアグループ, The Rising Lab;
 DT Finance
-第二に、どこでデータを見つけることができるのでしょう？包括的なリストは別のハンドブックになりますので、ここではいくつかの提案を紹介します。
+第二に、どこでデータを見つけることができるのか（知りましょう）。包括的なリストは別のハンドブックにありますので、ここではいくつか紹介するだけにとどめます。
+中央省庁と地方機関のウェブサイトから始めましょう。各省庁のテーマ別分野（例えば、生態環境部）と地方レベルのデータ専用サイトがあれば、その両方をチェックする必要があります。
+想定外のデータが出てくるでしょう-例えば、中国政府が2014年以降の数百万件の裁判判決を全文公開したことをご存じですか？
+法的文書は米国では比較的透明性が高いが、中国ではそうではありません。しかし、最高人民法院（SPC）は「China Judggments Online」というデータベースを立ち上げた。
 
 
-Start with government websites, both central ministries and local agencies. You would need to know which department is the right one(s) for the data you are looking for, and you should check both the thematic areas of ministries (for example the Ministry of Environmental Protection) and the dedicated data website at the local level if it exists.
 There will be data that you don’t even expect - for example, would you expect that the Chinese government publicized millions of court judgements after 2014 in full text? Legal documents are relatively transparent in the U.S. but not in China. But the Supreme People’s Court (SPC) started a database called China Judgments Online just doing that.
 Once you find some data that could be useful online, make sure you download a local copy.
 Sometimes the data is not available online. It is still common. Sometimes they are in the form of a government annual report published and you could order online, sometimes they are only available in paper archives behind certain offices. For example certain government agencies have the records of private companies but not all available online.
