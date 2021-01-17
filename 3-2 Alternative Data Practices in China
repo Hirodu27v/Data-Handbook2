@@ -91,10 +91,12 @@ DT Finance
 オンラインで役立ちそうなデータを見つけたら、ローカルコピーをダウンロードするようにしましょう。
 ネット上にデータが出てこないこともあります。それはまだよくあることです。時にはそうしたデータは政府の年次報告書の形で公開されており、オンラインで閲覧できます。
 特定のオフィスが所蔵する紙のアーカイブでのみ利用可能なデータもあります。例えば、特定の政府機関は、民間企業に関する記録を持っていますが、全てオンラインで利用可能だとは限りません。
+行政が公開しているデータが全くない場合は、ユーザー作成コンテンツが利用できるかどうかを確認しましょう。
+例えば、公衆衛生のデータは非常に限られていますが、病院登録や高齢者センターなどの専用サイトがあります。
+それらのデータをスクレイピングしてクリーニングしておけば、そのトピックの概要を把握するための貴重なデータが手に入るはずです。
+Hong Kong Companies Registryのような公式データベースから、Webb-site Reportsといった独立のデータベースまで、香港のデータベースを活用しましょう。
+中国本土と香港が政治的にも経済的にも緊密になってきており、透明性の高い環境と法執行が担保されているため、香港ではより多くの情報が入手できるようになりました。これは資金を追跡するのに役立つかもしれません。
 
-
-If the data is not at all released by government, check if any user-generated contents available. For example, the data of public health is very limited, but there are dedicated websites for hospital registration, or elderly centres, among others. If you could scrape and clean up the data, you would have valuable data to have a good overview of the topic.
-Utilize databases in Hong Kong – from official ones like Hong Kong Companies Registry to independent ones such as Webb-site Reports. As mainland China and Hong Kong becoming politically and financially closer, more information is available there thanks to Hong Kong’s transparent environment and legal enforcement, which may be valuable for tracing money.
 There is data about China but not necessarily in China. There are international organizations or academic institutions that have rich China-related data. For example, The Paper used data from NASA and Harvard in one of its latest stories
 Last but not least, while some of the challenges and experience are unique to China, lot of them could potentially provide some useful lessons for other countries, where the social, cultural and political arrangements have a different shape but similar constraints.
 
