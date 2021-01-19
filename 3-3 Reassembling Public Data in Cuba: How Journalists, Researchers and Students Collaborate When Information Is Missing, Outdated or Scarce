@@ -1,7 +1,10 @@
+キューバの公共データを再構築する：情報が欠落していたり、古くなっていたり、不足している場合に、ジャーナリスト、研究者、学生がどのように協力しているか
 written by: Yudivián Almeida Cruz Saimi Reyes Carmona
-Postada.club is a small team. At the beginning, we were four journalists and a specialist in mathematics and computer science, who decided in 2014 to venture together into data journalism in Cuba. We also wanted to investigate the issues related to that practice. In Cuba, until that moment, there was no media outlet that was explicitly dedicated to data journalism. Postdata.club was the first.
-
-Right now we are two journalists and a data scientist working in our free time in Postdata.club. In none of our jobs we directly perform data journalism, because Saimi Reyes is editor of a culture related website, Yudivián Almeida is a professor of the School of Math and Computer Science at the University of Havana and Ernesto Guerra is journalist in a magazine about popular science and technology. Our purpose is to be more than a media organization, an experimental space where we want to explore and learn about the nation we live in with and through data.
+Postada.clubは小さなチームです。当初、私たちはジャーナリストと数学とコンピュータサイエンスの専門家からなる４人で、2014年にキューバのデータジャーナリズムに挑戦を始めました。
+また、その実践に関連した問題点を調査したいと考えていました。当時のキューバでは、データジャーナリズムに明示的に特化したメディアはありませんでした。Postdata.clubが最初だったのです。
+現在、私たちは2人のジャーナリストと1人のデータサイエンティストで、自由時間をPostdata.clubに充てています。
+サイミ・レイエスは文化関連のウェブサイトの編集者、ユディビアン・アルメイダはハバナ大学数学・コンピュータサイエンス学部の教授、エルネスト・ゲラは大衆科学とテクノロジーに関する雑誌のジャーナリストです。
+私たちの目的は、メディア組織にとどまらない実験的な空間（の実現）であり、私たちが住む国について、データを活用して探求し、学びたいと思っています。
 
 We set out to use open and public data and wanted to share both: our research and the way we do it. That's why we started using Github, the platform where Postdata.club lives. Depending on the requirements of each story we want to tell, we decide on the extension of our texts and the resources we will use, be they graphics, images, videos, audios. We focus on journalism with social impact, sometimes long form, sometimes short form. We are interested in all the subjects that we can approach with data, but, above all, those related to Cuba or its people.
 
