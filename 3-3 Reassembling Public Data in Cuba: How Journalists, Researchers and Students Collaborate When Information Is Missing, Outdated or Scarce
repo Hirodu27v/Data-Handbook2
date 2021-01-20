@@ -5,10 +5,12 @@ Postada.clubは小さなチームです。当初、私たちはジャーナリ�
 現在、私たちは2人のジャーナリストと1人のデータサイエンティストで、自由時間をPostdata.clubに充てています。
 サイミ・レイエスは文化関連のウェブサイトの編集者、ユディビアン・アルメイダはハバナ大学数学・コンピュータサイエンス学部の教授、エルネスト・ゲラは大衆科学とテクノロジーに関する雑誌のジャーナリストです。
 私たちの目的は、メディア組織にとどまらない実験的な空間（の実現）であり、私たちが住む国について、データを活用して探求し、学びたいと思っています。
-
-We set out to use open and public data and wanted to share both: our research and the way we do it. That's why we started using Github, the platform where Postdata.club lives. Depending on the requirements of each story we want to tell, we decide on the extension of our texts and the resources we will use, be they graphics, images, videos, audios. We focus on journalism with social impact, sometimes long form, sometimes short form. We are interested in all the subjects that we can approach with data, but, above all, those related to Cuba or its people.
-
-For our investigations we work in two ways, depending on the data. Sometimes we have access to public and open databases. With these, we undertake data analysis to see if there may be a story to tell. Sometimes we have questions and go straight to the data to find the answers for a story. In other cases, we explore the data and in the process find elements that we believe may be interesting or questions arise whose answers may be relevant and which may be answered by that data source or by another.
+オープンな公共データを使えるようにするため、私たちの調査とその方法を共有することにしました。そこで、Postdata.clubのプラットフォームであるGithubを使い始めました。
+伝えたいストーリーの要件に応じて、テキストの拡張子や使用するリソース（グラフィック、画像、ビデオ、オーディオなど）を決定します。
+私たちは、社会的インパクトのあるジャーナリズムに焦点を当てています。私たちは、データを使ってアプローチできるあらゆるテーマに興味を持っていますが、何よりもキューバや国民に関連したテーマに興味を持っています。
+データに応じて二つの方法で調査を行っています。公開されているデータベースやオープンデータベースにアクセスできる場合もあります。これらのデータベースを使って、私たちはストーリーがあるかどうかを確認するためにデータ分析を行います。
+（もともと）疑問があって、ストーリーの答えを見つけるために（必要な）データを直接調べることもあります。
+また、データを調査する過程で興味深いと思われる要素を見つけたり、その答えが関連性があり、そのデータソースや他のデータソースで答えが得られるかもしれない質問が出てきたりすることもあります。
 
 If the information we get from these databases looks interesting, we complement it with other sources such as interviews and comparing with other information sources. Then, we think how to narrate the research with one or more written texts about the subject accompanied by visualizations to present insights from the data.
 
