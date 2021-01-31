@@ -16,18 +16,19 @@ Written by: Helen Verran
 第一に、ある数字がどのようにして命を吹き込まれたかを語るのではなく、その数字が特定の文脈で何を意味するのかを可視化する手段を見つけることは、現代のデータ・ジャーナリズムでは珍しいアプローチです。
 データ・ジャーナリストがそのような話をしてもうまくいくのかと疑っているのは想像に難くありません。これに対する答えは、それがどちらか一方の選択ではなく、ストーリーを絡み合わせ、解読と解釈のリソースを可視化することが、アイデアを伝えるための効果的な方法であることを思い出させることです。
 このような絡み合いを提示するにあたり、ジャーナリストは、ナラティブとビジュアルをミックスする場合は、二つの基本的な姿勢があることを常に覚えておく必要があります。
-一つは、ビジュアルをナラティブに組み込んで話を進める場合です。ビジュアルはナラティブの中で表現したり、説明したりしているように見えます。
-ナラティブがビジュアルの中に埋め込まれているかのように進めることもできます。その場合、あなたは図表の中で発言することになります。これはデータ・ジャーナリズムではあまり一般的ではありませんが、私がここで話すストーリーはこのような方法が使えるでしょう。
+一つは、ビジュアルをナラティブに組み込んで話を進める場合です。話を進めるうえで、ナラティブの中で表現したり、説明したりしているように見えるビジュアルに言及することになるでしょう。
+ナラティブがビジュアルの中に埋め込まれているように話を進めることもできます。その場合、あなたは図表の中で発言することになります。これはデータ・ジャーナリズムではあまり一般的ではありませんが、私がここで話すストーリーはこのような方法が使えるでしょう。
 もちろん、一つの作品の中でこれらの話す位置を切り替えるのが最も効果的な戦略かもしれません。
 第二に、意思決定や政策設計において明確な権限を持っているのはどこか、そしてデータ・ジャーナリストが興味を持っているのが、あれこれのアルゴリズムを利用してデータセットから何ができるかということなのに、特定の数字をあげつらうのはおかしいと思うかもしれません。
-この心配は、数字とデータセットの関係について尋ねることを促すかもしれない。このような質問に対する答えは、かなり単純明快で、あまり面白くない。データセットの中にはたくさんの数があります．数は非常に精密な配列で組み立てられていますが，関係は一対多の関係です．より興味深いのは，数とアルゴリズムの関係についての質問です．私の答えは、アルゴリズムがデータベースに埋め込まれた関係をどのように処理するかを精巧に記述したプロトコルを動員するのに対し、数は集合的な存在の関係をどのように処理するかを記述したプロトコルを表現しているということである。番号付けはアルゴリズムの一形態であり、その逆もまた然りです。種子がそこから発芽する可能性のある植物にとっての種であるように、アルゴリズムにとっての数は、比喩を混ぜると、鶏と卵の関係を持っていると言えるだろう。小学生に教えられている従来の列挙のアナログ的な手段（認知的、言語的、グラフィック的なリソースを混ぜ合わせたもの）によって列挙された値を生成することと、デジタル計算によって列挙された値を対比させることとでは、興味深いほどに異なる社会技術的な特徴がありますが、ここで重要なのは同質性です。494万豪ドルはアルゴリズム的に生成され、特定のデータセットに埋め込まれた特定の関係のセットを表現していますが、それはまだ単なる数字として表示されています。
-
-
-
-
-Second, you might see it as odd to tell a story of a very particular number when what clearly has agency when it comes to decision making and policy design, and what data journalists are interested in, is what can be made of datasets in mobilizing this algorithm or that. This worry might prompt you to ask about relations between numbers and datasets. The answer to such a query is fairly straight forward and not very interesting. There are many numbers in a dataset; the relation is a one-many relation albeit that numbers are assembled in very precise arrays. The more interesting question enquires about the relation between numbers and algorithms. My answer would be that while algorithms mobilise a protocol that elaborates how to work relations embedded in a database, numbers express a protocol that lays out how to work relations of collective being. Numbering is a form of algorithming and vice versa.2 We could say that numbers are to algorithms as a seed is to the plant that might germinate from it; to mix metaphors, they have a chicken and egg relation. While there are certain interestingly different socio-technical characteristics of generating enumerated value by analogue means (mixing cognitive, linguistic, and graphic resources) of conventional enumeration as taught to primary school children, and contriving enumerated value by digital computation, it is the sameness that matters here: AUD4.94 million has been generated algorithmically and expresses a particular set of relations embedded in a particular data set, but it still presents as just a number.3
-
-So now, to turn to my story. The intimate account of number making I tell here as a story would enable a journalist to recognize that the good-news-story that the government is slyly soliciting with its media release is not a straightforward matter. We see that perhaps a political exposé would be more appropriate. The details of how the number is made reveal that this public-private partnership environmental intervention program involves the state paying very rich landowners to do work that will increase the value of their own property. The question my story might precipitate is how could a journalist either celebrate or expose this number in good faith? When I finish the story, I will suggest that that is not the right question.
+この心配に基づき、数字とデータセットの関係について尋ねることもあるでしょう。このような質問に対する答えは、かなり単純明快で、面白みには欠けます。
+データセットの中にはたくさんの数値があります。数値は非常に精密な配列で組み立てられていますが，関係は一対多の関係です。
+より興味深いのは、数とアルゴリズムの関係についての質問です。私の答えは、アルゴリズムがデータベースに埋め込まれた関係の処理を精巧に記述したプロトコルを一方で、数は集合的な存在の関係をどのように処理するかを規定したプロトコルを表しているということです。
+ナンバリングはアルゴリズムの一形態であり、その逆もまた然りです。数字とアルゴリズムは、種子とそこから発芽する植物のように、比喩を用いれば鶏と卵のような関係にあります。
+小学生に教えるような従来のアナログ的な手段（認知的、言語的、グラフィック的なリソースを混ぜ合わせたもの）によって列挙された値を生成することと、デジタル計算によって列挙された値を対比させることとは、興味深いほどに異なる社会技術的な特徴がありますが、ここで重要なのは同質性の方なのです。
+494万豪ドル（という金額）はアルゴリズム的に生成され、特定のデータセットに埋め込まれた特定の関係のセットを表現していますが、（この段階では）まだ単なる数字です。
+さて、ここで私のストーリーに移りましょう。ここでストーリーとして紹介する数字の生成をめぐる詳細な説明を読んだジャーナリストは、政府がメディアを通じてひそかに誘しようとする（一見）良いニュースが、一筋縄ではいかないことを認識することでしょう。
+これは（むしろ）政治的な暴露記事というべきかもしれません。数字がどのように作られているかの詳細を見ると、この官民パートナーシップ環境介入プログラムが、国家が非常に裕福な地主の財産の価値を高めるためにお金を払っているものなのは明らかです。
+私の記事は、ジャーナリストがどうやって、こうした数字を称賛するか（裏側を）暴露するかを見極められるのかといった疑問を呼ぶかもしれません。ストーリーの終わりには、それが的確な質問ではないとお分かりいただけるでしょう。
 
 Narrating a Number
 
