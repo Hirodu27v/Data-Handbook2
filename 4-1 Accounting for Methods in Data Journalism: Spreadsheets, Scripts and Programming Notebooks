@@ -1,4 +1,4 @@
-データ・ジャーナリズムの方法を説明する：スプレッドシート、スクリプト、プログラミングノート
+データ・ジャーナリズムの手法を説明する：スプレッドシート、スクリプト、プログラミングノート
 Written by: Sam Leon
 データジャーナリズムの台頭により、何がジャーナリズムのソースとみなされるかについての考え方が変わりつつあります。
 ソースは現在、公開されているデータセット、流出した電子メール、スキャンした文書、衛星画像、センサーデータなど、さまざまな形で提供されています。
@@ -9,11 +9,11 @@ Written by: Sam Leon
 また、データ処理の段階でエラーが発生することもあります。データ処理やクリーニングには、ジオコーディング、名前のスペルミスの修正、カテゴリの調和、または統計的な外れ値を完全に除外することが含まれます。
 この種のエラーの良い例としては、政治的信念とポルノ消費との間に相関関係があるとする広く知られた研究における、IPアドレスの不正確なジオコーディングが挙げられます。
 もちろん、データ・ジャーナリストの仕事の本質である分析も（同様の事例が）あります。相関を因果関係と勘違いしたり、問題のデータセットを要約するために不適切な統計量を選択したりするなど、統計学的な誤りが（全体に）影響を及ぼす可能性があります。
-
-
-Given the ways in which collection, treatment and analysis of data can change a narrative - how does the data journalist reassure the reader that the sources they have used are reliable and that the work done to derive their conclusions is sound?
-
-In the case that the data journalist is simply reporting the data or research findings of a third-party, they need not deviate from traditional editorial standards adopted by many major news outlets. A reference to the institution that collected and analysed the data is generally sufficient. For example, a recent Financial Times chart on life expectancy in the UK is accompanied by a note which says: “Source: Club Vita calculations based on EuroStat data”. In principle, the reader can then make an assessment of the credibility of the institution quoted. While a responsible journalist will only report studies they believe to be reliable, the third-party institution is largely responsible for accounting for the methods through which it arrived at its conclusions. In an academic context, this will likely include processes of peer review and in the case of scientific publishing it will invariably include some level of methodological transparency.
+データの収集、処理、分析がナラティブを変えうることを踏まえれば、データ・ジャーナリストはどのようにして、使用したソースが信頼できるものであり、結論を導き出すために行われた作業に問題はないと読者に請け合うことが出来るのでしょうか？
+データ・ジャーナリストが単に第三者のデータや研究結果を報道しているだけなら、多くの大手ニュース・アウトレットが採用している伝統的な編集基準を逸脱する必要はありません。
+一般的に、データを収集・分析した機関への言及で十分です。例えば、英国の平均寿命に関する最近のフィナンシャル・タイムズのチャートには、「出典：EuroStat（EU統計局）のデータに基づいてClub Vitaが計算した」（と標記されています）。
+そうすれば、読者は引用した機関の信頼性を評価できます。責任あるジャーナリストは信頼できると思われる研究のみを報道しますが、第三者機関はその結論に至った方法を説明する責任が大きくなります。
+学術的な文脈では、これにはピアレビューのプロセスが含まれる可能性が高く、科学的な出版物には、一定のレベルの透明性がある方法論が含まれます。
 
 In the increasingly common case where the journalistic organisation produces the data-driven research, then they themselves are accountable to the reader for the reliability of the results they are reporting. Journalists have responded to the challenge of accounting for their methods in different ways. One common approach is to give a description of the general methodology used to arrive at the conclusions within a story. These descriptions should be framed as far as possible in plain, non-technical language so as to be comprehensible to the widest possible audience. A good example of this approach taken by the Guardian and Global Witness in explaining how they count deaths of environmental activists for their Environmental Defenders series.2
 
