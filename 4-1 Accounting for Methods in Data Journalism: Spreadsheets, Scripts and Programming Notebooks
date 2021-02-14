@@ -1,8 +1,15 @@
 データ・ジャーナリズムの方法を説明する：スプレッドシート、スクリプト、プログラミングノート
 Written by: Sam Leon
-With the rise of data journalism, ideas around what can be considered a journalistic source are changing. Sources come in many forms now: public datasets, leaked troves of emails, scanned documents, satellite imagery and sensor data. In tandem with this, new methods for finding stories in these sources are emerging. Machine learning, text analysis and some of the other techniques explored elsewhere in this book are increasingly being deployed in the service of the scoop.
+データジャーナリズムの台頭により、何がジャーナリズムのソースとみなされるかについての考え方が変わりつつあります。
+ソースは現在、公開されているデータセット、流出した電子メール、スキャンした文書、衛星画像、センサーデータなど、さまざまな形で提供されています。
+これと並行して、これらのソースからストーリーを見つけるための新しい方法が登場しています。機械学習、テキスト分析、および本書の別の場所で検討されている他の技術のいくつかは、スクープのためにますます活用されています。
+しかし、データは、厳密で客観的な真実であるかのようなオーラとは裏腹に、歪められたり、誤った表現をされたりすることがあります。
+データ・ジャーナリストがデータセットの解釈を誤り、誤解を招くような記事を発表する事例には事欠きません。データ収集の時点で問題があり、より広い集団に対して一般的な推論を行うことができないこともあります。
+例えば、サンプルの選び方に自己選択バイアスがかかっていることが考えられますが、これはインターネット上で世論調査や調査が行われる現代によく見られる問題です。
+また、データ処理の段階でエラーが発生することもあります。データ処理やクリーニングには、ジオコーディング、名前のスペルミスの修正、カテゴリの調和、または統計的な外れ値を完全に除外することが含まれます。
+この種のエラーの良い例としては、政治的信念とポルノ消費との間に相関関係があるとする広く知られた研究における、IPアドレスの不正確なジオコーディングが挙げられます。
+もちろん、データ・ジャーナリストの仕事の本質である分析も（同様の事例が）あります。相関を因果関係と勘違いしたり、問題のデータセットを要約するために不適切な統計量を選択したりするなど、統計学的な誤りが（全体に）影響を及ぼす可能性があります。
 
-But data, despite its aura of hard objective truth, can be distorted and mis-represented. There are many ways in which data journalists can introduce error into their interpretation of a dataset and publish a misleading story. There could be issues at the point of data collection which prevent general inferences being made to a broader population. This could, for instance, be a result of a self-selection bias in the way a sample was chosen, something that has become a common problem in the age of internet polls and surveys. Errors can also be introduced at the data processing stage. Data processing or cleaning, can involve geocoding, correcting misspelled names, harmonising categories or excluding certain data points altogether if, for instance, they are considered statistical outliers. A good example of this kind of error at work is the inaccurate geocoding of IP addresses in a widely reported study that purported to show a correlation between political persuasion and consumption of porn1. Then of course we have the meat of the data journalist’s work, analysis. Any number of statistical fallacies may affect this portion of the work such as mistaking correlation with causation or choosing an inappropriate statistic to summarise the dataset in question.
 
 Given the ways in which collection, treatment and analysis of data can change a narrative - how does the data journalist reassure the reader that the sources they have used are reliable and that the work done to derive their conclusions is sound?
 
