@@ -14,8 +14,18 @@ Written by: Sam Leon
 一般的に、データを収集・分析した機関への言及で十分です。例えば、英国の平均寿命に関する最近のフィナンシャル・タイムズのチャートには、「出典：EuroStat（EU統計局）のデータに基づいてClub Vitaが計算した」（と標記されています）。
 そうすれば、読者は引用した機関の信頼性を評価できます。責任あるジャーナリストは信頼できると思われる研究のみを報道しますが、第三者機関はその結論に至った方法を説明する責任が大きくなります。
 学術的な文脈では、これにはピアレビューのプロセスが含まれる可能性が高く、科学的な出版物には、一定のレベルの透明性がある方法論が含まれます。
+ジャーナリスティックな組織がデータ駆動型の調査を行うケースがますます一般的になってきている中、報道している（研究）結果の信頼性について読者に説明責任を負うことになります。
+ジャーナリストは、さまざまな方法で自分たちの手法を説明するという課題に対応してきました。一般的なアプローチの一つは、結論に至るために用いた一般的な方法論を説明することです。
+こうした説明は、できるだけ幅広い読者に理解してもらえるように、技術的ではない平易な言葉で表現されるべきです。
+ガーディアンとグローバルウィットネスが、環境保護活動家の死を調査する方法を説明したアプローチが良い例でしょう。
+しかし、社会生活におけるあらゆる手法がそうであるように、文章にも限界があります。最も重大な問題は、一般的に、分析の作成やデータの準備に使った正確な手順を明記していないことです。
+したがって、結論を出すために記者が行った手順を正確に再現することは困難になり、場合によっては不可能になります。
+言い換えれば、文章による説明は一般的に再現性のあるものではありません。上記の例では、データの取得、処理、分析のステップが比較的簡単な場合は、文章による説明でも問題はないかもしれません。
+しかし、より複雑な技術が採用されている場合には、再現性のあるアプローチを採用する必要が出てきます。
 
-In the increasingly common case where the journalistic organisation produces the data-driven research, then they themselves are accountable to the reader for the reliability of the results they are reporting. Journalists have responded to the challenge of accounting for their methods in different ways. One common approach is to give a description of the general methodology used to arrive at the conclusions within a story. These descriptions should be framed as far as possible in plain, non-technical language so as to be comprehensible to the widest possible audience. A good example of this approach taken by the Guardian and Global Witness in explaining how they count deaths of environmental activists for their Environmental Defenders series.2
+
+
+
 
 But – as with all ways of accounting for social life – written accounts have their limits. The most significant issue with them is that they generally do not specify the exact procedures used to produce the analysis or prepare the data. This makes it difficult, or in some cases impossible, to exactly reproduce steps taken by the reporters to reach their conclusions. In other words, a written account is generally not a reproducible one. In the example above, where the data acquisition, processing and analysis steps are relatively straightforward, there may be no additional value in going beyond a general written description. However, when more complicated techniques are employed there may be a strong case for employing reproducible approaches.
 
