@@ -22,19 +22,20 @@ Written by: Sam Leon
 したがって、結論を出すために記者が行った手順を正確に再現することは困難になり、場合によっては不可能になります。
 言い換えれば、文章による説明は一般的に再現性のあるものではありません。上記の例では、データの取得、処理、分析のステップが比較的簡単な場合は、文章による説明でも問題はないかもしれません。
 しかし、より複雑な技術が採用されている場合には、再現性のあるアプローチを採用する必要が出てきます。
+再現性のあるデータ・ジャーナリズム
+再現性は、広く現代の科学的方法の柱であるとみなされています。再現性は、結果を裏付けるプロセスを助け、問題のある発見や疑わしい理論を特定して対処するのに役立ちます。
+原理的には、ジャーナリスティックな文脈でのデータの誤った使用や誤解を招くような使用を排除するのにも、同じメカニズムが役立ちます。
+最近の学術史の中で最もよく知られている方法論的な誤りの一つが、参考になります。ハーバード大学のカーメン・ラインハートとケネス・ロゴフは2010年の論文の中で、ある国の債務が国内総生産（GDP）の90％以上に達すると、経済成長が平均的に減速する（0.1％の低下）としていました。
+この数字はその後、緊縮財政を支持する政治家たちが（主張を裏付ける）弾みとして使いました。
+結論から言うと、回帰はエクセルのエラーによるものでした。計算式に誤りがあったために、ラインハートとロゴフは、国の列全体の平均ではなく、20カ国のうち15カ国しか集計していませんでした。
+（再計算の結果、債務がGDPの90％を超える）すべての国で（経済成長率）0.1%の「減速」が平均して2.2%の増加になりました。
+このミスは、大学院生のトーマス・ハーンドンとマイケル・アッシュ教授、ロバート・ポリン教授が、ラインハートとロゴフが作業したオリジナルのスプレッドシートを確認したときに判明しました。
+このことは、手法がわかりやすく書かれているだけでなく、分析に使用されたデータや技術そのものを押さえることの重要性を示しています。しかし、ラインハルト＝ロゴフのエラーは、他の何かを示唆しているのではないでしょうか。
 
 
 
 
 
-But – as with all ways of accounting for social life – written accounts have their limits. The most significant issue with them is that they generally do not specify the exact procedures used to produce the analysis or prepare the data. This makes it difficult, or in some cases impossible, to exactly reproduce steps taken by the reporters to reach their conclusions. In other words, a written account is generally not a reproducible one. In the example above, where the data acquisition, processing and analysis steps are relatively straightforward, there may be no additional value in going beyond a general written description. However, when more complicated techniques are employed there may be a strong case for employing reproducible approaches.
-
-Reproducible data journalism
-Reproducibility is widely regarded as a pillar of the modern scientific method. It aids in the process of corroborating results and to help identify and address problematic findings or questionable theories. In principle, the same mechanisms can help to weed out erroneous or misleading uses of data in the journalistic context.
-
-A look at one of the most well-publicised methodological errors in recent academic history can be instructive. In a 2010 paper, Harvard’s Carmen Reinhart and Kenneth Rogoff purposed to have shown that average real economic growth slows (a 0.1% decline) when a country’s debt rises to more than 90% of gross domestic product (GDP).3 This figure was then used as ammunition by politicians endorsing austerity measures.
-
-As it turned out, the regression was based on an Excel error. Rather than taking the mean of a whole row of countries, Reinhart and Rogoff had made an error in their formula which meant only 15 out of the 20 countries they looked at were incorporated. Once the all the countries were considered the 0.1% “decline” became a 2.2% average increase in economic growth. The mistake was only picked up when PhD candidate Thomas Herndon and professors Michael Ash and Robert Pollin looked at the original spreadsheet that Reinhard and Rogoff had worked off. This demonstrates the importance of having not just the method written out in plain language - but also having the data and technology used for the analysis itself. But the Reinhart-Rogoff error perhaps points to something else as well - Microsoft Excel, and spreadsheet software in general, may not be the best technology for creating reproducible analysis.
 
 Excel hides much of the process of working with data by design. Formulas - which do most of the analytical work in a spreadsheet - are only visible when clicking on a cell. This means that it is harder to review the actual steps taken to reaching a given conclusion. While we will never know for sure, one may imagine that had Reinhart and Rogoff’s analytical work been done in a language in which the steps had to be declared explicitly (e.g. a programming language) the error could have been spotted prior to publication.
 
