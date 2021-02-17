@@ -1,4 +1,4 @@
-データ・ジャーナリズムの手法を説明する：スプレッドシート、スクリプト、プログラミングノート
+データ・ジャーナリズムの手法を説明する：スプレッドシート、スクリプト、プログラミング（環境の）Jupyter notebooks
 Written by: Sam Leon
 データジャーナリズムの台頭により、何がジャーナリズムのソースとみなされるかについての考え方が変わりつつあります。
 ソースは現在、公開されているデータセット、流出した電子メール、スキャンした文書、衛星画像、センサーデータなど、さまざまな形で提供されています。
@@ -31,17 +31,12 @@ Written by: Sam Leon
 （再計算の結果、債務がGDPの90％を超える）すべての国で（経済成長率）0.1%の「減速」が平均して2.2%の増加になりました。
 このミスは、大学院生のトーマス・ハーンドンとマイケル・アッシュ教授、ロバート・ポリン教授が、ラインハートとロゴフが作業したオリジナルのスプレッドシートを確認したときに判明しました。
 このことは、手法がわかりやすく書かれているだけでなく、分析に使用されたデータや技術そのものを押さえることの重要性を示しています。しかし、ラインハルト＝ロゴフのエラーは、他の何かを示唆しているのではないでしょうか。
+エクセルは、データを扱うプロセスの大部分を設計上隠しています。スプレッドシートの分析を行う数式は、セルをクリックしたときにのみ表示されます。
+これは、結論に到達するまでの手順を確認することを困難にしています。確かなことはわかりませんが、ラインハートとロゴフの分析作業が、ステップを明示的に宣言しなければならない言語（プログラミング言語など）で行われていたら、出版前にエラーが発見されていたのではないでしょうか。
+エクセルベースのワークフローでは、結論に至るまでのステップを削除することが推奨されます。式ではなく、値が他のシートや列にコピーされることが多く、数値がどのように生成されたかをたどる唯一のルートは「元に戻す」キーしかありません。
+「元に戻す」履歴は、もちろんアプリケーションを閉じたときに消去されますので、重要な方法論的情報を保存するのには適していないのです。
 
-
-
-
-
-
-Excel hides much of the process of working with data by design. Formulas - which do most of the analytical work in a spreadsheet - are only visible when clicking on a cell. This means that it is harder to review the actual steps taken to reaching a given conclusion. While we will never know for sure, one may imagine that had Reinhart and Rogoff’s analytical work been done in a language in which the steps had to be declared explicitly (e.g. a programming language) the error could have been spotted prior to publication.
-
-Excel based workflows generally encourage the removal of the steps taken to arrive at a conclusion. Values rather than formulas are often copied across to other sheets or columns leaving the “undo” key as the only route back to how a given number was actually generated. “Undo” histories of course are generally erased when an application is closed, and are therefore not a good place for storing important methodological information.
-
-The rise of the literate programming environment: Jupyter notebooks in the newsroom
+読みやすいプログラミング環境の台頭:ニュースルームにおけるJupyter notebooksの活用
 An emerging approach to methodological transparency is to use so-called “literate programming” environments. Organisations like Buzzfeed, The New York Times and Correctiv are using them to provide human readable documents that can also be executed by a machine in order to reproduce exactly the steps taken in a given analysis.4
 
 First articulated by Donald Knuth in the 1980s, literate programming is an approach to writing computer code where the author intersperses code with ordinary human language explaining the steps taken.5 The two main literate programming environments in use today are Jupyter Notebooks and R Markdown.6 Both produce human readable documents that mix plain English, visualisations and code in a single document that can usually be rendered in HTML and published on the web. Original data can be linked to explicitly and any other technical dependencies such as third-party libraries will be clearly identified.
