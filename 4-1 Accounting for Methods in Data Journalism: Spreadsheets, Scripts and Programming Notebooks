@@ -36,10 +36,13 @@ Written by: Sam Leon
 エクセルベースのワークフローでは、結論に至るまでのステップを削除することが推奨されます。式ではなく、値が他のシートや列にコピーされることが多く、数値がどのように生成されたかをたどる唯一のルートは「元に戻す」キーしかありません。
 「元に戻す」履歴は、もちろんアプリケーションを閉じたときに消去されますので、重要な方法論的情報を保存するのには適していないのです。
 
-読みやすいプログラミング環境の台頭:ニュースルームにおけるJupyter notebooksの活用
-An emerging approach to methodological transparency is to use so-called “literate programming” environments. Organisations like Buzzfeed, The New York Times and Correctiv are using them to provide human readable documents that can also be executed by a machine in order to reproduce exactly the steps taken in a given analysis.4
+文芸的プログラミング環境の台頭:ニュースルームにおけるJupyter notebooksの活用
+方法の透明性に対する新たなアプローチとして、いわゆる「文芸的プログラミング」環境を利用することが挙げられます。Buzzfeed、The New York Times、Correctivのような組織は、人間が読みやすいドキュメントを提供するためにこの環境を利用していますが、これは機械でも実行可能で、与えられた分析のステップを正確に再現することができます。
+ドナルド・クヌースが1980年代に提唱した文芸的プログラミングはコンピュータコードを書くためのアプローチであり、コードの間に通常の人間の言語を挿入して、手順を説明します。
+今日使用されている二つの主要な文芸的プログラミング環境は、Jupyter NotebooksとR Markdownです。
+ともに、HTMLでレンダリングしてウェブ上で公開することができる単一のドキュメントに、平易な英語、ビジュアライゼーション、コードをミックスした、人間が読みやすいドキュメントを作成します。
+元のデータは明示的にリンクすることができ、サードパーティのライブラリなど、その他の技術的な依存関係も明確に識別されます。
 
-First articulated by Donald Knuth in the 1980s, literate programming is an approach to writing computer code where the author intersperses code with ordinary human language explaining the steps taken.5 The two main literate programming environments in use today are Jupyter Notebooks and R Markdown.6 Both produce human readable documents that mix plain English, visualisations and code in a single document that can usually be rendered in HTML and published on the web. Original data can be linked to explicitly and any other technical dependencies such as third-party libraries will be clearly identified.
 
 Not only is there an emphasis on human readable explanation, the code is ordered so as to reflect human logic. Documents written in this paradigm can therefore read like a set of steps in an argument or a series of answers to a set of research questions.
 
