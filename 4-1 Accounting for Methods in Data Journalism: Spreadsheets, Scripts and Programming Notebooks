@@ -42,11 +42,10 @@ Written by: Sam Leon
 今日使用されている二つの主要な文芸的プログラミング環境は、Jupyter NotebooksとR Markdownです。
 ともに、HTMLでレンダリングしてウェブ上で公開することができる単一のドキュメントに、平易な英語、ビジュアライゼーション、コードをミックスした、人間が読みやすいドキュメントを作成します。
 元のデータは明示的にリンクすることができ、サードパーティのライブラリなど、その他の技術的な依存関係も明確に識別されます。
+人間が読みやすい説明を重視しているだけでなく、人間の論理を反映するようにコードが順序立てられています。したがって、このパラダイムに基づき書かれたドキュメント文書は、議論の一連のステップや、調査の一連の質問に対する回答のように読むことができます。
+「文芸的プログラミングの実践者は、いわばエッセイストであり、説明と優れた文体を第一に考えます。彼らは作家のように、シソーラスを片手に、変数の名前を慎重に選び、それぞれの変数の意味合いを説明しようとします。
+書き手は、分かりやすいプログラムにしようと努力します。なぜなら、（文芸的プログラミングの）概念は形式的な方法と非形式的な方法を互いに補強するように組み合わせ、人間が最も理解しやすい順序になるよう（プログラムを）導入することだからです。
 
-
-Not only is there an emphasis on human readable explanation, the code is ordered so as to reflect human logic. Documents written in this paradigm can therefore read like a set of steps in an argument or a series of answers to a set of research questions.
-
-“The practitioner of literate programming can be regarded as an essayist, whose main concern is with exposition and excellence of style. Such an author, with thesaurus in hand, chooses the names of variables carefully and explains what each variable means. He or she strives for a program that is comprehensible because its concepts have been introduced in an order that is best for human understanding, using a mixture of formal and informal methods that reinforce each other.”7
 
 A good example of the form is found in Buzzfeed News’ Jupyter Notebook detailing how they analysed trends in California’s wildfires.8 Whilst the notebook contains all the code and links to source data required to reproduce the analysis, the thrust of the document is a narrative or conversation with the source data. Explanations are set out under headings that follow a logical line of enquiry. Visualisations and charts are used to bring out key themes.
 
