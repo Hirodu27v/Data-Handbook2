@@ -45,11 +45,16 @@ Written by: Sam Leon
 人間が読みやすい説明を重視しているだけでなく、人間の論理を反映するようにコードが順序立てられています。したがって、このパラダイムに基づき書かれたドキュメント文書は、議論の一連のステップや、調査の一連の質問に対する回答のように読むことができます。
 「文芸的プログラミングの実践者は、いわばエッセイストであり、説明と優れた文体を第一に考えます。彼らは作家のように、シソーラスを片手に、変数の名前を慎重に選び、それぞれの変数の意味合いを説明しようとします。
 書き手は、分かりやすいプログラムにしようと努力します。なぜなら、（文芸的プログラミングの）概念は形式的な方法と非形式的な方法を互いに補強するように組み合わせ、人間が最も理解しやすい順序になるよう（プログラムを）導入することだからです。
+この形式の典型は、Buzzfeed NewsのJupyter Notebookで、カリフォルニア州の山火事の傾向をどのように分析したかを詳細に説明しています。
+Notebookには、分析を再現するために必要なすべてのコードとソースデータへのリンクが含まれていますが、ドキュメントの主眼は、ソースデータとのナラティブや対話にあります。
+説明は、問いに沿った見出しの下に設定され、重要なテーマを引き出すために、ビジュアライゼーションや図表を使用しています。
+プログラミングに対する「文芸的」アプローチのある側面として、(Jupyter NotebookやR Markdownファイルとして)生成されたドキュメントが、コード自体を読むことができない人にも、結論を出すために取られた手順が健全であることを確認することができることが挙げられます。
+このアイデアは、スティーヴン・シェイピンとサイモン・シャッファーの、近世科学における事実を立証する手段としての「仮想目撃者」の説明に似ています。
+ロバート・ボイルによる（空気ポンプの）実験を例に、シェイピンとシャッファーは「仮想目撃者」が担う役割を設定しました。
 
 
-A good example of the form is found in Buzzfeed News’ Jupyter Notebook detailing how they analysed trends in California’s wildfires.8 Whilst the notebook contains all the code and links to source data required to reproduce the analysis, the thrust of the document is a narrative or conversation with the source data. Explanations are set out under headings that follow a logical line of enquiry. Visualisations and charts are used to bring out key themes.
 
-One aspect of the “literate” approach to programming is that the documents produced (as Jupyter Notebook or R Markdown files) may be capable of re-assuring even those readers who cannot read the code itself that the steps taken to produce the conclusions are sound. The idea is similar to Steven Shapin and Simon Schaffer’s account of “virtual witnessing” as a means of establishing matters of fact in early modern science. Using Robert Boyle’s experimental programme as an example Shapin and Schaffer set out the role that “virtual witnessing” had:
+
 
 “The technology of virtual witnessing involves the production in a reader's mind of such an image of an experimental scene as obviates the necessity for either direct witness or replication. Through virtual witnessing the multiplication of witnesses could be, in principle, unlimited. It was therefore the most powerful technology for constituting matters of fact. The validation of experiments, and the crediting of their outcomes as matters of fact, necessarily entailed their realization in the laboratory of the mind and the mind's eye. What was required was a technology of trust and assurance that the things had been done and done in the way claimed.”9.
 
