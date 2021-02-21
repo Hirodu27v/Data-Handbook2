@@ -60,10 +60,11 @@ Jupyter Notebooksのような文芸的プログラミング環境で作成され
 コードの正確な内容は、非技術者の読者には理解できないかもしれませんが、テストとエラーに関して適切かつ平易な英語の説明を伴う安全策が存在することは、ジャーナリストが調査結果を出すために取った手順が正しいことを示す方法となるでしょう。
 Figure 1: A cell from the Buzzfeed Jupyter notebook with a human readable explanation or comment explaining that its purpose is to check that the filtering of the raw data was performed correctly
 
-More than just reproducibility
-Using literate programming environments for data stories does not just help make them more reproducible.
+再現性だけでなく
+データ・ストーリーに文芸的プログラミング環境を使用することは、データ・ストーリーの再現性を高めるだけではありません。
+コードを公開することで、組織間のコラボレーションを促進できます。2016年、（国際NGOの）Global Witnessはパプアニューギニアの法人登記簿から企業とその株主を抽出するウェブスクレイパーを公開しました。
+Global Witnessは、開発したスクレーパーを再利用する予定はありませんでしたが、基礎となるコードを人気のコード共有ウェブサイトGithubで公開しました。
 
-Publishing code can aid collaboration between organisations. In 2016, Global Witness published a web scraper that extracted details on companies and their shareholders from the Papua New Guinea company register.11 The initial piece of research aimed to identify the key beneficiaries of the corruption-prone trade in tropical timber which is having a devastating impact on local communities. While Global Witness had no immediate plans to re-use the scraper it developed, the underlying code was published on Github – the popular code sharing website.
 
 Not long after, a community advocacy organisation, ACT NOW!, downloaded the code from the scraper, improved it and incorporated it into a their iPNG project that lets members of the public cross-check names of company shareholders and directors against other public interest sources.12 The scraper is now part of the core data infrastructure of the site, retrieving data from the Papua New Guinea company registry twice a year.
 
