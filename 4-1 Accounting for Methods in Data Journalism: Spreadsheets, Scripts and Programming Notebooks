@@ -56,11 +56,8 @@ Notebookには、分析を再現するために必要なすべてのコードと
 主張通りの方法で実験が行われたことを信頼し、保証する技術が必要とされた」
 Jupyter Notebooksのような文芸的プログラミング環境で作成されたドキュメントは、記事と一緒に公開されている場合、プログラミングに不慣れな読者が、発見を生み出すために行われた手順を可視化できるので、（仮想目撃と）同様の効果があると言えます。
 プログラミングをしない読者はコード自体を理解したり実行したりすることができないかもしれませんが、ドキュメント内のコメントや説明を読めば、エラーを軽減するために適切な手順が取られたことを理解できます。
-
-
-
-Take for instance a recent Buzzfeed News story on children’s home inspections in the UK.10 The Jupyter Notebook has specific steps to check that data has been correctly filtered (Figure 1) providing a backstop against the types of simple but serious mistakes that caught Reinhart and Rogoff out. While the exact content of the code may not be comprehensible to the non-technical reader, the presence of these tests and backstops against error with appropriate plain English explanations may go some way to showing that the steps taken to produce the journalist’s findings were sound.
-
+例えば、イギリスの児童養護施設について最近Buzzfeedが行った綿密な調査を見てみましょう。Jupyter Notebookには、データが正しくフィルタリングされているかどうかをチェックするためのステップが備えられており（図1）、ラインハートとロゴフ（の事例）を踏まえ、単純ながら深刻なミスを防ぐ安全策を提供しています。
+コードの正確な内容は、非技術者の読者には理解できないかもしれませんが、テストとエラーに関して適切かつ平易な英語の説明を伴う安全策が存在することは、ジャーナリストが調査結果を出すために取った手順が正しいことを示す方法となるでしょう。
 Figure 1: A cell from the Buzzfeed Jupyter notebook with a human readable explanation or comment explaining that its purpose is to check that the filtering of the raw data was performed correctly
 
 More than just reproducibility
