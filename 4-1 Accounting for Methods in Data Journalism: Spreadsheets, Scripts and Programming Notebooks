@@ -51,14 +51,13 @@ Notebookには、分析を再現するために必要なすべてのコードと
 プログラミングに対する「文芸的」アプローチのある側面として、(Jupyter NotebookやR Markdownファイルとして)生成されたドキュメントが、コード自体を読むことができない人にも、結論を出すために取られた手順が健全であることを確認することができることが挙げられます。
 このアイデアは、スティーヴン・シェイピンとサイモン・シャッファーの、近世科学における事実を立証する手段としての「仮想目撃者」の説明に似ています。
 ロバート・ボイルによる（空気ポンプの）実験を例に、シェイピンとシャッファーは「仮想目撃者」が担う役割を設定しました。
+「仮想目撃の技術は、直接的な目撃や複製を必要としなくても済むよう、実験のイメージを読者の頭の中に生成するものである。仮想目撃によって、原則的には目撃者を無数に増やすことが出来る。
+したがって、それは事実を立証する最も強力な手段になるのである。実験を検証し、その結果を事実として認めることは、必然的に心と心の目の実験室での実現を伴う。
+主張通りの方法で実験が行われたことを信頼し、保証する技術が必要とされた」
+Jupyter Notebooksのような文芸的プログラミング環境で作成されたドキュメントは、記事と一緒に公開されている場合、プログラミングに不慣れな読者が、発見を生み出すために行われた手順を可視化できるので、（仮想目撃と）同様の効果があると言えます。
+プログラミングをしない読者はコード自体を理解したり実行したりすることができないかもしれませんが、ドキュメント内のコメントや説明を読めば、エラーを軽減するために適切な手順が取られたことを理解できます。
 
 
-
-
-
-“The technology of virtual witnessing involves the production in a reader's mind of such an image of an experimental scene as obviates the necessity for either direct witness or replication. Through virtual witnessing the multiplication of witnesses could be, in principle, unlimited. It was therefore the most powerful technology for constituting matters of fact. The validation of experiments, and the crediting of their outcomes as matters of fact, necessarily entailed their realization in the laboratory of the mind and the mind's eye. What was required was a technology of trust and assurance that the things had been done and done in the way claimed.”9.
-
-Documents produced by literate programming environments such as as Jupyter Notebooks - when published alongside articles - may have a similar effect in that they enable the non-programming reader to visualise the steps taken to produce the findings in a particular story. While the non-programming reader may not be able to understand or run the code itself, comments and explanations in the document may be capable of re-assuring them that appropriate steps were taken to mitigate error.
 
 Take for instance a recent Buzzfeed News story on children’s home inspections in the UK.10 The Jupyter Notebook has specific steps to check that data has been correctly filtered (Figure 1) providing a backstop against the types of simple but serious mistakes that caught Reinhart and Rogoff out. While the exact content of the code may not be comprehensible to the non-technical reader, the presence of these tests and backstops against error with appropriate plain English explanations may go some way to showing that the steps taken to produce the journalist’s findings were sound.
 
