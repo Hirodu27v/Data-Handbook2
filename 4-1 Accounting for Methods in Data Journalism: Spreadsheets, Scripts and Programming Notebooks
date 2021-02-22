@@ -64,9 +64,8 @@ Figure 1: A cell from the Buzzfeed Jupyter notebook with a human readable explan
 データ・ストーリーに文芸的プログラミング環境を使用することは、データ・ストーリーの再現性を高めるだけではありません。
 コードを公開することで、組織間のコラボレーションを促進できます。2016年、（国際NGOの）Global Witnessはパプアニューギニアの法人登記簿から企業とその株主を抽出するウェブスクレイパーを公開しました。
 Global Witnessは、開発したスクレーパーを再利用する予定はありませんでしたが、基礎となるコードを人気のコード共有ウェブサイトGithubで公開しました。
-
-
-Not long after, a community advocacy organisation, ACT NOW!, downloaded the code from the scraper, improved it and incorporated it into a their iPNG project that lets members of the public cross-check names of company shareholders and directors against other public interest sources.12 The scraper is now part of the core data infrastructure of the site, retrieving data from the Papua New Guinea company registry twice a year.
+それから間もなく、地域支援団体のACT NOW!はこのコードをスクレイパーからダウンロードして改良し、iPNGプロジェクトに組み込んで人々が会社の株主や取締役の名前を他の公益情報源と照合できるようにしました。
+今やスクレイパーは、同サイトのコアデータインフラの一部となっており、年に二回、パプアニューギニアの企業登記簿からデータを取得しています。
 
 Writing code within a literate programming environment can also help to streamline certain internal processes where others within an organisation need to understand and check an analysis prior to publication. At Global Witness, Jupyter Notebooks have been used to streamline the legal review process. As notebooks set out the steps taken to a get a certain finding in a logical order, lawyers can then make a more accurate assessment of the legal risks associated with a particular allegation.
 
