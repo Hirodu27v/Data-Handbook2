@@ -14,13 +14,14 @@ Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen An
 ジャーナリズムのストーリーテリングを変える
 ジャーナリズムの中でデータ・ビジュアライゼーションがますます使われるようになってきていることは、ストーリーテリングの中心的な要素が、記号モードとしてのライティングからデータとビジュアライゼーションに移りつつあることを示しています。
 多くのインタビュー対象者は、データ・ビジュアライゼーションは、たとえそれが単純なグラフィックやダイアグラムであっても、ストーリーの原動力になると述べています。
-"統計によると、ストーリーの中にシンプルなデータ・ビジュアライゼーションを挿入すれば、読者のページ滞在時間は少し延びる。" (SE)
+"統計によると、ストーリーの中にシンプルなデータ・ビジュアライゼーションを挿入すれば、読者のページ滞在時間は少し延びる。" (スウェーデン)
+データ・ビジュアライゼーションは、「洞察を与える」 (英国) 、「より平易に説明する」 (スウェーデン) 、「言葉よりもはっきりと伝える」 (英国) 、「テキストでは集約された形でしか表現できない複数の側面を詳細に伝える」 (ドイツ) 、「アクセスしやすい」 (デンマーク) 、「悲惨な状況を明らかにする」 (スイス) 、「人々が世界を理解する手助けをする」 (英国) など、コミュニケーションを目的とした幅広い用途に使用されています。
+つまり、あるポイントを強調したり、経験的証拠を追加したり、ユーザーがデータセットを探索できるようにしたり、また興味を刺激するための美的魅力として、そして見たことのない物語への入り口として使われているのです。
+このような変化に伴い、ニュースルーム内に複数のスキルを持つ専門家グループが出現し、新入社員にはデータやビジュアライゼーションのスキルが求められるようになりました。
+しかし、ニュースルーム内でのデータ・ビジュアライゼーション制作の組織にはパターンがなく、あるところではデータチーム、あるところではビジュアルチーム（インタビューした時点でデータビズデザイナーの一人はバーチャルリアリティのプロジェクトにも取り組んでいました）、また別のチームで行っているところもあります。
+このように、新たな視覚的形態に対応する新しい（ビジュアライゼーションの）構造が生まれつつあるのと同じく、ニュースルームのスタッフも、社内および商用の新しいツールを学び、新しいスキルを開発し、効果的なデータストーリーを制作するために、チームや専門分野を超えてコミュニケーションをとる方法を理解する必要があります。
 
-Dataviz are used with a broad range of communicative intentions, including: “to offer insight” (UK), “to explain more easily” (SE), “to communicate clearly, more clearly than words can” (UK), “to tell several facets in detail, which in text is only possible in an aggregated form” (DE), to make stories “more accessible” (DK), “to reveal deplorable state of affairs” (CH), “to help people understand the world” (UK). Data visualisation is used to emphasise a point, to add empirical evidence, to enable users to explore datasets, as aesthetic attraction to stimulate interest, and to offer entry into unseen stories.
-
-These changes are accompanied by the emergence of multi-skilled specialist groups within newsrooms, with data and dataviz skills prioritized in new recruits. But there are no patterns in the organization of dataviz production within newsrooms – in some, it happens in data teams, in others, in visual teams (one of our dataviz designer interviewees was also working on a virtual reality project at the time of the interview) and elsewhere, in different teams still. And just as new structures are emerging to accommodate this newly proliferating visual form, so too newsroom staff need to adapting to learn new tools, in-house and commercial, develop new skills and understand how to communicate across teams and areas of expertise in order to produce effective data stories.
-
-The ‘mobile first’ mantra and its consequences
+「モバイルファースト」のマントラとその結果
 Widespread recognition that audiences increasingly consume news on small, mobile screens has led to equally widespread adoption of a ‘mobile first’ mantra when it comes to producing dataviz in newsrooms. This means a turn away from the elaborate and interactive visualizations that characterized the early days of dataviz in the news, to greater simplicity and linearity, or simple visual forms with low levels of interactivity. This has led to a predominance of certain chart types, such as bar charts and line charts, and to the advent of scrollytelling, or stories that unfold as users scroll down the page, with the visualizations that are embedded in the article appearing at the appropriate time. Scrolling also triggers changes in visualizations themselves, such as zooming out.
 
 “Often in our stories we use the scrolling technique. It is not necessary to click but to scroll, if you scroll down, something will happen in the story.” (DE)
