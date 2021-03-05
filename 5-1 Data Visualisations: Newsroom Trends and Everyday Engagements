@@ -22,9 +22,11 @@ Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen An
 このように、新たな視覚的形態に対応する新しい（ビジュアライゼーションの）構造が生まれつつあるのと同じく、ニュースルームのスタッフも、社内および商用の新しいツールを学び、新しいスキルを開発し、効果的なデータストーリーを制作するために、チームや専門分野を超えてコミュニケーションをとる方法を理解する必要があります。
 
 「モバイルファースト」のマントラとその結果
-Widespread recognition that audiences increasingly consume news on small, mobile screens has led to equally widespread adoption of a ‘mobile first’ mantra when it comes to producing dataviz in newsrooms. This means a turn away from the elaborate and interactive visualizations that characterized the early days of dataviz in the news, to greater simplicity and linearity, or simple visual forms with low levels of interactivity. This has led to a predominance of certain chart types, such as bar charts and line charts, and to the advent of scrollytelling, or stories that unfold as users scroll down the page, with the visualizations that are embedded in the article appearing at the appropriate time. Scrolling also triggers changes in visualizations themselves, such as zooming out.
-
-“Often in our stories we use the scrolling technique. It is not necessary to click but to scroll, if you scroll down, something will happen in the story.” (DE)
+視聴者が小型のモバイルスクリーンでニュースを見る機会が増えていることが広く認識され、ニュースルームでのデータ・ビジュアライゼーション制作においても「モバイルファースト」の考え方が広く採用されるようになってきました。
+初期には精巧でインタラクティブだったデータ・ビジュアライゼーションは、よりシンプルで直線的な、あるいはインタラクティブ性の低いシンプルなビジュアルフォームへ転換しました。
+棒グラフや折れ線グラフなどの特定のチャートタイプが優勢になり、スクロールテリングや、ユーザーがページをスクロールすると展開されるストーリーが、記事に埋め込まれたビジュアライゼーションが適切なタイミングで表示されるようになりました。
+スクロールはまた、ズームアウトなどのビジュアライゼーション自体の変化を誘発します。
+「私たちのストーリーでは、スクロールのテクニックを使っています。クリックする必要はありませんが、下にスクロールすると、ストーリーの中で何かが起こります" (ドイツ)
 
 Tools to automate dataviz production and make it possible for journalists who are not dataviz experts to produce them also result in the spread of simplified chart forms. Nonetheless, some interviewees are keen to educate readers by presenting less common chart types (a scatterplot, for example) accompanied with information about how to make sense of them. Some believe that pictures can also present data effectively – a Scandinavian national tabloid represented the size of a freight plane by filling it with 427,000 pizzas. Others recognize the value of animation, for example to show change over time, or of experimenting with zoomability in visualizations.
 
