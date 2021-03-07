@@ -35,12 +35,13 @@ Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen An
 データ・ビジュアライゼーションを情報源にリンクし、生データへのアクセスを提供し、方法論を説明することは、透明性を生み出し、選択と解釈の主観性を相殺する倫理的慣行であり、一部の参加者にとっては、データの可視化に不可欠な側面です。
 しかし、他の参加者にとっては、情報源へのリンクは、視聴者に「すべてのデータ」を与えることを意味し、（情報を）裏付けてからストーリーを語るというジャーナリズムの規範と相反するものに映ります。
 一部の企業では、この対立に対処するために、異なるプラットフォーム(Twitter、Pinterest、Github)上でデータとプロセスの異なる要素を共有する複雑なプロセスを採用しています。
-
-this leads data journalists and visualization designers to reflect on how much data to share, their roles as fact providers and their social role more generally. Data journalist Paul Bradshaw sums this up on his blog:
-
-“How much responsibility do we have for the stories that people tell with our information? And how much responsibility do we have for delivering as much information as someone needs?”3
-
-Former Guardian editor Alan Rusbridger (2009) raised a similar question about the social role of journalism when he points to the range of actors who do what journalism has historically done – that is, act as a gatekeeper of data and official information (eg FixMyStreet and TheyWorkForYou in the UK. He concluded ‘I don’t know if that is journalism or not. I don’t know if that matters’ (cf Baack 2018). Some of our interviewees work on large-scale projects similar to those discussed by Rusbridger – for example, one project collated all available data relating to schools in the UK and made this explorable by postcode to inform decision-making about school preference. So the question of what counts of journalism in the context of widespread data and dataviz is not easy to answer.
+データ・ジャーナリストやビジュアライゼーションデザイナーは、どの程度データを共有すべきか、事実の提供者としての役割や、より一般的な社会的な役割について考える必要があります。
+データ・ジャーナリストのポール・ブラッドショーはこの問題をブログで取り上げました。
+「人々が私たちの情報を使って語る物語に対して、私たちはどの程度の責任を持っているのか?そして、誰かが必要とするだけの情報を提供する責任はどの程度あるのだろう。」
+ガーディアンの元編集者アラン・ラスブリッジャーも、ジャーナリズムの社会的役割に疑問を提起し、ジャーナリズムが歴史的に行ってきたこと、つまりデータや公式情報の裏付けを取る人々の取り組みを指摘しています (英国ではFixMyStreetやTheyWorkForYouなど)。
+彼は「それがジャーナリズムなのかは分からない。（ジャーナリズムかそうでないのか）それが重要なのかどうかも分からない」としています（cf Baack 2018）。
+インタビューに応じた人には、ラスブリッジャーが論じたような大規模なプロジェクトに取り組んでいる人もいます。例えば、英国の学校に関連するすべての利用可能なデータを照合し、学校選びに役立つように、郵便番号で検索可能にしました。
+したがって、幅広いデータとデータビズの観点からジャーナリズムが何を重視するのかという質問に答えるのは容易ではありません。
 
 What’s more, sharing datasets assumes that audiences will interact with them, yet studies indicate that online interactivity is as much a myth as a reality, with the idealized image of an active and motivated explorer of a visualized dataset contrasting with the more common quick and scrolling reader of news (eg Burmester et al 2010). Similarly, a study of data journalism projects submitted to the Nordic Data Journalism Awards concludes that interactive elements often offer merely an illusion of interactivity, as most choices already are made or predefined by the journalists (Appelgren 2017). This again calls into question the practice of sharing ‘all of the data’ and raises questions about the changing social role of journalism.
 
