@@ -27,13 +27,16 @@ Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen An
 棒グラフや折れ線グラフなどの特定のチャートタイプが優勢になり、スクロールテリングや、ユーザーがページをスクロールすると展開されるストーリーが、記事に埋め込まれたビジュアライゼーションが適切なタイミングで表示されるようになりました。
 スクロールはまた、ズームアウトなどのビジュアライゼーション自体の変化を誘発します。
 「私たちのストーリーでは、スクロールのテクニックを使っています。クリックする必要はありませんが、下にスクロールすると、ストーリーの中で何かが起こります" (ドイツ)
+データ・ビジュアライゼーションを自動で制作したり、専門家でなくてもデータ・ビジュアライゼーション制作を可能としたりするツールの登場により、簡略化されたグラフ形式が普及してきています。
+しかし、あまり一般的ではない図表（例えば散布図）を、解釈する方法とともに提示することで、読者を教育したいと考えている人もいます。
+スカンジナビアのタブロイド紙は、427,000枚のピザで貨物機の大きさを表しました。時間の経過に伴う変化を表示したり、ビジュアライゼーションでズーム機能を試してみるなど、アニメーションの価値を認識する人もいます。
 
-Tools to automate dataviz production and make it possible for journalists who are not dataviz experts to produce them also result in the spread of simplified chart forms. Nonetheless, some interviewees are keen to educate readers by presenting less common chart types (a scatterplot, for example) accompanied with information about how to make sense of them. Some believe that pictures can also present data effectively – a Scandinavian national tabloid represented the size of a freight plane by filling it with 427,000 pizzas. Others recognize the value of animation, for example to show change over time, or of experimenting with zoomability in visualizations.
+ジャーナリズムが果たす社会的役割
+データ・ビジュアライゼーションを情報源にリンクし、生データへのアクセスを提供し、方法論を説明することは、透明性を生み出し、選択と解釈の主観性を相殺する倫理的慣行であり、一部の参加者にとっては、データの可視化に不可欠な側面です。
+しかし、他の参加者にとっては、情報源へのリンクは、視聴者に「すべてのデータ」を与えることを意味し、（情報を）裏付けてからストーリーを語るというジャーナリズムの規範と相反するものに映ります。
+一部の企業では、この対立に対処するために、異なるプラットフォーム(Twitter、Pinterest、Github)上でデータとプロセスの異なる要素を共有する複雑なプロセスを採用しています。
 
-The social role of journalism
-Linking a dataviz to a data source, providing access to the raw data and explaining methodologies are seen by some participants as ethical practices which create transparency and counterbalance the subjectivity of selection and interpretation which, for some, is an inevitable aspect of visualizing data. Yet for others, linking to data sources means giving audiences ‘all of the data’ and conflicts with the journalistic norm of identifying and then telling a story. For some, this conflict is addressed by complex processes of sharing different elements of data and process on different platforms (Twitter, Pinterest, Github).
-
-This leads data journalists and visualization designers to reflect on how much data to share, their roles as fact providers and their social role more generally. Data journalist Paul Bradshaw sums this up on his blog:
+his leads data journalists and visualization designers to reflect on how much data to share, their roles as fact providers and their social role more generally. Data journalist Paul Bradshaw sums this up on his blog:
 
 “How much responsibility do we have for the stories that people tell with our information? And how much responsibility do we have for delivering as much information as someone needs?”3
 
