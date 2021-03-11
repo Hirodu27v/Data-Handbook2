@@ -57,10 +57,13 @@ Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen An
 それは、オンラインのコンテンツはオフラインのコンテンツよりも（視聴者からの）問いにさらされる可能性があり、データ・ビジュアライゼーションがテキストよりもオンラインで流通しやすく、数字と画像の組み合わせとして元の文脈から離れて「野生」に漂う可能性があることを理解するということです（Espeland and Sauder 2007）。
 そのためには、説明文をビジュアライゼーションファイルに埋め込み、説明文なしで画像が流通しないようにするなど、これらの危険性に対処するための戦略を理解する必要があります。これらの問題は、視聴者のデータやビジュアライゼーションのリテラシーに関する懸念と並んで、ジャーナリストの視聴者に関する考え方に影響を与え、再構築するものなのです。
 
-How Do People Engage with Data Visualizations?
-In this section, we look at dataviz in the news from the perspective of the audience. How do audiences engage with and make sense of the visualisations that they encounter in news media? Data journalists are often too busy to attend to this question. Data visualisation researchers don’t have this excuse, but nevertheless rarely focus their attention on what end users think of the visualisations that they see.
-
-Enter Seeing Data, a research project which explored how people engage with the data visualisations that they encounter in their everyday lives, often in the media. It explored the factors that affect engagement and what this means for how we think about what makes a visualisation effective. On Seeing Data we used focus groups and interviews to explore these questions, to enable us to get at the attitudes, feelings and beliefs that underlie people’s engagements with dataviz. 46 people participated in the research, including a mix of participants who might be assumed to be interested in data, the visual, or migration (which was the subject of a number of the visualisations that we showed them) and so ‘already engaged’ in one of the issues at the heart of our project and participants about whom we could not make these assumptions.
+人々はいかにしてデータ・ビジュアライゼーションに関わっているのか？
+このセクションでは、視聴者の視点でデータ・ビジュアライゼーションを見ていきます。視聴者はどんな形でニュースのデータ・ビジュアライゼーションに関わり、意味を見いだすのでしょう。
+データ・ジャーナリストは忙しくてこの質問に答えることはできません。研究者はそんな言い訳はしませんが、それでもエンドユーザーがビジュアライゼーションを見てどう思うかに注目することはほとんどありません。
+研究プロジェクトSeeing Dataは、人々が日常生活 (多くの場合メディア) で遭遇するデータ・ビジュアライゼーションにどのように関わっているかを調査しました。
+このプロジェクトでは、人々の関心に影響を与える要因と、ビジュアライゼーションを効果的なものにするための考え方を探りました。
+Seeing Dataでは、（定性調査の）フォーカスグループとインタビューを使ってこれらの疑問を調査し、人々のデータ・ビジュアライゼーションとの関わりの根底にある態度、感情、信念を知ることができました。
+調査には46名が参加しましたが、その中には、データやビジュアライゼーション、（提示したビジュアライゼーションの主題である）移民に興味があり、プロジェクトの中心となる問題の一つに「すでに関与している」と思われる参加者と、このような仮定を立てることができない参加者が混在していました。
 
 In the focus groups, we asked participants to evaluate eight visualizations, which we chose (after much discussion) because they represented a diversity of subject matters, chart types, original media sources, formats and aimed either to explain or to invite exploration. Half of the visualisations were taken from journalism (BBC; The New York Times; The Metro, a freely distributed UK newspaper; and Scientific American magazine). Others came from organisations which visualise and share data as part of their work (the Migration Observatory at the University of Oxford; the Office for National Statistics (ONS) in the UK; and the Organisation for Economic Co-operation and Development (OECD).
 
