@@ -106,18 +106,19 @@ Factors which affect dataviz engagement
 参加者は以下に対する感情的な反応を報告してくれました。それは一般的なビジュアライゼーション、表現されたデータ、視覚的なスタイル、データ・ビジュアライゼーションの対象、ビジュアライゼーションのソースまたは（情報の）元々の格納場所、ビジュアライゼーションを理解するための自分のスキルレベルです。
 例えば、2人のシビル・ソサエティの専門家は、図2に示した英国の移民に関するビジュアライゼーションを見たときの気持ちを、強い言葉で表現しました。
 彼らはこのデータを見て、イギリスに来た移民がメディアの移民排斥の見出しに遭遇したとき、どのような気持ちになるのかを思いやり、自分がイギリス人であることに「罪悪感」や「恥ずかしさ」を感じていると表現しました。
+また、一部のビジュアライゼーションでは、そのビジュアルスタイルに強い感情を抱いた参加者もいました。The New York Timesによる映画の興行収入のビジュアライゼーションでは、その美しさに惹かれる人と敬遠する人とで意見が分かれました。
+「イメージとメッセージの連携が取れていて、このビジュアルプレゼンテーションを見るのが楽しくなりました」
 
-Other participants had strong emotional responses to the visual style of some visualizations. A visualization of film box office receipts by The New York Times4 divided participants, with some drawn to its aesthetic and some put off by it:
+「イライラする。そもそも美しくない表現で、はっきりと見づらく、情報もなく、ただごちゃごちゃしているだけだった」
+効果的なビジュアライゼーションを実現するためのポイント
 
-It was a pleasure to look at this visual presentation because of the coordination between the image and the message it carries.
+今回の調査では、効果的なビジュアライゼーションとは何かについて、さまざまなことが分かりました。
+例えば、専門家以外の人向けのビジュアライゼーションは、説得することを目的としています。ビジュアライゼーションのベースとなっているデータを知るために時間を割いてもらうためには、人々を引き付ける必要があります。
+ビジュアライゼーションは特定の感情を刺激し、人々がより長く、より深く、より遠くを見ようとするきっかけとなるかもしれません。また、興味を持たせる場合もあれば、その逆の場合もあります。効果的なビジュアライゼーションとは
+疑問を抱かせる／他の人と議論したいと思わせる
+データの中の他者への共感を生み出す
 
-Frustrated. It was an ugly representation to start with, difficult to see clearly, no information, just a mess.
 
-What this means for making effective visualisations
-A broad range of understandings of what makes a visualisation effective emerged from our research. Visualizations in the media that are targeted at non-specialists might aim to persuade, for example. They all need to attract in order to draw people in, if they are to commit time to finding out about the data on which the visualization is based. Visualizations might stimulate particular emotions, which inspire people to look longer, deeper or further. They might provoke interest, or the opposite. An effective visualisation could:
-
-Provoke questions/desire to engage in discussions with others
-Create empathy for other humans in the data
 Generate enough curiosity to draw the user in
 Reinforce or back up existing knowledge
 Provoke surprise
