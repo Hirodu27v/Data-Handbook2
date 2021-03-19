@@ -1,0 +1,103 @@
+Searchable Databases as a Journalistic Product
+Written by: Zara Rahman
+A still emerging journalistic format is the searchable online database – a web interface that gives access to a dataset, by newsrooms. This format is not new, but its appearance among data journalism projects is still relatively scarce.1
+
+In this article, we review a range of types of databases, from ones which cover topics which directly affect a reader’s life, to interfaces which are created in service of further investigative work. Our work is informed by one of the co-author’s work on Correctiv’s “Euros für Ärzte” (Euros for Doctors) investigation, outlined below as an illustrative case study.2 It is worth noting, too, that though it has become good practice to make raw data available after a data-driven investigation, the step of building a searchable interface for that data is considerably less common.
+
+We consider the particular affordances of creating databases in journalism, but also note that they open up a number of privacy-related and ethical issues on how data is used, accessed, modified and understood. We then examine what responsible data considerations arise as a consequence of using data in this way, considering the power dynamics inherent within, as well as the consequences of putting this kind of information online. We conclude by offering a set of best practices, which will likely evolve in the future.
+
+Examples of journalistic databases
+Databases can form part of the public-facing aspect of investigative journalism in a number of different ways.
+
+One type of database which has a strong personalisation element is ProPublica’s ‘Dollars for Docs’, which compiled data on payments to doctors and teaching hospitals that were made by pharmaceutical and medical device companies.3 This topic and approach was mirrored by Correctiv and Spiegel Online to create Euros für Ärzte, who created a searchable database of recipients of payments from pharmaceutical companies, as explained in further detail below. Both of these approaches involved compiling data from already-available sources, where the goal was to increase the accessibility of said data so that readers would be able to search it for themselves to, presumably, see if their own doctor had been the recipient of payments. Both were accompanied by reporting and ongoing investigations.
+
+Along similar lines, the Berliner Morgenpost built the “Schul Finder” to assist parents in finding schools in their area. In this case, the database interface itself is the main product.4
+
+In contrast to the type of database where the data is gathered and prepared by the newsroom, another style is where the readers can contribute to the data, sometimes known as ‘citizen-generated’ data, or simply crowdsourcing. This is particularly effective when the data required is not gathered through official sources, such as the Guardian’s crowdsourced database The Counted, which gathered information on people killed by police in the United States, in 2016 and 2015.5 Their database used a variety of online reporting, as well as reader-input.
+
+Another type of database involves taking an existing set of data and creating an interface where a reader can generate a report based on particular criteria they set – for example, the Nauru Files allows readers to view a summary of incident reports that were written by staff in Australia’s detention centre on Nauru between 2013 and 2015. The UK-based Bureau of Investigative Journalism compiles data from various sources gathered through their investigations, within a database called Drone Warfare.6 The database created allows readers to select particular countries covered and the time frame, to create a report with visualisations summarising the data.
+
+Finally, databases can also be created in service of further journalism, as a tool to assist research. The International Consortium of Investigative Journalists created and maintain the Offshore Leaks Database, which pulls in data from the Panama Papers, the Paradise Papers, and other investigations.7 Similarly, OCCRP maintain and update OCCRP Data which allows viewers to search over 19 million public records.8 In both these cases, the primary user of the tools is not envisioned to be the average reader, but instead journalists or researchers who would then carry out further research on whatever information is found using these tools.
+
+Following are some of the different considerations in making databases as a news product:
+
+Audience: aimed at readers directly, or as a research database for other journalists
+Timeliness: updated on an ongoing basis, or as a one-off publication
+Context: forming part of an investigation or story, or the database itself as the main product
+Interactivity: readers encouraged to give active input to improve the database, or readers considered primarily as viewers of the data.
+Sources: using already-public data, or making new information public via the database
+Case Study: Euros für Ärzte (Euros for Doctors)
+The European Federation of Pharmaceutical Industries and Associations (EFPIA) is a trade association which counts 33 national associations and 40 pharmaceutical companies among its members. In 2013, they decided that member companies must publish payments to healthcare professionals and organisations in the countries they operate starting in July 2016.9 Inspired by ProPublica’s “Dollars for Docs” project, non-profit German investigative newsroom Correctiv decided to collect these publications from the websites of German pharmaceutical companies and create a central, searchable database of recipients of payments from pharmaceutical companies for public viewing.10 They named the investigation “Euros für Ärzte” (“euros for doctors”).
+
+In collaboration with German national news outlet Spiegel Online, documents and data were gathered from around 50 websites and converted from different formats to consistent tabular data. This data was then further cleaned and recipients of payments from multiple companies were matched. The total time for data cleaning was around ten days and involved up to five people. A custom database search interface with individual URLs per recipient was designed and published by Correctiv.11 The database was updated in 2017 with a similar process. Correctiv also used the same methodology and web interface to publish data from Austria, in cooperation with derstandard.at and ORF, and data from Switzerland with Beobachter.ch.
+
+The journalistic objective was to highlight the systemic influence of the pharmaceutical industry on healthcare professionals, via their events, organisations and the associated conflicts of interest. The searchable database was intended to encourage readers to start a conversation with their doctor about the topic, and to draw attention to the very fact that this was happening.
+
+On a more meta level, the initiative also highlighted the inadequacy of voluntary disclosure rules. Because the publication requirement was an industry initiative rather than a legal requirement, the database was incomplete – and it’s unlikely that this would change without legally mandated disclosure.
+
+As described above, the database was incomplete, meaning that a number of people who had received payments from pharmaceutical companies were missing from the database. Consequently, when users search for their doctor, an empty result can either mean the doctor received no payment or that they denied publication – two vastly different conclusions. Critics have noted that this puts the spotlight on the cooperative and transparent individuals, leaving possibly more egregious money flows in the dark. To counter that, Correctiv provided an opt-in feature for doctors who had not received payments to also appear in the database, which provides important context to the narrative, but still leaves uncertainty in the search result.
+
+After publication, both Correctiv and Spiegel Online received dozens of complaints and legal threats from doctors that appeared in the database. As the data came from public, albeit difficult to find, sources, the legal team of Spiegel Online decided to defer most complaints to the pharma companies and only adjust the database in case of changes at the source.
+
+Technical considerations of building databases
+For a newsroom considering how to make a dataset available and accessible to readers, there are various criteria to consider, such as size and complexity of the dataset, internal technical capacity of the newsroom, and how readers should be able to interact with the data.
+
+When a newsroom decides that a database could be an appropriate product of an investigation, building one requires bespoke development and deployment – a not insignificant amount of resources. Making that data accessible via a third-party service is usually simpler and requires fewer resources.
+
+For example, in the case of Correctiv, the need to search and list ~20,000 recipients and their financial connections to pharma companies required a custom software solution. They developed the software for the database in a separate repository from its main website but in a way it could be hooked into the Content Management System. This decision was made to allow visual and conceptual integration into the main website and investigation section. The data was stored in a relational database separate from the content database to separate concerns. In their case, having a process and interface to adjust entries in the live database was crucial as dozens of upstream data corrections came in after publication.
+
+However, smaller datasets with simple structures can be made accessible without expensive software development projects. Some third-party spreadsheet tools (e.g. Google Sheets) allow tables to be embedded. There are also numerous frontend JavaScript libraries to enhance HTML tables with searching, filtering and sorting functionalities which can often be enough to make a few hundred rows accessible to readers.
+
+An attractive middle ground for making larger datasets accessible are JavaScript-based web applications with access to the dataset via API. This setup lends well to running iframe-embeddable search interfaces without committing to a full-fledged web application. The API can then be run via third party services while still having full control over the styling of the frontend.
+
+Affordances offered by databases
+Databases within, or alongside, a story, provide a number of new affordances for both readers, and for newsrooms.
+
+On the reader side, providing an online database allows readers to search for their own city, politician or doctor and connects the story to their own life. It provides a different channel for engagement with a story on a more personal level. Provided there are analytics running on these search queries, this also gives the newsroom more data on what their readers are interested in – potentially providing more leads for future work.
+
+On the side of the newsroom, if the database is considered as a long-term investigative investment, it can be used to automatically cross-reference entities with other databases or sets of documents for lead generation. Similarly, if or when other newsrooms decide to make similar databases available, collaboration and increased coverage becomes much easier while reusing the existing infrastructure and methodologies.
+
+Databases also potentially offer increased optimisation for search engines, thus driving more traffic to the news outlet website. When the database provides individual URLs for entities within, search engines will pick up these pages and rank them highly in their results for infrequent keyword searches related to these numerous entities – the so called “long-tail” of web searches, thus driving more traffic to the publisher’s site.
+
+Optimising for search engines can be seen as an unsavoury practice within journalism; however, providing readers with journalistic information while they are searching for particular issues can also be viewed as a part of successful audience engagement. While the goal of the public database should not be to compete on search keywords, it will likely be a welcome benefit that drives organic traffic, and can in turn attract new readership.
+
+Responsible Data Considerations
+Drawing upon the approach of the responsible data12 community, who work on developing best practices which take into account the ethical and privacy-related challenges faced by using data in new and different ways, we can consider the potential risks in a number of ways.
+
+Firstly: the way in which power is distributed in this situation, where a newsroom decides to publish a database containing data about people. Usually, those people have no agency or ability to veto or correct that data prior to publication. The power held by these people depends very much upon who they are – for example, a Politically Exposed Person included in such a database would presumably have both the expectation of such a development, and adequate resources to take action, whereas a healthcare professional likely is not expecting to be involved in an investigation. Once a database is published, visibility of the people within that database might change rapidly – for example, doctors in the “Euros für Ärzte” database gave feedback that one of the top web search results for their name was now their page in this database
+
+Power dynamics on the side of the reader or viewer are also worth considering. For whom could the database be most useful? Do they have the tools and capacity required to be able to make use of the database, or will this information be used by the already-powerful to further their interests? This might mean widening the scope of user testing prior to publication to ensure that enough context is given to properly explain the database to the desired audience, or including certain features that would make the database interface more accessible to that group.
+
+The assumption that more data leads to decisions that are better for society has been questioned on multiple levels in recent years. Education scholar Clare Fontaine expands upon this, noting that in the US, schools are becoming more segregated despite (or perhaps because of) an increase in data available about ‘school performance’.13 She notes that “a causal relationship between school choice and rampant segregation hasn’t yet been established”, but she and others are working more to understand that relationship, interrogating the perhaps overly simplified relationship that more information leads to better decisions, and questioning what “better” might mean.
+
+Secondly: the database itself. A database on its own contains many human decisions; what was collected and what was left out; how it was categorised, sorted, or analysed, for example. No piece of data is objective, although literacy and understanding of the limitations of this data are relatively low, meaning that readers could well misunderstand the conclusions that are being drawn.
+
+For example, the absence of an organisation from a database of political organisations involved in organised crime may not mean that the organisation does not take part in organised crime itself; it simply means that there was no data available about their actions. Michael Golebiewski and danah boyd refer to this absence of data as a “data void”, noting that in some cases a data void may “passively reflect bias or prejudice in society”14. This type of absence of data in an otherwise data-saturated space also maps closely to what Brooklyn-based artist and researcher Mimi Onuoha refers to as a “missing data set” and highlights the societal choices that go into collecting and gathering data.15
+
+Thirdly: the direction of attention. Databases can change the focus of public interest from a broader systemic issue to the actions of individuals, and vice versa. Financial flows between pharmaceutical companies and healthcare professionals is, clearly, an issue of public interest – but on an individual level, doctors might not think of themselves as a person of public interest. The fact remains, though, that in order to demonstrate an issue as broader and systemic (as a pattern, rather than a one-off) – data from multiple individuals is necessary. Some databases, such as the Euros für Ärzte” case study mentioned above, also change boundaries of what, or who, is in the public interest.
+
+Even when individuals agreed to the publication of their data, journalists have to decide how long this data is of public interest and if and when it should be taken down. The General Data Protection Regulation will likely affect the way in which journalists should manage this kind of personal data, and what kinds of mechanisms are available for individuals to remove consent of their data being included.
+
+With all of these challenges, our approach is to consider how people’s rights are affected by both the process and the end result of the investigation or product. At the heart is understanding that responsible data practices are ongoing approaches rather than checklists to be considered at specific points. We suggest these approaches which prioritise the rights of people reflected in the data all the way through the investigation, from data gathering to publication, are a core part of optimising (data) journalism for trust.16
+
+Best Practices
+For journalists thinking of building a database to share their investigation with the public, here are some best practices and recommendations. We envision these will evolve with time, and we welcome suggestions.
+
+Ahead of publication, develop a process for how to fix mistakes in the database. Good data provenance practices can help to find sources of errors.
+Build in a feedback channel: particularly when individuals are unexpectedly mentioned in an investigation, there is likely to be feedback (or complaints). Providing a good user experience for them to make that complaint might help the experience.
+Either keep the database up to date, or clearly mark that it is no longer maintained: Within the journalistic context, publishing a database demands a higher level of maintenance than publishing an article. The level of interactivity that a database affords means that there is a different expectation of how up to date it is compared to an article.
+Allocate enough resources for maintenance over time: Keeping the data and database software current involves significant resources. For example, adding data from the following year to a database requires merging newer data with older data, and adding an extra time dimension to the user interface.
+Observe how readers are using the database: trends in searches or use might provide leads for future stories and investigations.
+Be transparent: it’s rare that a database will be 100% ‘complete’, and every database will have certain choices built into it. Rather than glossing over these choices, make them visible so that readers know what they’re looking at.
+Works Cited
+
+Adrian Holovaty, ‘ A Fundamental Way Newspaper Sites Need to Change’, Writing, 6 September 2006.
+
+Mike Tigas, Ryann Grochowski Jones, Charles Ornstein, and Lena Groeger, ‘Dollars for Doctors’, ProPublica, 28 June 2018.
+
+Claire Fontaine, ‘Driving School Choice’, Data & Society: Points, 20 April 2017.
+
+Michael Golebiewski and Danah Boyd, ‘Data Voids: Where Missing Data Can Be Easily Exploited’, Data & Society, May 2018.
+
+Jay Rosen, ‘Optimizing Journalism for Trust’, The Correspondent, 14 April 2018.
+
