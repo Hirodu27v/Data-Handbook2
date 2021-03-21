@@ -1,8 +1,10 @@
 ジャーナリズムの産物としての検索可能なデータベース
 Written by: Zara Rahman
-A still emerging journalistic format is the searchable online database – a web interface that gives access to a dataset, by newsrooms. This format is not new, but its appearance among data journalism projects is still relatively scarce.1
-
-In this article, we review a range of types of databases, from ones which cover topics which directly affect a reader’s life, to interfaces which are created in service of further investigative work. Our work is informed by one of the co-author’s work on Correctiv’s “Euros für Ärzte” (Euros for Doctors) investigation, outlined below as an illustrative case study.2 It is worth noting, too, that though it has become good practice to make raw data available after a data-driven investigation, the step of building a searchable interface for that data is considerably less common.
+検索可能なオンラインデータベースは、いまだジャーナリズムのフォーマットとしては新しい部類に入ります。
+これは、ニュースルームからデータセットにアクセスできるWebインターフェイスです。このフォーマットは目新しいものではないものの、データ・ジャーナリズムのプロジェクトで使われる場面はまだ比較的少ないのです。
+この記事では、読者の生活に直接影響するトピックをカバーするものから、さらなる調査のために作成されるインターフェースまで、さまざまなタイプのデータベースを批評します。
+ここでは、共著者の一人が行った（ドイツの調査報道メディア）Correctivの「Euros für Ärzte」調査を参考にしています。
+また、データ駆動型の調査を行った後に生データを公開することは一般的になっていますが、そのデータに対して検索可能なインターフェースを構築することはまだ普及していないことも注目に値します。
 
 We consider the particular affordances of creating databases in journalism, but also note that they open up a number of privacy-related and ethical issues on how data is used, accessed, modified and understood. We then examine what responsible data considerations arise as a consequence of using data in this way, considering the power dynamics inherent within, as well as the consequences of putting this kind of information online. We conclude by offering a set of best practices, which will likely evolve in the future.
 
