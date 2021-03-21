@@ -5,11 +5,11 @@ Written by: Zara Rahman
 この記事では、読者の生活に直接影響するトピックをカバーするものから、さらなる調査のために作成されるインターフェースまで、さまざまなタイプのデータベースを批評します。
 ここでは、共著者の一人が行った（ドイツの調査報道メディア）Correctivの「Euros für Ärzte」調査を参考にしています。
 また、データ駆動型の調査を行った後に生データを公開することは一般的になっていますが、そのデータに対して検索可能なインターフェースを構築することはまだ普及していないことも注目に値します。
-
-We consider the particular affordances of creating databases in journalism, but also note that they open up a number of privacy-related and ethical issues on how data is used, accessed, modified and understood. We then examine what responsible data considerations arise as a consequence of using data in this way, considering the power dynamics inherent within, as well as the consequences of putting this kind of information online. We conclude by offering a set of best practices, which will likely evolve in the future.
-
-Examples of journalistic databases
-Databases can form part of the public-facing aspect of investigative journalism in a number of different ways.
+（まずは）ジャーナリズムにおいてデータベースを活用する利点を考えていきますが、データがどのように使用され、アクセスされ、変更され、理解されるのか、プライバシーに関連した倫理的な問題が数多くあることも忘れてはいけません。
+次に、こうした形でデータを使用するとき、データに対する責任についてこの種の情報をオンラインにする影響と、データ固有のパワーダイナミクスを検討します。
+最後に、今後発展していくであろうベスト・プラクティスを紹介します。
+ジャーナリスティックなデータベース
+データベースは、一般の人々に調査報道（の内容）を知らせる上でさまざまな役割を果たします。
 
 One type of database which has a strong personalisation element is ProPublica’s ‘Dollars for Docs’, which compiled data on payments to doctors and teaching hospitals that were made by pharmaceutical and medical device companies.3 This topic and approach was mirrored by Correctiv and Spiegel Online to create Euros für Ärzte, who created a searchable database of recipients of payments from pharmaceutical companies, as explained in further detail below. Both of these approaches involved compiling data from already-available sources, where the goal was to increase the accessibility of said data so that readers would be able to search it for themselves to, presumably, see if their own doctor had been the recipient of payments. Both were accompanied by reporting and ongoing investigations.
 
