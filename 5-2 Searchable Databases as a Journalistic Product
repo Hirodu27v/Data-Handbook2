@@ -10,10 +10,10 @@ Written by: Zara Rahman
 最後に、今後発展していくであろうベスト・プラクティスを紹介します。
 ジャーナリスティックなデータベース
 データベースは、一般の人々に調査報道（の内容）を知らせる上でさまざまな役割を果たします。
-
-One type of database which has a strong personalisation element is ProPublica’s ‘Dollars for Docs’, which compiled data on payments to doctors and teaching hospitals that were made by pharmaceutical and medical device companies.3 This topic and approach was mirrored by Correctiv and Spiegel Online to create Euros für Ärzte, who created a searchable database of recipients of payments from pharmaceutical companies, as explained in further detail below. Both of these approaches involved compiling data from already-available sources, where the goal was to increase the accessibility of said data so that readers would be able to search it for themselves to, presumably, see if their own doctor had been the recipient of payments. Both were accompanied by reporting and ongoing investigations.
-
-Along similar lines, the Berliner Morgenpost built the “Schul Finder” to assist parents in finding schools in their area. In this case, the database interface itself is the main product.4
+パーソナル化の要素が強いデータベースとしては、ProPublica社の「Dollars for Docs」があります。
+このデータベースは、製薬会社や医療機器会社が医師や教育病院に支払った金額のデータをまとめたものです。このテーマとアプローチは、CorrectivとSpiegel Onlineによる「Euros für Ärzte」にも反映され、製薬会社からの支払いを受けた人の検索可能なデータベースを作成しています（以下に詳しく説明します）。
+どちらのアプローチも、すでに利用可能な情報源からデータを集め、読者が自分で検索して、自分の主治医が支払いを受けているかどうかを確認できるように、データへのアクセス性を高めることを目的としています。どちらも報道と継続的な調査が行われました。
+同様に、Berliner Morgenpostは、親が自分の地域の学校を見つけるのを支援する「Schul Finder」を構築しました。この場合、データベース・インターフェース自体が製品となっています。
 
 In contrast to the type of database where the data is gathered and prepared by the newsroom, another style is where the readers can contribute to the data, sometimes known as ‘citizen-generated’ data, or simply crowdsourcing. This is particularly effective when the data required is not gathered through official sources, such as the Guardian’s crowdsourced database The Counted, which gathered information on people killed by police in the United States, in 2016 and 2015.5 Their database used a variety of online reporting, as well as reader-input.
 
