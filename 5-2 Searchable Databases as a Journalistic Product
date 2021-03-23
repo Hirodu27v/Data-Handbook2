@@ -14,10 +14,11 @@ Written by: Zara Rahman
 このデータベースは、製薬会社や医療機器会社が医師や教育病院に支払った金額のデータをまとめたものです。このテーマとアプローチは、CorrectivとSpiegel Onlineによる「Euros für Ärzte」にも反映され、製薬会社からの支払いを受けた人の検索可能なデータベースを作成しています（以下に詳しく説明します）。
 どちらのアプローチも、すでに利用可能な情報源からデータを集め、読者が自分で検索して、自分の主治医が支払いを受けているかどうかを確認できるように、データへのアクセス性を高めることを目的としています。どちらも報道と継続的な調査が行われました。
 同様に、Berliner Morgenpostは、親が自分の地域の学校を見つけるのを支援する「Schul Finder」を構築しました。この場合、データベース・インターフェース自体が製品となっています。
-
-In contrast to the type of database where the data is gathered and prepared by the newsroom, another style is where the readers can contribute to the data, sometimes known as ‘citizen-generated’ data, or simply crowdsourcing. This is particularly effective when the data required is not gathered through official sources, such as the Guardian’s crowdsourced database The Counted, which gathered information on people killed by police in the United States, in 2016 and 2015.5 Their database used a variety of online reporting, as well as reader-input.
-
-Another type of database involves taking an existing set of data and creating an interface where a reader can generate a report based on particular criteria they set – for example, the Nauru Files allows readers to view a summary of incident reports that were written by staff in Australia’s detention centre on Nauru between 2013 and 2015. The UK-based Bureau of Investigative Journalism compiles data from various sources gathered through their investigations, within a database called Drone Warfare.6 The database created allows readers to select particular countries covered and the time frame, to create a report with visualisations summarising the data.
+ニュースルームがデータを集めて準備するタイプのデータベースとは対照的に、もう一つのスタイルは、読者がデータに貢献するものです。「市民によるデータ生成」、あるいは単にクラウドソーシングと呼ばれることもあります。
+これは、必要なデータが公式な情報源から収集されていない場合に特に有効です。例えば、ガーディアンのクラウドソース・データベース「The Counted」は、2015、16年にアメリカで警察に殺された人々の情報を収集しました。
+このデータベースは、様々なオンライン・レポートと読者からの情報を基に作られています。
+別のタイプのデータベースでは、既存のデータを利用して、読者が設定した特定の基準に基づいてレポートを作成できるインターフェースを作成します。例えば、「Nauru Files」では、2013～15年にオーストラリアのナウルにある収容所のスタッフが書いたインシデントレポートの概要を見ることができます。
+英国のBureau of Investigative Journalismは、調査によって得られたさまざまな情報源からのデータを「Drone Warfare」というデータベースにまとめています。このデータベースでは、読者が対象となる国や期間を選択して、データを要約して可視化したレポートを作成することができます。
 
 Finally, databases can also be created in service of further journalism, as a tool to assist research. The International Consortium of Investigative Journalists created and maintain the Offshore Leaks Database, which pulls in data from the Panama Papers, the Paradise Papers, and other investigations.7 Similarly, OCCRP maintain and update OCCRP Data which allows viewers to search over 19 million public records.8 In both these cases, the primary user of the tools is not envisioned to be the average reader, but instead journalists or researchers who would then carry out further research on whatever information is found using these tools.
 
