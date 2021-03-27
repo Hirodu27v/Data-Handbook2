@@ -19,8 +19,9 @@ Written by: Zara Rahman
 このデータベースは、様々なオンライン・レポートと読者からの情報を基に作られています。
 別のタイプのデータベースでは、既存のデータを利用して、読者が設定した特定の基準に基づいてレポートを作成できるインターフェースを作成します。例えば、「Nauru Files」では、2013～15年にオーストラリアのナウルにある収容所のスタッフが書いたインシデントレポートの概要を見ることができます。
 英国のBureau of Investigative Journalismは、調査によって得られたさまざまな情報源からのデータを「Drone Warfare」というデータベースにまとめています。このデータベースでは、読者が対象となる国や期間を選択して、データを要約して可視化したレポートを作成することができます。
+最後に、データベースは、ジャーナリズムの発展のために、調査を支援するツールとしても作成できます。
 
-Finally, databases can also be created in service of further journalism, as a tool to assist research. The International Consortium of Investigative Journalists created and maintain the Offshore Leaks Database, which pulls in data from the Panama Papers, the Paradise Papers, and other investigations.7 Similarly, OCCRP maintain and update OCCRP Data which allows viewers to search over 19 million public records.8 In both these cases, the primary user of the tools is not envisioned to be the average reader, but instead journalists or researchers who would then carry out further research on whatever information is found using these tools.
+The International Consortium of Investigative Journalists created and maintain the Offshore Leaks Database, which pulls in data from the Panama Papers, the Paradise Papers, and other investigations.7 Similarly, OCCRP maintain and update OCCRP Data which allows viewers to search over 19 million public records.8 In both these cases, the primary user of the tools is not envisioned to be the average reader, but instead journalists or researchers who would then carry out further research on whatever information is found using these tools.
 
 Following are some of the different considerations in making databases as a news product:
 
