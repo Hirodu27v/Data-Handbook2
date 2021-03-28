@@ -29,13 +29,11 @@ Written by: Zara Rahman
 インタラクティブ性：データベースを改善するために読者が積極的に意見を述べることを歓迎しているか、あるいは読者は主にデータの受け手であると考えているか。
 情報源：すでに公開されているデータを利用するか、データベースを通じて新しい情報を公開するか
 ケーススタディ： Euros für Ärzte (Euros for Doctors)
-
-
-
-
-The European Federation of Pharmaceutical Industries and Associations (EFPIA) is a trade association which counts 33 national associations and 40 pharmaceutical companies among its members. In 2013, they decided that member companies must publish payments to healthcare professionals and organisations in the countries they operate starting in July 2016.9 Inspired by ProPublica’s “Dollars for Docs” project, non-profit German investigative newsroom Correctiv decided to collect these publications from the websites of German pharmaceutical companies and create a central, searchable database of recipients of payments from pharmaceutical companies for public viewing.10 They named the investigation “Euros für Ärzte” (“euros for doctors”).
-
-In collaboration with German national news outlet Spiegel Online, documents and data were gathered from around 50 websites and converted from different formats to consistent tabular data. This data was then further cleaned and recipients of payments from multiple companies were matched. The total time for data cleaning was around ten days and involved up to five people. A custom database search interface with individual URLs per recipient was designed and published by Correctiv.11 The database was updated in 2017 with a similar process. Correctiv also used the same methodology and web interface to publish data from Austria, in cooperation with derstandard.at and ORF, and data from Switzerland with Beobachter.ch.
+欧州製薬団体連合会（EFPIA）は、33の国の団体と40の製薬会社が加盟する業界団体です。2013年、欧州製薬団体連合会は、16年7月以降、会員企業が事業を展開する国の医療従事者や組織に対する支払いを公表することを決定しました。
+ドイツの非営利調査報道機関であるCorrectivは、ProPublicaの「Dollars for Docs」プロジェクトに触発され、ドイツの製薬企業のWebサイトからこれらの公表資料を収集し、製薬企業からの支払いを受けた人の検索可能なデータベースを作成して一般公開することを決めました。
+彼らは調査を 「EurofürÄrzte」 ( 「医師のためのユーロ」 ) と名付けたのです。
+ドイツの国内ニュース（週刊誌）Spiegel Onlineと共同で、約50のウェブサイトから文書とデータを収集し、異なるフォーマットから一貫した表形式のデータに変換しました。そして、このデータをさらにクリーニングし、複数の企業からの支払いの受領者を照合しました。
+データクリーニングに要した期間は約10日間で、最大で5人が参加しました。受領者ごとのURLを設定したカスタムデータベースの検索インターフェースをCorrectivが設計し、公開しました。2017年にも同様のプロセスでデータベースを更新した。Correctiv社は、同じ方法論とウェブインターフェースを用いて、オーストリアのデータをderstandard.atとORFの協力で、スイスのデータをBeobachter.chの協力で公開しました。
 
 The journalistic objective was to highlight the systemic influence of the pharmaceutical industry on healthcare professionals, via their events, organisations and the associated conflicts of interest. The searchable database was intended to encourage readers to start a conversation with their doctor about the topic, and to draw attention to the very fact that this was happening.
 
