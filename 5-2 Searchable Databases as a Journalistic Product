@@ -34,16 +34,13 @@ Written by: Zara Rahman
 彼らは調査を 「EurofürÄrzte」 ( 「医師のためのユーロ」 ) と名付けたのです。
 ドイツの国内ニュース（週刊誌）Spiegel Onlineと共同で、約50のウェブサイトから文書とデータを収集し、異なるフォーマットから一貫した表形式のデータに変換しました。そして、このデータをさらにクリーニングし、複数の企業からの支払いの受領者を照合しました。
 データクリーニングに要した期間は約10日間で、最大で5人が参加しました。受領者ごとのURLを設定したカスタムデータベースの検索インターフェースをCorrectivが設計し、公開しました。2017年にも同様のプロセスでデータベースを更新した。Correctiv社は、同じ方法論とウェブインターフェースを用いて、オーストリアのデータをderstandard.atとORFの協力で、スイスのデータをBeobachter.chの協力で公開しました。
+報道の目的は、製薬業界がイベントや組織、そして関連する利益相反を介して、医療従事者に及ぼす体系的な影響を強調することでした。検索可能なデータベースは、読者がこの話題について医師と議論を始めるきっかけになり、このようなことが起こっているという事実に注意を喚起することを目的としています。
+さらに言えば、この取り組みは、自主的な情報開示ルールの不備を浮き彫りにしました。公開の義務は法的な義務ではなく、業界のイニシアチブによるものだったため、データベースは不完全なものでした。
+前述したように、データベースは不完全で、製薬会社から支払いを受けたことのある多くの人々がデータベースから抜け落ちていました。そのため、ユーザーが自分の担当医師を検索したときに、検索結果が空欄だった場合、その医師が支払いを受けていない場合と、公開を拒否した場合があり、二つの全く異なる結論となってしまいます。
+これは、協力的で透明性の高い個人にスポットライトが当たり、より悪質なお金の流れが闇に葬られてしまうことを意味すると批判されています。そこでCorrectivは、支払いを受けていない医師もデータベースに表示されるよう、オプトイン機能を提供しました。これにより、ストーリーに重要な背景を与えることができますが、検索結果には不確実性が残ります。
+出版後、Correctiv と Spiegel Online の両社は、データベースに掲載された医師から数十件の苦情と法的脅迫を受けた。データは見つけるのが難しいとはいえ、公開された情報源から得たものなので、Spiegel Onlineの法務チームは、ほとんどの苦情を製薬会社にゆだねることにして、情報源に変更があった場合にのみデータベースを調整することにしました。
+データベース構築の技術的検討
 
-The journalistic objective was to highlight the systemic influence of the pharmaceutical industry on healthcare professionals, via their events, organisations and the associated conflicts of interest. The searchable database was intended to encourage readers to start a conversation with their doctor about the topic, and to draw attention to the very fact that this was happening.
-
-On a more meta level, the initiative also highlighted the inadequacy of voluntary disclosure rules. Because the publication requirement was an industry initiative rather than a legal requirement, the database was incomplete – and it’s unlikely that this would change without legally mandated disclosure.
-
-As described above, the database was incomplete, meaning that a number of people who had received payments from pharmaceutical companies were missing from the database. Consequently, when users search for their doctor, an empty result can either mean the doctor received no payment or that they denied publication – two vastly different conclusions. Critics have noted that this puts the spotlight on the cooperative and transparent individuals, leaving possibly more egregious money flows in the dark. To counter that, Correctiv provided an opt-in feature for doctors who had not received payments to also appear in the database, which provides important context to the narrative, but still leaves uncertainty in the search result.
-
-After publication, both Correctiv and Spiegel Online received dozens of complaints and legal threats from doctors that appeared in the database. As the data came from public, albeit difficult to find, sources, the legal team of Spiegel Online decided to defer most complaints to the pharma companies and only adjust the database in case of changes at the source.
-
-Technical considerations of building databases
 For a newsroom considering how to make a dataset available and accessible to readers, there are various criteria to consider, such as size and complexity of the dataset, internal technical capacity of the newsroom, and how readers should be able to interact with the data.
 
 When a newsroom decides that a database could be an appropriate product of an investigation, building one requires bespoke development and deployment – a not insignificant amount of resources. Making that data accessible via a third-party service is usually simpler and requires fewer resources.
