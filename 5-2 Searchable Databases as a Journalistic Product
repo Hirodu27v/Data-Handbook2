@@ -40,14 +40,18 @@ Written by: Zara Rahman
 これは、協力的で透明性の高い個人にスポットライトが当たり、より悪質なお金の流れが闇に葬られてしまうことを意味すると批判されています。そこでCorrectivは、支払いを受けていない医師もデータベースに表示されるよう、オプトイン機能を提供しました。これにより、ストーリーに重要な背景を与えることができますが、検索結果には不確実性が残ります。
 出版後、Correctiv と Spiegel Online の両社は、データベースに掲載された医師から数十件の苦情と法的脅迫を受けた。データは見つけるのが難しいとはいえ、公開された情報源から得たものなので、Spiegel Onlineの法務チームは、ほとんどの苦情を製薬会社にゆだねることにして、情報源に変更があった場合にのみデータベースを調整することにしました。
 データベース構築の技術的検討
+データセットを読者に提供し、アクセス可能にする方法を検討しているニュースルームにとって、データセットのサイズや複雑さ、ニュースルームの技術的能力、読者がどのようにデータと対話すべきかなど、考慮すべき基準はさまざまです。
+ニュースルームがデータベースが必要だと判断した場合、データベース構築には、オーダーメイドの開発と展開が必要となり、これには少なからぬリソースが必要となります。サードパーティのサービスを利用してデータにアクセスできるようにすれば、通常はよりシンプルで少ないリソースで済みます。
+例えば、Correctiv社の場合、製薬会社と約2万人にも上る受領者との金銭的なつながりを検索し、リストアップするため、カスタムソフトウェアソリューションが必要でした。
+彼らは、データベース用のソフトウェアをメインのウェブサイトとは別のリポジトリで開発しましたが、コンテンツ管理システムに接続できるようにしました。
+これにより、メインのウェブサイトと調査セクションを視覚的、概念的に統合したのです。データは、関係を分離するために、コンテンツ・データベースとは別のリレーショナル・データベースに格納されました。
+公開後に何十もの上流データの修正が入ってきたため、データベースのエントリを調整するプロセスとインターフェースを持つことが重要でした。
+データベースのエントリを調整するプロセスとインターフェイスを持つことが重要でした。
+しかし、シンプルな構造を持つ小規模なデータセットであれば、高価なソフトウェア開発プロジェクトを行わなくてもアクセス可能にすることができます。サードパーティ製の表計算ツール（Google Sheetsなど）には、表を埋め込むことができるものがあります。また、HTMLの表を検索、フィルタリング、ソートなどの機能で拡張するフロントエンドのJavaScriptライブラリも数多くあり、数百行程度のデータであれば、読者がアクセスできるようにするのに十分な機能を備えています。
 
-For a newsroom considering how to make a dataset available and accessible to readers, there are various criteria to consider, such as size and complexity of the dataset, internal technical capacity of the newsroom, and how readers should be able to interact with the data.
 
-When a newsroom decides that a database could be an appropriate product of an investigation, building one requires bespoke development and deployment – a not insignificant amount of resources. Making that data accessible via a third-party service is usually simpler and requires fewer resources.
 
-For example, in the case of Correctiv, the need to search and list ~20,000 recipients and their financial connections to pharma companies required a custom software solution. They developed the software for the database in a separate repository from its main website but in a way it could be hooked into the Content Management System. This decision was made to allow visual and conceptual integration into the main website and investigation section. The data was stored in a relational database separate from the content database to separate concerns. In their case, having a process and interface to adjust entries in the live database was crucial as dozens of upstream data corrections came in after publication.
 
-However, smaller datasets with simple structures can be made accessible without expensive software development projects. Some third-party spreadsheet tools (e.g. Google Sheets) allow tables to be embedded. There are also numerous frontend JavaScript libraries to enhance HTML tables with searching, filtering and sorting functionalities which can often be enough to make a few hundred rows accessible to readers.
 
 An attractive middle ground for making larger datasets accessible are JavaScript-based web applications with access to the dataset via API. This setup lends well to running iframe-embeddable search interfaces without committing to a full-fledged web application. The API can then be run via third party services while still having full control over the styling of the frontend.
 
