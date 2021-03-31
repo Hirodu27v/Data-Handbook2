@@ -48,15 +48,11 @@ Written by: Zara Rahman
 公開後に何十もの上流データの修正が入ってきたため、データベースのエントリを調整するプロセスとインターフェースを持つことが重要でした。
 データベースのエントリを調整するプロセスとインターフェイスを持つことが重要でした。
 しかし、シンプルな構造を持つ小規模なデータセットであれば、高価なソフトウェア開発プロジェクトを行わなくてもアクセス可能にすることができます。サードパーティ製の表計算ツール（Google Sheetsなど）には、表を埋め込むことができるものがあります。また、HTMLの表を検索、フィルタリング、ソートなどの機能で拡張するフロントエンドのJavaScriptライブラリも数多くあり、数百行程度のデータであれば、読者がアクセスできるようにするのに十分な機能を備えています。
+大規模なデータセットにアクセスするための魅力的な中間者は、APIを介するJavaScriptベースのウェブアプリケーションです。
+これは、本格的なウェブアプリケーションを作成することなく、iframeで埋め込み可能な検索インターフェースを実行するのに適しています。APIはサードパーティのサービスを介して実行することができ、フロントエンドのスタイルを完全にコントロールすることができます。
 
-
-
-
-
-An attractive middle ground for making larger datasets accessible are JavaScript-based web applications with access to the dataset via API. This setup lends well to running iframe-embeddable search interfaces without committing to a full-fledged web application. The API can then be run via third party services while still having full control over the styling of the frontend.
-
-Affordances offered by databases
-Databases within, or alongside, a story, provide a number of new affordances for both readers, and for newsrooms.
+データベースがもたらす効果
+記事の中に、あるいは記事と一緒にデータベースを利用することで、読者にもニュースルームにも多くの新しい価値を提供することができます。
 
 On the reader side, providing an online database allows readers to search for their own city, politician or doctor and connects the story to their own life. It provides a different channel for engagement with a story on a more personal level. Provided there are analytics running on these search queries, this also gives the newsroom more data on what their readers are interested in – potentially providing more leads for future work.
 
