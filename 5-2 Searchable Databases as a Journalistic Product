@@ -53,14 +53,17 @@ Written by: Zara Rahman
 
 データベースがもたらす効果
 記事の中に、あるいは記事と一緒にデータベースを利用することで、読者にもニュースルームにも多くの新しい価値を提供することができます。
+読者の側から見ると、オンラインのデータベースを提供することで、読者は自分の住んでいる都市や政治家、医師などを検索し、ストーリーを自分の生活に結びつけることができます。これは、より個人的なレベルで記事に関与するための別のチャネルを提供します。また、これらの検索クエリを分析することで、ニュースルームは読者が何に興味を持っているかというデータを得ることができ、今後の仕事のヒントになる可能性があります。
+ニュースルーム側では、データベースを長期的な調査のための投資と考えれば、他のデータベースや文書群とエンティティを自動的に相互参照し、前文を作成することができるようになります。
+他のニュースルームが同じようなデータベースを利用できるようになったならば、既存のインフラや方法論を再利用しながら、たやすく共同作業や取材範囲の拡大ができるようになります。
+また、データベースを利用することで、検索エンジンへの最適化が図られ、ニュースサイトへのトラフィックが増加する可能性があります。
+データベースが内部のエンティティの個々のURLを提供すると、検索エンジンはこれらのページをピックアップし、これらの多数のエンティティに関連する頻度の低いキーワード検索の結果で上位にランク付けします。
+いわゆる「ロングテール」と呼ばれるウェブ検索では、これらのページが検索エンジンで上位に表示され、（記事の）公開元のサイトへのトラフィックが増加することになります。
+検索エンジンに最適化することは、ジャーナリズムの世界では好ましくない行為とみなされることがありますが、読者が特定の問題を検索しているときにジャーナリズムの情報を提供することは、読者とのエンゲージメントを成功させる一環と考えられます。
+公開データベースの目的は、検索キーワードで競争することではありませんが、有機的なトラフィックを促進し、新しい読者を惹きつけることができる、歓迎すべき利点となるでしょう。
 
-On the reader side, providing an online database allows readers to search for their own city, politician or doctor and connects the story to their own life. It provides a different channel for engagement with a story on a more personal level. Provided there are analytics running on these search queries, this also gives the newsroom more data on what their readers are interested in – potentially providing more leads for future work.
 
-On the side of the newsroom, if the database is considered as a long-term investigative investment, it can be used to automatically cross-reference entities with other databases or sets of documents for lead generation. Similarly, if or when other newsrooms decide to make similar databases available, collaboration and increased coverage becomes much easier while reusing the existing infrastructure and methodologies.
 
-Databases also potentially offer increased optimisation for search engines, thus driving more traffic to the news outlet website. When the database provides individual URLs for entities within, search engines will pick up these pages and rank them highly in their results for infrequent keyword searches related to these numerous entities – the so called “long-tail” of web searches, thus driving more traffic to the publisher’s site.
-
-Optimising for search engines can be seen as an unsavoury practice within journalism; however, providing readers with journalistic information while they are searching for particular issues can also be viewed as a part of successful audience engagement. While the goal of the public database should not be to compete on search keywords, it will likely be a welcome benefit that drives organic traffic, and can in turn attract new readership.
 
 Responsible Data Considerations
 Drawing upon the approach of the responsible data12 community, who work on developing best practices which take into account the ethical and privacy-related challenges faced by using data in new and different ways, we can consider the potential risks in a number of ways.
