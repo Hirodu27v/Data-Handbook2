@@ -63,45 +63,67 @@ Written by: Zara Rahman
 公開データベースの目的は、検索キーワードで競争することではありませんが、有機的なトラフィックを促進し、新しい読者を惹きつけることができる、歓迎すべき利点となるでしょう。
 
 責任あるデータについての考察
+データコミュニティの責任あるメンバーのアプローチを参考にすると、（彼らは）データを新たにさまざまな方法で使用する際に直面する倫理的およびプライバシー関連の課題を考慮したベストプラクティスの開発に取り組んでおり、いくつかの方法で潜在的なリスクを検討することができます。
+まず、ニュースルームが個人のデータを含むデータベースの公開を決定するという状況において、権力がどのように分配されているかという問題があります。通常、その人々は、公開前にそのデータを拒否したり修正したりする機関や能力を持っていません。
+例えば、このようなデータベースに含まれる政治的に公開された人物（PEP、重要な公的地位にある人物）は、そのような展開を予想し、行動を起こすのに十分なリソースを持っていると思われますが、医療従事者はおそらく調査に巻き込まれることを予想していないでしょう。
+例えば、Euros für Ärzteデータベースに登録されている医師は、自分の名前のウェブ検索結果の上位に、このデータベースの自分のページが表示されるようになったとフィードバックしています。
+読者側のパワーダイナミクスにも注目してください。このデータベースは誰にとって最も有用なのか？データベースを利用するのに必要なツールや能力を持っているのか、それともすでに力を持っている人が自分の利益のためにこの情報を利用するのか。
+そのためには、公開前のユーザーテストの範囲を広げて、対象となる人々にデータベースを適切に説明するための十分な文脈を確保したり、データベースのインターフェースを対象となる人々がより利用しやすくなるような機能を盛り込んだりする必要があるかもしれません。
 
+The assumption that more data leads to decisions that are better for society has been questioned on multiple levels in recent years. Education scholar Clare Fontaine (2017) expands upon this, noting that in the United States, schools are becoming more segregated despite (or perhaps because of) an increase in data available about “school performance.” She notes that “a causal relationship between school choice and rampant segregation hasn’t yet been established,” but she and others are working more to understand that relationship, interrogating the perhaps overly simplified relationship that more information leads to better decisions, and questioning what “better” might mean (Fontaine, 2017).
 
+Second is the question of the database itself. A database on its own contains many human decisions; what was collected and what was left out, and how it was categorized, sorted or analyzed, for example. No piece of data is objective, although literacy and understanding of the limitations of data are relatively low, meaning that readers could well misunderstand the conclusions that are being drawn.
 
-Drawing upon the approach of the responsible data12 community, who work on developing best practices which take into account the ethical and privacy-related challenges faced by using data in new and different ways, we can consider the potential risks in a number of ways.
+For example, the absence of an organization from a database of political organizations involved in organized crime may not mean that the organiza- tion does not take part in organized crime itself; it simply means that there was no data available about their actions. Michael Golebiewski and Danah Boyd (2018) refer to this absence of data as a “data void,” noting that in some cases a data void may “passively reflect bias or prejudice in society.” This type of absence of data in an otherwise data-saturated space also maps closely to what Brooklyn-based artist and researcher Mimi Onuoha (2016) refers to as a “missing data set,” and highlights the societal choices that go into collecting and gathering data.
 
-Firstly: the way in which power is distributed in this situation, where a newsroom decides to publish a database containing data about people. Usually, those people have no agency or ability to veto or correct that data prior to publication. The power held by these people depends very much upon who they are – for example, a Politically Exposed Person included in such a database would presumably have both the expectation of such a development, and adequate resources to take action, whereas a healthcare professional likely is not expecting to be involved in an investigation. Once a database is published, visibility of the people within that database might change rapidly – for example, doctors in the “Euros für Ärzte” database gave feedback that one of the top web search results for their name was now their page in this database
+Third is the direction of attention. Databases can change the focus of public interest from a broader systemic issue to the actions of individuals, and vice versa. Financial flows between pharmaceutical companies and healthcare professionals are, clearly, an issue of public interest—but, on an individual level, doctors might not think of themselves as a person of public interest. The fact remains, though, that in order to demonstrate an issue as broader and systemic (as a pattern, rather than a one-off), data from multiple individuals is necessary. Some databases, such as the Euros für Ärzte case study mentioned above, also change boundaries of what, or who, is in the public interest.
 
-Power dynamics on the side of the reader or viewer are also worth considering. For whom could the database be most useful? Do they have the tools and capacity required to be able to make use of the database, or will this information be used by the already-powerful to further their interests? This might mean widening the scope of user testing prior to publication to ensure that enough context is given to properly explain the database to the desired audience, or including certain features that would make the database interface more accessible to that group.
+Even when individuals agree to the publication of their data, journalists have to decide how long this data is of public interest and if and when it should be taken down. The General Data Protection Regulation (GDPR) will likely affect the way in which journalists should manage this kind of personal data, and what kinds of mechanisms are available for individuals to rescind consent to their data being included.
 
-The assumption that more data leads to decisions that are better for society has been questioned on multiple levels in recent years. Education scholar Clare Fontaine expands upon this, noting that in the US, schools are becoming more segregated despite (or perhaps because of) an increase in data available about ‘school performance’.13 She notes that “a causal relationship between school choice and rampant segregation hasn’t yet been established”, but she and others are working more to understand that relationship, interrogating the perhaps overly simplified relationship that more information leads to better decisions, and questioning what “better” might mean.
-
-Secondly: the database itself. A database on its own contains many human decisions; what was collected and what was left out; how it was categorised, sorted, or analysed, for example. No piece of data is objective, although literacy and understanding of the limitations of this data are relatively low, meaning that readers could well misunderstand the conclusions that are being drawn.
-
-For example, the absence of an organisation from a database of political organisations involved in organised crime may not mean that the organisation does not take part in organised crime itself; it simply means that there was no data available about their actions. Michael Golebiewski and danah boyd refer to this absence of data as a “data void”, noting that in some cases a data void may “passively reflect bias or prejudice in society”14. This type of absence of data in an otherwise data-saturated space also maps closely to what Brooklyn-based artist and researcher Mimi Onuoha refers to as a “missing data set” and highlights the societal choices that go into collecting and gathering data.15
-
-Thirdly: the direction of attention. Databases can change the focus of public interest from a broader systemic issue to the actions of individuals, and vice versa. Financial flows between pharmaceutical companies and healthcare professionals is, clearly, an issue of public interest – but on an individual level, doctors might not think of themselves as a person of public interest. The fact remains, though, that in order to demonstrate an issue as broader and systemic (as a pattern, rather than a one-off) – data from multiple individuals is necessary. Some databases, such as the Euros für Ärzte” case study mentioned above, also change boundaries of what, or who, is in the public interest.
-
-Even when individuals agreed to the publication of their data, journalists have to decide how long this data is of public interest and if and when it should be taken down. The General Data Protection Regulation will likely affect the way in which journalists should manage this kind of personal data, and what kinds of mechanisms are available for individuals to remove consent of their data being included.
-
-With all of these challenges, our approach is to consider how people’s rights are affected by both the process and the end result of the investigation or product. At the heart is understanding that responsible data practices are ongoing approaches rather than checklists to be considered at specific points. We suggest these approaches which prioritise the rights of people reflected in the data all the way through the investigation, from data gathering to publication, are a core part of optimising (data) journalism for trust.16
+With all of these challenges, our approach is to consider how people’s rights are affected by both the process and the end result of the investigation or product. At the heart is understanding that responsible data practices are ongoing approaches rather than checklists to be considered at specific points. We suggest that approaches which prioritize the rights of people reflected in the data throughout the entire investigation, from data gathering to publication, are a core part of optimizing (data) journalism for trust (Rosen, 2018).
 
 Best Practices
+
 For journalists thinking of building a database to share their investigation with the public, here are some best practices and recommendations. We envision these will evolve with time, and we welcome suggestions.
 
-Ahead of publication, develop a process for how to fix mistakes in the database. Good data provenance practices can help to find sources of errors.
-Build in a feedback channel: particularly when individuals are unexpectedly mentioned in an investigation, there is likely to be feedback (or complaints). Providing a good user experience for them to make that complaint might help the experience.
-Either keep the database up to date, or clearly mark that it is no longer maintained: Within the journalistic context, publishing a database demands a higher level of maintenance than publishing an article. The level of interactivity that a database affords means that there is a different expectation of how up to date it is compared to an article.
-Allocate enough resources for maintenance over time: Keeping the data and database software current involves significant resources. For example, adding data from the following year to a database requires merging newer data with older data, and adding an extra time dimension to the user interface.
-Observe how readers are using the database: trends in searches or use might provide leads for future stories and investigations.
-Be transparent: it’s rare that a database will be 100% ‘complete’, and every database will have certain choices built into it. Rather than glossing over these choices, make them visible so that readers know what they’re looking at.
+First, ahead of publication, develop a process for how to fix mistakes in the database. Good data provenance practices can help to find sources of errors. Second, build in a feedback channel. Particularly when individuals are unexpectedly mentioned in an investigation, there is likely to be feedback (or complaints). Providing a good user experience for them to make that complaint might help the experience. Third, either keep the database up to date, or clearly mark that it is no longer maintained. Within the journalistic context, publishing a database demands a higher level of maintenance than publishing an article. The level of interactivity that a database affords means that there is a different expectation of how up to date it is compared to an article. Fourth, allocate enough resources for maintenance over time. Keeping the data and database software up to date involves significant resources. For example, adding data from the following year to a database requires merging newer data with older data, and adding an extra time dimension to the user interface. Fifth, observe how readers are using the database. Trends in searches or use might provide leads for future stories and investigations. Finally, be transparent: It’s rare that a database will be 100% “complete,” and every database will have certain choices built into it. Rather than glossing over these choices, make them visible so that readers know what they’re looking at.
+Footnotes
+
+1. correctiv.org/recherchen/euros-fuer-aerzte/ (German language)
+
+2. projects.propublica.org/docdollars/
+
+3. interaktiv.morgenpost.de/schul-finder-berlin/#/
+
+4. www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database
+
+5. www.theguardian.com/australia-news/ng-interactive/2016/aug/10/the-nauru-files-the-lives-of-asylum-seekers-in-detention-detailed-in-a-unique-database-interactive
+
+6. www.thebureauinvestigates.com/projects/drone-war/
+
+7.offshoreleaks.icij.org/
+
+8. data.occrp.org
+
+9. correctiv.org/thema/aktuelles/euros-fuer-aerzte/
+
+10. .responsibledata.io/what-is-responsible-data/
+
+
+
 Works Cited
 
-Adrian Holovaty, ‘ A Fundamental Way Newspaper Sites Need to Change’, Writing, 6 September 2006.
+EFPIA. (2013). About the EFPIA Disclosure Code. European Federation of Phar- maceutical Industries and Associations. efpia.eu/media/25046/efpia_ about_disclosure_code_march-2016.pdf
 
-Mike Tigas, Ryann Grochowski Jones, Charles Ornstein, and Lena Groeger, ‘Dollars for Doctors’, ProPublica, 28 June 2018.
+Fontaine, C. (2017, April 20). Driving school choice. Medium. points.data-society.net/driving-school-choice-16f014d8d4df
 
-Claire Fontaine, ‘Driving School Choice’, Data & Society: Points, 20 April 2017.
+Golebiewski, M., & Boyd, D. (2018, May). Data voids: Where missing data can be easily exploited. Data & Society. datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf
 
-Michael Golebiewski and Danah Boyd, ‘Data Voids: Where Missing Data Can Be Easily Exploited’, Data & Society, May 2018.
+Holovaty, A. (2006, September 6). A fundamental way newspaper sites need to change.
 
-Jay Rosen, ‘Optimizing Journalism for Trust’, The Correspondent, 14 April 2018.
+Adrian Holovaty. http://www.holovaty.com/writing/fundamental-change/
+
+Onuoha, M. (2016, February 3). On missing data sets. github.com/MimiOnuoha/missing-datasets
+
+Rosen, J. (2018, May 14). Optimizing journalism for trust. Medium.
 
