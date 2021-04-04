@@ -70,16 +70,14 @@ Written by: Zara Rahman
 読者側のパワーダイナミクスにも注目してください。このデータベースは誰にとって最も有用なのか？データベースを利用するのに必要なツールや能力を持っているのか、それともすでに力を持っている人が自分の利益のためにこの情報を利用するのか。
 そのためには、公開前のユーザーテストの範囲を広げて、対象となる人々にデータベースを適切に説明するための十分な文脈を確保したり、データベースのインターフェースを対象となる人々がより利用しやすくなるような機能を盛り込んだりする必要があるかもしれません。
 より多くのデータが社会にとってより良い判断につながるという前提は、近年、複数のレベルで疑問視されるようになってきました。
-教育学者のClare Fontaine（2017）はこれを敷衍して、米国では「学校のパフォーマンス」について入手できるデータが増えたにもかかわらず（あるいは増えたからこそ）、学校における（人種）隔離が進んでいると指摘しています。
+教育学者のクレール・フォンテーヌはこれを敷衍して、米国では「学校のパフォーマンス」について入手できるデータが増えたにもかかわらず（あるいは増えたからこそ）、学校における（人種）隔離が進んでいると指摘しています。
 彼女は「学校選択と横行する（人種）隔離の間の因果関係はまだ確立されていない」と指摘しています。しかし、彼女や他の人々はその関係を理解するために努力していて、より多くの情報がより良い決定につながるという、おそらく過度に単純化された関係に疑問を呈し、「より良い」とは何を意味するのかを問い直しているのです（Fontaine, 2017）。
 2つ目は、データベース自体の問題です。データベースには、何を収集し、何を削除したか、どのように分類したか、どのように分析したかなど、多くの人間の判断が含まれています。
 客観的なデータは存在しないのですが、データの限界に対するリテラシーや理解度は比較的低いため、読者が結論を誤解する可能性は高いのです。
-
-
-
-For example, the absence of an organization from a database of political organizations involved in organized crime may not mean that the organiza- tion does not take part in organized crime itself; it simply means that there was no data available about their actions. Michael Golebiewski and Danah Boyd (2018) refer to this absence of data as a “data void,” noting that in some cases a data void may “passively reflect bias or prejudice in society.” This type of absence of data in an otherwise data-saturated space also maps closely to what Brooklyn-based artist and researcher Mimi Onuoha (2016) refers to as a “missing data set,” and highlights the societal choices that go into collecting and gathering data.
-
-Third is the direction of attention. Databases can change the focus of public interest from a broader systemic issue to the actions of individuals, and vice versa. Financial flows between pharmaceutical companies and healthcare professionals are, clearly, an issue of public interest—but, on an individual level, doctors might not think of themselves as a person of public interest. The fact remains, though, that in order to demonstrate an issue as broader and systemic (as a pattern, rather than a one-off), data from multiple individuals is necessary. Some databases, such as the Euros für Ärzte case study mentioned above, also change boundaries of what, or who, is in the public interest.
+例えば、組織犯罪に関与している政治団体のデータベースにある組織が入っていないのは、その組織が組織犯罪に参加していないこと自体を意味しているのではなく、単にその組織の行動について利用可能なデータがなかったことを意味しています。Michael GolebiewskiとDanah Boyd（2018）は、このようなデータの不在を「データボイド」と呼び、データボイドが「社会のバイアスや偏見を受動的に反映している」場合があると指摘しています。
+データが飽和した空間におけるこのようなデータの不在は、ブルックリンを拠点とするアーティスト兼リサーチャーのミミ・オヌオハ（2016）が「ミッシング・データ・セット」と呼ぶものにも密接に対応しており、データを収集する際の社会的な選択を浮き彫りにしています。
+三つ目は注意の方向性です。データベースを利用することで、人々の関心の焦点が、より広範なシステム上の問題から個人の行動へと変わり、またその逆も可能です。製薬会社と医療従事者の間の資金の流れは、明らかに公共の関心事ですが、個人レベルでは、医師は自分を公共の関心事とは思っていないかもしれません。
+しかし、ある問題をより広く、システミックに（一過性のものではなく、パターンとして）示すためには、複数の個人からのデータが必要であることは事実です。先に述べたEuros für Ärzteのケーススタディのように、データベースによっては、何が、あるいは誰が、公共の利益になるのかという境界線を変えるものもあります。
 
 Even when individuals agree to the publication of their data, journalists have to decide how long this data is of public interest and if and when it should be taken down. The General Data Protection Regulation (GDPR) will likely affect the way in which journalists should manage this kind of personal data, and what kinds of mechanisms are available for individuals to rescind consent to their data being included.
 
