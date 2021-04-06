@@ -78,14 +78,12 @@ Written by: Zara Rahman
 データが飽和した空間におけるこのようなデータの不在は、ブルックリンを拠点とするアーティスト兼リサーチャーのミミ・オヌオハ（2016）が「ミッシング・データ・セット」と呼ぶものにも密接に対応しており、データを収集する際の社会的な選択を浮き彫りにしています。
 三つ目は注意の方向性です。データベースを利用することで、人々の関心の焦点が、より広範なシステム上の問題から個人の行動へと変わり、またその逆も可能です。製薬会社と医療従事者の間の資金の流れは、明らかに公共の関心事ですが、個人レベルでは、医師は自分を公共の関心事とは思っていないかもしれません。
 しかし、ある問題をより広く、システミックに（一過性のものではなく、パターンとして）示すためには、複数の個人からのデータが必要であることは事実です。先に述べたEuros für Ärzteのケーススタディのように、データベースによっては、何が、あるいは誰が、公共の利益になるのかという境界線を変えるものもあります。
+個人が自分のデータの公開に同意した場合でも、ジャーナリストはそのデータがいつまで公共の利益になるのか、いつ削除すべきなのかを判断しなければなりません。一般データ保護規則（GDPR）は、ジャーナリストがこの種の個人データをどのように管理すべきか、また、個人が自分のデータの掲載に対する同意を取り消すためにどのような仕組みを利用できるかに影響を与えると思われます。
+このような課題に対して、私たちは、調査や製品のプロセスと最終的な結果の両方で、人々の権利にどのような影響があるかを検討しています。責任あるデータの取り扱いは、特定の時点で考慮すべきチェックリストではなく、継続的なアプローチであることを理解することが重要です。
+データ収集から公開までの調査全体を通して、データに反映された人々の権利を優先するアプローチが、信頼のために（データ）ジャーナリズムを最適化するための核心部分なのです（Rosen, 2018）。
 
-Even when individuals agree to the publication of their data, journalists have to decide how long this data is of public interest and if and when it should be taken down. The General Data Protection Regulation (GDPR) will likely affect the way in which journalists should manage this kind of personal data, and what kinds of mechanisms are available for individuals to rescind consent to their data being included.
-
-With all of these challenges, our approach is to consider how people’s rights are affected by both the process and the end result of the investigation or product. At the heart is understanding that responsible data practices are ongoing approaches rather than checklists to be considered at specific points. We suggest that approaches which prioritize the rights of people reflected in the data throughout the entire investigation, from data gathering to publication, are a core part of optimizing (data) journalism for trust (Rosen, 2018).
-
-Best Practices
-
-For journalists thinking of building a database to share their investigation with the public, here are some best practices and recommendations. We envision these will evolve with time, and we welcome suggestions.
+ベストプラクティス
+調査結果を公開するためにデータベースの構築を考えているジャーナリストのために、いくつかのベストプラクティスと推奨事項を紹介します。これらは順次改善していくことを想定しており、ご提案をお待ちしております。
 
 First, ahead of publication, develop a process for how to fix mistakes in the database. Good data provenance practices can help to find sources of errors. Second, build in a feedback channel. Particularly when individuals are unexpectedly mentioned in an investigation, there is likely to be feedback (or complaints). Providing a good user experience for them to make that complaint might help the experience. Third, either keep the database up to date, or clearly mark that it is no longer maintained. Within the journalistic context, publishing a database demands a higher level of maintenance than publishing an article. The level of interactivity that a database affords means that there is a different expectation of how up to date it is compared to an article. Fourth, allocate enough resources for maintenance over time. Keeping the data and database software up to date involves significant resources. For example, adding data from the following year to a database requires merging newer data with older data, and adding an extra time dimension to the user interface. Fifth, observe how readers are using the database. Trends in searches or use might provide leads for future stories and investigations. Finally, be transparent: It’s rare that a database will be 100% “complete,” and every database will have certain choices built into it. Rather than glossing over these choices, make them visible so that readers know what they’re looking at.
 Footnotes
