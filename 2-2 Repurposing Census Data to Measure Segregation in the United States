@@ -1,0 +1,34 @@
+Repurposing Census Data to Measure Segregation in the United States
+Written by Aaron Williams
+
+Abstract
+
+Visualizing racial segregation in the US with census data.
+
+
+Keywords: programming, mapping, racial segregation, census, data visualization, data journalism
+
+How do you measure segregation by race? In the United States in particular, there has been a historical effort to separate people since its founding. As the country changed, and racist policies like segregation were outlawed, new laws emerged that aimed to keep African Americans as well as other groups separate from White Americans. Many Americans have experienced the lingering effects of these laws, but I wanted to know if there was a way to measure the impact based on where people live.
+
+I was inspired after reading We Gon’ Be Alright: Notes on Race and Resegregation by Jeff Chang, a book of essays where the author explores the connecting themes of race and place. I was struck by chapters that talked about the demographic changes of places like San Francisco, Los Angeles and New York City and wanted to work on a project that quantified the ideas Chang wrote about.
+
+Many maps that show segregation actually don’t. These maps often show a dot for each member of a specific race or ethnicity within a geography and colour that dot by the person’s race. They end up showing fascinating population maps about where people live but do not measure how diverse or segregated these areas are.
+
+How do we know this? Well, segregation and diversity are two terms that have wildly different definitions depending on who you talk to. And while many people may perceive where they live as segregated, that answer can change depending on how one measures segregation. I didn’t want to act on anecdote alone. Thus, I looked for ways to measure segregation in an academic sense and base my reporting from there.
+
+Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
+Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
+I interviewed Michael Bader, an associate professor of sociology at American University in Washington, DC, who showed me the Multigroup Entropy Index (or Theil Index), a statistical measure that determines the spatial distribution of multiple racial groups simultaneously. We used this to score every single census block group in the United States compared to the racial population of the county it inhabited.
+
+This project took roughly a year to complete. Most of the time before then was spent exploring the data and various measures of segregation. During my research, I learned that there are several ways to measure segregation. For example, the Multigroup Entropy Index is a measure of evenness, which compares the spatial distribution of populations within a given geography. And there are other measures like the Exposure Index, which measures how likely it is that two groups will make contact with each other in the same geography. There is no single measure that will prove or not prove segregation, but the measures can work together to explain how a community is comprised. I read a lot of research on census demographics and tried to mirror my categories to existing literature on the topic. Thus, I chose the six race categories included in this project based on existing research about race and segregation that was commissioned by the Census Bureau, and chose the Multigroup Entropy Index because it allowed me to compare multiple racial groups in a single analysis.
+
+I decided to compare the makeup of each census block group to the racial makeup of its surrounding county. Then, my colleague Armand Emamdjomeh and I spent months working on the pipeline that powered the data analysis. In the past, I’ve seen a lot of census demographic research done in tools like Python, R or SPSS but I was curious if I could do this work using JavaScript. I found JavaScript and the node.js ecosystem to provide a rich set of tools to work with data and then display it on the web. One challenge was that I had to write several of my analysis functions by hand, but in return I was able to understand every step of my analysis and use the same functions on the web. Mapbox and d3.js both have very powerful and mature tools for working with geospatial data that I leveraged at each stage of my analysis.
+
+About two months before the story was published, we went back and forth on the story design and layout. An early version of this project implemented the scrollytelling approach, where the map took over the entire screen and the text scrolled over the map. While this approach is well established and used heavily by my team at the Post, it prevented us from including the beautiful static graphics we generated in a holistic way. In the end, we opted for a traditional story layout that explored the history of segregation and housing discrimination in the United States, complete with case studies on three cities, and then included the full, historical interactive map at the bottom. 1
+
+The story is the most read project I have ever published as a journalist. I think letting readers explore the data after the story added a layer of personalization that allowed readers to situate themselves in the narrative. Data journalism allows us to tell stories that go beyond words, beyond ideas. We can put the reader directly into the story and let them tell their own.
+
+Footnotes
+
+1.www.washingtonpost.com/graphics/2018/national/segregation-us-cities
+
