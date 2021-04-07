@@ -84,7 +84,7 @@ Written by: Zara Rahman
 
 ベストプラクティス
 調査結果を公開するためにデータベースの構築を考えているジャーナリストのために、いくつかのベストプラクティスと推奨事項を紹介します。これらは順次改善していくことを想定しており、ご提案をお待ちしております。
-
+初めに、
 First, ahead of publication, develop a process for how to fix mistakes in the database. Good data provenance practices can help to find sources of errors. Second, build in a feedback channel. Particularly when individuals are unexpectedly mentioned in an investigation, there is likely to be feedback (or complaints). Providing a good user experience for them to make that complaint might help the experience. Third, either keep the database up to date, or clearly mark that it is no longer maintained. Within the journalistic context, publishing a database demands a higher level of maintenance than publishing an article. The level of interactivity that a database affords means that there is a different expectation of how up to date it is compared to an article. Fourth, allocate enough resources for maintenance over time. Keeping the data and database software up to date involves significant resources. For example, adding data from the following year to a database requires merging newer data with older data, and adding an extra time dimension to the user interface. Fifth, observe how readers are using the database. Trends in searches or use might provide leads for future stories and investigations. Finally, be transparent: It’s rare that a database will be 100% “complete,” and every database will have certain choices built into it. Rather than glossing over these choices, make them visible so that readers know what they’re looking at.
 Footnotes
 
