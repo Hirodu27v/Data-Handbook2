@@ -1,12 +1,12 @@
-Repurposing Census Data to Measure Segregation in the United States
+国勢調査データを再利用して米国の(人種)隔離を測定する
+
 Written by Aaron Williams
 
-Abstract
+概要
 
-Visualizing racial segregation in the US with census data.
+国勢調査データを使ってアメリカの人種隔離を可視化します。
+キーワード：プログラミング、マッピング、人種隔離、国勢調査、データ・ビジュアライゼーション、データ・ジャーナリズム
 
-
-Keywords: programming, mapping, racial segregation, census, data visualization, data journalism
 
 How do you measure segregation by race? In the United States in particular, there has been a historical effort to separate people since its founding. As the country changed, and racist policies like segregation were outlawed, new laws emerged that aimed to keep African Americans as well as other groups separate from White Americans. Many Americans have experienced the lingering effects of these laws, but I wanted to know if there was a way to measure the impact based on where people live.
 
