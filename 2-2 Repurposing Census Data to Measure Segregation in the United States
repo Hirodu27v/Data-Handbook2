@@ -7,17 +7,19 @@ Written by Aaron Williams
 国勢調査データを使ってアメリカの人種隔離を可視化します。
 キーワード：プログラミング、マッピング、人種隔離、国勢調査、データ・ビジュアライゼーション、データ・ジャーナリズム
 
-
-How do you measure segregation by race? In the United States in particular, there has been a historical effort to separate people since its founding. As the country changed, and racist policies like segregation were outlawed, new laws emerged that aimed to keep African Americans as well as other groups separate from White Americans. Many Americans have experienced the lingering effects of these laws, but I wanted to know if there was a way to measure the impact based on where people live.
-
-I was inspired after reading We Gon’ Be Alright: Notes on Race and Resegregation by Jeff Chang, a book of essays where the author explores the connecting themes of race and place. I was struck by chapters that talked about the demographic changes of places like San Francisco, Los Angeles and New York City and wanted to work on a project that quantified the ideas Chang wrote about.
-
-Many maps that show segregation actually don’t. These maps often show a dot for each member of a specific race or ethnicity within a geography and colour that dot by the person’s race. They end up showing fascinating population maps about where people live but do not measure how diverse or segregated these areas are.
-
-How do we know this? Well, segregation and diversity are two terms that have wildly different definitions depending on who you talk to. And while many people may perceive where they live as segregated, that answer can change depending on how one measures segregation. I didn’t want to act on anecdote alone. Thus, I looked for ways to measure segregation in an academic sense and base my reporting from there.
+どうすれば人種隔離を測定できるのでしょうか。米国では建国以来、歴史的に人種隔離の努力が続けられてきました。
+国（の姿勢）が変わり、人種隔離などの差別政策が禁止されると、アフリカ系米国人などを白人から引き離す法律が生まれました。
+多くの米国人がこれらの法律の影響を受けていますが、住んでいる地域によって（異なる）影響を測る方法があるのではないかと思いました。
+ジェフ・チャンのエッセイ集「俺たち大丈夫：人種と新たなる隔離について」を読んで触発されました。このエッセイ集は、人種と場所を結びつけたテーマを追究しています。
+サンフランシスコ、ロサンゼルス、ニューヨークなどの人口動態の変化について書かれた章が印象的で、チャンが書いたアイデアを数値化するプロジェクトに取り組みたいと思いました。
+人種隔離を示す地図の多くは、実態を反映していません。このような地図は大抵、特定の人種や民族のメンバーが地図上の点として表示され、その点がその人の人種によって色分けされています。
+これらの地図は、人々がどこに住んでいるかという魅力的な人口地図を示していますが、これらの地域がどれだけ多様であるか、あるいは隔離されているかをうかがい知ることはできません。
+どうやったら分かるのでしょう。隔離と多様性という二つの言葉は人によって定義が大きく異なります。また、多くの人が自分の住んでいる場所は隔離されていると認識しているかもしれませんが、隔離をどのように測定するかによって、その答えは変わってきます。
+私は（あいまいな）逸話で行動したくありませんでした。 そこで私は、学術的な意味での「隔離」を測る方法を探し、そこから取材のベースを作っていきました。
 
 Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
 Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
+
 I interviewed Michael Bader, an associate professor of sociology at American University in Washington, DC, who showed me the Multigroup Entropy Index (or Theil Index), a statistical measure that determines the spatial distribution of multiple racial groups simultaneously. We used this to score every single census block group in the United States compared to the racial population of the county it inhabited.
 
 This project took roughly a year to complete. Most of the time before then was spent exploring the data and various measures of segregation. During my research, I learned that there are several ways to measure segregation. For example, the Multigroup Entropy Index is a measure of evenness, which compares the spatial distribution of populations within a given geography. And there are other measures like the Exposure Index, which measures how likely it is that two groups will make contact with each other in the same geography. There is no single measure that will prove or not prove segregation, but the measures can work together to explain how a community is comprised. I read a lot of research on census demographics and tried to mirror my categories to existing literature on the topic. Thus, I chose the six race categories included in this project based on existing research about race and segregation that was commissioned by the Census Bureau, and chose the Multigroup Entropy Index because it allowed me to compare multiple racial groups in a single analysis.
