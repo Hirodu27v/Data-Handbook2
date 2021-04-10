@@ -19,12 +19,16 @@ Written by Aaron Williams
 
 Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
 Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
-
-I interviewed Michael Bader, an associate professor of sociology at American University in Washington, DC, who showed me the Multigroup Entropy Index (or Theil Index), a statistical measure that determines the spatial distribution of multiple racial groups simultaneously. We used this to score every single census block group in the United States compared to the racial population of the county it inhabited.
-
-This project took roughly a year to complete. Most of the time before then was spent exploring the data and various measures of segregation. During my research, I learned that there are several ways to measure segregation. For example, the Multigroup Entropy Index is a measure of evenness, which compares the spatial distribution of populations within a given geography. And there are other measures like the Exposure Index, which measures how likely it is that two groups will make contact with each other in the same geography. There is no single measure that will prove or not prove segregation, but the measures can work together to explain how a community is comprised. I read a lot of research on census demographics and tried to mirror my categories to existing literature on the topic. Thus, I chose the six race categories included in this project based on existing research about race and segregation that was commissioned by the Census Bureau, and chose the Multigroup Entropy Index because it allowed me to compare multiple racial groups in a single analysis.
-
-I decided to compare the makeup of each census block group to the racial makeup of its surrounding county. Then, my colleague Armand Emamdjomeh and I spent months working on the pipeline that powered the data analysis. In the past, I’ve seen a lot of census demographic research done in tools like Python, R or SPSS but I was curious if I could do this work using JavaScript. I found JavaScript and the node.js ecosystem to provide a rich set of tools to work with data and then display it on the web. One challenge was that I had to write several of my analysis functions by hand, but in return I was able to understand every step of my analysis and use the same functions on the web. Mapbox and d3.js both have very powerful and mature tools for working with geospatial data that I leveraged at each stage of my analysis.
+私は、ワシントンDCにあるアメリカン大学の社会学准教授、マイケル・ベイダーから、複数の人種グループの空間的分布を同時に判定する統計指標「多変量群エントロピー指数（タイル指数）」を教えてもらいました。
+私たちはこれを使って、アメリカのすべての国勢調査ブロックグループを、そのグループが属する郡の人種人口と比較して点数化しました。
+このプロジェクトは、完成までにおよそ1年を要しました。そのほとんどを、データや様々な隔離度の測定方法の調査に費やしました。
+調査の過程で、偏在を測るにはいくつかの方法があることを知りました。多変量群エントロピー指数は均等性の指標で、ある地理的範囲内の人口の空間的分布を比較するものです。
+また、「露出指数」のように、同じ地域で2つのグループが互いに接触する可能性を測る方法もあります。隔離を証明する、あるいは証明しない唯一の尺度はありませんが、これらの尺度は、コミュニティがどのように構成されているかを説明するのに役立ちます。
+私は、国勢調査の人口統計に関する多くの研究を読み、自分のカテゴリーをこのテーマに関する既存の文献に反映させようとしました。そこで、国勢調査局が実施している人種と人種差別に関する既存の調査に基づいて、このプロジェクトに含まれる六つの人種カテゴリーを選択しました。そして、複数の人種グループを1回の分析で比較することができる多変量群エントロピー指数を選びました。
+私は、各国勢調査ブロックグループの構成を、その周辺の郡の人種構成と比較することにしました。その後、同僚のアルマン・エマンジョメと、データ分析の原動力となるパイプラインの構築に数ヶ月を費やしました。
+これまで、Python、R、SPSSなどのツールで行われた人口統計調査を数多く見てきましたが、JavaScriptを使ってこの調査ができるかどうか興味がありました。JavaScriptとnode.jsエコシステムは、データを処理してWebに表示するための豊富なツールセットを提供しています。
+課題としては、分析関数のいくつかを手作業で書かなければならないことでしたが、その代わり、分析のすべてのステップを理解し、同じ関数をウェブ上で使用することができました。
+Mapboxとd3.jsは、地理空間データを扱うための非常に強力で成熟したツールを持っており、私は分析の各段階でそれを活用しました。
 
 About two months before the story was published, we went back and forth on the story design and layout. An early version of this project implemented the scrollytelling approach, where the map took over the entire screen and the text scrolled over the map. While this approach is well established and used heavily by my team at the Post, it prevented us from including the beautiful static graphics we generated in a holistic way. In the end, we opted for a traditional story layout that explored the history of segregation and housing discrimination in the United States, complete with case studies on three cities, and then included the full, historical interactive map at the bottom. 1
 
