@@ -29,8 +29,16 @@ Figure 2.1. Dot-density population map of race in the United States from census 
 これまで、Python、R、SPSSなどのツールで行われた人口統計調査を数多く見てきましたが、JavaScriptを使ってこの調査ができるかどうか興味がありました。JavaScriptとnode.jsエコシステムは、データを処理してWebに表示するための豊富なツールセットを提供しています。
 課題としては、分析関数のいくつかを手作業で書かなければならないことでしたが、その代わり、分析のすべてのステップを理解し、同じ関数をウェブ上で使用することができました。
 Mapboxとd3.jsは、地理空間データを扱うための非常に強力で成熟したツールを持っており、私は分析の各段階でそれを活用しました。
+公開の約2カ月前からは、ストーリーのデザインやレイアウトを何度も練り直しました。当初は、画面全体に地図を表示し、その上にテキストをスクロールさせる「スクロールテリング」という手法を採用するつもりでした。
+この手法は確立されており、（ワシントン）ポストの私のチームでもよく使われていますが、作成した美しい静止画像を全体的に見せることには不向きでした。
+最終的には、アメリカにおける人種差別や住宅差別の歴史を、三つの都市のケーススタディを交えて紹介する伝統的なストーリーレイアウトを選択し、その下に歴史的な（経緯をたどる）インタラクティブマップを掲載しました。
+この記事は、私がジャーナリストとして発表したプロジェクトの中で最も多く読まれました。読者がストーリーの後にデータを探索することで、物語の中に自分自身を位置づけることができるというパーソナライズの要素が加わったのだと思います。
+データ・ジャーナリズムでは、言葉やアイデアを超えたストーリーを伝えることができます。読者をストーリーの中に直接招き入れ、彼ら自身に語らせることができるのです。
 
-About two months before the story was published, we went back and forth on the story design and layout. An early version of this project implemented the scrollytelling approach, where the map took over the entire screen and the text scrolled over the map. While this approach is well established and used heavily by my team at the Post, it prevented us from including the beautiful static graphics we generated in a holistic way. In the end, we opted for a traditional story layout that explored the history of segregation and housing discrimination in the United States, complete with case studies on three cities, and then included the full, historical interactive map at the bottom. 1
+
+
+
+
 
 The story is the most read project I have ever published as a journalist. I think letting readers explore the data after the story added a layer of personalization that allowed readers to situate themselves in the narrative. Data journalism allows us to tell stories that go beyond words, beyond ideas. We can put the reader directly into the story and let them tell their own.
 
