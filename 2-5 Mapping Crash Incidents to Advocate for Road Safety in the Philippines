@@ -1,0 +1,47 @@
+衝突事故のマッピングによるフィリピンの交通安全への提言
+Written by Aika Rey
+
+概要
+
+フィリピン・カガヤン州の交通事故に関するデータストーリーが、どのようにしてポジティブな政策と社会変革をもたらしたのか。
+
+キーワード：データ・ジャーナリズム、交通安全、コミュニティエンゲージメント、マッピング、フィリピン、政策と社会変革
+
+データによると、フィリピンでは車両事故の死亡者数は、年々着実に増加しています。交通事故による負傷は、今やフィリピンの若者の死因のトップです。
+そこで私たちは、交通安全に関する関連情報をまとめたマイクロサイトを構築しました。市民に道路の安全性について知ってもらうため、データを収集・分析し、洞察を導き出し、記事を発表し、市民参加の機会をデザインしました。
+
+
+
+We also started running a video series entitled “Right of Way” which tackles motorist and commuter issues in Metro Manila. That is how Rappler’s #SaferRoadsPH campaign was born.
+
+Compiling relevant data about road traffic deaths and injuries was a challenge. With no comprehensive national database on road crash numbers, we knocked on doors and gathered data from over a dozen national and local government units, including police offices in various cities and provinces.
+
+Data acquired from these repositories are not standardized. A significant part of the work involved cleaning the data for analysis. One big challenge was how to map data when location information is either incomplete or not consistently recorded.2
+
+Using the open-source data-cleaning application OpenRefine, we were able to come up with a normalized database of information acquired from the different government agencies. This allowed us to determine locations, dates and the number of people affected by crash incidents. Although still incomplete, our collection is probably the biggest single compilation of data on road crash incidents in the Philippines at the moment.
+
+But what made our approach distinctive is that on top of stories, analysis and visualizations based on our collection of data, we made the effort to present them directly to communities concerned not just online but in on-the-ground activities. In the process, data analytics led to civic engagement activities.
+
+One particular story that stood out in our coverage was the in-depth story on the Cagayan province, located roughly 600 km north of Manila, which is the area most affected by vehicular crash fatalities. We visited key offices in the province to get road crash incident data, as well as to conduct interviews with victims, local police and public service officials.
+
+Following this exercise, in June 2017, Rappler conducted a road safety awareness forum in the province’s capital city Tuguegarao to present our findings. The forum sought to educate the public about road safety concerns in the province, as well as influence key officials to address the policy gap.3
+
+Apart from graphs showing the times of day when critical incidents occur the most, at the forum we presented a heat map, created using Google Fusion Tables, which shows the locations with the greatest number of incidents in the Cagayan province (Figure 5.1).
+
+Officials present attributed these numbers, among others, to the absence of pedestrian lanes. A check of schools in the city showed no pedestrian lanes in front of schools. After the forum, a social experiment was conducted where locals sketched pedestrian lanes using chalk in front of a school. Law enforcement officials wanted to see if motorists would stop at pedestrian lanes as students cross. Rappler later posted a video story on Facebook about this experiment.4
+
+Figure 5.1. Areas in the Cagayan province marked in dark-grey have more occurrences of road crash incidents. Source: Rappler.
+Figure 5.1. Areas in the Cagayan province marked in dark-grey have more occurrences of road crash incidents. Source: Rappler.
+The video generated a lot of interest. A Rappler reader who saw the video reached out to us and volunteered to provide paint for pedestrian lanes within the city. Months later, through the combined efforts of local government and volunteers, schools within the city finally got pedestrian lanes. The painting project was completed on 30 September 2017. Two years later, the city government approved a local ordinance on road safety.
+
+This project showed that data-driven reporting need not end when the editor clicks publish. It is proof that combining data journalism with online and offline community engagement can lead to positive policy and social change.
+
+Footnotes
+
+1. www.rappler.com/saferroadsph
+
+2. We published a full explanation of our data sources here: r3.rappler.com/move-ph/issues/road-safety/171657-road-crash-numbers-data-sources
+
+3. r3.rappler.com/move-ph/issues/road-safety/171778-road-crash-incidents-cagayan-valley
+
+4. r3.rappler.com/move-ph/issues/road-safety/172432-cagayan-police-pedestrian-lane-chalk
