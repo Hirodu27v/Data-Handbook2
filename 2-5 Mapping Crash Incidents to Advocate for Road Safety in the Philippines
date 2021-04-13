@@ -9,12 +9,10 @@ Written by Aika Rey
 
 データによると、フィリピンでは車両事故の死亡者数は、年々着実に増加しています。交通事故による負傷は、今やフィリピンの若者の死因のトップです。
 そこで私たちは、交通安全に関する関連情報をまとめたマイクロサイトを構築しました。市民に道路の安全性について知ってもらうため、データを収集・分析し、洞察を導き出し、記事を発表し、市民参加の機会をデザインしました。
+また、「Right of Way」と題して、マニラ首都圏の自動車運転手や通勤者の問題を取り上げたビデオシリーズの運営も開始しました。これが（ソーシャルニュースサイト）ラップラーの#SaferRoadsPHキャンペーンの始まりです。
+交通事故死傷者数のデータを集めるのは大変な作業でした。交通事故の件数に関する全国的な総合データベースがないため、さまざまな市や省の警察署を含む10以上の国や地方自治体（の機関）を戸別訪問し、データを入手しました。
 
 
-
-We also started running a video series entitled “Right of Way” which tackles motorist and commuter issues in Metro Manila. That is how Rappler’s #SaferRoadsPH campaign was born.
-
-Compiling relevant data about road traffic deaths and injuries was a challenge. With no comprehensive national database on road crash numbers, we knocked on doors and gathered data from over a dozen national and local government units, including police offices in various cities and provinces.
 
 Data acquired from these repositories are not standardized. A significant part of the work involved cleaning the data for analysis. One big challenge was how to map data when location information is either incomplete or not consistently recorded.2
 
