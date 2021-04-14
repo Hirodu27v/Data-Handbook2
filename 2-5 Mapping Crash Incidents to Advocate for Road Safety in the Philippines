@@ -11,16 +11,11 @@ Written by Aika Rey
 そこで私たちは、交通安全に関する関連情報をまとめたマイクロサイトを構築しました。市民に道路の安全性について知ってもらうため、データを収集・分析し、洞察を導き出し、記事を発表し、市民参加の機会をデザインしました。
 また、「Right of Way」と題して、マニラ首都圏の自動車運転手や通勤者の問題を取り上げたビデオシリーズの運営も開始しました。これが（ソーシャルニュースサイト）ラップラーの#SaferRoadsPHキャンペーンの始まりです。
 交通事故死傷者数のデータを集めるのは大変な作業でした。交通事故の件数に関する全国的な総合データベースがないため、さまざまな市や省の警察署を含む10以上の国や地方自治体（の機関）を戸別訪問し、データを入手しました。
-
-
-
-Data acquired from these repositories are not standardized. A significant part of the work involved cleaning the data for analysis. One big challenge was how to map data when location information is either incomplete or not consistently recorded.2
-
-Using the open-source data-cleaning application OpenRefine, we were able to come up with a normalized database of information acquired from the different government agencies. This allowed us to determine locations, dates and the number of people affected by crash incidents. Although still incomplete, our collection is probably the biggest single compilation of data on road crash incidents in the Philippines at the moment.
-
-But what made our approach distinctive is that on top of stories, analysis and visualizations based on our collection of data, we made the effort to present them directly to communities concerned not just online but in on-the-ground activities. In the process, data analytics led to civic engagement activities.
-
-One particular story that stood out in our coverage was the in-depth story on the Cagayan province, located roughly 600 km north of Manila, which is the area most affected by vehicular crash fatalities. We visited key offices in the province to get road crash incident data, as well as to conduct interviews with victims, local police and public service officials.
+これらのリポジトリから取得したデータは標準化されていません。作業の大部分は、分析に使うデータのクリーニングです。大きな課題の一つは、位置情報が不完全であったり、全く記録されていなかったりするデータをどのようにマッピングするかということでした。
+オープンソースのデータクリーニングアプリケーションOpenRefineを使って、異なる政府機関から入手した情報を正規化したデータベースを作成することができました。これにより、事故の発生場所、発生日、被害者の数を把握することができました。
+まだ不完全ではあるが、私たちが収集したデータは、現時点でフィリピンの交通事故に関する最大の単一データだと言えます。
+それだけでなく私たちは、収集したデータに基づいてストーリーや分析、可視化を行った上で、それをネット上だけでなく、現場の活動で関係するコミュニティに直接提示しようとしました。それによって、データ分析が市民参加型の活動につながったのです。
+特に目立ったのは、マニラの北約600kmに位置し、車両事故による死亡者数が最も多いカガヤン州に関する詳細な記事でした。カガヤン州の主要な役場を訪問して交通事故のデータを入手し、被害者や地元警察、公共サービス関係者にインタビューを行いました。
 
 Following this exercise, in June 2017, Rappler conducted a road safety awareness forum in the province’s capital city Tuguegarao to present our findings. The forum sought to educate the public about road safety concerns in the province, as well as influence key officials to address the policy gap.3
 
