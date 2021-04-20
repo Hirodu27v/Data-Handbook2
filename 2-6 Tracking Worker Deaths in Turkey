@@ -5,11 +5,10 @@ Written by Pınar Dağ
 
 トルコでの労働者の死を記録し、労働条件の改善を訴えます。
 
-キーワード トルコ、Soma、労働条件、データ・ジャーナリズム、オープンデータ、情報の自由(FOI)
-
-In the wake of the Soma mine disaster in Turkey in 2014, it transpired that it was extremely difficult to document the conditions of workers. There were discrepancies with figures on worker unionization and a scarcity of data on worker deaths over previous decades. What was available was often disorganized and lacking in detail. We wanted to make this data widely accessible and shed light on the deaths of workers in other sectors.
-
-With this in mind, a programmer, an editor and myself developed the “Open Database of Deceased Workers in Turkey,” a project hosted by the data journalism portal Dağ Medya, that gathered data from multiple sources, verified it, and made it available for everyone to access and use.1
+キーワード トルコ、ソマ、労働条件、データ・ジャーナリズム、オープンデータ、情報の自由(FOI)
+2014年にトルコで発生したソマ鉱山の事故をきっかけに、労働者の状況を記録することが非常に困難であることが判明しました。労働組合結成に関する数字には矛盾があり、過去数十年間の労働者の死亡に関するデータも不足していました。
+また、過去数十年間の労働者の死に関するデータも不十分でした。私たちは、このデータに広くアクセスできるようにして、他のセクターの労働者の死も明らかにしたいと考えました。
+そこで、プログラマーと編集者、そして私の3人で、データジャーナリズムのポータルサイト「Dağ Medya」が主催するプロジェクト「Open Database of Deceased Workers in Turkey」を立ち上げ、複数のソースからデータを集めて検証し、誰でもアクセスして利用できるようにしました。
 
 In Turkey at least 130 workers die per month from a variety of causes. The most important goal of the project was to raise awareness of these deaths and their frequency, as well as to publicly recognize victims and the poor working conditions that they endured. The project comprised embeddable maps, graphs and data in different formats.2 It covered the deaths of workers in over 20 sectors from 2011 to 2014. After the project was completed, we continued to report the death of workers through regular media monitoring each month. Crucially, the database includes the names of the companies that employed them (Figure 6.1).
 
