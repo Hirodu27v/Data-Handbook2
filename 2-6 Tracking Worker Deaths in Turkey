@@ -9,12 +9,13 @@ Written by Pınar Dağ
 2014年にトルコで発生したソマ鉱山の事故をきっかけに、労働者の状況を記録することが非常に困難であることが判明しました。労働組合結成に関する数字には矛盾があり、過去数十年間の労働者の死亡に関するデータも不足していました。
 また、過去数十年間の労働者の死に関するデータも不十分でした。私たちは、このデータに広くアクセスできるようにして、他のセクターの労働者の死も明らかにしたいと考えました。
 そこで、プログラマーと編集者、そして私の3人で、データジャーナリズムのポータルサイト「Dağ Medya」が主催するプロジェクト「Open Database of Deceased Workers in Turkey」を立ち上げ、複数のソースからデータを集めて検証し、誰でもアクセスして利用できるようにしました。
-
-In Turkey at least 130 workers die per month from a variety of causes. The most important goal of the project was to raise awareness of these deaths and their frequency, as well as to publicly recognize victims and the poor working conditions that they endured. The project comprised embeddable maps, graphs and data in different formats.2 It covered the deaths of workers in over 20 sectors from 2011 to 2014. After the project was completed, we continued to report the death of workers through regular media monitoring each month. Crucially, the database includes the names of the companies that employed them (Figure 6.1).
+トルコでは月に少なくとも130人の労働者がさまざまな原因で亡くなっています。このプロジェクトの最も重要な目的は、これらの死とその頻度に対する認識を高め、犠牲者と彼らが耐え忍んだ劣悪な労働条件を明らかにすることでした。
+このプロジェクトは、埋め込み可能な地図、グラフ、さまざまな形式のデータで構成されています。2011～2014年、20分野以上の労働者の死を取り上げました。プロジェクト終了後も、毎月、メディアの定期的なモニタリングを通じて、労働者の死を報告しています。
+重要なのは、このデータベースには、彼らを雇用していた企業の名前が含まれていることです（図6.1）。
 
 Figure 6.1. Collaborative spreadsheet with company names, based on media monitoring with Google Alerts. Source: Pınar Dağ.
 Figure 6.1. Collaborative spreadsheet with company names, based on media monitoring with Google Alerts. Source: Pınar Dağ.
-The project began in 2015. We started by submitting freedom of information (FOI) requests and collecting data from trusted NGOs that were extracting data from various sources and were making it publicly accessible.
+このプロジェクトは2015年に始まりました。まず、情報公開請求（FOI）を提出し、さまざまなソースからデータを抽出して公開している信頼できるNGOからデータを収集しました。
 
 The first challenge we encountered was that it was not easy to get open data through FOI requests. Sometimes it took two weeks, sometimes four months, to obtain data through our requests. Next, a more unexpected challenge arose, which I am recounting because it surfaces conflicting perspectives on this type of work. When we announced the project, one of the projects whose data we were using—İSİG Meclisi (Health and Safety Labour Watch)—became unhappy about us using it.3 The reason was, they claimed, that our project simply republished data that they had gathered. They understood our using of their data in this way as taking advantage of their labour. The opposition to the project persisted, in spite of our asking for permission and the fact that their data is publicly available. While they accused us of “pornifying” workers’ deaths with our visualizations and tables, we saw our project as creating public value by increasing the outreach of the data they had collected, through visually accessible and readily downloadable formats.
 
