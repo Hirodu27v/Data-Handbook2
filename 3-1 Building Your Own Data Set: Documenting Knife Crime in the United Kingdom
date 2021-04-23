@@ -1,12 +1,11 @@
-Building Your Own Data Set: Documenting Knife Crime in the United Kingdom
+独自のデータセットを構築する：イギリスにおけるナイフ犯罪の記録
 Written by Caelainn Barr
 
-Abstract
+概要
 
-Building data sets for investigations and powerful storytelling.
+調査とパワフルなストーリーテリングのためのデータセットの構築
 
-Keywords: data journalism, crime, accountability, race, United Kingdom, databases
-
+キーワード：データ・ジャーナリズム、犯罪、説明責任、人種、イギリス、データベース
 In early 2017 two colleagues, Gary Younge and Damien Gayle, approached me in The Guardian newsroom. They wanted to examine knife crime in the United Kingdom. While there was no shortage of write-ups detailing the deaths of victims of knife crime, follow-ups on the pursuit of suspects, and reports on the trials and convictions of the perpetrators, no one had looked at all the homicides as a whole.
 
 My first question was, how many children and teenagers had been killed by knives in recent years? It seemed a straightforward query but once I set out to find the data it soon became apparent—no one could tell me. The data existed, somewhere, but it wasn’t in the public domain. At this stage I had two options, give up or make a data set from scratch based on what I could access, build and verify myself. I decided to build my own data set.
