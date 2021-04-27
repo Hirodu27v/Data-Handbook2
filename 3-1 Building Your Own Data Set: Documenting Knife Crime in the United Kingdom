@@ -11,14 +11,14 @@ Written by Caelainn Barr
 私はまず、「近年、ナイフで殺された子供や若者は何人いるのだろう」と考えました。簡単な質問に思えましたが、データを見つけようとすると、誰も把握していないことがわかりました。
 データはどこかにあるのだが、公開されていないのです。私には二つの選択肢がありました。あきらめるか、自分でアクセスし、構築し、検証できるものをもとに、ゼロからデータセットを作るか。私はデータセットを作ることにしました。
 
-
-Why Build Your Own Data Set?
-
-Data journalism needn’t be solely based on existing data sets. In fact there is a great case for making your own data. There is a wealth of information in data that is not routinely published or in some cases not even collected.
-
-In building your own data set you create a unique set of information, a one-off source, with which to explore your story. The data and subsequent stories are likely to be exclusive and it can give you a competitive edge to find stories other reporters simply can’t. Unique data sets can also help you identify what trends experts and policy makers haven’t been able to spot.
-
-Data is a source of information in journalism. The basis for using data in journalism is structured thinking. In order to use data to its full potential, at the outset of a project the journalist needs to think structurally: What is the story I want to be able to tell and what do I need to be able to tell it?
+独自のデータセットを構築する理由
+データ・ジャーナリズムは、既存のデータセットだけに基づく必要はありません。独自のデータ（セット）を作成することには大きな意味があります。
+日常的に公開されていないデータや、場合によっては収集さえされていないデータには、豊富な情報が含まれています。
+独自のデータ・セットを作成すれば、独自の情報セット、つまり1回限りのソースを作成し、ストーリーを探ることができます。
+データとそれに続くストーリーは独占的なものになる可能性が高く、他の記者が簡単には見つけられないストーリーを見つける競争力を与えてくれます。
+また、独自のデータセットは、専門家や政策立案者が気づかなかったトレンドを見出すのにも役立ちます。
+データはジャーナリズムにおける情報源です。ジャーナリズムでデータを活用する基本的な姿勢は、構造的な思考です。
+データを最大限に活用するためには、プロジェクトの最初の段階で、ジャーナリストは構造的に考える必要があります。自分が伝えたいストーリーは何か、それを伝えるためには何が必要か。
 
 The key to successfully building a data set for your story is to have a structured approach to your story and query every source of data with a journalistic sense of curiosity. Building your own data set encompasses a lot of the vital skills of data journalism—thinking structurally, planned storytelling and finding data in creative ways. It also has a relatively low barrier to entry, as it can be done with or without programming skills. If you can type into a spreadsheet and sort a table, you’re on your way to building the basic skills of data journalism.
 
