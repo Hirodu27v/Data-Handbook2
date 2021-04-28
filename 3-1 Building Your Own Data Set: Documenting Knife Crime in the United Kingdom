@@ -19,14 +19,15 @@ Written by Caelainn Barr
 また、独自のデータセットは、専門家や政策立案者が気づかなかったトレンドを見出すのにも役立ちます。
 データはジャーナリズムにおける情報源です。ジャーナリズムでデータを活用する基本的な姿勢は、構造的な思考です。
 データを最大限に活用するためには、プロジェクトの最初の段階で、ジャーナリストは構造的に考える必要があります。自分が伝えたいストーリーは何か、それを伝えるためには何が必要か。
+記事のためのデータセットをうまく構築するには、ストーリーを構造的に考え、ジャーナリストとしての好奇心を持ってあらゆる情報源に問い合わせをすることが重要です。
+独自のデータセットを構築することは、構造的思考、計画的なストーリーテリング、創造的な方法でのデータ検索など、データ・ジャーナリズムの重要なスキルの多くを含んでいます。また、プログラミングのスキルがなくてもできるので、比較的参入障壁が低いのも特徴です。
+スプレッドシートへの入力と表のソートができれば、データ・ジャーナリズムの基本的なスキルを身につけることができます。
+データ・ジャーナリズムが簡単というわけではありません。しっかりとした、徹底したデータプロジェクトは、非常に複雑で時間のかかる作業になりますが、いくつかの重要なスキルを身につければ、データをストーリーテリングに活用する強固な基盤を築くことができます。
 
-The key to successfully building a data set for your story is to have a structured approach to your story and query every source of data with a journalistic sense of curiosity. Building your own data set encompasses a lot of the vital skills of data journalism—thinking structurally, planned storytelling and finding data in creative ways. It also has a relatively low barrier to entry, as it can be done with or without programming skills. If you can type into a spreadsheet and sort a table, you’re on your way to building the basic skills of data journalism.
-
-That’s not to say data journalism is straightforward. Solid and thorough data projects can be very complex and time-consuming work, but armed with a few key skills you can develop a strong foundation in using data for storytelling.
-
-Building Your Own Data Set Step by Step
-
-Plan what is required. The first step to making or gathering data for your analysis is assessing what is required and if it can be obtained. At the outset of any project it’s worth making a story memo which sketches out what you expect the story will attempt to tell, where you think the data is, how long it will take to find it and where the potential pitfalls are. The memo will help you assess how long the work will take and if the outcome is worth the effort. It can also serve as a something to come back to when you’re in the midst of the work at a later stage.
+独自のデータセットを構築するためのステップ
+何が必要かを考えましょう。分析に使うデータを作成または収集するのに求められる最初のステップは、何が必要で、それが入手できるかどうかを評価することです。
+どんなプロジェクトでも、最初にストーリーメモを作成する価値があります。このメモには、ストーリーが何を伝えようとしているのか、どこにデータがあるのか、それを見つけるのにどれくらいの時間がかかるのか、どこに落とし穴があるのかをスケッチします。
+このメモがあれば、作業にどれくらいの時間がかかるか、その努力に見合う成果が得られるかどうかを評価するのに役立ちます。また、このメモは、作業の途中で見返すことができます。
 
 Think of the top line. At the outset of a data-driven story where the data does not exist you should ask what the top line of the story is. It’s essential to know what the data should contain as this sets the parameters for what questions you can ask of the data. This is essential as the data will only ever answer questions based on what it contains. Therefore, to make a data set that will fulfil your needs, be very clear about what you want to be able to explore and what information you need to explore it.
 
