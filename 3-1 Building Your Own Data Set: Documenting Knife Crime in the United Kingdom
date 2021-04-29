@@ -28,10 +28,10 @@ Written by Caelainn Barr
 何が必要かを考えましょう。分析に使うデータを作成または収集するのに求められる最初のステップは、何が必要で、それが入手できるかどうかを評価することです。
 どんなプロジェクトでも、最初にストーリーメモを作成する価値があります。このメモには、ストーリーが何を伝えようとしているのか、どこにデータがあるのか、それを見つけるのにどれくらいの時間がかかるのか、どこに落とし穴があるのかをスケッチします。
 このメモがあれば、作業にどれくらいの時間がかかるか、その努力に見合う成果が得られるかどうかを評価するのに役立ちます。また、このメモは、作業の途中で見返すことができます。
-
-Think of the top line. At the outset of a data-driven story where the data does not exist you should ask what the top line of the story is. It’s essential to know what the data should contain as this sets the parameters for what questions you can ask of the data. This is essential as the data will only ever answer questions based on what it contains. Therefore, to make a data set that will fulfil your needs, be very clear about what you want to be able to explore and what information you need to explore it.
-
-Where might the data be held? The next step is to think through where the data may be held in any shape or form. One way to do this is to retrace your steps. How do you know there is a potential story here? Where did the idea come from and is there a potential data source behind it?
+書き出しを考えましょう。データが存在しないデータ駆動型ストーリーの最初の段階では、ストーリーどう始めるかを問うべきです。
+データに何が含まれているべきかを知ることは、データにどのような質問をするかのパラメータを設定するために不可欠です。これは、データに含まれているものに基づいてのみ質問に答えることができるからです。したがって、ニーズを満たすデータセットを作成するには、何を調べたいのか、それを調べるためにはどのような情報が必要なのかを明確にする必要があります。
+データはどこに保存されていますか?次のステップは、データがどのような形式で保存されるかを検討することです。一つの方法は、自分のステップをたどることです。
+ここにストーリーが潜んでいることをどうやって知ることができるのでしょう。このアイデアはどこから生まれたのか、その背後には潜在的なデータソースがあるのか。
 
 Research will also help you clarify what exists, so comb through all of the sources of information that refer to the issue of interest and talk to academics, researchers and statisticians who gather or work with the data. This will help you identify shortcomings and possible pitfalls in using the data. It should also spark ideas about other sources and ways of getting the data. All of this preparation before you start to build your data set will be invaluable if you need to work with difficult government agencies or decide to take another approach to gathering the data.
 
