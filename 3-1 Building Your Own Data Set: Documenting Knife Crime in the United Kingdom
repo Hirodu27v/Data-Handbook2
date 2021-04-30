@@ -32,12 +32,11 @@ Written by Caelainn Barr
 データに何が含まれているべきかを知ることは、データにどのような質問をするかのパラメータを設定するために不可欠です。これは、データに含まれているものに基づいてのみ質問に答えることができるからです。したがって、ニーズを満たすデータセットを作成するには、何を調べたいのか、それを調べるためにはどのような情報が必要なのかを明確にする必要があります。
 データはどこに保存されていますか?次のステップは、データがどのような形式で保存されるかを検討することです。一つの方法は、自分のステップをたどることです。
 ここにストーリーが潜んでいることをどうやって知ることができるのでしょう。このアイデアはどこから生まれたのか、その背後には潜在的なデータソースがあるのか。
-
-Research will also help you clarify what exists, so comb through all of the sources of information that refer to the issue of interest and talk to academics, researchers and statisticians who gather or work with the data. This will help you identify shortcomings and possible pitfalls in using the data. It should also spark ideas about other sources and ways of getting the data. All of this preparation before you start to build your data set will be invaluable if you need to work with difficult government agencies or decide to take another approach to gathering the data.
-
-Ethical concerns. In planning and sourcing any story we need to weigh up the ethical concerns and working with data is no different. When building a data set we need to consider if the source and method we’re using to collect the information is the most accurate and complete possible.
-
-This is also the case with analysis—examine the information from multiple angles and don’t torture the data to get it to say something that is not a fair reflection of the reality. In presenting the story be prepared to be transparent about the sourcing, analysis and limitations of the data. All of these considerations will help build a stronger story and develop trust with the reader.
+調査は、何が存在するのかを明らかにするのにも役立つので、関心のある問題に言及しているすべての情報源を調べ、データを収集したり扱ったりしている学者、研究者、統計学者に話を聞いてみましょう。そうすることで、そのデータを使用する際の欠点や落とし穴を特定することができます。また、データを入手するための他のソースや方法についてもアイデアが浮かぶはずです。
+データセットの構築に着手する前のこうした準備は、融通のきかない政府機関との共同作業が必要になった場合や、データ収集に別のアプローチを取ることになった場合に、非常に大きな力を発揮します。
+倫理的な問題（にも目を配りましょう）。ストーリーの企画や情報収集には倫理的な問題を考慮する必要がありますが、データを扱う場合も同様です。データセットを構築する際には、情報を収集するために使用している情報源と方法が、可能な限り正確で完全なものであるかどうかを検討する必要があります。
+これは分析の場合も同様で、複数の角度から情報を検証し、現実を反映していないことを言わせるためにデータをいたぶることはしません。
+ストーリーを発表する際には、データのソース、分析、限界について透明性を保つようにしてください。これらの配慮は、より強いストーリーを構築し、読者との信頼関係を築くのに役立ちます。
 
 Get the data. Once a potential source has been identified, the next step is to get the data. This may be done manually through data entry into a spreadsheet, transforming information locked in PDFs into structured data you can analyze, procuring documents through a human source or the Freedom of Information Act (FOIA), programming to scrape data from documents or web pages or automating data capture through an application programming interface (API).
 
