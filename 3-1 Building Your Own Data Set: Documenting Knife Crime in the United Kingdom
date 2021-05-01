@@ -37,12 +37,10 @@ Written by Caelainn Barr
 倫理的な問題（にも目を配りましょう）。ストーリーの企画や情報収集には倫理的な問題を考慮する必要がありますが、データを扱う場合も同様です。データセットを構築する際には、情報を収集するために使用している情報源と方法が、可能な限り正確で完全なものであるかどうかを検討する必要があります。
 これは分析の場合も同様で、複数の角度から情報を検証し、現実を反映していないことを言わせるためにデータをいたぶることはしません。
 ストーリーを発表する際には、データのソース、分析、限界について透明性を保つようにしてください。これらの配慮は、より強いストーリーを構築し、読者との信頼関係を築くのに役立ちます。
-
-Get the data. Once a potential source has been identified, the next step is to get the data. This may be done manually through data entry into a spreadsheet, transforming information locked in PDFs into structured data you can analyze, procuring documents through a human source or the Freedom of Information Act (FOIA), programming to scrape data from documents or web pages or automating data capture through an application programming interface (API).
-
-Be kind to yourself! Don’t sacrifice simplicity for the sake of it. Seek to find the most straightforward way of getting the information into a data set you can analyze. If possible, make your work process replicable, as this will help you check your work and add to the data set at a later stage, if needed.
-
-In obtaining the data refer back to your story outline and ask, will the data allow me to fully explore this topic? Does it contain the information that might lead to the top lines I’m interested in?
+データを取得しましょう。潜在的な情報源が特定できたら、次はデータの入手です。これには、スプレッドシートへのデータ入力、PDFに記録されている情報を分析可能な構造化データに変換する、人力による文書の入手や情報公開法（FOIA）による文書の入手、文書やウェブページからデータをスクレイプするプログラミング、アプリケーション・プログラミング・インターフェース（API）によるデータ取得の自動化などの方法があります。
+自分に優しくしてください。シンプルさを犠牲にしてはいけません。情報を分析可能なデータセットにするために、最も簡単な方法を探してください。可能であれば、作業プロセスを再現できるようにしましょう。そうすれば、自分の作業を確認したり、必要に応じて後からデータセットを追加したりするのに役立ちます。
+データを取得する際には、ストーリーのアウトラインを参照し、次のように問いかけます。
+そのデータで、テーマを完全に探求できるか？私が興味を持っているトップラインにつながる情報が含まれているか？
 
 Structure. The key difference between information contained in a stack of text-based paper documents and a data set is structure. Structure and repetition are essential to building a clean data set ready for analysis.
 
