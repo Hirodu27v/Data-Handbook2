@@ -25,30 +25,26 @@ Written by Caelainn Barr
 データ・ジャーナリズムが簡単というわけではありません。しっかりとした、徹底したデータプロジェクトは、非常に複雑で時間のかかる作業になりますが、いくつかの重要なスキルを身につければ、データをストーリーテリングに活用する強固な基盤を築くことができます。
 
 独自のデータセットを構築するためのステップ
-何が必要かを考えましょう。分析に使うデータを作成または収集するのに求められる最初のステップは、何が必要で、それが入手できるかどうかを評価することです。
+必要なものを準備する。分析に使うデータを作成または収集するのに求められる最初のステップは、何が必要で、それが入手できるかどうかを評価することです。
 どんなプロジェクトでも、最初にストーリーメモを作成する価値があります。このメモには、ストーリーが何を伝えようとしているのか、どこにデータがあるのか、それを見つけるのにどれくらいの時間がかかるのか、どこに落とし穴があるのかをスケッチします。
 このメモがあれば、作業にどれくらいの時間がかかるか、その努力に見合う成果が得られるかどうかを評価するのに役立ちます。また、このメモは、作業の途中で見返すことができます。
-書き出しを考えましょう。データが存在しないデータ駆動型ストーリーの最初の段階では、ストーリーどう始めるかを問うべきです。
+書き出しを考える。データが存在しないデータ駆動型ストーリーの最初の段階では、ストーリーどう始めるかを問うべきです。
 データに何が含まれているべきかを知ることは、データにどのような質問をするかのパラメータを設定するために不可欠です。これは、データに含まれているものに基づいてのみ質問に答えることができるからです。したがって、ニーズを満たすデータセットを作成するには、何を調べたいのか、それを調べるためにはどのような情報が必要なのかを明確にする必要があります。
 データはどこに保存されていますか?次のステップは、データがどのような形式で保存されるかを検討することです。一つの方法は、自分のステップをたどることです。
 ここにストーリーが潜んでいることをどうやって知ることができるのでしょう。このアイデアはどこから生まれたのか、その背後には潜在的なデータソースがあるのか。
 調査は、何が存在するのかを明らかにするのにも役立つので、関心のある問題に言及しているすべての情報源を調べ、データを収集したり扱ったりしている学者、研究者、統計学者に話を聞いてみましょう。そうすることで、そのデータを使用する際の欠点や落とし穴を特定することができます。また、データを入手するための他のソースや方法についてもアイデアが浮かぶはずです。
 データセットの構築に着手する前のこうした準備は、融通のきかない政府機関との共同作業が必要になった場合や、データ収集に別のアプローチを取ることになった場合に、非常に大きな力を発揮します。
-倫理的な問題（にも目を配りましょう）。ストーリーの企画や情報収集には倫理的な問題を考慮する必要がありますが、データを扱う場合も同様です。データセットを構築する際には、情報を収集するために使用している情報源と方法が、可能な限り正確で完全なものであるかどうかを検討する必要があります。
+倫理的な問題。ストーリーの企画や情報収集には倫理的な問題を考慮する必要がありますが、データを扱う場合も同様です。データセットを構築する際には、情報を収集するために使用している情報源と方法が、可能な限り正確で完全なものであるかどうかを検討する必要があります。
 これは分析の場合も同様で、複数の角度から情報を検証し、現実を反映していないことを言わせるためにデータをいたぶることはしません。
 ストーリーを発表する際には、データのソース、分析、限界について透明性を保つようにしてください。これらの配慮は、より強いストーリーを構築し、読者との信頼関係を築くのに役立ちます。
-データを取得しましょう。潜在的な情報源が特定できたら、次はデータの入手です。これには、スプレッドシートへのデータ入力、PDFに記録されている情報を分析可能な構造化データに変換する、人力による文書の入手や情報公開法（FOIA）による文書の入手、文書やウェブページからデータをスクレイプするプログラミング、アプリケーション・プログラミング・インターフェース（API）によるデータ取得の自動化などの方法があります。
+データの取得。潜在的な情報源が特定できたら、次はデータの入手です。これには、スプレッドシートへのデータ入力、PDFに記録されている情報を分析可能な構造化データに変換する、人力による文書の入手や情報公開法（FOIA）による文書の入手、文書やウェブページからデータをスクレイプするプログラミング、アプリケーション・プログラミング・インターフェース（API）によるデータ取得の自動化などの方法があります。
 自分に優しくしてください。シンプルさを犠牲にしてはいけません。情報を分析可能なデータセットにするために、最も簡単な方法を探してください。可能であれば、作業プロセスを再現できるようにしましょう。そうすれば、自分の作業を確認したり、必要に応じて後からデータセットを追加したりするのに役立ちます。
 データを取得する際には、ストーリーのアウトラインを参照し、次のように問いかけます。
 そのデータで、テーマを完全に探求できるか？私が興味を持っているトップラインにつながる情報が含まれているか？
-
-Structure. The key difference between information contained in a stack of text-based paper documents and a data set is structure. Structure and repetition are essential to building a clean data set ready for analysis.
-
-The first step is to familiarize yourself with the information. Ask yourself what the material contains—what will it allow you to say? What won’t you be able to say with the data? Is there another data set you might want to combine the information with? Can you take steps in building this data set which will allow you to combine it with others?
-
-Think of what the data set should look like at the end of the process. Consider the columns or variables you would want to be able to analyze. Look for inspiration in the methodology and structure underlying other similar data sets.
-
-Cast the net wide to begin with, taking account of all the data you could gather and then pare it back by assessing what you need for the story and how long it will take to get it. Make sure the data you collect will compare like with like. Choose a format and stick to it—this will save you time in the end! Also consider the dimensions of the data set you’re creating. Times and dates will allow you to analyze the information over time; geographic information will allow you to possibly plot the data to look for spatial trends.
+テキストベースの紙の文書の束に含まれる情報とデータセットの違いは、構造です。分析に適したきれいなデータセットを構築するには、構造と反復が不可欠です。
+最初のステップは、その情報に慣れ親しむことです。その資料には何が含まれているのか、それによって何が言えるのか。そのデータでは何が言えないのか？その情報を組み合わせることができる別のデータセットはあるか？このデータセットを構築する際に、他のものと組み合わせることができるような手順を踏むことができるか？
+最終的にデータセットがどのようになるべきかを考える。分析したい列や変数を検討します。他の類似したデータセットの基礎となる方法論や構造からインスピレーションを得ましょう。
+まず、あらゆるデータを収集し、ストーリーに必要なものは何か、それを手に入れるにはどのくらいの時間がかかるのかを見極めて、網を広げます。集めたデータは、必ず似たもの同士を比較するようにします。フォーマットを決め、それに従うことで、最終的に時間を節約できます。また、作成するデータセットのサイズも考慮してください。時間と日付があれば、時系列で情報を分析することができ、地理的情報があれば、データをプロットして空間的な傾向を調べることができます。
 
 Keep track of your work and check as you go. Keep notes of the sources you have used to create your data set and always keep a copy of the original documents and data sets. Write up a methodology and a data dictionary to keep track of your sources, how the data has been processed and what each column contains. This will help flag questions and shake out any potential errors as you gather and start to analyze the data.
 
