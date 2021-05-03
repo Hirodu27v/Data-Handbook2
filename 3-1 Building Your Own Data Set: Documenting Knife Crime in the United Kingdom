@@ -45,12 +45,11 @@ Written by Caelainn Barr
 最初のステップは、その情報に慣れ親しむことです。その資料には何が含まれているのか、それによって何が言えるのか。そのデータでは何が言えないのか？その情報を組み合わせることができる別のデータセットはあるか？このデータセットを構築する際に、他のものと組み合わせることができるような手順を踏むことができるか？
 最終的にデータセットがどのようになるべきかを考える。分析したい列や変数を検討します。他の類似したデータセットの基礎となる方法論や構造からインスピレーションを得ましょう。
 まず、あらゆるデータを収集し、ストーリーに必要なものは何か、それを手に入れるにはどのくらいの時間がかかるのかを見極めて、網を広げます。集めたデータは、必ず似たもの同士を比較するようにします。フォーマットを決め、それに従うことで、最終的に時間を節約できます。また、作成するデータセットのサイズも考慮してください。時間と日付があれば、時系列で情報を分析することができ、地理的情報があれば、データをプロットして空間的な傾向を調べることができます。
+自分の作業を記録し、確認しながら進めること。データセットの作成に使ったソースを記録し、常にオリジナルのドキュメントとデータセットのコピーを保管してください。
+方法論とデータ辞書を作成し、ソース、データの処理方法、各列の内容を記録します。これにより、データを収集して分析を開始する際に、疑問点を指摘したり、潜在的なエラーを洗い出したりすることができます。
+何も仮定せず、発見したことをすべて報告書で確認する。専門家や統計学者に相談して、自分のアプローチや結果をチェックしてもらうのをためらってはいけません。データを収集した後は、自分の仕事を確実にする責任がさらに大きくなりますので、データ、分析、記述が正しいことを確認するためにあらゆる手段を講じてください。
 
-Keep track of your work and check as you go. Keep notes of the sources you have used to create your data set and always keep a copy of the original documents and data sets. Write up a methodology and a data dictionary to keep track of your sources, how the data has been processed and what each column contains. This will help flag questions and shake out any potential errors as you gather and start to analyze the data.
-
-Assume nothing and check all your findings with further reporting. Don’t hold off talking to experts and statisticians to sense–check your approach and findings. The onus to bulletproof your work is even greater when you have collated the data, so take every step to ensure the data, analysis and write-up are correct.
-
-Case Study: Beyond the Blade
+事例研究：刃を超えて
 
 At the beginning of 2017 the data projects team alongside Gary Younge, Damian Gayle and The Guardian’s community journalism team set out to document the death of every child and teenager killed by a knife in the United Kingdom. In order to truly understand the issue and explore the key themes around knife crime the team needed data. We wanted to know—who are the young people dying in the United Kingdom as a result of stabbings? Are they young children or teenagers? What about sex and ethnicity? Where and when are these young people being killed?
 
