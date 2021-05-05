@@ -54,10 +54,10 @@ Written by Caelainn Barr
 2017年初め、データ・プロジェクトチームは、ゲイリー・ユンゲ、ダミアン・ゲイル、ガーディアンのコミュニティ・ジャーナリズムチームとともに、イギリスのナイフによる殺人事件で犠牲になったすべての子供と10代の若者を記録し始めました。
 この問題を真に理解し、ナイフ犯罪にまつわる重要なテーマを探るために、チームはデータを必要としました。イギリスで刺されて亡くなっている若者は誰なのか？幼い子どもたちなのか、ティーンエイジャーなのか。性別や民族はどうなのか？若者はいつ、どこで殺されているのか？
 統計学者や警察官、犯罪学者に聞いてみると、データは存在するが公開されていないことがわかりました。この疑問に対する答えを見つけようとすることが、翌年の私の仕事の大半を占めました。
+私が必要としていたデータは、内務省が保有する「殺人指数」と呼ばれるデータセットでした。この数字は、イングランドとウェールズの警察から内務省に報告されたものです。
+情報を得るためには、内務省に情報公開請求をするか、すべての警察に請求をするか、二つのルートが考えられました。あらゆる可能性を考慮して、私はその両方を行いました。これで1977年以降の数字が得られます。
+今年の死亡者数を把握するためには、発生した死亡者数を数え始める必要がありました。公表データや集計データがないため、警察の報告書、ニュースの切り抜き、Googleアラート、Facebook、Twitterなどを利用して、自分たちで情報を把握することにしました。
 
-The data I needed was held by the Home Office in a data set called the Homicide Index. The figures were reported to the Home Office by police forces in England and Wales. I had two potential routes to get the information—send a freedom of information request to the Home Office or send requests to every police force. To cover all eventualities, I did both. This would provide us with the historical figures back to 1977.
-
-In order to track deaths in the current year we needed to begin counting the deaths as they happened. As there was no public or centrally collated data we decided to keep track of the information ourselves, through police reports, news clippings, Google Alerts, Facebook and Twitter.
 
 We brainstormed what we wanted to know—name, age and date of the incident were all things we definitely wanted to record. But other aspects of the circumstances of the deaths were not so obvious. We discussed what we thought we already knew about knife crime—it was mostly male with a disproportionate number of Black male victims. To check our assumptions we added columns for sex and ethnicity. We verified all the f igures by checking the details with police forces across the United Kingdom. In some instances this revealed cases we hadn’t picked up and allowed us to cross-check our findings before reporting.
 
