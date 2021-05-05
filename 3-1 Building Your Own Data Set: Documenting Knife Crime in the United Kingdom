@@ -9,7 +9,7 @@ Written by Caelainn Barr
 2017年の初め、ガーディアンのニュースルームで、ゲイリー・ヤングとダミアン・ゲイルという同僚2人が声をかけてきました。彼らはイギリスのナイフ犯罪を調査したいと考えていました。
 被害者の死を詳細に記した記事や、容疑者の追跡調査のフォローアップ、犯人の裁判や有罪判決に関する記事には事欠かないものの、全ての殺人事件を俯瞰的に見ている人はいなかったのです。
 私はまず、「近年、ナイフで殺された子供や若者は何人いるのだろう」と考えました。簡単な質問に思えましたが、データを見つけようとすると、誰も把握していないことがわかりました。
-データはどこかにあるのだが、公開されていないのです。私には二つの選択肢がありました。あきらめるか、自分でアクセスし、構築し、検証できるものをもとに、ゼロからデータセットを作るか。私はデータセットを作ることにしました。
+データはどこかにあるのですが、公開されていないのです。私には二つの選択肢がありました。あきらめるか、自分でアクセスし、構築し、検証できるものをもとに、ゼロからデータセットを作るか。私はデータセットを作ることにしました。
 
 独自のデータセットを構築する理由
 データ・ジャーナリズムは、既存のデータセットだけに基づく必要はありません。独自のデータ（セット）を作成することには大きな意味があります。
@@ -51,9 +51,9 @@ Written by Caelainn Barr
 
 事例研究：刃を超えて
 
-At the beginning of 2017 the data projects team alongside Gary Younge, Damian Gayle and The Guardian’s community journalism team set out to document the death of every child and teenager killed by a knife in the United Kingdom. In order to truly understand the issue and explore the key themes around knife crime the team needed data. We wanted to know—who are the young people dying in the United Kingdom as a result of stabbings? Are they young children or teenagers? What about sex and ethnicity? Where and when are these young people being killed?
-
-After talking to statisticians, police officers and criminologists it became clear that the data existed but it was not public. Trying to piece together an answer to the question would consume much of my work over the next year.
+2017年初め、データ・プロジェクトチームは、ゲイリー・ユンゲ、ダミアン・ゲイル、ガーディアンのコミュニティ・ジャーナリズムチームとともに、イギリスのナイフによる殺人事件で犠牲になったすべての子供と10代の若者を記録し始めました。
+この問題を真に理解し、ナイフ犯罪にまつわる重要なテーマを探るために、チームはデータを必要としました。イギリスで刺されて亡くなっている若者は誰なのか？幼い子どもたちなのか、ティーンエイジャーなのか。性別や民族はどうなのか？若者はいつ、どこで殺されているのか？
+統計学者や警察官、犯罪学者に聞いてみると、データは存在するが公開されていないことがわかりました。この疑問に対する答えを見つけようとすることが、翌年の私の仕事の大半を占めました。
 
 The data I needed was held by the Home Office in a data set called the Homicide Index. The figures were reported to the Home Office by police forces in England and Wales. I had two potential routes to get the information—send a freedom of information request to the Home Office or send requests to every police force. To cover all eventualities, I did both. This would provide us with the historical figures back to 1977.
 
