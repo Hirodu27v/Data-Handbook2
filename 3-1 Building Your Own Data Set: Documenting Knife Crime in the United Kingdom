@@ -57,11 +57,10 @@ Written by Caelainn Barr
 私が必要としていたデータは、内務省が保有する「殺人指数」と呼ばれるデータセットでした。この数字は、イングランドとウェールズの警察から内務省に報告されたものです。
 情報を得るためには、内務省に情報公開請求をするか、すべての警察に請求をするか、二つのルートが考えられました。あらゆる可能性を考慮して、私はその両方を行いました。これで1977年以降の数字が得られます。
 今年の死亡者数を把握するためには、発生した死亡者数を数え始める必要がありました。公表データや集計データがないため、警察の報告書、ニュースの切り抜き、Googleアラート、Facebook、Twitterなどを利用して、自分たちで情報を把握することにしました。
-
-
-We brainstormed what we wanted to know—name, age and date of the incident were all things we definitely wanted to record. But other aspects of the circumstances of the deaths were not so obvious. We discussed what we thought we already knew about knife crime—it was mostly male with a disproportionate number of Black male victims. To check our assumptions we added columns for sex and ethnicity. We verified all the f igures by checking the details with police forces across the United Kingdom. In some instances this revealed cases we hadn’t picked up and allowed us to cross-check our findings before reporting.
-
-After a number of rejected FOI requests and lengthy delays the data was eventually released by the Home Office. It gave the age, ethnicity and sex of all people killed by knives by police force area for almost 40 years. This, combined with our current data set, allowed us to look at who was being killed and the trend over time.
+名前、年齢、事件の発生日など、絶対に記録しておきたいことをブレインストーミングしました。それらは必須でしたが、死亡時の状況は意見が分かれました。
+私たちは、ナイフ犯罪についてすでに知っていると思っていたことを話し合いました。それは、ナイフ犯罪の被害者はほとんどが男性で、黒人男性の被害者が多いということでした。
+仮説を確認するために、性別と民族性の欄を追加し、英国内の警察に照会して全ての数字を確認しました。私たちが把握していなかった事例が明らかになったこともあり、報道する前に調査結果を再確認することができました。
+情報公開請求が何度も却下され、データの公開は難航しましたが、最終的に内務省はデータを公開しました。このデータには、約40年間にナイフで殺されたすべての人の年齢、民族、性別が、警察の管内別に記載されていました。このデータと現在のデータを組み合わせることで、どのような人が殺されているのか、時系列での傾向を調べることができました。
 
 The data revealed knife crime had killed 39 children and teenagers in England and Wales in 2017, making it one of the worst years for deaths of young people in nearly a decade. The figures raised concerns about a hidden public health crisis amid years of police cuts.
 
