@@ -8,8 +8,7 @@ Written by Flor Coelho
 
 
 キーワード：市民マラソン，クラウドソーシング，調査報道，オープンソース，研究者とジャーナリストの共同作業，オープンデータ
-
-At La Nación we have produced large data-driven investigations by teaming up with our readers. This chapter takes a look behind the scenes at how we have organized reader participation around some of these projects, including through setting goals, supporting investigative communities, and nurturing long-term collaborations with our readers and other external organizations and partners.
+（アルゼンチンの日刊紙）ラ・ナシオンは、読者と協力して大規模なデータ駆動型の調査を行ってきました。本章では、目標設定、調査コミュニティの支援、読者や外部組織・パートナーとの長期的な協力関係の構築など、読者参加型のプロジェクトの舞台裏をご紹介します。
 
 In such projects often our goal is to tackle the “impossible” by using technology to facilitate large-scale collaborations, enabling users to engage with investigative journalism and the process of making official data public. For example, we spent around five years transcribing 10,000 PDFs of Senate expenses, two years listening to 40,000 intercepted phone calls and a couple of months digitizing more than 20,000 hand-written electoral forms.1 For these kinds of crowdsourcing initiatives, we relied on the online collaborative platform Vozdata. The platform was inspired by The Guardian’s MPs’ expenses and ProPublica’s “Free the Files'' crowdsourcing campaigns and was developed with the support of Knight-Mozilla OpenNews and CIVICUS, a global alliance of civil society organizations and activists. The software behind Vozdata was open-sourced as Crowdata.2
 
