@@ -9,12 +9,16 @@ Written by Flor Coelho
 
 キーワード：市民マラソン，クラウドソーシング，調査報道，オープンソース，研究者とジャーナリストの共同作業，オープンデータ
 （アルゼンチンの日刊紙）ラ・ナシオンは、読者と協力して大規模なデータ駆動型の調査を行ってきました。本章では、目標設定、調査コミュニティの支援、読者や外部組織・パートナーとの長期的な協力関係の構築など、読者参加型のプロジェクトの舞台裏をご紹介します。
+このようなプロジェクトでは、テクノロジーを利用して大規模な共同作業を行い、ユーザーが調査報道や公式データの公開プロセスに参加できるようにすることで、「不可能」なことに取り組むことを目標としています。
+例えば、私たちは、上院の経費に関する1万件のPDFを書き写すのに約5年、4万件の電話を傍受するのに2年、2万件以上の手書きの選挙用紙をデジタル化するのに数カ月を費やしました。
+このようなクラウドソーシングの取り組みには、オンラインコラボレーションプラットフォーム「Vozdata」を利用しました。
+Vozdataは、（英紙）ガーディアンのMPs' expensesやプロパブリカのFree the Filesといったクラウドソーシングキャンペーンにヒントを得て、ナイト・モジラ・オープンニュースと、市民社会団体や活動家の世界的な連合体である（国際NGO）シヴィカスの支援を受けて開発されました。
+Vozdataのソフトウェアは、Crowdataとしてオープンソース化されています。
 
-In such projects often our goal is to tackle the “impossible” by using technology to facilitate large-scale collaborations, enabling users to engage with investigative journalism and the process of making official data public. For example, we spent around five years transcribing 10,000 PDFs of Senate expenses, two years listening to 40,000 intercepted phone calls and a couple of months digitizing more than 20,000 hand-written electoral forms.1 For these kinds of crowdsourcing initiatives, we relied on the online collaborative platform Vozdata. The platform was inspired by The Guardian’s MPs’ expenses and ProPublica’s “Free the Files'' crowdsourcing campaigns and was developed with the support of Knight-Mozilla OpenNews and CIVICUS, a global alliance of civil society organizations and activists. The software behind Vozdata was open-sourced as Crowdata.2
+参加者の組織化
+これらのプロジェクトでは、主にジャーナリズムを学ぶ学生、市民ボランティア、透明性の高いNGO、退職した市民などが協力してくれました。参加者の動機は、プロジェクトによって異なります。
+公共の利益のためのプロジェクトへの貢献、データチームとの共同作業、ミートアップでの知り合いの増加などです。
 
-Organizing Participation
-
-For these projects our collaborators were mainly journalism students, civic volunteers, transparency NGOs and retired citizens. They have different motivations to participate depending on the project. These may include contributing to public interest projects, working with our data team and getting to know other people at our meetups.
 
 Vozdata has teams and live ranking features. We have been exploring how these can enhance participation through “gamification.” We had excellent results in fostering civic participation in this way around Argentina’s national holidays. Participation in the construction of collaborative databases is mostly undertaken remotely (online). But we have also encouraged users to participate in “offline” civic events held at La Nación or during hackathons at various events. Sometimes we have built open (i.e., freely reusable) databases with journalism students at partner universities.
 
