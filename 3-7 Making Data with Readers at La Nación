@@ -18,20 +18,20 @@ Vozdataのソフトウェアは、Crowdataとしてオープンソース化さ�
 参加者の組織化
 これらのプロジェクトでは、主にジャーナリズムを学ぶ学生、市民ボランティア、透明性の高いNGO、退職した市民などが協力してくれました。参加者の動機は、プロジェクトによって異なります。
 公共の利益のためのプロジェクトへの貢献、データチームとの共同作業、ミートアップでの知り合いの増加などです。
+Vozdataには、チームやライブランキングの機能があります。私たちは、これらが "ゲーミフィケーション "によってどのように参加者を増やすことができるかを模索しています。
+アルゼンチンの祝祭日にこの方法で市民参加を促したところ、素晴らしい結果が得られました。共同データベース構築への参加は、ほとんどが遠隔地（オンライン）で行われます。
+しかし、ラ・ナシオンで開催される「オフライン」の市民イベントや、さまざまなイベントで行われるハッカソンへの参加も呼びかけています。
+また、パートナー大学のジャーナリズム専攻の学生と一緒に、オープンな（自由に再利用できる）データベースを構築することもありました。
+ハッカソンは通常1～2日で終わるイベントですが、私たちのオンラインマラソンは数ヶ月に渡って続けることができます。プログレスバーには、完成したドキュメントの数と残りの割合が表示されます。
 
-
-Vozdata has teams and live ranking features. We have been exploring how these can enhance participation through “gamification.” We had excellent results in fostering civic participation in this way around Argentina’s national holidays. Participation in the construction of collaborative databases is mostly undertaken remotely (online). But we have also encouraged users to participate in “offline” civic events held at La Nación or during hackathons at various events. Sometimes we have built open (i.e., freely reusable) databases with journalism students at partner universities.
-
-While hackathons are events that usually take one or two days, our online marathons can continue for months. The progress bar shows how many documents have been completed and the percentage that remain to be completed.
-
-Setting Big Goals
-
-The main role of collaborators in the Senate Expenses and Electoral Telegrams projects was to gather specific structured data from the documents provided. This involved over a thousand unique users. As well as extracting these details, readers also had the opportunity to flag data as suspicious or unacceptable and leave a comment with additional information. The latter feature was rarely used. When you have a deadline to finish a crowdsourcing project, you may not reach your target. That happened to us in the Electoral Telegrams project. The election day was approaching and we needed to publish some conclusions. While some provinces reached 100%, many had only completed 10% to 15% of the files, which we acknowledged when we published.
-
-
+大きな目標を立てる
+Senate Expenses」と「Electoral Telegrams」プロジェクトの共同研究者の主な役割は、提供された文書から特定の構造化データを収集することでした。これには1,000人以上のユーザーが参加しました。
+読者は、データの詳細を抽出するだけでなく、疑わしいデータや受け入れがたいデータにフラグを立てたり、追加情報をコメントとして残したりすることができました。（とはいえ、）後者の機能はほとんど使われませんでした。
+クラウドソーシングのプロジェクトでは、締め切りがあると目標を達成できないことがあります。選挙電報のプロジェクトでは、それが起こりました。投票日が近づいてきて、結論を発表する必要がありました。
+100％達成した県もありましたが、多くの県では10％から15％のファイルしか完成しておらず、公開時に注記しました。
 Figure 13.1. Opening of the Vozdata civic marathon on senate expenses at La Nacion in 2017. Source: La Nación.
-Supporting Investigative Communities
 
+調査コミュニティの支援
 For Prosecutor Nisman’s 40,000 files investigation, we worked with a trusted network of a hundred collaborators. Many audio files related to private conversations (e.g., family dialogues) held by the Iranian agent whose phone was tapped by a federal court. A group of six volunteers got really deep into the investigation. We created a WhatsApp group where anyone could suggest leads and curiosities.
 
 One of our volunteers resolved a mystery that kept us busy for a couple of months. We had flagged several conversations where two people talked in code using nicknames and numbers (e.g., “Mr. Dragon, 2000”). Many volunteers had heard and transcribed such recordings. We thought about making a separate database to analyze the code behind them. One day, a volunteer discovered that the conversations were about betting on horse races! A quick Google search confirmed many names as racing horses.
