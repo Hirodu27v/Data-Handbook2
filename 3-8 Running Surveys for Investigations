@@ -1,13 +1,14 @@
 調査のためのアンケートを行う
 Written by Crina-Gabriela Boroş
 
-Abstract
+概要
 
-Read this first before running a survey for accountability journalism: dos, don’ts and how to handle imperfect circumstances.
+説明責任を果たすジャーナリズムのためにアンケートを実施する前に、まずこの記事をお読みください。必要なこと、やってはいけないこと、不完全な状況に対処する方法などを説明しています。
 
-Keywords: statistics, data journalism, surveys, accountability
+キーワード：統計、データ・ジャーナリズム、アンケート、説明責任
 
-Is an issue anecdotal or systematic? You’re attempting to discover this when you realize there is not any tabular data—a fancy phrase that simply means information supplied in rows and columns. What should you do?
+その問題は(１回限りの事例が並ぶ)逸話的なものなのか、それとも体系的なものなのか。表形式のデータ-行と列で提供される情報のしゃれた言い方-がないことに気付いたとき、あなたはそれを見極めようとします。
+どうすればいいのでしょうか？
 
 What is data, anyway? There are many nerdy definitions floating around, some of which are intimidating.1 Let’s trade them for the simple concept of “information.” And as you gather it, in any shape or form, you need to be able to find patterns and outliers. This means that you have to have a considerable amount of systematically gathered raw material that documents an issue according to a specific method (think fill-in forms). Whether you use a spreadsheet, a coding environment, an app, or pen and paper, it does not matter.
 
