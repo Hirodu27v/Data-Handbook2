@@ -9,10 +9,11 @@ Written by Crina-Gabriela Boroş
 
 その問題は(１回限りの事例が並ぶ)逸話的なものなのか、それとも体系的なものなのか。表形式のデータ-行と列で提供される情報のしゃれた言い方-がないことに気付いたとき、あなたはそれを見極めようとします。
 どうすればいいのでしょうか？
-
-What is data, anyway? There are many nerdy definitions floating around, some of which are intimidating.1 Let’s trade them for the simple concept of “information.” And as you gather it, in any shape or form, you need to be able to find patterns and outliers. This means that you have to have a considerable amount of systematically gathered raw material that documents an issue according to a specific method (think fill-in forms). Whether you use a spreadsheet, a coding environment, an app, or pen and paper, it does not matter.
-
-Sometimes, thoughts, feelings or past intimate experiences trapped in people’s hearts and minds can be articulated as data. One method of harvesting this precious information is to design a survey that would gather and order such feelings and experiences into a table, archive or a database that nobody else but you has access to.
+そもそも、データとは何でしょうか？オタク的な定義がたくさん出回っていて、中には人を萎縮させるものもありますが1、それらを「情報」というシンプルな概念に置き換えてみましょう。
+どんな形であれ、情報を集めるには、パターンや異常値を見つける能力が必要です。つまり、ある問題を特定の方法で文書化し、体系的に収集した膨大な量の原材料が必要になるのです（記入式のフォームを考えてみてください）。
+スプレッドシートを使おうが、（プログラミングの）開発環境を使おうが、アプリを使おうが、紙とペンを使おうが、構いません。
+人の心に閉じ込められた思いや感情、過去の親密な体験などは、時にデータとして表現することができます。
+このような貴重な情報を得るためには、そのような感情や経験を集めて整理し、自分以外の誰もアクセスできないテーブルやアーカイブ、データベースを作成するような調査を設計することが一つの方法です。
 
 For instance, the Thomson Reuters Foundation (TRF) undertook a project reporting on how women in the world’s largest capitals perceived sexual violence on public transport affects them.2 It was a survey-driven effort to raise awareness of the issue, but also to compare and contrast (the stuff stats do).
 
