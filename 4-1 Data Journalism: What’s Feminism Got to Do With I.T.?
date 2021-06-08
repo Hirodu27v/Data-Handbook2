@@ -9,12 +9,14 @@ Written by Catherine D’Ignazio
 過去70年間のテクノロジーの進歩により、人々はかつてないほど多くの情報を保存し、処理できるようになりました。グーグル、フェイスブック、アマゾン、マイクロソフト、アップルなど、世界で最も成功しているテクノロジー企業は、データを集約することで収益を上げています。
 ビジネスや政府においても、「データに基づいた」意思決定がますます重要視されています。しかし、データは平等に分配されていません。データを扱うためのスキルや、データを保存したり処理したりするために必要な技術的リソースも平等ではありません。
 データを扱う人々は、一般の人々を代表しているわけではありません。つまり、男性で白人、グローバルノース出身かつ高学歴な人が多いのです。
+データエコシステムにこのような基本的な不平等があるだけに、データ・ジャーナリズムにフェミニズム的なアプローチをとることは、情報のパイプラインにおける隠れたバイアスを明らかにします。
+フェミニズムとは、簡単に言えば、社会的、政治的、経済的に男女が平等であることを信じ、その信念に基づいて組織的に活動することと定義できます。
+フェミニストの概念とツールは、分析の中心的な側面（唯一の側面ではない）としてジェンダーを用いて社会的権力に疑問を投げかけるのに役立ちます。
+現代のフェミニズムの特徴の一つは、交差性を主張していることです。これは、権力の不均衡がどのように真実を覆い隠してしまうかを考える際に、性差別だけでなく、人種差別、階級差別、能力差別、その他の構造的な力も考慮しなければならないという考え方です。
+このエッセイでは、データ処理のパイプラインにおけるいくつかの段階（データの収集、データの背景、データの伝達）に注目し、バイアスの落とし穴とフェミニスト的な（視点の）レンズを採用する機会を指摘します。
+なお、フェミニスト的なアプローチは、女性やジェンダー問題に関するデータだけでなく、人間や人間の制度に関するあらゆるプロジェクト（つまり、ほとんどすべてのプロジェクト）に有効であることに留意してください。
 
-Because of advances in technology over the last 70 years, people can store and process more information than ever before. The most successful technology companies in the world—Google, Facebook, Amazon, Microsoft, Apple—make their money by aggregating data. In business and government, it is increasingly valued to make “data-driven” decisions. Data are powerful— because they are financially lucrative and valued by the powerful—but they are not distributed equally, nor are the skills to work with them, nor are the technological resources required to store and process them. The people that work with data are not representative of the general population—they are disproportionately male, white, from the Global North and highly educated.
-
-Precisely because of these basic inequalities in the data ecosystem, taking a feminist approach to data journalism can be helpful to uncover hidden biases in the information pipeline. Feminism can be simply defined as the belief in the social, political and economic equality of the sexes and organized activity on behalf of that belief. Feminist concepts and tools can be helpful for interrogating social power using gender as a central (but not the only) dimension of analysis. One of the defining features of contemporary feminism is its insistence on intersectionality—the idea that we must consider not only sexism, but also racism, classism, ableism and other structural forces in thinking about how power imbalances can obscure the truth.1 For journalists who identify with the profession’s convention of “speaking truth to power,” a feminist approach may feel quite familiar. This essay looks across several stages in the data-processing pipeline— data collection, data context and data communication—and points out pitfalls for bias as well as opportunities for employing a feminist lens. Note that a feminist approach is not only useful for data pertaining to women or gender issues, but suitable for any project about human beings or human institutions (read: pretty much every project), because where you have humans you have social inequality.2
-
-Data Collection
+データの収集
 
 Examining power—how it works and who benefits—has always been a central part of feminist projects. Sociologist Patricia Hill Collins’ concept of the matrix of domination helps us understand that power is complicated and that “there are few pure victims and oppressors” (Hill Collins, 2000,p. 332). While we tend to think of injustice in the interpersonal domain (e.g., a sexist comment), there are systemic forces that we need to understand and expose (e.g., sexism in institutions that collect data) in order to make change.
 
