@@ -17,14 +17,22 @@ Written by Catherine D’Ignazio
 なお、フェミニスト的なアプローチは、女性やジェンダー問題に関するデータだけでなく、人間や人間の制度に関するあらゆるプロジェクト（つまり、ほとんどすべてのプロジェクト）に有効であることに留意してください。
 
 データの収集
+権力がどのように働き、誰が得をするのかを検証することは、常にフェミニストのプロジェクトの中心的な役割を担ってきました。
+社会学者のパトリシア・ヒル・コリンズが提唱した「支配のマトリックス」という概念は、権力は複雑であり、「純粋な被害者や抑圧者はほとんどいない」ということを理解するのに役立ちます（Hill Collins, 2000, p. 332）。
+私たちは、不正を対人関係の領域で考えがちですが（例：性差別的な発言）、変化を起こすためには、理解して暴露しなければならない体系的な力があります（例：データを収集する機関における性差別）。
+構造的不平等は、二つの方法でデータ収集に立ち現れます。まず、データ収集の過程で特定の（属性を持つ）人が過大評価されます。
+過大評価は、一般的に権力者が権力のない者に対して行う監視に関係しています。例えば、ボストン警察は、2015年に路上尋問プログラムに関するデータを発表しました。
+このデータによると、警察は黒人、移民、ラテン系住民の居住区を過度に巡回し、若い黒人男性を過度に取り締まっています。このような過剰カウントのケースでは、どのグループが権力を持ち、どのグループが監視の対象になりやすいかに注意を払うことが重要です。
+データ・ジャーナリストの役割は、格差を認識して数値化するとともに、構造的な力（この場合は人種差別）が働いていることを明らかにすることです。
+二つ目は（逆に）数が少なかったり、まったく数えなかったりすることです。
+例えば、メキシコのフェミニサイド（ジェンダーに基づく殺人）に関する最も包括的なデータベースは、なぜ「プリンセサ」というペンネームの女性によって収集されているのでしょう。
+（メキシコ北部の）シウダー・フアレスをはじめとして国内の女性の死が増え続けているにもかかわらず、2006年にフェミニサイドに関する特別委員会が設立されたにもかかわらず、09年に米州人権裁判所がメキシコ政府に対して下した判決にもかかわらず、メキシコ政府は今のところフェミニサイドを包括的に追跡していません。
+女性や有色人種に関連する多くの問題では、（データを）カウントする機関が自らに責任のある被害を組織的に無視しているため、過小評価が発生しています。
+つまり、収集環境が損なわれているということです。数が足りない場合、データ・ジャーナリストは、プリンセサが行ったようなことができます。
+それは、可能な限り自分で数えることです。一般的には、クラウドソーシング、記事の収集、統計的な推論を組み合わせて行うことになります。
+米国では、警察官の殺害や妊産婦の死亡率などが過小評価の例として挙げられますが、いずれもジャーナリストによるデータ収集プロジェクトとして取り上げられています。
 
-Examining power—how it works and who benefits—has always been a central part of feminist projects. Sociologist Patricia Hill Collins’ concept of the matrix of domination helps us understand that power is complicated and that “there are few pure victims and oppressors” (Hill Collins, 2000,p. 332). While we tend to think of injustice in the interpersonal domain (e.g., a sexist comment), there are systemic forces that we need to understand and expose (e.g., sexism in institutions that collect data) in order to make change.
-
-Structural inequality shows up in data collection in two ways. First, specific bodies are overcounted in a data collection process. Overcounting typically relates to the surveillance practiced by those in power on those with less power. For example, the Boston Police released data about their stop-and-frisk programme in 2015. The data show that police disproportionately patrol Black, immigrant and Latinx neighbourhoods and disproportionately stop young Black men. In cases like this of overcounting, it is important to be tuned into which groups hold power and which groups are likely to be targeted for surveillance. A data journalist’s role is to recognize and quantify the disparity, as well as name the structural forces at work—in this case, racism.
-
-The second way that structural inequality shows up in data collection is undercounting or not counting at all. For example, why is the most compre- hensive database on feminicides (gender-based killings) in Mexico being collected by a woman who goes by the pseudonym of Princesa?3 Despite the fact that women’s deaths in Ciudad Juárez and around the country continue to rise, despite the establishment of a special commission on femicide in 2006, despite a 2009 ruling against the Mexican state by the Inter-American Human Rights Court, the state does not comprehensively track femicides. Undercounting is the case with many issues that relate to women and people of colour in which counting institutions systematically neglect to account for harms that they themselves are responsible for. Which is to say—the collection environment is compromised. In cases of undercounting, data journalists can do exactly what Princesa has done: Count it yourself, to the best of your abilities. Typically, this involves a combination of crowdsourcing, story collection and statistical inference. In the US context, other examples of undercounting include police killings and maternal mortality, both of which have been taken up as data collection projects by journalists.
-
-Data Context
+データの背景
 
 While the open data movement and the proliferation of APIs would seem to be a good thing for data journalists, data acquired “in the wild” comes with its own set of concerns, particularly when it comes to human and social phenomena. The feminist philosopher Donna Haraway says that all knowledge is “situated,” meaning that it is always situated in a social, cultural, historical and material context. Untangling and investigating how it is that data sets are products of those contexts can help us understand the ways in which power and privilege may be obscuring the truth.
 
