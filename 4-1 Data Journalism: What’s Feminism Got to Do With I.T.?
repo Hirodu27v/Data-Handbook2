@@ -33,10 +33,15 @@ Written by Catherine D’Ignazio
 米国では、警察官の殺害や妊産婦の死亡率などが過小評価の例として挙げられますが、いずれもジャーナリストによるデータ収集プロジェクトとして取り上げられています。
 
 データの背景
-
-While the open data movement and the proliferation of APIs would seem to be a good thing for data journalists, data acquired “in the wild” comes with its own set of concerns, particularly when it comes to human and social phenomena. The feminist philosopher Donna Haraway says that all knowledge is “situated,” meaning that it is always situated in a social, cultural, historical and material context. Untangling and investigating how it is that data sets are products of those contexts can help us understand the ways in which power and privilege may be obscuring the truth.
-
-For example, students in my data visualization class wanted to do their final project about sexual assault on college campuses.4 Colleges and universities in the United States are required to report sexual assault and other campus crimes annually per the Clery Act, so there appeared to be a comprehensive national database on the matter. But the Clery data troubled the students—Williams College, for example, had extremely high numbers in comparison to other urban colleges. What the students found by investigating context and interrogating how the collection environment was structured is that the numbers told a story that was likely the opposite of the truth. Sexual assault is a stigmatized issue and survivors often fear victim-blaming and retaliation and do not come forward. So the colleges that were reporting high numbers were places that had devoted more resources to creating an environment in which survivors would feel safe to report. Conversely, those with low numbers of sexual assault had a hostile climate that did not support survivors to break their silence.
+オープンデータ化やAPIの普及は、データジャーナリストにとって好ましいことのように思われますが、「野放しの状態」で得られたデータには、特に人間や社会の現象に関して懸念がつきまといます。
+フェミニスト哲学者のダナ・ハラウェイは、すべての知識は「状況に置かれている」と言っています。つまり、知識は常に社会的、文化的、歴史的、物質的な文脈の中に位置付けられるというのです。
+データセットがこれらの文脈の産物であることを解明し、調査することは、権力や特権が真実を覆い隠している可能性を理解するのに役立ちます。
+例えば、私のデータビジュアライゼーションのクラスの学生は、大学キャンパスでの性的暴行について最終プロジェクトを行いたいと考えていました。
+米国の大学では、クレリー法に基づき、性的暴行などのキャンパス犯罪を毎年報告することが義務付けられているため、この問題に関する全国的な総合データベースがあると思われました。
+しかし、このデータは学生たちを悩ませました。例えば、ウィリアムズ大学は、他の都市部の大学と比較して非常に高い数値を示していました。
+学生たちは、データの背景や収集環境の構造を調べた結果、データの数字が真実とは正反対のストーリーを語っていることに気づきました。
+性的暴行は汚名を着せられた問題であり、被害者はしばしば被害者の非難と報復を恐れ、名乗り出ません。
+そのため、報告数が多い大学は、被害者が安心して報告できる環境づくりに多くのリソースを投入しているところでした。逆に、性的暴行の報告数が少ない大学では、生存者が沈黙を破ることをサポートしない敵対的な環境がありました。
 
 Here, there is a pitfall and an opportunity. The pitfall is that journalists take numbers downloaded from the web at face value without understanding the nuances of the collection environment, including power differentials, social stigma and cultural norms around being made visible to institutions (e.g., groups like women, immigrants and people of colour generally feel less confidence in counting institutions, with extremely good reason). The opportunity is that there are many more data context stories to be told. Rather than always using numbers to look forward to new analyses, data journalists can use the numbers to interrogate the collection environment, point out flawed practices and power imbalances, and shift counting practices so that institutions are accounting for what truly matters.
 
