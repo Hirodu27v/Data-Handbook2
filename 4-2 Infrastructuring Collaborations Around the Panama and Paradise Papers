@@ -16,12 +16,12 @@ ICIJを率いるジェラード・ライルは、オーストラリアの消防�
 オフショア・リークスの後には、大規模なデータセットや数百万のファイルを扱う調査プロジェクトが増え、それらを調査するためのアドホックな技術が開発され、それを報道するジャーナリストのネットワークも増えました。
 例えば、パナマ文書の調査の中心となった法律事務所、モサック・フォンセカから流出した120万件の文書を新たに入手し、パートナー企業と共有しました。
 これは、2015年にドイツの南ドイツ新聞から持ち込まれた1,150万件のパナマ文書のファイルと、その後のパラダイス文書の調査の基礎となった1,360万件の文書に加えられました。
+一人のジャーナリストがパラダイス文書のファイルをそれぞれ1分で読むとしたら、すべてのファイルを読むのには26年かかるそうです。もちろん、それは現実的ではありません。
+どうすれば近道を進めるのか？どうすればもっと効率的に、時間をかけずに調査できるのか？どうすれば、この巨大な文書の山から新しい手がかりを見つけ出し、コラボレーションモデルをサポートすることができるのか？
+本章では、流出した大量の文書を扱う際に、高度な「ビッグデータ」技術だけでなく、以下のようなアドホックな分析装置を用いていることを紹介します。
+(a)国際的な共同ネットワーク(b)安全な通信手段とインフラ(c)非構造化文書から構造化データを作成するためのプロセスとパイプライン(d)グラフデータベースと探索的ビジュアライゼーションによる関連性の検索
 
-If a single journalist were to spend one minute reading each file in the Paradise Papers, it would take 26 years to go through all of them. Obviously, that’s not realistic. So, we asked ourselves, how can we find a shortcut? How can we make research more efficient and less time consuming? How can technology help us find new leads in this gigantic trove of documents and support our collaborative model?
-
-In this chapter we show how we deal with large collections of leaked documents not just through sophisticated “big data” technologies, but rather through an ad hoc analytical apparatus comprising of: (a) international collaborative networks, (b) secure communication practices and infrastructures, (c) processes and pipelines for creating structured data from unstructured documents, and (d) graph databases and exploratory visualizations to explore connections together.
-
-Engaging With Partners
+パートナーとの連携
 
 The ICIJ’s model is to investigate the global tax system with a worldwide net- work of journalists. We rally leading reporters on five continents to improve research efforts and connect the data dots from one country to another.4
 
