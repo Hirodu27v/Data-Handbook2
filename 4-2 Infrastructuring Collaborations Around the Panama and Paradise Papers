@@ -26,14 +26,15 @@ ICIJのモデルは、世界的なジャーナリストのネットワークを�
 私たちは、5大陸のトップ記者たちを集めて、調査活動を改善し、国と国とのデータの点をつなぎます。
 税のストーリーは、ピースが足りないパズルのようなものです。エストニアの記者がある部分を理解し、ブラジルの記者が別の部分を見つけることがあるかもしれません。それを一緒にすれば全体像が分かります。
 ICIJの仕事は、こうした記者をつなぎ、記者がデータから見つけたものをすべて共有できるようにすることです。
+私たちはこの理念を「ラディカル・シェアリング」と呼んでいます。ICIJのパートナーたちは、作業中に発見したことを、身近な同僚だけでなく、地球の裏側にいるジャーナリストたちにも伝えています。
+協働を促進するために、ICIJは、オープンソースのソフトウェア・コンポーネントをベースにした「Global I-Hub」と呼ばれるコミュニケーション・プラットフォームを提供しています。
+このプラットフォームは、ユーザーから「プライベート・フェイスブック」と称され、実際のニュースルームで行われているような直接的な情報共有を可能にしています。
+記者は、国、スポーツ、芸術、訴訟など、特定のテーマを追うグループに参加します。そのグループ内では、データの中から見つけた政治家や、調べている特定の取引など、さらに具体的なトピックについて投稿することができます。
+ここでは、ジャーナリストが情報を照合したり、メモや興味深い文書を共有したりして、ほとんどの議論が行われます。
+ICIJはレポーターがI-Hubを使いこなせるようにするため、いくつかのプロジェクトを実施しました。ICIJの地域コーディネーターは、プラットフォームへの参加を容易にし、技術的な問題に対処する手助けをしています。
+これは、記者に必要とされるセキュリティ基準を満たす重要なポイントです。
 
-We call our philosophy “radical sharing”: ICIJ’s partners communicate their findings as they are working, not only with their immediate co-workers, but also with journalists halfway around the world.
-
-In order to promote collaboration, ICIJ provides a communication platform called the Global I-Hub, building on open-source software components.5 It has been described by its users as a “private Facebook” and allows the same kind of direct sharing of information that occurs in a physical newsroom. Reporters join groups that follow specific subjects—countries, sports, arts, litigation or any other topic of interest. Within those groups, they can post about even more specific topics, such as a politician they found in the data or a specific transaction they are looking into. This is where most of the discussion happens, where journalists cross-check information and share notes and interesting documents.
-
-It took ICIJ several projects to get reporters comfortable with the I-Hub. To ease their way onto the platform and deal with technical issues, ICIJ’s regional coordinators offer support. This is key to ensuring reporters meet the required security standard.
-
-Encrypting Everything
+あらゆるものを暗号化する
 
 When you conduct an investigation involving 396 journalists, you have to be realistic about security: Every individual is a potential target for attackers, and the risk of breach is high. To mitigate this risk, ICIJ uses multiple defences.
 
