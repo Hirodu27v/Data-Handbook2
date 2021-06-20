@@ -35,10 +35,11 @@ ICIJはレポーターがI-Hubを使いこなせるようにするため、い�
 これは、記者に必要とされるセキュリティ基準を満たす重要なポイントです。
 
 あらゆるものを暗号化する
-
-When you conduct an investigation involving 396 journalists, you have to be realistic about security: Every individual is a potential target for attackers, and the risk of breach is high. To mitigate this risk, ICIJ uses multiple defences.
-
-It is mandatory when joining an ICIJ investigation to setup a PGP key pair to encrypt emails. The principle of PGP is simple.6 You own two keys: One is public and is communicated to any potential correspondent who can use it to send you encrypted emails. The second key is private and should never leave your computer. The private key serves only one purpose: To decrypt emails encrypted with your public key.
+396人のジャーナリストとともに調査を行う場合、セキュリティに関しては現実主義的に考えなければなりません。すべての個人が攻撃の標的となる可能性があり、（セキュリティを）突破されるリスクは高いのです。
+このリスクを軽減するために、ICIJは複数の防御策を用いています。
+ICIJの調査に参加する際には、電子メールを暗号化するためのPGPキー・ペアを設定することが義務づけられています。PGPの原理は簡単です。
+あなたは二つの鍵を所有します。一つは公開鍵で、暗号化された電子メールを送ることができる通信相手に伝えられます。
+二つ目の鍵は秘密鍵で、あなたのコンピュータから漏洩してはいけません。秘密鍵の役割はただひとつ、公開鍵で暗号化されたメールを解読することです。
 
 Think of PGP as a safe box where people can store messages for you. Only you have the key to open it and read the messages. Like every security measure, PGP has vulnerabilities. For instance, it could easily be compromised if spyware is running on your computer, recording words as you type or sniffing every file on your disk. This highlights the importance of accumulating several layers of security. If one of those layers breaks, we hope the other layers will narrow the impact of a breach.
 
