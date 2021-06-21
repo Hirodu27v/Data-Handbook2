@@ -40,10 +40,14 @@ ICIJはレポーターがI-Hubを使いこなせるようにするため、い�
 ICIJの調査に参加する際には、電子メールを暗号化するためのPGPキー・ペアを設定することが義務づけられています。PGPの原理は簡単です。
 あなたは二つの鍵を所有します。一つは公開鍵で、暗号化された電子メールを送ることができる通信相手に伝えられます。
 二つ目の鍵は秘密鍵で、あなたのコンピュータから漏洩してはいけません。秘密鍵の役割はただひとつ、公開鍵で暗号化されたメールを解読することです。
-
-Think of PGP as a safe box where people can store messages for you. Only you have the key to open it and read the messages. Like every security measure, PGP has vulnerabilities. For instance, it could easily be compromised if spyware is running on your computer, recording words as you type or sniffing every file on your disk. This highlights the importance of accumulating several layers of security. If one of those layers breaks, we hope the other layers will narrow the impact of a breach.
-
-To ensure the identity of its partners, ICIJ implements two-factor authentication on all of its platforms. This technique is very popular with major websites, including Google, Twitter and Facebook. It provides the user with a second, temporary code required to log in, which is usually generated on a different device (e.g., your phone) and disappears quickly. On some sensitive platforms, we even add third-factor authentication: The client certificate. Basically, it is a small f ile reporters store and configure on their laptops. Our network system will deny access to any device that doesn’t have this certificate. Another noteworthy mechanism ICIJ uses to improve its security is Ciphermail. This software runs between our platforms and users’ mailboxes, to ensure that any email reporters receive from ICIJ is encrypted.
+PGPは、メッセージを保管できる金庫と考えてください。その金庫を開けてメッセージを読むための鍵を持っているのはあなただけです。あらゆるセキュリティ対策と同様、PGPにも脆弱性があります。
+例えば、スパイウェアがあなたのコンピュータ上で動作し、あなたが入力した言葉を記録したり、ディスク上のすべてのファイルを盗聴したりすれば、PGPは簡単に侵入されてしまいます。
+セキュリティを何重にも積み重ねることが重要です。一つの層が破られても、他の層が侵入の影響を狭めてくれることが期待できます。
+パートナーの身元を確認するために、ICIJはすべてのプラットフォームに二要素認証を導入しています。
+この技術は、Google、Twitter、Facebookなどの主要なウェブサイトでよく使われています。これは、ログインに必要な二つ目の一時的なコードをユーザーに提供するもので、通常は別のデバイス（例：携帯電話）で生成され、すぐに消えてしまいます。
+一部の機密性の高いプラットフォームでは、第三者認証を追加することもあります。それがクライアント認証です。
+基本的には、記者がラップトップに保存し、設定する小さなファイルです。ICIJのネットワークシステムは、この証明書を持っていないデバイスからのアクセスを拒否します。
+ICIJがセキュリティーを改善するために使用している別の注目すべきメカニズムは、Ciphermailです。このソフトウェアは、私たちのプラットフォームと記者のメールボックスの間で動作し、ICIJからの電子メールが確実に暗号化されます。
 
 
 Dealing With Unstructured Data
