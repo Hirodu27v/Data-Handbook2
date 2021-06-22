@@ -51,10 +51,14 @@ ICIJがセキュリティーを改善するために使用している別の注�
 
 
 非構造化データへの対処
+パラダイス文書は1360万件の文書のキャッシュでした。それらの文書を調査する上での主な課題の一つは、リーク元が様々であるということでした。
+Appleby、Asiaciti Trust、そして19カ国の方陣登録文書です。
+文書を詳しく見てみると、その内容や性格が多様であることや、電子メール、PDF、Word文書など、構造化されたデータを分析するソフトウェアでは直接解析できない「機械で読めない」形式の文書が多く存在することにすぐに気がつきます。
+これらの文書には、ICIJが調査した二つのオフショア法律事務所の内部活動が反映されている。
+ICIJのエンジニアは、記者がこれらの文書を検索できるよう、複雑で強力なフレームワークを構築しました。
+クラウドコンピューティングの拡張性を利用して、文書は暗号化されたディスクに保存され、「データ抽出パイプライン」に送られました。
+データ抽出パイプラインとは、文書からテキストを取り出し、検索エンジンが使用できるデータに変換する一連のソフトウェアシステムです。
 
-The Paradise Papers was a cache of 13.6 million documents. One of the main challenges in exploring them came from the fact that the leak came from a variety of sources: Appleby, Asiaciti Trust and 19 national corporate registries.7 When you have a closer look at the documents, you quickly notice their diverse content and character and the large presence of “non- machine readable” formats, such as emails, PDFs and Word documents, which cannot directly be parsed by software for analyzing structured data. These documents reflect the internal activities of the two offshore law firms ICIJ investigated.
-
-ICIJ’s engineers put together a complex and powerful framework to allow reporters to search these documents. Using the expandable capacity of cloud computing, the documents were stored on an encrypted disk that was submitted to a “data extraction pipeline,” a series of software systems that takes text from documents and converts it into data that our search engine can use.
 
 Most of the files were PDFs, images, emails, invoices and suchlike which were not easily searchable. Using technologies like Apache Tika (to extract metadata and text), Apache Solr (to build search engines) or Tesseract (to turn images into text), the team built an open-source software called Extract with the single mission of turning these documents into searchable, machine-readable content.8 This tool was particularly helpful in distributing this now-accessible data on up to 30 servers.
 
