@@ -58,12 +58,11 @@ Appleby、Asiaciti Trust、そして19カ国の方陣登録文書です。
 ICIJのエンジニアは、記者がこれらの文書を検索できるよう、複雑で強力なフレームワークを構築しました。
 クラウドコンピューティングの拡張性を利用して、文書は暗号化されたディスクに保存され、「データ抽出パイプライン」に送られました。
 データ抽出パイプラインとは、文書からテキストを取り出し、検索エンジンが使用できるデータに変換する一連のソフトウェアシステムです。
-
-
-Most of the files were PDFs, images, emails, invoices and suchlike which were not easily searchable. Using technologies like Apache Tika (to extract metadata and text), Apache Solr (to build search engines) or Tesseract (to turn images into text), the team built an open-source software called Extract with the single mission of turning these documents into searchable, machine-readable content.8 This tool was particularly helpful in distributing this now-accessible data on up to 30 servers.
-
-ICIJ also built a user interface to allow journalists to explore the refined information extracted from “unstructured data”: The hodgepodge of different types of documents from various sources. Once again the choice was to reuse an open-source tool named Blacklight which offers a user-friendly web portal where journalists can look into documents and use advanced search queries (like approximate string matching) to identify leads hidden in the leak.9
-
+ファイルのほとんどは、PDF、画像、電子メール、請求書などで、簡単には検索できません。
+Apache Tika（メタデータとテキストの抽出）、Apache Solr（検索エンジンの構築）、Tesseract（画像のテキスト化）などの技術を用いて、チームはExtractというオープンソースのソフトウェアを構築し、これらの文書を検索可能で機械で読めるコンテンツにするという無二のミッションを達成しました。
+このツールは、アクセス可能になったデータを最大30台のサーバーに分散させる際にとりわけ役立ちました。
+ICIJは、「非構造化データ」から抽出された洗練された情報、つまりさまざまな情報源からのさまざまなタイプの文書の集合体をジャーナリストが探索できるよう、ユーザーインターフェースも構築しました。
+ここでもまた、Blacklightというオープンソースのツールを再利用することにしました。Blacklightは、ジャーナリストが文書を調べたり、高度な検索クエリ（近似文字列のマッチングなど）を使って、リークに潜む手がかりを特定することができる、使いやすいウェブポータルを提供しています。
 
 Figure 16.1. Inside the leak.
 Using Graphs to Find Hidden Gems Together
