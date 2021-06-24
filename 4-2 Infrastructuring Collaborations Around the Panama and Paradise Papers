@@ -65,9 +65,9 @@ ICIJは、「非構造化データ」から抽出された洗練された情報�
 ここでもまた、Blacklightというオープンソースのツールを再利用することにしました。Blacklightは、ジャーナリストが文書を調べたり、高度な検索クエリ（近似文字列のマッチングなど）を使って、リークに潜む手がかりを特定することができる、使いやすいウェブポータルを提供しています。
 
 Figure 16.1. Inside the leak.
-Using Graphs to Find Hidden Gems Together
-
-ICIJ published its first edition of the Offshore Leaks database in 2013 using graph databases to allow readers to explore connections between officers and more than 100,000 offshore entities. This has grown to over 785,000 offshore entities at the time of writing, including from subsequent leaks such as the Panama and Paradise Papers.
+グラフを使って掘り出し物を見つけ出す
+ICIJは、2013年に「Offshore Leaks」データベースの第1版を発表しました。このデータベースでは、グラフデータベースを用いて、役員と10万以上のオフショア企業とのつながりを調べることができます。
+このデータベースは、パナマ文書やパラダイス文書などの後続のリーク情報を含め、本稿執筆時点で78万5,000以上のオフショア企業に拡大しています。
 
 ICIJ first attempted to use graph databases with Swiss Leaks, but it was with the Panama Papers that graph databases started playing a key role during the research and reporting phase. To explore 11.5 million complex financial and legal records amounting to 2.6 terabytes of data was not an easy task. By using network graph tools such as Neo4J and Linkurious, ICIJ was able to allow partners to quickly explore connections between people and offshore entities.
 
