@@ -68,8 +68,9 @@ Figure 16.1. Inside the leak.
 グラフを使って掘り出し物を見つけ出す
 ICIJは、2013年に「Offshore Leaks」データベースの第1版を発表しました。このデータベースでは、グラフデータベースを用いて、役員と10万以上のオフショア企業とのつながりを調べることができます。
 このデータベースは、パナマ文書やパラダイス文書などの後続のリーク情報を含め、本稿執筆時点で78万5,000以上のオフショア企業に拡大しています。
-
-ICIJ first attempted to use graph databases with Swiss Leaks, but it was with the Panama Papers that graph databases started playing a key role during the research and reporting phase. To explore 11.5 million complex financial and legal records amounting to 2.6 terabytes of data was not an easy task. By using network graph tools such as Neo4J and Linkurious, ICIJ was able to allow partners to quickly explore connections between people and offshore entities.
+ICIJは、Swiss Leaksで初めてグラフデータベースの利用を試みましたが、調査・報道の段階でグラフデータベースが重要な役割を果たすようになったのはパナマ文書からです。
+1,150万件の複雑な財務・法律記録、2.6テラバイトのデータを調査するのは容易なことではありませんでした。
+ICIJは、Neo4JやLinkuriousなどのネットワークグラフツールを使用することで、パートナーが個人とオフショア企業とのつながりを迅速に調査できるようにしました。
 
 Our data and research teams extracted information from the files, structured it and made data searchable through Linkurious. Suddenly partners were able to query for the names of people of public interest and discover, for instance, that the then Icelandic prime minister, Sigmundur Gunnlaugsson, was a shareholder of a company named Wintris. The visualization with this finding could be saved and shared with other colleagues working on the investigation in other parts of the world.
 
