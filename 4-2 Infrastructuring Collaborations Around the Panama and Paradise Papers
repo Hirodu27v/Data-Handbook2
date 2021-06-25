@@ -71,12 +71,15 @@ ICIJは、2013年に「Offshore Leaks」データベースの第1版を発表し
 ICIJは、Swiss Leaksで初めてグラフデータベースの利用を試みましたが、調査・報道の段階でグラフデータベースが重要な役割を果たすようになったのはパナマ文書からです。
 1,150万件の複雑な財務・法律記録、2.6テラバイトのデータを調査するのは容易なことではありませんでした。
 ICIJは、Neo4JやLinkuriousなどのネットワークグラフツールを使用することで、パートナーが個人とオフショア企業とのつながりを迅速に調査できるようにしました。
+私たちのデータチームとリサーチチームは、ファイルから情報を抽出し、構造化し、Linkuriousでデータを検索できるようにしました。
+例えば、アイスランドの当時の首相であるシグムンドゥル・グンロイグソンがWintrisという会社の株主であることを発見しました。
+この発見を可視化して保存し、世界の他の地域で調査に取り組んでいる同僚と共有することができました。
+その後、ドキュメントプラットフォームのBlacklightに戻って、より高度な検索を行い、Wintrisに関連する記録を探ることができました。
+Blacklightは後にパラダイス文書のナレッジセンターに進化しました。データや文書を調査して得られた重要な知見は、「Global I-Hub」で共有され、現場取材で得られた知見も共有されました。
+グラフデータベースとテクノロジーが、ICIJの徹底的な共有モデルを支えている。「まるで魔法のようだ！」と何人ものパートナーが言っていました。
+データを調べるのに、コーディングのスキルは必要ありませんでした。ICIJは、調査やセキュリティのために我々の技術を使用するためのトレーニングを行いました。
+突然（といっていいほど急速に）、380人以上のジャーナリストが、何百万もの文書をマイニングし、グラフデータベースを使用し、高度な検索（バッチ検索を含む）を行い、調査結果や報道の結果だけでなく、クエリ戦略に関する有益なヒントを共有するようになったのです。
 
-Our data and research teams extracted information from the files, structured it and made data searchable through Linkurious. Suddenly partners were able to query for the names of people of public interest and discover, for instance, that the then Icelandic prime minister, Sigmundur Gunnlaugsson, was a shareholder of a company named Wintris. The visualization with this finding could be saved and shared with other colleagues working on the investigation in other parts of the world.
-
-One could then jump back into the document platform Blacklight to do more advanced searches and explore records related to Wintris. Blacklight later evolved to the Knowledge Center in the Paradise Papers. Key findings that came through exploring data and documents were shared through the Global I-Hub, as well as findings that came from the shoe-leather reporting.
-
-Graph databases and technologies powered ICIJ’s radical sharing model. “Like magic!” several partners said. No coding skills were needed to explore the data. ICIJ did training on the use of our technologies for research and security, and suddenly more than 380 journalists were mining millions of documents, using graph databases, doing advanced searches (including batch searches), and sharing not only findings and results of the reporting, but also useful tips on query strategies.
 
 For the Panama Papers project, graph databases and other ad hoc technologies like the Knowledge Center and the Global I-Hub connected journalists from nearly 80 countries working in 25 languages through a global virtual newsroom.
 
