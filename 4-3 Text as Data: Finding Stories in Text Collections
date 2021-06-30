@@ -14,11 +14,10 @@ Written by Barbara Maseda
 
 例えば、2012～16年にデータ・ジャーナリズム・アワードにノミネートされた200件以上の作品を分析したところ、応募作品は主に地理的データと金融データに依存しており、次いでセンサー、社会・人口統計、個人データ、メタデータ、投票など頻繁に使用されるタイプのソースであることがわかりました（Loosen et al, 2020）。
 つまりほとんどが構造化データです。
-
-
-But as newsrooms have been having to deal with ever-increasing amounts of social media posts, speeches, emails and lengthy official reports, compu- tational approaches to processing and analyzing these sources are becoming more relevant. You may have come across stories produced this way: Think of the statistical summaries of President Trump’s tweets; or visualizations of the main topics addressed in public communications or during debates by the presidential candidates in the US elections.
-
-Treating text as data is no mean feat. Documents tend to have the most varied formats, layouts and contents, which complicates one-size-fits-all solutions or attempts to replicate one investigation with a different set of documents. Data cleaning, preparation and analysis may vary considerably from one document collection to another, and some steps will require further human review before we can make newsworthy assertions or present findings in a way that reveals something meaningful not just for researchers but also for broader publics.2
+しかし、ニュースルームでは、ソーシャルメディアへの投稿、スピーチ、電子メール、長文の公式報告書などを扱う機会が増えており、これらのソースを処理・分析するための計算論的アプローチが重要になっています。
+あなたもこの方法で作られた物語を目にしたことがあるかもしれません。例えば、トランプ大統領のツイートを統計的にまとめたものや、アメリカの選挙で大統領候補者が公の場や討論会で取り上げた主なトピックを可視化したものなどがあります。
+テキストをデータとして扱うことは簡単なことではありません。ドキュメントは、フォーマット、レイアウト、内容が最も多様である傾向があるため、画一的なソリューションや、ある調査を別のドキュメントセットで再現しようとすると、複雑になります。
+データのクリーニング、準備、分析は、文書のコレクションごとに大きく異なります。また、報道する価値のある主張をしたり、研究者だけでなく広く一般の人々にとっても意味のある調査結果を発表する前に、さらに人の目で確認しなければならないステップもあります。
 
 In this chapter I examine five ways in which journalists can use text analysis to tell stories, illustrated with reference to a variety of exemplary data journalism projects.
 
