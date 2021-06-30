@@ -18,16 +18,18 @@ Written by Barbara Maseda
 あなたもこの方法で作られた物語を目にしたことがあるかもしれません。例えば、トランプ大統領のツイートを統計的にまとめたものや、アメリカの選挙で大統領候補者が公の場や討論会で取り上げた主なトピックを可視化したものなどがあります。
 テキストをデータとして扱うことは簡単なことではありません。ドキュメントは、フォーマット、レイアウト、内容が最も多様である傾向があるため、画一的なソリューションや、ある調査を別のドキュメントセットで再現しようとすると、複雑になります。
 データのクリーニング、準備、分析は、文書のコレクションごとに大きく異なります。また、報道する価値のある主張をしたり、研究者だけでなく広く一般の人々にとっても意味のある調査結果を発表する前に、さらに人の目で確認しなければならないステップもあります。
+本章では、ジャーナリストがストーリーを伝えるためにテキスト分析を利用する五つの方法を、データ・ジャーナリズムのさまざまな模範的プロジェクトを参照しながら検討します。
 
-In this chapter I examine five ways in which journalists can use text analysis to tell stories, illustrated with reference to a variety of exemplary data journalism projects.
 
-Length: How Much They Wrote or Spoke
+長さ：どれだけ書いたか、語ったか
+文章や単語を数えることは、文書に対する最も単純な定量的アプローチです。昔からある作業で、ほとんどのワープロで簡単に実行できます。
+学生や記者の方で、字数制限のある課題を提出したことがある方なら、特別なデータトレーニングを受けなくても理解できるでしょう。
+単語数の問題点は、意味のあるベースラインに照らし合わせて結果を解釈することです。このような尺度は、温度や速度のように広く知られているわけではないので、スピーチが2,000語であるという事実から意味を導き出すのは、それほど簡単ではないかもしれません。
+実際には、比較のためのベースラインやリファレンスを自分たちで作成するしかない場合が多く、それがさらなる作業につながることもあります。
+場合によっては、調べようとしているイベントやスピーカーの歴史に文脈を見出すことも可能です。
+例えば、2016年に行われたアメリカ大統領の年次一般教書演説の報道では、Voxは全ての歴史的な演説の長さを計算して、「オバマ大統領は史上最も言葉数の多い一般教書演説者の一人である」と判断しました（Chang, 2016）。
 
-Counting sentences or words is the simplest quantitative approach to documents. Computationally speaking, this is a task that has been around for a long time, and can be easily performed by most word processors. If you are a student or a reporter who ever had to submit an assignment with a word limit, you will not need any special data training to understand this.
 
-The problem with word counts lies in interpreting the results against a meaningful baseline. Such measures are not as widely known as temperature or speed, and therefore deriving meaning from the fact that a speech is 2,000 words long may not be as straightforward. In practice, many times the only option is to create those baselines or references for comparison ourselves, which may translate into further work.
-
-In some cases, it is possible to find context in the history of the event or speaker you are examining. For instance, for its coverage of the US president’s annual State of the Union address in 2016, Vox calculated the length of the whole collection of historic speeches to determine that “President Obama was among the wordiest State of the Union speakers ever” (Chang, 2016).
 
 In events involving more than one speaker, it is possible to explore how much, and when, each person talks in relation to the total number of words spoken. For an example, see Figure 17.1.
 
