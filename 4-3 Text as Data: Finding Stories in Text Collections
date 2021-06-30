@@ -4,15 +4,17 @@
 
 Written by Barbara Maseda
 
-Abstract
+概要
 
-How to find data stories in collections of documents and speeches.
+文書やスピーチのコレクションからデータストーリーを見つける方法
 
-Keywords: data journalism, unstructured data, text analysis, text mining, computational journalism
+キーワード：データ・ジャーナリズム、非構造化データ、テキスト分析、テキストマイニング、計算報道学
 
-Looking at data journalism production over the past few years, you may notice that stories based on unstructured data (e.g., text) are much less common than their structured data counterparts.
+ここ数年のデータ・ジャーナリズムの制作状況を見ると、非構造化データ（テキストなど）をベースにしたストーリーは、構造化データをベースにしたストーリーに比べてはるかに少ないことに気づくかもしれません。
 
-For instance, an analysis of more than 200 nominations to the Data Journalism Awards from 2012 to 2016 revealed that the works competing relied predominantly on geographical and financial data, followed by other frequent types of sources, such as sensor, socio-demographic and personal data, metadata and polls (Loosen et al., 2020); in other words, mostly structured data.1
+例えば、2012～16年にデータ・ジャーナリズム・アワードにノミネートされた200件以上の作品を分析したところ、応募作品は主に地理的データと金融データに依存しており、次いでセンサー、社会・人口統計、個人データ、メタデータ、投票など頻繁に使用されるタイプのソースであることがわかりました（Loosen et al, 2020）。
+つまりほとんどが構造化データです。
+
 
 But as newsrooms have been having to deal with ever-increasing amounts of social media posts, speeches, emails and lengthy official reports, compu- tational approaches to processing and analyzing these sources are becoming more relevant. You may have come across stories produced this way: Think of the statistical summaries of President Trump’s tweets; or visualizations of the main topics addressed in public communications or during debates by the presidential candidates in the US elections.
 
