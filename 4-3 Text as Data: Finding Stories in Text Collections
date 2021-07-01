@@ -28,18 +28,15 @@ Written by Barbara Maseda
 実際には、比較のためのベースラインやリファレンスを自分たちで作成するしかない場合が多く、それがさらなる作業につながることもあります。
 場合によっては、調べようとしているイベントやスピーカーの歴史に文脈を見出すことも可能です。
 例えば、2016年に行われたアメリカ大統領の年次一般教書演説の報道では、Voxは全ての歴史的な演説の長さを計算して、「オバマ大統領は史上最も言葉数の多い一般教書演説者の一人である」と判断しました（Chang, 2016）。
+複数の人が話すイベントでは、それぞれの人が話す量やタイミングを、話した言葉の総数との関係で調べることができます。図17.1をご覧ください。
 
-
-
-In events involving more than one speaker, it is possible to explore how much, and when, each person talks in relation to the total number of words spoken. For an example, see Figure 17.1.
 
 Figure 17.1
 Figure 17.1. Visualisation of the Democratic Party debate (2015). Source: The Washington Post, https://www.washingtonpost.com/graphics/politics/2016-election/debates/oct-13-speakers/
 Mentions: Who Said What, When and How Many Times
-
-Counting the number of times a term or concept was used in speech or writing is another simple task that provides useful statistical overviews of our data. To do this, it is important to make sure that we choose to count the most appropriate elements.
-
-Depending on the questions that you are looking to ask from the data, you may count the repetitions of each word, or of a series of words sharing a common root by using normalization operations such as “stemming” or “lemmatization.”3 Another approach is to focus on the most relevant terms in each document using a weighted measure called “term frequency/inverse document frequency” (TF-IDF).4 The following are a few examples.
+ある用語や概念が会話や文章の中で何回使われたかを数えることも、データの統計的な概要を把握するための簡単な作業です。そのためには、最も適切な要素を選択してカウントすることが重要です。
+データから探ろうとする課題に応じ、"ステミング"や "レンマ化"などの正規化操作を使用して、各単語の繰り返しを数えたり、共通の語幹を持つ単語の繰り返しを数えたりすることができます。
+また、"term frequency/inverse document frequency" (TF-IDF) と呼ばれる重み付けされた尺度を用いて、各文書の中で最も関連性の高い用語に焦点を当てるというアプローチもあります。次のような例があります。
 
 Frequent terms and topics. For its coverage of the London mayoral elections in 2016, The Guardian analyzed the number of times the two candidates had addressed various campaign issues (e.g., crime, pollution, housing and transport) in the UK Parliament in the six years preceding the race (Barr, 2016). Topics to be analyzed can be decided beforehand, as in this case, and explored through a number of relevant keywords (or groups of keywords linked to a topic) in comparable or analogous text collections. Search terms can also be analogous and not necessarily the same. Take, for instance, FiveThirtyEight’s analysis of how the same media outlets covered three different hurricanes in 2017 (Harvey, Irma and Maria) (Mehta, 2017). Another approach is to simply look at the most common words in a text as a topic detection strategy.
 
