@@ -44,10 +44,13 @@ Mentions: Who Said What, When and How Many Times
 スピーチの経時的分析。スピーチを時系列で見ることは、これまで言及されなかった、あるいは長い間取り上げられていなかったトピックを指摘する方法でもあります。
 例えば、ワシントン・ポスト紙が2018年の一般教書演説を報道する際に選択したアプローチは、どの大統領がどの言葉を最初に使ったかを強調した記事でした（Fischer-Baum et al.2018）。
 読者は、何百ページもの演説を読まなくても、トランプがウォルマート（2017年）やただ乗り（2019年）に言及した史上初の大統領であることを非常に素早く知ることができ、テキストデータの要約と可視化がいかに効果的であるかを示している。
-
-Omissions. A low number or absence of mentions may be newsworthy as well. These omissions can be analyzed over time, but also based on the expectation that a person or organization mentions something in a given context. During the 2016 presidential campaign in the United States, FiveThirtyEight reported that candidate Donald Trump had stopped tweeting about polls when they found a comparatively low number of mentions of keywords related to polling in his posts (Mehta & Enten, 2016). Such omissions can be detected by monitoring the same speaker over time, like in this case, in which, months before, FiveThirtyEight had discovered that Trump was tweeting a lot about polls that were making him look like a winner (Bialik & Enten, 2015). This is also a good example of how news reports based on text analysis can later become the context for a follow-up piece, as a way to address the above-mentioned problem of contextualizing text statistics. The absence of a topic can be also measured based on the expectation that a person or organization mentions it in a given context.
-
-People, places, nouns, verbs. Natural language processing (NLP) tools enable the extraction of proper names, names of places, companies and other elements (through a task called named entity recognition or NER), as well as the identification of nouns, adjectives and other types of words (through a task called part of speech tagging or POS). In The Washington Post piece mentioned earlier, the visualization includes filters to focus on companies, religious terms and verbs.
+省略。言及の数が少なかったり、全く言及がなかったりすることも、ニュースになることがあります。このような言及漏れは、時系列で分析できますが、加えて人や組織がある文脈で何かに言及するという期待に基づいて分析することもできます。
+2016年の米大統領選挙期間中、FiveThirtyEightは、ドナルド・トランプ候補のツイートに世論調査に関するキーワードの言及が比較的少ないことを発見し、世論調査に関するツイートをやめたと報じました（Mehta & Enten, 2016）。
+このような省略は、同じ発言者を長期的に監視することで発見することができます。今回のケースでは、FiveThirtyEightは数ヶ月前から、トランプが自分が勝っているように見せている世論調査をたくさんツイートしていることを発見していました（Bialik & Enten, 2015）。
+これは、上述したテキスト統計の文脈化の問題を解決する方法として、テキスト分析に基づいたニュースレポートが、後にフォローアップ記事の文脈となることを示す良い例でもあります。
+あるトピックの不在は、人や組織がある文脈でそのトピックについて言及するという期待に基づいて測定することもできるのです。
+人、場所、名詞、動詞。自然言語処理 (NLP) ツールは、(固有表現抽出 (NER) と呼ばれるタスクを介して)固有名詞や地名、企業名などの要素の抽出 、(品詞タグ付け (POS) と呼ばれるタスクを介して) 名詞や形容詞などの単語の識別を可能にします。
+先ほどのワシントン・ポストの記事では、ビジュアライゼーションに企業や宗教用語、動詞などに焦点を当てたフィルタリングが含まれています。
 
 Comparisons
 
