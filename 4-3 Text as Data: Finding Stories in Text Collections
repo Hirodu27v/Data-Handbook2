@@ -52,9 +52,10 @@ Mentions: Who Said What, When and How Many Times
 人、場所、名詞、動詞。自然言語処理 (NLP) ツールは、(固有表現抽出 (NER) と呼ばれるタスクを介して)固有名詞や地名、企業名などの要素の抽出 、(品詞タグ付け (POS) と呼ばれるタスクを介して) 名詞や形容詞などの単語の識別を可能にします。
 先ほどのワシントン・ポストの記事では、ビジュアライゼーションに企業や宗教用語、動詞などに焦点を当てたフィルタリングが含まれています。
 
-Comparisons
-
-Determining how similar two or more documents are can be the starting point for different kinds of stories. We can use approximate sentence matching (also known as “fuzzy matching”) to expose plagiarism, reveal like-mindedness of public figures or describe how a piece of legislation has changed. In 2012, ProPublica did this to track changes in emails sent to voters by campaigns, showing successive versions of the same messages side by side and visualizing deletions, insertions and unchanged text (Larson & Shaw, 2012).
+比較
+複数の文書がどれだけ類似しているかを判断することが、さまざまな種類のストーリーの出発点になります。
+近似文マッチング（「ファジー・マッチング」とも呼ばれる）を利用して、盗作を暴いたり、公人の交友関係を明らかにしたり、ある法案がどのように変更されたかを説明したりすることができます。
+2012年、プロパブリカは、選挙運動によって有権者に送られた電子メールの変化を追跡するために、同じメッセージの連続したバージョンを並べて表示し、削除、挿入、および変更されていないテキストを可視化しました（Larson & Shaw, 2012）。
 
 Classification
 
