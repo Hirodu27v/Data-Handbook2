@@ -57,9 +57,10 @@ Mentions: Who Said What, When and How Many Times
 近似文マッチング（「ファジー・マッチング」とも呼ばれる）を利用して、盗作を暴いたり、公人の交友関係を明らかにしたり、ある法案がどのように変更されたかを説明したりすることができます。
 2012年、プロパブリカは、選挙運動によって有権者に送られた電子メールの変化を追跡するために、同じメッセージの連続したバージョンを並べて表示し、削除、挿入、および変更されていないテキストを可視化しました（Larson & Shaw, 2012）。
 
-Classification
 
-Text can be classified into categories according to certain predefined features, using machine learning algorithms. In general, the process consists of training a model to classify entries based on a given feature, and then using it to categorize new data.
+分類
+テキストは、機械学習アルゴリズムを用いて、あらかじめ定義された特定の特徴に応じてカテゴリーに分類することができます。
+このプロセスは一般に、与えられた特徴に基づいてエントリーを分類するモデルを学習し、それを新しいデータの分類に使用する構成となっています。
 
 For instance, in 2015, the Los Angeles Times analyzed more than 400,000 police reports obtained through a public records request, and revealed that an estimated 14,000 serious assaults had been misclassified by the Los Angeles Police Department as minor offenses (Poston et al., 2015). Instead of using MySQL to search for keywords (e.g., stab, knife) that would point to violent offenses—as they had done in a previous investigation covering a smaller amount of data—the reporters used machine learning classifiers (SVM and MaxEnt) to re-classify and review eight years’ worth of data in half the time needed for the first investigation, which covered one year only (Poston & Rubin, 2014). This example shows how machine learning approaches can also save time and multiply our investigative power.
 
