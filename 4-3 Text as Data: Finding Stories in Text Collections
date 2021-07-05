@@ -61,12 +61,15 @@ Mentions: Who Said What, When and How Many Times
 分類
 テキストは、機械学習アルゴリズムを用いて、あらかじめ定義された特定の特徴に応じてカテゴリーに分類することができます。
 このプロセスは一般に、与えられた特徴に基づいてエントリーを分類するモデルを学習し、それを新しいデータの分類に使用する構成となっています。
+例えば、ロサンゼルス・タイムズ紙は2015年、公的記録請求で入手した40万件以上の警察報告書を分析し、市警が推定1万4,000件の重大な暴行を軽犯罪に誤分類していたことを明らかにしました (Poston et al., 2015)。
+記者は、データ量の少ない以前の調査で行ったように、MySQLを使って凶悪犯罪を示すキーワード（刺す、ナイフなど）を検索するのではなく、機械学習の分類器（SVMとMaxEnt）を使って8年分のデータを再分類し、1年のみを対象とした最初の調査の半分の時間で検証しました（Poston & Rubin, 2014）。
+この例は、機械学習アプローチが時間を節約し、調査力を倍増させることもできることを示しています。
 
-For instance, in 2015, the Los Angeles Times analyzed more than 400,000 police reports obtained through a public records request, and revealed that an estimated 14,000 serious assaults had been misclassified by the Los Angeles Police Department as minor offenses (Poston et al., 2015). Instead of using MySQL to search for keywords (e.g., stab, knife) that would point to violent offenses—as they had done in a previous investigation covering a smaller amount of data—the reporters used machine learning classifiers (SVM and MaxEnt) to re-classify and review eight years’ worth of data in half the time needed for the first investigation, which covered one year only (Poston & Rubin, 2014). This example shows how machine learning approaches can also save time and multiply our investigative power.
-
-Sentiment
-
-Many journalists would recognize the value of classifying sentences or documents as positive, negative or neutral (other grading scales are possible), according to the attitude of the speaker towards the subject in question. Applications may include analyzing a topic, a hashtag or posts by a Twitter user to evaluate the sentiment around an issue, and doing similar computations on press releases or users’ comments on a website. Take, for example, The Economist’s comparison of the tone of party convention speeches by Hillary Clinton and Donald Trump (“How Clinton’s and Trump’s Convention Speeches,” 2016). Analyzing the polarity of the words used by these and previous candidates, they were able to show that Trump had “delivered the most negative speech in recent memory,” and Clinton “one of the most level-headed speeches of the past four decades.”
+感触
+多くのジャーナリストは、問題となっているテーマに対する発言者の態度に応じて、文章や文書をポジティブ、ネガティブ、ニュートラル（他の評価尺度も可能）に分類することの価値を認識しています。
+の応用例としては、トピック、ハッシュタグ、Twitterユーザーの投稿などを分析して問題に対するセンチメントを評価したり、プレスリリースやウェブサイト上のユーザーのコメントに対して同様の計算を行ったりすることが挙げられます。
+例えば、エコノミスト誌がヒラリー・クリントンとドナルド・トランプの党大会でのスピーチのトーンを比較しています（「How Clinton's and Trump's Convention Speeches," 2016」）。
+これらの候補者と過去の候補者が使用した言葉の極性を分析し、トランプは "最近の記憶の中で最もネガティブなスピーチをした"、クリントンは "過去40年間で最も平静なスピーチの一つ "であることを示すことができたのです。
 
 Becoming a “Text-Miner” Journalist
 
