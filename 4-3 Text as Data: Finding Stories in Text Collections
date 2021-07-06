@@ -71,11 +71,13 @@ Mentions: Who Said What, When and How Many Times
 例えば、エコノミスト誌がヒラリー・クリントンとドナルド・トランプの党大会でのスピーチのトーンを比較しています（「How Clinton's and Trump's Convention Speeches," 2016」）。
 これらの候補者と過去の候補者が使用した言葉の極性を分析し、トランプは "最近の記憶の中で最もネガティブなスピーチをした"、クリントンは "過去40年間で最も平静なスピーチの一つ "であることを示すことができたのです。
 
-Becoming a “Text-Miner” Journalist
-
-Using off-the-shelf text mining software is a good starting point to get familiar with basic text analysis operations and their outcomes (word counts, entity extraction, connections between documents, etc.). Platforms designed for journalists—such as DocumentCloud and Overview—include some of these features.5 The Google Cloud Natural Language API can handle various tasks, including sentiment analysis, entity analysis, content classification and syntax analysis.6
-
-For those interested in learning more about text mining, there are free and open-source tools that allow for more personalized analyses, including resources in Python (NLTK, spaCy, gensim, textblob, scikit-learn) and R (tm, tidytext and much more), which may be more convenient for journalists already familiar with these languages. A good command of regular expres- sions and the tools and techniques needed to collect texts (web scraping, API querying, FOIA requests) and process them (optical character recognition or OCR, file format conversion, etc.) are must-haves as well.7 And, of course, it can be useful to obtain a grasp of the theory and principles behind text data work, including information retrieval, relevant models and algorithms, and text data visualization.8
+テキスト・マイナー・ジャーナリストを目指して
+市販のテキストマイニングソフトウェアを使用すれば、基本的なテキスト分析操作とその結果（単語数、エンティティ抽出、文書間のつながりなど）にスムーズに慣れることができます。
+DocumentCloudやOverviewなど、ジャーナリスト向けに設計されたプラットフォームには、これらの機能の一部が含まれています。
+Google Cloud Natural Language APIは、センチメント分析、エンティティ分析、コンテンツ分類、構文分析など、さまざまなタスクを処理することができます。
+テキストマイニングについて詳しく知りたい方には、Python（NLTK、spaCy、gensim、textblob、scikit-learn）やR（tm、tidytextなど）のリソースを含む、よりパーソナライズされた分析を可能にする無料のオープンソースツールがありますが、すでにこれらの言語に慣れ親しんでいるジャーナリストにとっては、その方が便利かもしれません。
+また、正規表現や、テキストの収集（ウェブスクレイピング、APIクエリ、情報公開請求）や処理（光学式文字認識（OCR）、ファイル形式の変換など）に必要なツールやテクニックを使いこなせることも必要です。
+そしてもちろん、情報検索、関連モデルやアルゴリズム、テキストデータの可視化など、テキストデータ作業の背景にある理論や原理を把握することも有効です。
 
 Conclusions
 
