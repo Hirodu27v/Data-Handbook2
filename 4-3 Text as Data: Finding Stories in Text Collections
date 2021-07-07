@@ -78,10 +78,11 @@ Google Cloud Natural Language APIは、センチメント分析、エンティ�
 テキストマイニングについて詳しく知りたい方には、Python（NLTK、spaCy、gensim、textblob、scikit-learn）やR（tm、tidytextなど）のリソースを含む、よりパーソナライズされた分析を可能にする無料のオープンソースツールがありますが、すでにこれらの言語に慣れ親しんでいるジャーナリストにとっては、その方が便利かもしれません。
 また、正規表現や、テキストの収集（ウェブスクレイピング、APIクエリ、情報公開請求）や処理（光学式文字認識（OCR）、ファイル形式の変換など）に必要なツールやテクニックを使いこなせることも必要です。
 そしてもちろん、情報検索、関連モデルやアルゴリズム、テキストデータの可視化など、テキストデータ作業の背景にある理論や原理を把握することも有効です。
-
-Conclusions
-
-The possibility of revealing new insights to audiences with and about documents, and of multiplying our capacities to analyze long texts that would take months or years to read, are good reasons to give serious consideration to the development of text analysis as a useful tool in journalism. There are still many challenges involved, from ambiguity issues—computers may have a harder time “understanding” the context of language than we humans do—to language-specific problems that can be easier to solve in English than in German, or that have simply been addressed more in some languages than in others. Our work as journalists can contribute to advancing this field. Many reporting projects could be thought of as ways of expanding the number of available annotated data sets and identifying challenges, and as new application ideas. Judging by the growing number of recent stories produced with this approach, text mining appears to be a promising and exciting area of growth in data journalism.
+結論
+文書に関する新たな洞察を読者に提供できる可能性や、読むのに何ヶ月も何年もかかるような長いテキストを分析する能力を高めることができることは、ジャーナリズムの有用なツールとしてテキスト分析の開発を真剣に検討する十分な理由となります。
+曖昧さの問題（コンピュータは人間よりも言語の文脈を「理解」するのが難しいかもしれない）から、言語特有の問題（ドイツ語よりも英語の方が解決しやすい場合がある）、ある言語では他の言語よりも多く取り組まれてきた問題まで、課題はまだまだたくさんあります。
+ジャーナリストとしての私たちの仕事は、この分野の発展に貢献することができます。多くの報道プロジェクトは、利用可能な注釈付きデータセットの数を増やし、課題を特定し、新しいアプリケーションのアイデアを生み出すとも言えます。
+このアプローチで制作された最近の記事の数が増えていることから判断すると、テキストマイニングはデータジャーナリズムの中でも有望でエキサイティングな成長分野なのです。
 
 Footnotes
 
