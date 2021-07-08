@@ -1,14 +1,15 @@
-Coding With Data in the Newsroom
+ニュースルームにおけるデータを活用したコーディング
 Written by Basile Simon
 
-Abstract
+概要
 
-Newsrooms present unique challenges to coders and technically minded journalists.
+ニュースルームは、コーダーや技術志向のジャーナリストにとって固有の課題を抱えています。
 
+キーワード：計算論的ジャーナリズム、プログラミング、データクリーニング、データベース、データ・ビジュアライゼーション
 
-Keywords: computational journalism, programming, data cleaning, databases, data visualization
-
-Inevitably, there is a point where data and code become companions. Perhaps when Google Sheets slows down because of the size of a data set; when Excel formulas become too arcane; or when it becomes impossible to make sense of data spanning hundreds of rows. Coding can make working with data simpler, more elegant, less repetitive and more repeatable. This does not mean that spreadsheets will be abandoned, but rather that they will become one of a number of different tools available. Data journalists often jump between techniques as they need: Scraping data with Python notebooks, throwing the result into a spreadsheet, copying it for cleaning in Refine before pasting it back again.
+必然的に、データとコードが仲間になるポイントがあります。データセットが大きすぎてGoogle Sheets（の処理）が遅くなったとき、Excelの数式が難解になったとき、何百行ものデータを理解するのが不可能になったときなどです。
+コーディングは、データをよりシンプルに、よりエレガントに、繰り返しを少なく、より繰り返し可能にしてくれます。スプレッドシートを放棄することを意味するのではなく、スプレッドシートが数多くのツールの一つになることを意味しています。
+データ・ジャーナリストは、必要に応じて様々なテクニックを駆使しています。例えば、Python notebooksでデータをスクレイピングしたり、その結果をスプレッドシートに投げ込んだり、Refineでクリーニングするために、コピーアンドペーストしたりします。
 
 Different people learn different programming languages and techniques; different newsrooms produce their work in different languages, too. This partly comes from an organization’s choice of “stack,” the set of technologies used internally (for example, most of the data, visual and development work at The Times (of London) is done in R, JavaScript and React; across the pond ProPublica uses Ruby for many of their web apps). While it is often individuals who choose their tools, the practices and cultures of news organizations can heavily influence these choices. For example, the BBC is progressively moving its data visualization workflow to R (BBC Data Journalism team, n.d.); The Economist shifted their world-famous Big Mac Index from Excel-based calculations to R and a React/d3.js dashboard (González et al., 2018). There are many options and no single right answer.
 
