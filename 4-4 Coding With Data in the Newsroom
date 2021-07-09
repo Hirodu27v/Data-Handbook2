@@ -10,12 +10,19 @@ Written by Basile Simon
 必然的に、データとコードが仲間になるポイントがあります。データセットが大きすぎてGoogle Sheets（の処理）が遅くなったとき、Excelの数式が難解になったとき、何百行ものデータを理解するのが不可能になったときなどです。
 コーディングは、データをよりシンプルに、よりエレガントに、繰り返しを少なく、より繰り返し可能にしてくれます。スプレッドシートを放棄することを意味するのではなく、スプレッドシートが数多くのツールの一つになることを意味しています。
 データ・ジャーナリストは、必要に応じて様々なテクニックを駆使しています。例えば、Python notebooksでデータをスクレイピングしたり、その結果をスプレッドシートに投げ込んだり、Refineでクリーニングするために、コピーアンドペーストしたりします。
-
-Different people learn different programming languages and techniques; different newsrooms produce their work in different languages, too. This partly comes from an organization’s choice of “stack,” the set of technologies used internally (for example, most of the data, visual and development work at The Times (of London) is done in R, JavaScript and React; across the pond ProPublica uses Ruby for many of their web apps). While it is often individuals who choose their tools, the practices and cultures of news organizations can heavily influence these choices. For example, the BBC is progressively moving its data visualization workflow to R (BBC Data Journalism team, n.d.); The Economist shifted their world-famous Big Mac Index from Excel-based calculations to R and a React/d3.js dashboard (González et al., 2018). There are many options and no single right answer.
-
-The good news for those getting started is that many core concepts apply to all programming languages. Once you understand how to store data points in a list (as you would in a spreadsheet row or column) and how to do various operations in Python, doing the same thing in JavaScript, R or Ruby is a matter of learning the syntax.
-
-For the purpose of this chapter, we can think of data journalism’s coding as being subdivided into three core areas: Data work—including scraping, cleaning, statistics (work you could do in a spreadsheet); back-end work—the esoteric world of databases, servers and APIs; and front-end work—most of what happens in a web browser, including interactive data visualizations. This chapter explores how these different areas of work are shaped by several constraints that data journalists routinely face in working with code in newsrooms, including (a) time to learn, (b) working with deadlines and (c) reviewing code.
+人によって学ぶプログラミング言語や技術は異なり、ニュースルームによっても制作する言語は異なります。
+これは、組織が社内で使用する一連のテクノロジー「スタック」を選択することにも起因しています。
+例えば、ロンドンのタイムズ紙では、データ、ビジュアル、開発のほとんどがR、JavaScript、Reactで行われていますし、アメリカのプロパブリカでは、ウェブアプリの多くにRubyが使われています。
+ツールを選択するのは個人であることが多いですが、報道機関の慣習や文化がこれらの選択に大きく影響することもあります。
+たとえば、BBCはデータ可視化のワークフローを徐々にRに移行しており（BBC Data Journalism team, n.d.）、エコノミスト誌は世界的に有名なビッグマック指数をExcelベースの計算からRとReact/d3.jsのダッシュボードに移行しました（González et al.2018）。
+多くの選択肢があり、唯一の正解はありません。
+初心者にとって朗報なのは、多くの基本概念がすべてのプログラミング言語に当てはまるということです。
+データポイントをリストに格納する方法（スプレッドシートの行や列に格納するのと同じ）と、Pythonでさまざまな操作を行う方法を理解すれば、JavaScript、R、Rubyで同じことを行うには、構文を学ぶだけでよいのです。
+本章では、データ・ジャーナリズムのコーディングは、三つのコア領域に分割できると考えます。
+データ作業-スクレイピング、クリーニング、統計（スプレッドシートでできる作業）
+バックエンド作業-データベース、サーバー、APIなどの難解な世界
+フロントエンド作業-インタラクティブなデータ・ビジュアライゼーションなど、ウェブブラウザで行う作業のほとんど
+本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)期限付きの作業、(c)コードのレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
 
 Time to Learn
 
