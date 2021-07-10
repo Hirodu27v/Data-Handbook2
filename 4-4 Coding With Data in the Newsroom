@@ -24,11 +24,17 @@ Written by Basile Simon
 フロントエンド作業-インタラクティブなデータ・ビジュアライゼーションなど、ウェブブラウザで行う作業のほとんど
 本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)期限付きの作業、(c)コードのレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
 
-Time to Learn
-
-One of the wonderful traits uniting the data journalism community is the appetite to learn. Whether you are a reporter keen on learning the ropes, a student looking to get a job in this field or an accomplished practitioner, there is plenty to learn. As technology evolves very quickly, and as some tools fall out of fashion while others are created by talented and generous people, there are always new things that can be done and learned. There are often successive iterations and versions of tools for a given task (e.g., libraries for obtaining data from Twitter’s API). Tools often build and expand on previous ones (e.g., extensions and add-ons for the D3 data visualization library). Coding in data journalism is thus an ongoing learning process which takes time and energy, on top of an initial investment of time to learn.
-
-One issue that comes with learning programming is the initial reduction of speed and efficiency that comes with grappling with unfamiliar concepts. Programming boot camps can get you up to speed in a matter of weeks, although they can be expensive. Workshops at conferences are shorter and cheaper, and for beginners as well as advanced users. Having time to learn on the clock, as part of your job, is a necessity. There you will face real, practical problems, and if you are lucky you will have colleagues to help you. There’s a knack to finding solutions to your problems: Querying for issues over and over again and developing a certain “nose” for what is causing an issue.
+学習時間
+データ・ジャーナリズムのコミュニティに通底する素晴らしい特徴の一つに、学習意欲があります。
+データジャーナリズムの基本を身につけようとする記者も、この分野での就職を目指している学生も、熟練した実務家も、学ぶべきことはたくさんあります。
+テクノロジーの進化は非常に速く、あるツールが廃れていく一方で、才能豊かで寛大な人々によって別のツールが作られることもあり、常に新しいことが行われ、学ぶことができます。
+TwitterのAPIからデータを取得するためのライブラリのように、あるタスクのためのツールには、次から次へと（短期間での開発を繰り返す）イテレーションやバージョンが登場します。
+また、以前のツールをベースにして拡張することもよくあります（例：D3のデータ可視化ライブラリの拡張機能やアドオン）。
+このように、データ・ジャーナリズムにおけるコーディングは、学習のための初期投資に加えて、時間とエネルギーを要する継続的な学習プロセスなのです。
+プログラミングを学ぶ際に問題となるのは、慣れない概念に取り組むことで、最初のうちはスピードや効率が落ちてしまうことです。
+プログラミングブートキャンプなら数週間で習得できますが、費用がかかります。カンファレンスで行われるワークショップは、初心者から上級者までを対象としており、安価ですが期間も短い（ので不十分です）。
+仕事の一環として、時間をかけて学習する時間を持つことが必要です。そこでは実用的な問題に直面しますし、運が良ければ助けてくれる同僚もいるでしょう。
+問題を解決するにはコツがあります。何度でも質問を重ね、何が問題の原因なのかを見極める嗅覚を養うのです。
 
 This investment in time and resources can pay off: Coding opens many new possibilities and provides many rewards. One issue that remains at all stages of experience is that it is hard to estimate how long a task will take. This is challenging, because newsroom work is made of deadlines.
 
