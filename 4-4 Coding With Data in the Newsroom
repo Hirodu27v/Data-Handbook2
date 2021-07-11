@@ -22,7 +22,7 @@ Written by Basile Simon
 データ作業-スクレイピング、クリーニング、統計（スプレッドシートでできる作業）
 バックエンド作業-データベース、サーバー、APIなどの難解な世界
 フロントエンド作業-インタラクティブなデータ・ビジュアライゼーションなど、ウェブブラウザで行う作業のほとんど
-本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)期限付きの作業、(c)コードのレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
+本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)作業の〆切、(c)コードのレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
 
 学習時間
 データ・ジャーナリズムのコミュニティに通底する素晴らしい特徴の一つに、学習意欲があります。
@@ -35,10 +35,10 @@ TwitterのAPIからデータを取得するためのライブラリのように�
 プログラミングブートキャンプなら数週間で習得できますが、費用がかかります。カンファレンスで行われるワークショップは、初心者から上級者までを対象としており、安価ですが期間も短い（ので不十分です）。
 仕事の一環として、時間をかけて学習する時間を持つことが必要です。そこでは実用的な問題に直面しますし、運が良ければ助けてくれる同僚もいるでしょう。
 問題を解決するにはコツがあります。何度でも質問を重ね、何が問題の原因なのかを見極める嗅覚を養うのです。
+このような時間とリソースへの投資は報われます。コーディングは多くの新しい可能性と収入をもたらします。
+（しかし、）どの段階でも変わらない問題は、タスクにかかる時間を見積もるのが難しいということです。ニュースルームでの仕事は締め切りに追われているので、これは難しいことです。
 
-This investment in time and resources can pay off: Coding opens many new possibilities and provides many rewards. One issue that remains at all stages of experience is that it is hard to estimate how long a task will take. This is challenging, because newsroom work is made of deadlines.
-
-Working With Deadlines
+〆切を守る
 
 Delivering on time is an essential part of the job in journalism. Coding, as reporting, can be unpredictable. Regardless of your level of experience, delays can—and invariably will—happen.
 
