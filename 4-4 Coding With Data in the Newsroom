@@ -39,14 +39,14 @@ TwitterのAPIからデータを取得するためのライブラリのように�
 （しかし、）どの段階でも変わらない問題は、タスクにかかる時間を見積もるのが難しいということです。ニュースルームでの仕事は締め切りに追われているので、これは難しいことです。
 
 〆切を守る
-
-Delivering on time is an essential part of the job in journalism. Coding, as reporting, can be unpredictable. Regardless of your level of experience, delays can—and invariably will—happen.
-
-One challenge for beginners is slowdown caused by learning a new way to work. When setting off to do something new, particularly in the beginning of your learning, make sure you leave yourself enough time to be able to complete your task with a tool you know (e.g., spreadsheet). If you are just starting to learn and strapped for time, you may want to use a familiar tool and wait until you have more time to experiment.
-
-When working on larger projects, tech companies use various methods to break projects down into tasks and sub-tasks (until the tasks are small and self-contained enough to estimate how long they will take) as well as to list and prioritize tasks by importance.
-
-Data journalists can draw on such methods. For example, in one The Sunday Times project on the proportion of reported crimes that UK police forces are able to solve, we prioritized displaying numbers for the reader’s local area. Once this was done and there was a bit of extra time, we did the next item on the list: A visualization comparing the reader’s local area to other areas, and the national average. The project could have gone to publication at any point thanks to how we worked. This iterative workflow helps you focus and manage expectations at the same time.
+ジャーナリズムの仕事では、〆切が大切です。コーディングは、報道のように予測できないことがあります。経験の有無にかかわらず、遅れが生じることがあり、というより必ず起こります。
+初心者にとっての課題の一つは、新しい作業方法を学ぶことによるスピードの低下です。何か新しいことを始めようとするとき、特に学習の初期段階では、知っているツール（表計算ソフトなど）を使ってタスクを完了できるように、十分な時間を確保しておきましょう。
+学習を始めたばかりで時間がない場合は、使い慣れたツールを使うことにして、実験は時間ができてからにした方がよさそうです。
+技術系企業では、大規模なプロジェクトに取り組む際に、プロジェクトをタスクとサブタスクに分解したり、タスクをリストアップして重要度に応じて優先順位をつけたりと、さまざまな方法を用いています。
+データ・ジャーナリストもこの方法を見習いましょう。
+英国の警察が解決できた犯罪の割合を調査したサンデー・タイムズのプロジェクトでは、読者の地域の数字を優先して表示しました。
+これが終わって時間に余裕ができたところで、次の項目を行いました。読者の地域と他の地域、そして全国平均を比較したビジュアライゼーションです。
+この方法によって、プロジェクトをいつでも公開できるようにしました。このような反復的なワークフローは、集中力と期待値の管理を同時に行うことができます。
 
 Reviewing Code
 
