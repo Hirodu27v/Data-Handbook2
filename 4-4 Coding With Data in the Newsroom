@@ -22,7 +22,7 @@ Written by Basile Simon
 データ作業-スクレイピング、クリーニング、統計（スプレッドシートでできる作業）
 バックエンド作業-データベース、サーバー、APIなどの難解な世界
 フロントエンド作業-インタラクティブなデータ・ビジュアライゼーションなど、ウェブブラウザで行う作業のほとんど
-本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)作業の〆切、(c)コードのレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
+本章では、データ・ジャーナリストがニュースルームでコードを扱う際に日常的に直面する、(a)学習時間、(b)作業の〆切、(c)コードレビューなどの制約によって、これらの異なる分野の作業がどのように形成されるかを探ります。
 
 学習時間
 データ・ジャーナリズムのコミュニティに通底する素晴らしい特徴の一つに、学習意欲があります。
@@ -48,11 +48,10 @@ TwitterのAPIからデータを取得するためのライブラリのように�
 これが終わって時間に余裕ができたところで、次の項目を行いました。読者の地域と他の地域、そして全国平均を比較したビジュアライゼーションです。
 この方法によって、プロジェクトをいつでも公開できるようにしました。このような反復的なワークフローは、集中力と期待値の管理を同時に行うことができます。
 
-Reviewing Code
-
-Newsrooms often have systems in place to maintain standards for many of their products. A reporter doesn’t simply file their story and it gets printed: It is scrutinized by both editors and sub-editors.
-
-Software developers have their own systems to ensure quality and to avoid introducing bugs to collaborative projects. This includes “code reviews,” where one programmer submits their work and others test and review it, as well as automated code tests.
+コードレビュー
+ニュースルームでは、記事の品質を維持するシステムが用意されています。
+記者が記事を提出して印刷されるだけではありません。編集者と副編集長が記事を精査するのです。
+ソフトウェア開発者は、品質を確保し、共同プロジェクトにバグを持ち込まないようにするための独自のシステムを持っています。プログラマーが自分の作品を提出し、他のプログラマーがそれをテストしてレビューする「コードレビュー」や、自動化されたコードテストなどです。
 
 According to the 2017 Global Data Journalism Survey, 40% of responding data teams were three to five members and 30% of them counted only one or two members (Heravi, 2017). These small numbers pose a challenge to internal code reviewing practices. Data journalists thus often work on their own, either because they don’t have colleagues, because there are no peer-review systems in place or because there is no one with the right skills to review their code.
 
