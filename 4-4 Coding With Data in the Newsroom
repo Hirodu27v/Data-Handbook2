@@ -52,8 +52,8 @@ TwitterのAPIからデータを取得するためのライブラリのように�
 ニュースルームでは、記事の品質を維持するシステムが用意されています。
 記者が記事を提出して印刷されるだけではありません。編集者と副編集長が記事を精査するのです。
 ソフトウェア開発者は、品質を確保し、共同プロジェクトにバグを持ち込まないようにするための独自のシステムを持っています。プログラマーが自分の作品を提出し、他のプログラマーがそれをテストしてレビューする「コードレビュー」や、自動化されたコードテストなどです。
-
-According to the 2017 Global Data Journalism Survey, 40% of responding data teams were three to five members and 30% of them counted only one or two members (Heravi, 2017). These small numbers pose a challenge to internal code reviewing practices. Data journalists thus often work on their own, either because they don’t have colleagues, because there are no peer-review systems in place or because there is no one with the right skills to review their code.
+2017年のGlobal Data Journalism Surveyによると、回答したデータチームの40%が3~5人のメンバーで、30%が1~2人のメンバーでした(ヘラヴィ (2017))。
+これだけ少人数だと、内部のコードレビューを担保することは困難です。そのため、データ・ジャーナリストは、同僚がなく、ピアレビューシステムがなく、あるいはコードをレビューする適切なスキルを持った人がいないために、一人で作業することが多いのです。
 
 Internal quality control mechanisms can therefore become a luxury that only a few data journalism teams can afford (there are no sub-editors for coding!). The cost of not having such control is potential bugs left unattended, sub-optimal performance or, worst of all, errors left unseen. These resource constraints are perhaps partly why it is important for many journalists to look for input on and collaboration around their work outside their organizations, for example from online coding communities.1
 
