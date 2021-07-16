@@ -2,9 +2,10 @@
 Written by: Natalia Mazotte
 Abstract
 
-This chapter examines some examples and benefits of data journalists working more openly, as well as some ways to get started.
+本章では、データジャーナリストがよりオープンに活動することで得られる事例やメリット、そして始めるためのいくつかの方法を検討します。
 
-Keywords: data journalism, open source, free software, transparency, trust, programming
+キーワード：データ・ジャーナリズム、オープンソース、フリーソフトウェア、透明性、信頼、プログラミング
+
 
 Many prominent software and web projects—such as Linux, Android, Wikipedia, WordPress and TensorFlow—have been developed collaboratively based on a free flow of knowledge.1 Stallman (2002), a noted hacker who founded the GNU Project and the Free Software Foundation, says that when he started working at MIT in 1971, sharing software source code was as common as exchanging recipes.
 
