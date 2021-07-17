@@ -5,13 +5,14 @@ Abstract
 本章では、データジャーナリストがよりオープンに活動することで得られる事例やメリット、そして始めるためのいくつかの方法を検討します。
 
 キーワード：データ・ジャーナリズム、オープンソース、フリーソフトウェア、透明性、信頼、プログラミング
-
-
-Many prominent software and web projects—such as Linux, Android, Wikipedia, WordPress and TensorFlow—have been developed collaboratively based on a free flow of knowledge.1 Stallman (2002), a noted hacker who founded the GNU Project and the Free Software Foundation, says that when he started working at MIT in 1971, sharing software source code was as common as exchanging recipes.
-
-For years such an open approach was unthinkable in journalism. Early in my career as a journalist, I worked with open-source communities in Brazil and began to see openness as the only viable path for journalism. But transparency hasn’t been a priority or core value for journalists and media organizations. For much of its modern history, journalism has been undertaken in a paradigm of competition over scarce information.
-
-When access to information is the privilege of a few and when an important finding is only available to eyewitnesses or insiders, ways of ensuring accountability are limited. Citing a document or mentioning an interview source may not require such elaborate transparency mechanisms. In some cases, preserving the secrecy means ensuring the security of the source, and is even desirable. But when information is abundant, not sharing the how-we-got-there may deprive the reader of the means to understand and make sense of a story.
+Linux、Android、Wikipedia、WordPress、TensorFlowなど、多くの著名なソフトウェアやWebプロジェクトは、自由な知識の流れに基づいて共同開発されています。
+GNUプロジェクトやフリーソフトウェア財団を設立した著名なハッカーであるストールマン（2002）は、1971年にMITで働き始めたとき、ソフトウェアのソースコードを共有することはレシピを交換するのと同じくらい一般的なことだったと述べています。
+このようなオープンなアプローチは、長年、ジャーナリズムでは考えられませんでした。
+ジャーナリストとしてのキャリアの初期に、私はブラジルのオープンソースコミュニティと仕事をし、オープン性はジャーナリズムにとって唯一の実行可能な道であると考えるようになりました。
+しかし、ジャーナリストやメディア組織にとって、透明性は優先事項でもコアバリューでもありませんでした。ジャーナリズムは、その近代的な歴史のほとんどにおいて、希少な情報をめぐる競争というパラダイムの中で行われてきたのです。
+情報へのアクセスが少数の人の特権であり、重要な発見が目撃者や内部の人にしか得られない場合、説明責任を果たす方法は限られています。
+文書を引用したり、インタビューの情報源に言及したりするのに、そのような精巧な透明性メカニズムは必要ないかもしれません。場合によっては、秘密を守ることが情報源の安全を確保することにつながり、それが望ましいこともあります。
+しかし、情報が豊富な場合、「どうやってそこにたどり着いたのか」を共有しないと、読者がストーリーを理解し、納得するための手段を奪うことになりかねません。
 
 As journalists both report on and rely on data and algorithms, might they adopt an ethos which is similar to that of open-source communities? What are the advantages of journalists who adopt emerging digital practices and values associated with these communities? This chapter examines some examples and benefits of data journalists working more openly, as well as some ways to get started.2
 
