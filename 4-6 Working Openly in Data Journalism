@@ -13,11 +13,10 @@ GNUプロジェクトやフリーソフトウェア財団を設立した著名�
 情報へのアクセスが少数の人の特権であり、重要な発見が目撃者や内部の人にしか得られない場合、説明責任を果たす方法は限られています。
 文書を引用したり、インタビューの情報源に言及したりするのに、そのような精巧な透明性メカニズムは必要ないかもしれません。場合によっては、秘密を守ることが情報源の安全を確保することにつながり、それが望ましいこともあります。
 しかし、情報が豊富な場合、「どうやってそこにたどり着いたのか」を共有しないと、読者がストーリーを理解し、納得するための手段を奪うことになりかねません。
+データやアルゴリズムに依存した報道を行うジャーナリストなら、オープンソース・コミュニティと同様の倫理観を持つようになるのでしょうか？
+コミュニティに関連する新しいデジタル手法や価値観を採用するジャーナリストには、どのような利点があるのでしょうか。本章では、データ・ジャーナリストがよりオープンに活動することで得られる事例やメリット、そしてそのための方法を検討します。
 
-As journalists both report on and rely on data and algorithms, might they adopt an ethos which is similar to that of open-source communities? What are the advantages of journalists who adopt emerging digital practices and values associated with these communities? This chapter examines some examples and benefits of data journalists working more openly, as well as some ways to get started.2
-
-Examples and Benefits of Openness
-
+オープン化の事例とメリット
 The Washington Post provided an unprecedented look at the prescription opioid epidemic in the United States by digging into a database on the sales of millions of painkillers.3 They also made the data set and its methodology publicly accessible. This enabled local reporters from over 30 states to publish more than 90 articles about the impact of this crisis in their communities (Sánchez Díez, 2019).4
 
 Two computational journalists analyzed Uber’s surge pricing algorithm and revealed that the company seems to offer better service in areas with more White people (Stark & Diakopoulos, 2016). The story was published by The Washington Post, and the data collection and analysis code used were made freely available on GitHub, an online platform that helps developers store and manage their code.5 This meant that a reader who was looking at the database and encountered an error was able to report this to the authors of the article, who were in turn able to fix the bug and correct the story.
