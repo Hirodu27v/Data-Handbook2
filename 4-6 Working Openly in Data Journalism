@@ -39,16 +39,18 @@ Pythonスクリプトを実行して、通りの名前とブラジル国家統�
 潜在的なメリットについて理解を深めたとしても、透明性が価値あるものであるか、優先度が低いものであるか、あるいは有害なものであるかを理解するための配慮が必要です。
 例えば、パナマ文書の場合のように、調査自体の完全性を守るために、データや技術を秘密にしておくことが重要な場合があります。
 
-Ways of Working Openly
-
-If there are no impediments (and this should be analyzed on a case-by- case basis) then one common approach to transparency is through the methodology section, also known as the “nerd box.” This can come in a variety of formats and lengths, depending on the complexity of the process and the intended audience.
-
-If your intention is to reach a wider audience, a box inside the article or even a footnote with a succinct explanation of your methods may be sufficient. Some publications opt to publish stand-alone articles explaining how they reported the story. In either case, it is important to avoid jargon, explain how data was obtained and used, ensure readers don’t miss important caveats, and explain in the most clear and direct way how you reached your conclusion.
-
-Many media outlets renowned for their work on data journalism—such as FiveThirtyEight, ProPublica, The New York Times and the Los Angeles Times—have repositories on code-sharing platforms such as GitHub. The Buzzfeed News team even has an index of all its open-source data, analysis, libraries, tools and guides.8 They release not only the methodology behind their reporting, but also the scripts used to extract, clean, analyze and present data. This practice makes their work reproducible (as discussed further in Leon’s chapter in this volume) as well as enabling interested readers to explore the data for themselves. As scientists have done for centuries, these journalists are inviting their peers to check their work and see if they can arrive at the same conclusions by following the documented steps.
-
-It is not simple for many newsrooms to incorporate these levels of documentation and collaboration into their work. In the face of dwindling resources and shrinking teams, journalists who are keen to document their investigations can be discouraged by their organizations. This brings us to the constraints that journalists face: Many news organizations are fighting for their lives, as their role in the world and their business models are changing. In spite of these challenges, embracing some of the practices of free and open-source communities can be a way to stand out, as a marker of innovation and as a way of building trust and relationships with audiences in an increasingly complex and fast-changing world.
-
+オープンな仕事の進め方
+障害がない場合（これはケースバイケースで分析する必要があります）、透明性を確保するための一般的なアプローチとして、「ナードボックス」とも呼ばれる方法論のセクションがあります。
+この方法論は、プロセスの複雑さや対象となる読者に応じて、さまざまな形式や長さのものがあります。
+より多くの人に読んでもらうことを目的としている場合は、記事中のボックスや、方法を簡潔に説明した脚注でも十分でしょう。
+また、独立した記事として、どのように報道したかを説明するものもあります。いずれにしても、専門用語を避け、データの入手方法や使用方法を説明し、重要な注意点を読者が見落とさないようにし、どのようにして結論に至ったのかを最も明確かつ直接的に説明することが重要です。
+FiveThirtyEight、プロパブリカ、ニューヨークタイムズ、ロサンゼルスタイムズ、データ・ジャーナリズムの分野で有名なメディアの多くは、GitHubなどのコード共有プラットフォームにリポジトリを持っています。
+Buzzfeed Newsのチームは、あらゆるオープンソースのデータ、分析、ライブラリ、ツール、ガイドなどをまとめたインデックスをも整備しています。
+このようにして、データの再現性を高めるとともに（本編のLeonの章で詳しく説明しています）、興味を持った読者が自らデータを調査できるようにしています。
+科学者たちが何世紀にもわたって行ってきたように、ジャーナリストたちも自分たちの仕事を同僚たちにチェックしてもらい、文書化された手順に従って同じ結論に達することができるかどうかを確かめるよう呼びかけているのです。
+多くの報道機関にとって、このようなレベルの文書化やコラボレーションを仕事に取り入れることは簡単ではありません。少ないリソースとチームの縮小に直面する報道機関は、自分の調査を記録したいと思うジャーナリストの熱意を削いでしまうかもしれません。
+ここで、ジャーナリストが直面している制約について考えてみましょう。多くの報道機関は、世界における役割やビジネスモデルの変化に伴い、生き残りをかけて戦っています。
+これらの課題にもかかわらず、自由でオープンソースなコミュニティのプラクティスを取り入れることは、イノベーションの指標として、また、ますます複雑化し、急速に変化する世界の聴衆との信頼と関係を構築する手段として、際立つ方法となりえます。
 
 Footnotes
 
