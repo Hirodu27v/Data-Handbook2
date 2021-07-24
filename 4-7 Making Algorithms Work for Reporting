@@ -1,11 +1,11 @@
-Making Algorithms Work for Reporting
+報道にアルゴリズムを活用する
 Written by Jonathan Stray
 
-Abstract
+概要
 
-Sophisticated data analysis algorithms can greatly benefit investigative reporting, but most of the work is getting and cleaning data.
+洗練されたデータ分析アルゴリズムは、調査報道に大いに役立ちますが、その作業のほとんどはデータの取得とクリーニングです。
 
-Keywords: algorithms, machine learning, computational journalism, data journalism, investigative journalism, data cleaning
+キーワード：アルゴリズム、機械学習、コンピュテーショナル・ジャーナリズム、データ・ジャーナリズム、調査報道、データ・クリーニング
 
 The dirty secret of computational journalism is that the “algorithmic” part of a story is not the part that takes all of the time and effort.
 
