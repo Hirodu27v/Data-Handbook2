@@ -10,8 +10,7 @@ Written by Jonathan Stray
 誤解しないで。洗練されたアルゴリズムは、報道、特に調査報道において非常に有効です。機械学習（コンピュータにパターンを発見させる技術）は、膨大なデータの中から重要な文書を見つけ出すのに使われています。
 また、自然言語処理（言語を理解するためのトレーニング）により、文書から人名や企業名を抽出することができ、記者は誰がストーリーに関わっているかを理解するための近道となります。
 さらに、記者は不正や偏見を発見するために、さまざまな統計的分析を行っています。
-
-But actually running an algorithm is the easy part. Getting the data, cleaning it and following up algorithmic leads is the hard part.
+しかし、アルゴリズムを実行するのは簡単です。データを入手し、それをクリーニングし、アルゴリズムのリードをフォローすることこそ大変なのです。
 
 To illustrate this, let’s take a success for machine learning in investigative journalism, The Atlanta Journal-Constitution’s remarkable story on sex abuse by doctors, “License to Betray” (Teegardin et al., 2016). Reporters analyzed over 100,000 doctor disciplinary records from every US state, and found 2,400 cases where doctors who had sexually abused patients were allowed to continue to practice. Rather than reading every report, they first drastically reduced this pile by applying machine learning to find reports that were likely to concern sexual abuse. They were able to cut down their pile more than 10 times, to just 6,000 documents, which they then read and reviewed manually.
 
