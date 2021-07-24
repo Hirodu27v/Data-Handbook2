@@ -6,10 +6,10 @@ Written by Jonathan Stray
 洗練されたデータ分析アルゴリズムは、調査報道に大いに役立ちますが、その作業のほとんどはデータの取得とクリーニングです。
 
 キーワード：アルゴリズム、機械学習、コンピュテーショナル・ジャーナリズム、データ・ジャーナリズム、調査報道、データ・クリーニング
-
-The dirty secret of computational journalism is that the “algorithmic” part of a story is not the part that takes all of the time and effort.
-
-Don’t misunderstand me: Sophisticated algorithms can be extraordinarily useful in reporting, especially investigative reporting. Machine learning (training computers to find patterns) has been used to find key documents in huge volumes of data. Natural language processing (training computers to understand language) can extract the names of people and companies from documents, giving reporters a shortcut to understanding who’s involved in a story. And journalists have used a variety of statistical analyses to detect wrongdoing or bias.
+コンピュテーショナル・ジャーナリズムの外聞をはばかる秘密は、ストーリーの「アルゴリズム」は、すべての時間と労力を投じる部分ではないということです。
+誤解しないで。洗練されたアルゴリズムは、報道、特に調査報道において非常に有効です。機械学習（コンピュータにパターンを発見させる技術）は、膨大なデータの中から重要な文書を見つけ出すのに使われています。
+また、自然言語処理（言語を理解するためのトレーニング）により、文書から人名や企業名を抽出することができ、記者は誰がストーリーに関わっているかを理解するための近道となります。
+さらに、記者は不正や偏見を発見するために、さまざまな統計的分析を行っています。
 
 But actually running an algorithm is the easy part. Getting the data, cleaning it and following up algorithmic leads is the hard part.
 
