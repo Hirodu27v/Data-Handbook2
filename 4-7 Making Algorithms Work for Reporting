@@ -14,7 +14,7 @@ Written by Jonathan Stray
 これを説明するために、調査報道における機械学習の成功例として、The Atlanta Journal-Constitutionの医師による性的虐待に関する驚くべき記事「License to Betray」を取り上げましょう（Teegardin et al,2016)。
 記者たちは、米国の全州の10万件以上の医師の懲戒記録を分析し、患者に性的虐待を加えた医師が診療を続けることを許可されていたケースを2400件発見しました。
 すべての報告書を読むのではなく、機械学習を応用して、性的虐待に関わる可能性の高い報告書を見つけることで、この山を大幅に減らしました。
-その結果、10分の１以下のたった6,000個の文書にまで減らすことができ、それを手作業で読み、見直すことができたのです。
+その結果、10回以上ふるいにかけてたった6,000個の文書にまで減らすことができ、それを手作業で読み、見直すことができたのです。
 記者のJeff Ernsthausenによると、機械学習がなければ全国的な記事にはならなかったといいます。「もしかしたら、地域限定の記事にしていた可能性もあるかもしれない」と後に語っています（Diakopoulos, 2019）。
 
 This is as good a win for algorithms in journalism as we’ve yet seen, and this technique could be used far more widely. But the machine learning itself is not the hard part. The method that Ernsthausen used, “logistic regression,” is a standard statistical approach to classifying documents based on which words they contain. It can be implemented in scarcely a dozen lines of Python, and there are many good tutorials online.
