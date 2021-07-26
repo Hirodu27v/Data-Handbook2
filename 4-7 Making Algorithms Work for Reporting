@@ -15,11 +15,13 @@ Written by Jonathan Stray
 記者たちは、米国の全州の10万件以上の医師の懲戒記録を分析し、患者に性的虐待を加えた医師が診療を続けることを許可されていたケースを2400件発見しました。
 すべての報告書を読むのではなく、機械学習を応用して、性的虐待に関わる可能性の高い報告書を見つけることで、この山を大幅に減らしました。
 その結果、10回以上ふるいにかけてたった6,000個の文書にまで減らすことができ、それを手作業で読み、見直すことができたのです。
-記者のJeff Ernsthausenによると、機械学習がなければ全国的な記事にはならなかったといいます。「もしかしたら、地域限定の記事にしていた可能性もあるかもしれない」と後に語っています（Diakopoulos, 2019）。
-
-This is as good a win for algorithms in journalism as we’ve yet seen, and this technique could be used far more widely. But the machine learning itself is not the hard part. The method that Ernsthausen used, “logistic regression,” is a standard statistical approach to classifying documents based on which words they contain. It can be implemented in scarcely a dozen lines of Python, and there are many good tutorials online.
-
-For most stories, most of the work is in setting things up and then exploiting the results. Data must be scraped, cleaned, formatted, loaded, checked, and corrected—endlessly prepared. And the results of algorithmic analysis are often only leads or hints, which only become a story after large amounts of very manual reporting, often by teams of reporters who need collaboration tools rather than analysis tools. This is the unglamorous part of data work, so we don’t teach it very well or talk about it much. Yet it’s this preparation and follow-up that takes most of the time and effort on a data-driven story.
+記者のジェフ・エルンストハウゼンによると、機械学習がなければ全国的な記事にはならなかったといいます。「もしかしたら、地域限定の記事にしていた可能性もあるかもしれない」と後に語っています（Diakopoulos, 2019）。
+これは、ジャーナリズムにおけるアルゴリズムの比類なき成功例であり、この手法はもっと広く利用できるでしょう。
+機械学習自体は難しいことではありません。エルンストハウゼンが使用した「ロジスティック回帰」という手法は、どの単語が含まれているかによって文書を分類する標準的な統計的アプローチです。
+数十行のPythonで実装することができ、オンラインには多くのチュートリアルがあります。
+ほとんどのストーリーでは、作業の大半がセットアップとその結果を利用することを占めます。データのスクレイピング、クリーニング、フォーマット、ロード、チェック、修正などの作業を際限なく続けなければなりません。
+アルゴリズム分析の結果は、多くの場合、手がかりやヒントに過ぎず、分析ツールではなくコラボレーションツールを必要とする記者チームによる大量の手作業による取材を経て、初めて記事になります。
+このような作業は、データの仕事の中でも特に地味なものなので、あまり教えられませんし、話題にもなりません。しかし、データドリブンな記事を書くためには、この準備とフォローアップにほとんどの時間と労力を費やすことになります。
 
 For “License to Betray,” just getting the data was a huge challenge. There is no national database of doctor disciplinary reports, just a series of state-level databases. Many of these databases do not contain a field indicating why a doctor was disciplined. Where there is a f ield, it often doesn’t reliably code for sexual abuse. At first, the team tried to get the reports through freedom of information requests. This proved to be prohibitively expensive, with some states asking for thousands of dollars to provide the data. So, the team turned to scraping documents from state medical board websites (Ernsthausen, 2017). These documents had to be OCR’d (turned into text) and loaded into a custom web-based application for collaborative tagging and review.
 
