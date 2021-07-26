@@ -22,10 +22,14 @@ Written by Jonathan Stray
 ほとんどのストーリーでは、作業の大半がセットアップとその結果を利用することを占めます。データのスクレイピング、クリーニング、フォーマット、ロード、チェック、修正などの作業を際限なく続けなければなりません。
 アルゴリズム分析の結果は、多くの場合、手がかりやヒントに過ぎず、分析ツールではなくコラボレーションツールを必要とする記者チームによる大量の手作業による取材を経て、初めて記事になります。
 このような作業は、データの仕事の中でも特に地味なものなので、あまり教えられませんし、話題にもなりません。しかし、データドリブンな記事を書くためには、この準備とフォローアップにほとんどの時間と労力を費やすことになります。
-
-For “License to Betray,” just getting the data was a huge challenge. There is no national database of doctor disciplinary reports, just a series of state-level databases. Many of these databases do not contain a field indicating why a doctor was disciplined. Where there is a f ield, it often doesn’t reliably code for sexual abuse. At first, the team tried to get the reports through freedom of information requests. This proved to be prohibitively expensive, with some states asking for thousands of dollars to provide the data. So, the team turned to scraping documents from state medical board websites (Ernsthausen, 2017). These documents had to be OCR’d (turned into text) and loaded into a custom web-based application for collaborative tagging and review.
-
-Then the reporters had to manually tag several hundred documents to produce training data. After machine learning ranked the remaining 100,000, it took several more months to manually read the 6,000 docu- ments that were predicted to be about sex abuse, plus thousands of other documents containing manually picked key words. And then, of course, there was the rest of the reporting, such as the investigation of hundreds of specific cases to flesh out the story. This relied on other sources, such as previous news stories and, of course, personal interviews with the people involved.
+『License to Betray』では、データを入手するだけでも大変な苦労がありました。医師の懲戒に関する全国的なデータベースは存在せず、州レベルのデータベースがいくつかあるだけです。
+これらのデータベースの多くには、医師が懲戒処分を受けた理由を示す項目がありません。記入欄があっても、性的虐待が確実にコード化されていないことが多いのです。
+チームはまず、情報公開請求で報告書を入手しようとしました。しかし、州によっては数千ドルを要求してくるところもあり、法外に高価なものとなりました。
+そこでチームは、州の医療委員会のウェブサイトから文書をスクレイピングすることにしました（Ernsthausen, 2017）。
+これらの文書はOCR（テキスト化）され、共同でタグ付けやレビューを行うためのカスタムWebベースのアプリケーションに読み込む必要がありました。
+学習データを作成するために、数百の文書に手作業でタグ付けをしなければなりませんでした。機械学習で残りの10万件をランク付けした後、性的虐待について予測された6,000件の文書と、手作業で選んだキーワードを含む数千件の文書を読むのにさらに数カ月を要しました。
+さらに、ストーリーを具体化するために、何百もの具体的な事件を調査するなど、その他の取材も必要でした。
+過去のニュース記事や、関係者への個人的なインタビューなど、他の情報源も利用しました。
 
 The use of an algorithm—machine learning—was a key, critical part of the investigation. But it was only a tiny amount of the time and effort spent. Surveys of data scientists consistently show that most of their work is data “wrangling” and cleaning—often up to 80%—and journalism is no different (Lohr, 2014).
 
