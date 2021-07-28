@@ -30,10 +30,11 @@ Written by Jonathan Stray
 学習データを作成するために、数百の文書に手作業でタグ付けをしなければなりませんでした。機械学習で残りの10万件をランク付けした後、性的虐待について予測された6,000件の文書と、手作業で選んだキーワードを含む数千件の文書を読むのにさらに数カ月を要しました。
 さらに、ストーリーを具体化するために、何百もの具体的な事件を調査するなど、その他の取材も必要でした。
 過去のニュース記事や、関係者への個人的なインタビューなど、他の情報源も利用しました。
-
-The use of an algorithm—machine learning—was a key, critical part of the investigation. But it was only a tiny amount of the time and effort spent. Surveys of data scientists consistently show that most of their work is data “wrangling” and cleaning—often up to 80%—and journalism is no different (Lohr, 2014).
-
-Algorithms are often seen as a sort of magic ingredient. They may seem complex or opaque, yet they are unarguably powerful. This magic is a lot more fun to talk about than the mundane work of preparing data or following up a long list of leads. Technologists like to hype their technology, not the equally essential work that happens around it, and this bias for new and sophisticated tools sometimes carries over into journalism. We should teach and exploit technological advances, certainly, but our primary responsibility is to get journalism done, and that means grappling with the rest of the data pipeline, too.
+アルゴリズム（機械学習）の使用は、調査の重要な部分を占めています。しかし、それは（全体に占める）時間と労力のごく一部にすぎません。
+データ・サイエンティストを対象とした調査では、仕事のほとんどがデータの「整理」と「クリーニング」であることが一貫して示されており、その割合は80％にも上ります。ジャーナリズムも同じです（Lohr, 2014）。
+アルゴリズムは、ある種の魔法のようなものだと思われています。一見、複雑で不透明に見えるかもしれませんが、紛れもない力を持っています。
+この魔法は、データを準備したり、長いリストをフォローアップしたりするありふれた仕事よりも、話をしていてずっと楽しいものです。技術者は、自分たちの技術を誇示したいのであって、その周辺で行われている同様に重要な仕事を誇示したいわけではありません。
+新しく洗練されたツールに対するこのような偏見は、時としてジャーナリズムにも影響を及ぼします。しかし、私たちの第一の責任はジャーナリズムを遂行することであり、それには他のデータパイプラインにも取り組む必要があるのです。
 
 In general, we underappreciate the tools used for data preparation. OpenRefine is a long-standing hero for all sorts of cleaning tasks. Dedupe. io is machine learning applied to the problem of merging near-duplicate names in a database. Classic text-wrangling methods like regular expressions should be a part of every data journalist’s education. In this vein, my current project, Workbench, is focused on the time-consuming but mostly invisible work of preparing data for reporting—everything that happens before the “algorithm.” It thus aims to make the whole process more collaborative, so reporters can work together on large data projects and learn from each other’s work, including with machines.
 
