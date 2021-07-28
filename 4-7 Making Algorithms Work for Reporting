@@ -35,11 +35,12 @@ Written by Jonathan Stray
 アルゴリズムは、ある種の魔法のようなものだと思われています。一見、複雑で不透明に見えるかもしれませんが、紛れもない力を持っています。
 この魔法は、データを準備したり、長いリストをフォローアップしたりするありふれた仕事よりも、話をしていてずっと楽しいものです。技術者は、自分たちの技術を誇示したいのであって、その周辺で行われている同様に重要な仕事を誇示したいわけではありません。
 新しく洗練されたツールに対するこのような偏見は、時としてジャーナリズムにも影響を及ぼします。しかし、私たちの第一の責任はジャーナリズムを遂行することであり、それには他のデータパイプラインにも取り組む必要があるのです。
-
-In general, we underappreciate the tools used for data preparation. OpenRefine is a long-standing hero for all sorts of cleaning tasks. Dedupe. io is machine learning applied to the problem of merging near-duplicate names in a database. Classic text-wrangling methods like regular expressions should be a part of every data journalist’s education. In this vein, my current project, Workbench, is focused on the time-consuming but mostly invisible work of preparing data for reporting—everything that happens before the “algorithm.” It thus aims to make the whole process more collaborative, so reporters can work together on large data projects and learn from each other’s work, including with machines.
-
-Algorithms are important to reporting, but to make them work, we have to talk about all of the other parts of data-driven journalism. We need to enable the whole workflow, not just the especially glamorous, high-tech parts.
-
+一般的に、私たちはデータの準備に使われるツールを過小評価しています。OpenRefineは、あらゆる（データ）クリーニングタスクの長年のヒーローです。
+Dedupe.ioは、機械学習を応用してデータベース内の重複した名前をマージします。
+正規表現のような古典的なテキスト処理方法は、データ・ジャーナリストの全ての教育に含まれるべきです。私の現在のプロジェクトである「Workbench」は、時間がかかるがほとんど表に出ない、報道用のデータを準備する作業、つまり「アルゴリズム」の前に行われるすべての作業に焦点を当てています。
+このプロジェクトは、記者が大規模なデータプロジェクトに共同で取り組み、機械も含めてお互いの仕事から学ぶことができるように、プロセス全体をより協力的にすることを目的としています。
+アルゴリズムは報道にとって重要ですが、それを機能させるためには、データ駆動型ジャーナリズムの他のすべての部分について話し合わなければなりません。
+目立って華やかでハイテクな部分だけでなく、ワークフロー全体の力を引き出す必要があるのです。
 Works cited
 
 Diakopoulos, N. (2019). Automating the news: How algorithms are rewriting the media. Harvard University Press.
