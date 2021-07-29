@@ -1,7 +1,14 @@
-Journalism With Machines? From Computational Thinking to Distributed Cognition
+機械によるジャーナリズム？計算論的思考から分散型認知へ
 Written by Eddy Borges-Rey
-
-Imagine you are a journalist in the not so distant future. You are working on a story, and in order to get the insight you are looking for, you ask your conversational agent (who you affectionately call Twiki) to stitch together over 15 anonymized databases. Given the magnitude and complexity of the fused data sets, visualization software is too rudimentary to isolate the anomalies you are searching for. So, using your brain implant, you plug into the system and easily navigate the abstraction of the data sets. Although, individually, each redacted data set is effective in protecting the identity and the personal data of the people listed, when combined, you are able to infer the identity of some top-profile individuals and put into context their personal data. Realizing the potential legal implications of revealing the names and the data attached to them, you ask Twiki to run a neural network to determine whether disclosing this information has ethical or legal implications. The network runs a “n+” number of simulations of virtual journalists making decisions based on a number of codes of ethics and regulatory frameworks. Whilst this runs in the background, you manage to isolate a few outliers and identify a couple of interesting trends. Since you want to make sure the anomalies have something to add to the story, and are not simply errors, you ask Twiki to check through archival historic records to see if the outliers coincide with any major historical event. In addition, you ask Twiki to run a predictive model to calculate the likelihood that the identified trends will persist for the foreseeable future, thus triggering worrying implications.
+あなたが、それほど遠くない未来のジャーナリストだと想像してみてください。あなたは記事を書くために、会話型エージェント（愛称：Twiki）に匿名化された15以上のデータベースをつなぎ合わせるように依頼します。
+融合されたデータセットの大きさと複雑さを考えると、可視化ソフトウェアは初歩的すぎて、探している異常を分離することができません。
+そこで、脳に埋め込まれたインプラントを使ってシステムに接続し、抽象化されたデータセットを簡単に操作します。
+匿名化されたそれぞれのデータセットは、身元や個人情報を保護するために有効ですが、それらを組み合わせると、著名人の身元や個人情報を推測することができるのです。
+名前とそれに付随するデータを公開することが法的課題になる可能性があることを認識したあなたは、この情報を公開することが倫理的または法的課題になるかどうかを判断するためにニューラルネットワークを実行するようTwikiに依頼しました。
+このネットワークでは、倫理規定や規制の枠組みに基づいて意思決定を行うバーチャルジャーナリストのシミュレーションを「n+」回実行します。
+このシミュレーションがバックグラウンドで実行されている間に、あなたはいくつかの異常値を分離し、いくつかの興味深い傾向を特定することができました。
+この異常値が単なるエラーではなく、ストーリーにプラスになるものであることを確認したいので、Twikiに過去の記録を調べてもらい、異常値が歴史的な出来事と一致しているかどうかを確認します。
+さらにTwikiには、特定された傾向が今後も続き、憂慮すべき事態を招く可能性を計算するための予測モデルを実行してもらいます。
 
 This brief, fictional introduction is based on a fascinating conversation I had with former Times data journalist Nicola Hughes a few years ago. Although the scene it describes could well have come out of Philip K. Dick’s “The Minority Report,” it actually refers to a range of tools and techniques that are either already available and widely used, or in rapid development. More importantly, it also refers to a kind of journalistic workflow and profes- sional mindset emerging in newsrooms, in a world where journalists are increasingly engaging with data and computation is becoming indispensable. These recent changes reflect how historically, every time a major techno- logical innovation has been introduced into the news production workflow, news reporting itself has not only been disrupted and consequently trans- formed, but journalists’ thought processes and working professional ideals have invariably been modified.
 
