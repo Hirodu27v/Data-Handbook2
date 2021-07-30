@@ -1,4 +1,4 @@
-機械によるジャーナリズム？計算論的思考から分散型認知へ
+機械とジャーナリズムの協働とは？計算論的思考から分散型認知へ
 Written by Eddy Borges-Rey
 あなたが、それほど遠くない未来のジャーナリストだと想像してみてください。あなたは記事を書くために、会話型エージェント（愛称：Twiki）に匿名化された15以上のデータベースをつなぎ合わせるように依頼します。
 融合されたデータセットの大きさと複雑さを考えると、可視化ソフトウェアは初歩的すぎて、探している異常を分離することができません。
@@ -9,10 +9,12 @@ Written by Eddy Borges-Rey
 このシミュレーションがバックグラウンドで実行されている間に、あなたはいくつかの異常値を分離し、いくつかの興味深い傾向を特定することができました。
 この異常値が単なるエラーではなく、ストーリーにプラスになるものであることを確認したいので、Twikiに過去の記録を調べてもらい、異常値が歴史的な出来事と一致しているかどうかを確認します。
 さらにTwikiには、特定された傾向が今後も続き、憂慮すべき事態を招く可能性を計算するための予測モデルを実行してもらいます。
-
-This brief, fictional introduction is based on a fascinating conversation I had with former Times data journalist Nicola Hughes a few years ago. Although the scene it describes could well have come out of Philip K. Dick’s “The Minority Report,” it actually refers to a range of tools and techniques that are either already available and widely used, or in rapid development. More importantly, it also refers to a kind of journalistic workflow and profes- sional mindset emerging in newsrooms, in a world where journalists are increasingly engaging with data and computation is becoming indispensable. These recent changes reflect how historically, every time a major techno- logical innovation has been introduced into the news production workflow, news reporting itself has not only been disrupted and consequently trans- formed, but journalists’ thought processes and working professional ideals have invariably been modified.
-
-Today, as we move beyond the era of big data to the era of artificial intelligence (AI) and automation, principles and working practices that hail from computing and data science become ever more pervasive in journalism. As Emily Bell, Founding Director of the Tow Center for Digital Journalism at Columbia University, puts it:
+この短いフィクションは、数年前にタイムズの元データ・ジャーナリストであるニコラ・ヒューズと交わした興味深い会話に基づいています。
+フィリップ・K・ディックの「マイノリティ・リポート」に出てきそうなシーンですが、実際には、すでに利用可能で広く使われている、あるいは急速に開発されているさまざまなツールやテクニックが登場しています。
+さらに重要なことに、ジャーナリストがデータを扱う機会が増え、コンピュータが不可欠になっている中で、ニュースルームで生まれつつあるジャーナリズムのワークフローとプロとしての考え方にも言及していることです。
+このような変化は、歴史的に見ても、大きな技術革新がニュース制作のワークフローに導入されるたびに、（それまでの）報道そのものが破壊され、結果的に変容してきただけでなく、ジャーナリストの思考プロセスや職業上の理想も必ず変更されてきたことを反映しています。
+ビッグデータの時代から人工知能（AI）と自動化の時代へと移行している今日、コンピューティングやデータサイエンスに由来する原理や作業方法がジャーナリズムに浸透してきています。
+コロンビア大学のトウ・センター・フォー・デジタル・ジャーナリズムの創設者であるエミリー・ベルはこう言います。
 
 Every company in every field, and every organization, whether they are corporate or public sector, will have to think about how they reorient themselves around AI in exactly the same way that 20 years ago they had to think about the way they reoriented themselves around web technologies. (Bell, personal communication, September 7, 2017)
 
