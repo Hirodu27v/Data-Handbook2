@@ -19,12 +19,11 @@ Written by Eddy Borges-Rey
 このような背景から、本章では、データや自動化されたプロセスと密接に関わるジャーナリストがコンピューターにまつわる技能を習得し、一方ではジャーナリストとしての能力を高め、他方では仕事のアプローチや理想の根幹を変え始めていることを考察します。
 本章では、計算機が普及した環境でのジャーナリズムの認知を構想する枠組みとして、さまざまな理論的概念を検討しています。
 「拡張された認知」という概念を採用し、ジャーナリズムの認知が、今日では報道に使用されるマシンに依存している（つまり、分散している）方法について、さらなる議論を促します。
-この議論を通じて、分散型ジャーナリスティック認知の概念を検証し、さらに明確にするための実証的な研究を含め、ジャーナリスティックな状況におけるコンピュータの役割を調査する将来の研究を呼び起こしたいと思います。
+この議論を通じて、分散型ジャーナリスティック認知の概念を検証し、さらに明確にするための実証的な研究を含め、ジャーナリスティックな状況における計算の役割を調査する将来の研究を呼び起こしたいと思います。
 このような研究は、データ化や自動化がニュース制作のいたるところで行われるようになった場合にジャーナリズムが経験するであろう変化を認識し、それに対処したいと考えているプロのジャーナリストにとって、特に有益なものとなるでしょう。
 計算論的思考
-
-
-In an attempt to trace the historical meaning of the concept of computation, Denning and Martell (2015) suggest that “[c]omputation was taken to be the mechanical steps followed to evaluate mathematical functions [and] computers were people who did computations.” In the 1980s, however, the concept was more frequently associated with a new way of doing science, thus shifting its emphasis from machines to information processes (Denning & Martell, 2015).
+計算という概念の歴史的な意味をたどる試みとして、デニングとマー照る（2015）は、「計算とは、数学的な関数を評価するために従う機械的な手順であり、コンピュータとは計算を行う人であると考えられていた」と述べています。
+しかし、1980年代になると、この概念は、科学を行う新しい方法と結び付けられることが多くなり、その結果、機械から情報プロセスへと重点が移りました（Denning & Martell, 2015）。
 
 This shift in emphasis is critical for my argument, as it aligns the ultimate goals of news reporting and computation: Journalism is also about managing information processes—in very general terms, the journalist’s job consists of streamlining the flow of information, curating it and packaging it in a format that is palatable to an audience. Here, I would argue that the pervasiveness of a computational mindset in news reporting is partially due to the similarities that exist between both professional practices.
 
