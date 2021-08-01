@@ -17,10 +17,12 @@ Written by Eddy Borges-Rey
 コロンビア大学のトウ・センター・フォー・デジタル・ジャーナリズムの創設者であるエミリー・ベルはこう言います。
 企業であれ公共部門であれ、あらゆる分野のあらゆる企業や組織は、20年前にウェブ技術を軸にした方向性を考えなければならなかったのとまったく同じように、AIを軸にした方向性を考える必要がある。 (Bell, personal communication, September 7, 2017)
 このような背景から、本章では、データや自動化されたプロセスと密接に関わるジャーナリストがコンピューターにまつわる技能を習得し、一方ではジャーナリストとしての能力を高め、他方では仕事のアプローチや理想の根幹を変え始めていることを考察します。
+本章では、計算機が普及した環境でのジャーナリズムの認知を構想する枠組みとして、さまざまな理論的概念を検討しています。
+「拡張された認知」という概念を採用し、ジャーナリズムの認知が、今日では報道に使用されるマシンに依存している（つまり、分散している）方法について、さらなる議論を促します。
+この議論を通じて、分散型ジャーナリスティック認知の概念を検証し、さらに明確にするための実証的な研究を含め、ジャーナリスティックな状況におけるコンピュータの役割を調査する将来の研究を呼び起こしたいと思います。
+このような研究は、データ化や自動化がニュース制作のいたるところで行われるようになった場合にジャーナリズムが経験するであろう変化を認識し、それに対処したいと考えているプロのジャーナリストにとって、特に有益なものとなるでしょう。
+計算論的思考
 
-The chapter, thus, explores a range of theoretical concepts that could serve as a framework to envision journalistic cognition in an environment of pervasive computation. I adopt the notion of extended cognition to stimulate further discussion on the ways in which journalistic cognition is nowadays dependent on (and therefore distributed across) the machines used to report the news. Through this discussion I hope to encourage future work to investigate the role of computation in journalistic situations, including empirical work to test and further specify the concept of distributed journalistic cognition. This line of inquiry could be particularly useful for professional journalists who want to be aware of, and engage with, the changes journalism is likely to experience if datafication and automation become ubiquitous in news production.
-
-Computational Thinking
 
 In an attempt to trace the historical meaning of the concept of computation, Denning and Martell (2015) suggest that “[c]omputation was taken to be the mechanical steps followed to evaluate mathematical functions [and] computers were people who did computations.” In the 1980s, however, the concept was more frequently associated with a new way of doing science, thus shifting its emphasis from machines to information processes (Denning & Martell, 2015).
 
