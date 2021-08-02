@@ -24,8 +24,9 @@ Written by Eddy Borges-Rey
 計算論的思考
 計算という概念の歴史的な意味をたどる試みとして、デニングとマー照る（2015）は、「計算とは、数学的な関数を評価するために従う機械的な手順であり、コンピュータとは計算を行う人であると考えられていた」と述べています。
 しかし、1980年代になると、この概念は、科学を行う新しい方法と結び付けられることが多くなり、その結果、機械から情報プロセスへと重点が移りました（Denning & Martell, 2015）。
-
-This shift in emphasis is critical for my argument, as it aligns the ultimate goals of news reporting and computation: Journalism is also about managing information processes—in very general terms, the journalist’s job consists of streamlining the flow of information, curating it and packaging it in a format that is palatable to an audience. Here, I would argue that the pervasiveness of a computational mindset in news reporting is partially due to the similarities that exist between both professional practices.
+この変化は、私の議論にとって重要です。というのもそれは、報道と計算の最終的な目標を一致させるからです。
+ジャーナリズムとは、情報プロセスを管理することでもあります。ごく一般的に言えば、ジャーナリストの仕事は、情報の流れを合理化し、それをキュレーションして、読者に受け入れられる形式にパッケージ化することです。
+私は、ニュース報道にコンピュテーションの考え方が浸透しているのは、この二つの職業的実践に共通点があるからだと主張したいと思います。
 
 Both computing and journalism are formulaic, about solving problems and require syntactical mastery. Wing (2008) remarks that “[o]perationally, computing is concerned with answering ‘How would I get a computer to solve this problem?’” (p. 3719), and this requires a relatively high level of computational thinking. As computation becomes a norm in newsrooms, computational thinking is employed by an increasing number of journalists to approach data stories. Bradshaw, for instance, argues that computational thinking “is at the heart of a data journalist’s work,” enabling them “to solve the problems that make up so much of modern journalism, and to be able to do so with the speed and accuracy that news processes demand” (Bradshaw, 2017).
 
