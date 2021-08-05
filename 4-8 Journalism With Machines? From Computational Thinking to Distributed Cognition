@@ -41,9 +41,11 @@ Written by Eddy Borges-Rey
 興味深いことに、マイルス（2019）が指摘しているように、自動化によってジャーナリストが煩わしい仕事から解放されるという予想に反して、自動化によって、これまでジャーナリストが行っていなかったさまざまな新しい編集活動が導入されています。
 例えば、AP通信社のワークフローに画像認識が導入されたことで、ジャーナリストや写真家は、トレーニングデータのラベル付け、テスト結果の評価、メタデータの修正、コンセプトの定義の生成など、従来は機械学習に関連する作業に従事しなければならなくなったと説明しています（Myles, 2019）。
 
-Cognitive Projection and Extended Creativity
-
-So far, I have argued that journalists who, as part of their job, have to engage with the computational problems introduced by news automation, see their workflows and editorial responsibilities transformed. The Wall Street Journal, for instance, recently advertised for positions such as Machine Learning Journalist, Automation Editor and Emerging Processes Editor, all associated with the expansion of AI and automation. As a result of these kinds of infrastructural expansions, and the subsequent diversification of editorial responsibilities prompted by them, journalists often find themselves asking questions that project them into the shoes of a machine that has to think and perform like a journalist. An interesting paradox, which brings equally interesting challenges.
+認知の投射と創造性の拡張
+これまで私は、ニュースの自動化によってもたらされる計算問題に仕事の一環として取り組まなければならないジャーナリストは、そのワークフローや編集責任が変容していくことを論じてきました。
+例えば、ウォール・ストリート・ジャーナルは最近、Machine Learning Journalist、Automation Editor、Emerging Processes Editorなど、AIと自動化に関連した職種を募集しています。
+このようなインフラの拡大と、それに伴う編集責任の多様化の結果、ジャーナリストはしばしば、ジャーナリストのように考え、実行しなければならない機械の立場を想像した質問をすることになります。
+これは興味深いパラドックスであり、同様に興味深い課題でもあります。
 
 This idea of projection, I believe, is becoming prevalent in news automation. Take, for instance, the quintessential journalistic endeavour: Writing a news story. If we deconstruct the process, in general terms, journalists have to use their creativity to put together an account of events that engages and/ or informs the public. The question, then, is: How do I get a machine to write news that reads as if it were written by a human reporter? Journalists and technologists have collaborated over the last five years to project themselves, in an attempt to solve this question. A good example, on this front, is the implementation of natural language generation (NLG) technologies to automate the production of news stories. But counter to what we could expect, the process still involves human reporters writing templates of news stories, which contain blank spaces that are subsequently f illed in by automation software using a database. This process, which has been quite successful in news organizations such as the Associated Press, and in RADAR, a collaboration between the Press Association and Urbs Media, seeks to augment the speed and scale of the news production operation in areas such as sports, company earnings and local news.
 
