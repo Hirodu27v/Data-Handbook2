@@ -53,8 +53,17 @@ Written by Eddy Borges-Rey
 その好例が、記事作成を自動化する自然言語生成（NLG）技術の導入です。
 予想に反することでしょうが、このプロセスでは、人間の記者が記事のテンプレートを書きます。そのテンプレートには空欄があり、自動化ソフトウェアがデータベースを使って空欄を埋めるのです。
 このプロセスは、AP通信社などの報道機関や、Press AssociationとUrbs Mediaが共同で設立したRADARで成功しており、スポーツ、企業決算、ローカルニュースなどの分野で、ニュース制作作業のスピードと規模の拡大をめざしています。
-
-Creativity within this realm takes a new form, in which coder-journos have had to rethink storytelling as a machine that decodes and recodes the news-writing process. Instead of discerning which interview would better substantiate an argument or what words would make for a stronger headline, the goal has shifted to choosing which configuration of conditional statements would be more efficient in making the automated system decide which headline would appeal more effectively to the audience of the news organization where it functions. Following the principles of human–computer interaction (HCI) and user experience (UX) design, coder-journos have to anticipate the ways users want to engage with automated informational experiences, the potential ways in which they will navigate the different layers of information and the confines of the news piece. Wheeler (2018), conceptualizing the notion of extended creativity, explains that there are cases of intellectual creation in which “the material vehicles that realize the thinking and thoughts concerned are spatially distributed over brain, body and world.” The concept of extended creativity then works well as a framework to explicate the idea that the mind of a journalist working with data and automation now functions in close connection with a series of automations, spanning into a series of Python libraries, Jupyter Notebooks, data sets, data analytics tools and online platforms. This dynamic consequently brings a series of additional challenges worthy of attention. For example, Mevan Babakar, head of automated fact-checking at Full Fact, explains that one of the challenges they face with their automated fact-checker is context. She uses as an example the claim of former UK prime minister Theresa May that her government allocated more resources to the National Health Service (NHS) than the opposition Labour Party promised in their manifesto. And although the claim was fact-checked as accurate, for it to be meaningful and useful to the public, it needs to be understood within a wider context: The allocation was not enough for the NHS to perform efficiently (Babakar, personal communication, August 16, 2018). Therefore, as automated systems are not yet capable of making such contextual connections between sources of information, Babakar and her team have to resort to questions like “How do I get an automated fact-checker to understand the nuances of context?”
+この領域での創造性は、新しい形を取ります。コーダー・ジャーナリストは、ストーリーテリングを、ニュース作成プロセスを解読・再構成する仕組みとして再考せねばなりません。
+目標はどんなインタビューが議論を検証するのかや、どんな言葉を選べばより目を引く見出しになるのかではなく、どの条件文がより効率的かを選択することにシフトしています。
+自動化されたシステムは、（そうして選んだ言葉で）読者により効果的にアピールする見出しを決定するのです。
+ヒューマン・コンピュータ・インタラクション（HCI）やユーザー・エクスペリエンス（UX）デザインの原則に従って、コーダー・ジャーナリストは、ユーザーが自動化された情報体験にどのように関わりたいのか、ユーザーがさまざまな情報の層やニュース記事の制限をナビゲートする潜在的な方法を予測しなければなりません。
+「創造性の拡張」を提唱したホイラー（2018）は知的創造には、「その思考や思考を実現する物質的な媒体が、脳、身体、世界に空間的に分散している」ケースがあると説明しています。
+この拡張創造性の概念は、データと自動化を扱うジャーナリストの心が、一連のPythonライブラリ、Jupyter Notebooks、データセット、データ分析ツール、オンラインプラットフォームにまたがる一連の自動化と密接に関連して機能するようになったという考えをうまく説明します。
+このダイナミックな動きは、注目すべき一連の課題をもたらします。フル・ファクト社の自動ファクトチェック部門の責任者であるメバン・ババカルは、同社の自動ファクトチェックで直面する課題の一つに、文脈を挙げています。
+例えば、英国のテリーザ・メイ前首相が、野党の労働党がマニフェストで約束した以上に多くの資源を国民健康保険サービス（NHS）に割り当てたと主張しました。
+この主張は正確であることが確認されていますが、一般の人々にとって意味のある有用なものとするためには、より広い文脈の中で理解される必要があります。
+つまり、NHSが効率的に業務を遂行するためには、（それでも）配分は十分ではなかったということです（Babakar, personal communication, August 16, 2018）。
+自動化されたシステムは情報源の間でそのような文脈のつながりを作ることがまだできません。ババカルたちは、「自動化されたファクトチェッカーに文脈のニュアンスを理解させるにはどうすればよいか？」という質問を逃れることはできないのです。
 
 Journalistic Distributed Cognition
 
