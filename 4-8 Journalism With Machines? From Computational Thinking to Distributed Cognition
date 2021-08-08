@@ -65,11 +65,20 @@ Written by Eddy Borges-Rey
 つまり、NHSが効率的に業務を遂行するためには、（それでも）配分は十分ではなかったということです（Babakar, personal communication, August 16, 2018）。
 自動化されたシステムは情報源の間でそのような文脈のつながりを作ることがまだできません。ババカルたちは、「自動化されたファクトチェッカーに文脈のニュアンスを理解させるにはどうすればよいか？」という質問を逃れることはできないのです。
 
-Journalistic Distributed Cognition
-
-To conclude, I would like to further explore the idea of a journalistic distributed cognition and the questions it raises. Anderson, Wheeler and Sprevak (2018) argue that as computers become pervasive in human activity, cognition “spread[s] out over the brain, the non-neural body and . . . an environment consisting of objects, tools, other artefacts, texts, individuals, groups and/or social/institutional structures.” In journalism, this means that, at present, as journalists use networked software and hardware to augment their capacity to produce news at scale and speed, their cognition becomes distributed across the range of platforms and tools they use. This of course, provides them with unlimited access to most of human knowledge online. However, this idea of portable knowledge and distributed cognition begs the question of who owns and manages journalists’ access to that wealth of knowledge and “free” analytical power. Who enables journalistic distributed cognition? This issue, worthy of deeper discussion, is a thorny one, as we experienced when Google shut down its online data visualization tool Google Fusion Tables. After the closure of the platform, dozens of data journalism projects that had been developed with the tool became unavailable as they were no longer supported by the company.
-
-In this context, as journalists engage with computational dynamics on a daily basis, their computational thinking becomes normalized and facilitates the projection of their cognition into the machines they employ for their daily journalistic routines. As journalistic knowledge becomes distributed, does the same happen to journalistic authority and control? Inexorably, distribution shifts the boundaries that provide journalists with control over their routines and professional cultures, thus impacting on their epistemological authority. Looking ahead, as we did in this chapter’s fictional introduction, distribution could also create an array of associated risks, once journalists begin to delegate important ethical considerations and decisions to machines. It is important then, that the infrastructure they use to distribute their cognition is open, and available for public scrutiny, if the cornerstone ideals of journalism are to be preserved in the age of data and automation.
+ジャーナリスティックな分散型認知
+最後に、ジャーナリスティックな分散型認知の考え方と、それがもたらす疑問についてさらに掘り下げてみたいと思います。
+アンダーソン、ホイラーとスプレヴァク(2018)は、コンピュータが人間の活動に浸透するにつれ、認知が「脳、非神経系の身体、そして...物、道具、その他の人工物、テキスト、個人、グループ、そして/または社会的/組織的構造からなる環境に広がる」と論じています。
+ジャーナリズムの世界では、現在、ジャーナリストがネットワーク化されたソフトウェアやハードウェアを使用して、大規模かつ迅速にニュースを作成する能力を高めています。
+これは、彼らの認知が、さまざまなプラットフォームやツールに分散していることを意味します。
+これによって、オンラインで人類の知識のほとんどに無制限にアクセスできるようになりました。
+しかし、このポータブルな知識と分散された認知という考え方は、ジャーナリストが豊富な知識と「自由な」分析力にアクセスすることを誰が所有し、管理しているのかという疑問を生じさせます。
+ジャーナリストの分散型認知を可能にするのは誰か？この問題は、Googleがオンラインデータビジュアライゼーションツール「Google Fusion Tables」を閉鎖したときに経験したように、より深い議論が必要です。
+閉鎖後、このツールを使って開発された何十ものデータジャーナリズムプロジェクトは、同社のサポートを受けられなくなったため、利用できなくなりました。
+ジャーナリストが日常的に計算力学に関わることで、彼らの計算論的思考が常態化し、彼らの認識を日常的なジャーナリズム活動に用いる機械に投影することが容易になるでしょう。
+ジャーナリズムの知識が分散されると、ジャーナリズムの権威や支配力も同じようになるのでしょうか。
+容赦なく（知識の）分散はジャーナリストの日常や職業文化に対するコントロールを可能にする境界をシフトさせ、その結果、彼らの認識論的権威に影響を与えることになります。
+本章の架空の導入部で行ったように、将来を見据えると、ジャーナリストが重要な倫理的検討や決定を機械に委ねるようになれば、さまざまな関連するリスクを生み出す可能性もあります。
+データと自動化の時代にジャーナリズムの基礎となる理想を維持するのであれば、彼らが認知に使用するインフラがオープンであり、公衆の精査に耐えうることが重要です。
 
 Works cited
 
