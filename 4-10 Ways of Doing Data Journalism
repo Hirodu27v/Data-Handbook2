@@ -49,11 +49,11 @@ Written by Sarah Cohen
 アルベルト・カイロ（Alberto Cairo）は、雑誌や新聞のインフォグラフィックスの分野で活躍している有名なビジュアルジャーナリストです。
 彼の仕事は、ビジュアライゼーションによってストーリーを伝えることに焦点を当てており、ニュースを収集するだけでなく、ストーリーを伝える役割も担っています。
 
-News Applications
-
-At ProPublica, most major investigations start or end with a news application—a site or feature that provides access to local or individual data through an engaging and insightful interface. ProPublica has become known for its news apps, and engineers who began their careers in coding have evolved into journalists who use code, rather than words, to tell stories.
-
-ProPublica’s Ken Schwenke, a developer by training who has worked in newsrooms including the Los Angeles Times and The New York Times, became one of the nation’s leading journalists covering hate crimes in the United States as part of the site’s Documenting Hate project, which revolved around stories crowdsourced through ProPublica’s news application.
+ニュースアプリ
+プロパブリカでは、大規模な調査報道のほとんどがニュースアプリ内で自己完結します。
+ニュースアプリとは、魅力的で洞察力に富んだインターフェースを通じて、地域や個人のデータにアクセスできるサイトや機能のことです。
+プロパブリカはニュースアプリで有名になり、コーディングからキャリアをスタートしたエンジニアは、言葉ではなくコードを使ってストーリーを伝えるジャーナリストへと進化しました。
+同社のケン・シュエンケは、開発者としてロサンゼルスタイムスやニューヨーク･タイムズなどのニュースルームで働いていましたが、プロパブリカのニュースアプリを通じてクラウドソースで収集したストーリーを中心としたサイトのDocumenting Hateプロジェクトの一環として、米国のヘイトクライムを取材する全米屈指のジャーナリストとなりました。
 
 Data Stories
 
