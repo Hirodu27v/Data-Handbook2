@@ -1,0 +1,144 @@
+Data Visualisations: Newsroom Trends and Everyday Engagements
+Written by: Helen Kennedy William Allen Rosemary Lucy Hill Martin Engebretsen Andy Kirk Wibke Weber
+This chapter looks at both the production of data visualizations (henceforth “dataviz”) in newsrooms and audiences’ everyday engagements with dataviz, drawing on two separate research projects.
+
+The first is Seeing Data, which explored how people make sense of data visualizations, and the second is INDVIL, which explored dataviz as a semiotic, aesthetic and discursive resource in society.1
+
+The chapter starts by summarizing the main findings of an INDVIL sub-project focusing on dataviz in the news, in which we found that dataviz are perceived in diverse ways and deployed for diverse purposes.
+
+It then summarizes our main findings from Seeing Data,2 where we also found great diversity, this time in how audiences make sense of dataviz. This diversity is important for the future work of both dataviz researchers and practitioners.
+
+Data Visualization in Newsrooms: Trends and Challenges
+
+How is data visualization being embedded into newsroom practice? What trends are emerging, and what challenges are arising?
+
+To answer these questions, in 2016 and 2017 we undertook 60 interviews in 26 newsrooms across six European countries: Norway (NO), Sweden (SE), Denmark (DK), Germany (DE), Switzerland (CH) and the United Kingdom (UK). Interviewees in mainstream, online news media organizations included editorial leaders, leaders of specialist data visualization teams, data journalists, visual journalists, graphic/data visualization designers and developers (although some didn’t have job titles, a sign in itself that this is a rapidly emerging field). We present some highlights from our research here.
+
+Changing Journalistic Storytelling
+
+The growing use of data visualization within journalism means that there is a shift from writing as the main semiotic mode to data and visualization as central elements in journalistic storytelling. Many interviewees stated that data visualization is the driving force of a story, even when it is a simple graphic or diagram.
+
+The reader stats tell us that when we insert a simple data visualization in a story, readers stay on the page a little longer. (SE)
+
+Dataviz are used with a broad range of communicative intentions, including: “to offer insight” (UK), “to explain more easily” (SE), “to communicate clearly, more clearly than words can” (UK), “to tell several facets in detail, which in text is only possible in an aggregated form” (DE), to make stories “more accessible” (DK), “to reveal deplorable states of affairs” (CH), “to help people understand the world” (UK). Data visualization is used to emphasize a point, to add empirical evidence, to enable users to explore data sets, as aesthetic attraction to stimulate interest and to offer entry into unseen stories.
+
+These changes are accompanied by the emergence of multiskilled specialist groups within newsrooms, with data and dataviz skills prioritized in new recruits. But there are no patterns in the organization of dataviz production within newsrooms—in some, it happens in data teams, in others, in visual teams (one of our dataviz designer interviewees was also working on a virtual reality project at the time of the interview) and elsewhere, in different teams still. And just as new structures are emerging to accommodate this newly proliferating visual form, so too newsroom staff need to adapt to learn new tools, in-house and commercial, develop new skills, and understand how to communicate across teams and areas of expertise in order to produce effective data stories.
+
+The “Mobile First” Mantra and Its Consequences
+
+Widespread recognition that audiences increasingly consume news on small, mobile screens has led to equally widespread adoption of a “mobile first” mantra when it comes to producing dataviz in newsrooms. This means a turn away from the elaborate and interactive visualizations that characterized the early days of dataviz in the news, to greater simplicity and linearity, or simple visual forms with low levels of interactivity. This has led to a predominance of certain chart types, such as bar charts and line charts, and to the advent of scrollytelling, or stories that unfold as users scroll down the page, with the visualizations that are embedded in the article appearing at the appropriate time. Scrolling also triggers changes in visualizations themselves, such as zooming out.
+
+Often in our stories we use the scrolling technique. It is not necessary to click but to scroll, if you scroll down, something will happen in the story. (DE)
+
+Tools to automate dataviz production and make it possible for journalists who are not dataviz experts to produce them also result in the spread of simplified chart forms. Nonetheless, some interviewees are keen to educate readers by presenting less common chart types (a scatterplot, for example) accompanied with information about how to make sense of them.
+
+Some believe that pictures can also present data effectively—a Scandinavian national tabloid represented the size of a freight plane by filling it with 427,000 pizzas. Others recognize the value of animation, for example, to show change over time, or of experimenting with zoomability in visualizations.
+
+The Social Role of Journalism
+
+Linking a dataviz to a data source, providing access to the raw data and explaining methodologies are seen by some participants as ethical practices which create transparency and counterbalance the subjectivity of selection and interpretation which, for some, is an inevitable aspect of visualizing data. Yet for others, linking to data sources means giving audiences “all of the data” and conflicts with the journalistic norm of identifying and then telling a story.
+
+For some, this conflict is addressed by complex processes of sharing different elements of data and process on different platforms (Twitter, Pinterest, GitHub). This leads data journalists and visualization designers to reflect on how much data to share, their roles as fact providers and their social role more generally. Data journalist Paul Bradshaw sums this up on his blog:
+
+How much responsibility do we have for the stories that people tell with our information? And how much responsibility do we have for delivering as much information as someone needs? (Bradshaw, 2017)
+
+Former Guardian editor Alan Rusbridger (2010) raised a similar question about the social role of journalism when he pointed to the range of actors who do what journalism has historically done—that is, act as a gatekeeper of data and official information (e.g., FixMyStreet and TheyWorkForYou in the United Kingdom). He concluded: “I don’t know if that is journalism or not. I don’t know if that matters” (Baack, 2018). Some of our interviewees work on large-scale projects similar to those discussed by Rusbridger—for example, one project collated all available data relating to schools in the United Kingdom and made this explorable by postcode to inform decision making about school preference. So the question of what counts as journalism in the context of widespread data and dataviz is not easy to answer.
+
+What’s more, sharing data sets assumes that audiences will interact with them, yet studies indicate that online interactivity is as much a myth as a reality, with the idealized image of an active and motivated explorer of a visualized data set contrasting with the more common quick and scrolling reader of news (e.g., Burmester et al., 2010).
+
+Similarly, a study of data journalism projects submitted to the Nordic Data Journalism Awards concludes that interactive elements often offer merely an illusion of interactivity, as most choices already are made or predefined by the journalists (Appelgren, 2017). This again calls into question the practice of sharing “all of the data” and raises questions about the changing social role of journalism.
+
+Trust, Truth and Visualizations “in the Wild”
+
+Other elements of the process of visualizing data raise issues of trust and truth and also relate to how journalists think about the social role of journalism. One aspect of dataviz work that points to these issues is how journalists working with data visualization think about data and their visual representation. Some see it as a form of truth-telling, others as a process of selection and interpretation, and others still believe that shaping data visualizations through choices is a way of revealing a story and so is precisely what journalists should do. These reflections highlight the relationship between (dis)trust and presentation, and between perspective and (un)truthfulness.
+
+In our current, so-called “post-truth” context, in which audiences are said to have had enough of facts, data and experts and in which “fake news” circulates quickly and widely, our participants were alert to the potential ways in which audiences might respond to their data visualizations, which might include accepting naively, refuting sceptically, decontextualizing through social sharing, or even changing and falsifying. They felt that journalists increasingly need “soft knowledge of Internet culture” (UK), as one participant put it.
+
+This includes an understanding of how online content might be more open to interrogation than its offline equivalent, and of how data visualizations may be more likely to circulate online than text, floating free of their original contexts as combinations of numbers and pictures “in the wild” (Espeland & Sauder, 2007). This in turn requires understanding of strategies that might address these dangers, such as embedding explanatory text into a visualization file so that the image cannot be circulated without the explanation. These issues, alongside concern about audiences’ data and visualization literacy, inform and reshape journalists’ thinking about their audiences.
+
+How Do People Engage With Data Visualizations?
+
+In this section, we look at dataviz in the news from the perspective of the audience. How do audiences engage with and make sense of the visualizations that they encounter in news media? Data journalists are often too busy to attend to this question. Data visualization researchers don’t have this excuse, but nevertheless rarely focus their attention on what end users think of the visualizations that they see.
+
+Enter Seeing Data, a research project which explored how people engage with the data visualizations that they encounter in their everyday lives, often in the media. It explored the factors that affect engagement and what this means for how we think about what makes a visualization effective. On Seeing Data we used focus groups and interviews to explore these questions, to enable us to get at the attitudes, feelings and beliefs that underlie people’s engagements with dataviz. Forty-six people participated in the research, including a mix of participants who might be assumed to be interested in data, the visual or migration (which was the subject of a number of the visualizations that we showed them) and so “already engaged” in one of the issues at the heart of our project, and participants about whom we could not make these assumptions.
+
+In the focus groups, we asked participants to evaluate eight visualizations, which we chose (after much discussion) because they represented a diversity of subject matters, chart types, original media sources and formats, and aimed either to explain or to invite exploration. Half of the visualizations were taken from journalism (BBC; The New York Times; The Metro, a freely distributed UK newspaper; and Scientific American magazine). Others came from organizations which visualize and share data as part of their work: The Migration Observatory at the University of Oxford; the UK Office for National Statistics (ONS); and the Organisation for Economic Co-operation and Development (OECD).
+
+After the focus groups, seven participants kept diaries for a month, to provide us with further information about encounters with visualizations “in the wild” and not chosen by us.
+
+Factors Which Affect Dataviz Engagement
+
+Subject matter. Visualizations don’t exist in isolation from the subject matter that they represent. When subject matter spoke to participants’ interest, they were engaged—for example, civil society professionals who were interested in issues relating to migration and therefore in migration visualizations. In contrast, one participant (who was male, 38, White, British, an agricultural worker) was not interested in any of the visualizations we showed him in the focus group or confident to spend time looking. However, his lack of interest and confidence and his mistrust of the media (he said he felt they try “to confuse you”) did not stop him from looking at visualizations completely: He told us that when he came across visualizations in The Farmer’s Guide, a publication he read regularly because it speaks to his interests, he would take the time to look at them.
+
+Source or media location. The source of visualizations is important: It has implications for whether users trust them. Concerns about the media setting out to confuse were shared by many participants and led some to view visualizations encountered within certain media as suspect. In contrast, some participants trusted migration visualizations which carried the logo of the University of Oxford, because they felt that the “brand” of this university invokes quality and authority. But during the diary-keeping period, a different picture emerged. Participants tended to see visualizations in their favoured media, which they trusted, so they were likely to trust the visualizations they saw there, too. One participant (male, 24, White, British, agricultural worker), who reads The Daily Mail, demonstrated this when he remarked in his interview that “you see more things wrong or printed wrong in The Sun, I think.” Given the ideological similarities between these two publications, this comment points to the importance of media location in dataviz engagement.
+
+
+Beliefs and opinions. Participants trusted the newspapers they regularly read and therefore trusted the visualizations in these newspapers, because both the newspapers and the visualizations often fitted with their views of the world. This points to the importance of beliefs and opinions in influencing how and whether people take time to engage with particular visualizations. Some participants said they liked visualizations that confirmed their beliefs and opinions. But it is not just when visualizations confirm existing beliefs that beliefs matter. One participant (male, 34, White, British, IT worker) was surprised by the migration data in an ONS visualization in Figure 24.1. He said that he had not realized how many people in the United Kingdom were born in Ireland. This data questioned what he believed and he enjoyed that experience. Some people like, or are interested in, data in visualizations that call into question existing beliefs, because they provoke and challenge horizons. So beliefs and opinions matter in this way, too.
+
+Time. Engaging with visualizations is seen as work by people for whom doing so does not come easily. Having time available is crucial in determining whether people are willing to do this “work.” Most participants who said they lacked time to look at visualizations were women, and they put their lack of time down to work, family and home commitments. One working mother talked about how her combined paid and domestic labour were so tiring that when she finished her day, she didn’t want to look at news, and that included looking at visualizations. Such activities felt like “work” to her, and she was too tired to undertake them at the end of her busy day. An agricultural worker told us in an email that his working hours were very long and this impacted on his ability to keep his month-long diary of engagement with visualizations after the focus group research.
+
+Confidence and skills. Audiences need to feel that they have the necessary skills to decode visualizations, and many participants indicated a lack of confidence in this regard. A part-time careers advisor said of one visualization: “It was all these circles and colours and I thought, that looks like a bit of hard work; don’t know if I understand.” Many of our participants expressed concern about their lack of skills, or they demonstrated that they did not have the required skills, whether these were visual literacy skills, language skills, mathematical and statistical skills (like knowing how to read particular chart types), or critical thinking skills.
+
+Emotions. Although last in our list, a major finding from our research was the important role that emotions play in people’s engagements with data visualizations.3 A broad range of emotions emerged in relation to engagements with dataviz, including pleasure, anger, sadness, guilt, shame, relief, worry, love, empathy, excitement, offence. Participants reported emotional responses to visualizations in general; represented data; visual style; the subject matter of data visualizations; the source or original location of visualizations; their own skill levels for making sense of visualizations.
+
+For example, two civil society professionals used strong language to describe their feelings when they looked at the visualizations of migration in the United Kingdom shown in Figure 24.2. The data caused them to reflect on how it must feel to be a migrant who comes to the United Kingdom and encounters the anti-immigration headlines of the media. They described themselves as feeling “guilty” and “ashamed” to be British.
+
+Other participants had strong emotional responses to the visual style of some visualizations. A visualization of film box office receipts by The New York Times divided participants, with some drawn to its aesthetic and some put off by it (Bloch et al., 2008):
+
+It was a pleasure to look at this visual presentation because of the coor- dination between the image and the message it carries.
+Frustrated. It was an ugly representation to start with, difficult to see clearly, no information, just a mess.
+
+Figure 24.1
+Figure 24.1. Non-UK born census populations 1951–2011. Source: Office for National Statistics.
+Figure 24.2
+Figure 24.2: Migration in the census. Source: The Migration Observatory, University of Oxford. http://www.compas.ox.ac.uk/migrationinthecensus/, http://migrationobservatory.ox.ac.uk/
+What This Means for Making Effective Visualizations
+
+A broad range of understandings of what makes a visualization effective emerged from our research. Visualizations in the media that are targeted at non-specialists might aim to persuade, for example.
+
+They all need to attract in order to draw people in, if they are to commit time to finding out about the data on which the visualization is based. Visualizations might stimulate particular emotions, which inspire people to look longer, deeper or further. They might provoke interest, or the opposite. An effective visualization could:
+
+Provoke questions/desire to engage in discussions with others
+Create empathy for other humans in the data
+Generate enough curiosity to draw the user in
+Reinforce or back up existing knowledge
+Provoke surprise
+Persuade or change minds
+Present something new
+Lead to new confidence in making sense of dataviz
+Present data useful for one’s own purposes
+Enable an informed or critical engagement with a topic
+Be a pleasurable experience
+Provoke a strong emotional response.
+What makes a visualization effective is fluid—no single definition applies across all dataviz. For example, being entertained by a visualization is relevant in some contexts, but not others.
+
+Visualizations have various objectives: to communicate new data; to inform a general audience; to influence decision making; to enable exploration and analysis of data; to surprise and affect behaviour.
+
+The factors that affect engagement which we identified in our research should be seen as dimensions of effectiveness, which carry different weight in relation to different visualizations, contexts and purposes.
+
+Many of these factors lie outside of the control of data visualizers, as they relate to consuming, not producing, visualizations. In other words, whether a visualization is effective depends in large part on how, by whom, when and where it is accessed. Sadly, our research doesn’t suggest a simple checklist which guarantees the production of universally effective visualizations. However, if we want accessible and effective data visualizations, it’s important that journalists working with data visualization engage with these findings.
+
+Footnotes
+
+1. seeingdata.org, indvil.org
+
+2. The second half of the chapter summarizes a longer article available online: Kennedy, H., Hill, R. L., Allen, W., & Kirk, A. (2016). Engaging with (big) data visualizations: Factors that affect engagement and resulting new definitions of effectiveness. First Monday, 21(11). doi.org/10.5210/fm.v21i11.6389
+
+3. For more on the role of emotions in engagements with data visualization, see Kennedy, H., & Hill, R. L. (2018). The feeling of numbers: Emotions in everyday engagements with data and their visualisation. Sociology, 52(4), 830–848. doi.org/10.1177/0038038516674675
+
+Works cited
+
+Appelgren, E. (2017). An illusion of interactivity: The paternalistic side of data journalism. Journalism Practice, 12(3). https://www.tandfonline.com/do...
+
+Baack, S. (2018). Knowing what counts: How journalists and civic technologists use and imagine data [Doctoral dissertation], University of Groningen. www.rug.nl/research/portal/files/56718534/Complete_thesis.pdf
+
+Bloch, M., Byron, L., Carter, S., & Cox, A. (2008, February 23). Ebb and flow of movies: Box office receipts 1986–2008. The New York Times. archive.nytimes.com/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html?_r=1
+
+Bradshaw, P. (2017, September 14). No, I’m not abandoning the term “storytelling,” Alberto—Just the opposite (and here’s why). Online Journalism Blog. onlinejournalismblog.com/2017/09/14/narrative-storytelling-data-journalism-alberto-cairo/
+
+Burmester, M., Mast, M., Tille, R., & Weber, W. (2010). How users perceive and use interactive information graphics: An exploratory study. In E. Banissi (Ed.), Proceedings of the 14th International Conference Information Visualisation (pp. 361–368). doi.org/10.1109/IV.2010.57
+
+Espeland, W. N., & Sauder, M. (2007). Rankings and reactivity: How public measures recreate social worlds. American Journal of Sociology, 113(1), 1–40. doi.org/10.1086/517897
+
+Rusbridger, A. (2010, July). Why journalism matters. Media Standards Trust Series, British Academy.
+
