@@ -28,14 +28,14 @@ Datavizは、以下のような幅広いコミュニケーション上の意図�
 ニュースにおける初期のデータビズは精巧でインタラクティブなビジュアライゼーションでしたが、よりシンプルで直線的なもの、あるいはインタラクティブ性の低いシンプルなビジュアルフォームに転換したのです。
 その結果、棒グラフや折れ線グラフなどの特定の種類のチャートが主流となり、スクロールテリング（ユーザーがページをスクロールすることで、記事に埋め込まれたビジュアライゼーションが適切なタイミングで表示され、ストーリーが展開されること）が登場しました。
 スクロールすると、ズームアウトなど、視覚エフェクト自体も変化します。
+ストーリーの中では、しばしばスクロールのテクニックを使います。クリックすではなく、スクロールすることで、ストーリーの中で何かが起こるのです。(DE)
+Datavizの作成を自動化し、専門家ではないジャーナリストでも作成できるようにするツールは、簡略化されたチャート形式の普及を促しています。
+しかし、インタビューを受けた人の中には、あまり一般的ではないチャートタイプ（例えば散布図）を提示し、その意味を理解するための情報を提供することで、読者を啓蒙したいと考えている人もいます。
+写真がデータを効果的に提示できるとする人もいます。北欧のタブロイド紙は、42万7000枚のピザを詰め込み、貨物機の大きさを表現しました。
+また、時間的な変化を表現したり、ビジュアライゼーションにズーム機能を持たせたりするなどするアニメーションの価値を認める人もいます。
 
-Often in our stories we use the scrolling technique. It is not necessary to click but to scroll, if you scroll down, something will happen in the story. (DE)
+ジャーナリズムの社会的役割
 
-Tools to automate dataviz production and make it possible for journalists who are not dataviz experts to produce them also result in the spread of simplified chart forms. Nonetheless, some interviewees are keen to educate readers by presenting less common chart types (a scatterplot, for example) accompanied with information about how to make sense of them.
-
-Some believe that pictures can also present data effectively—a Scandinavian national tabloid represented the size of a freight plane by filling it with 427,000 pizzas. Others recognize the value of animation, for example, to show change over time, or of experimenting with zoomability in visualizations.
-
-The Social Role of Journalism
 
 Linking a dataviz to a data source, providing access to the raw data and explaining methodologies are seen by some participants as ethical practices which create transparency and counterbalance the subjectivity of selection and interpretation which, for some, is an inevitable aspect of visualizing data. Yet for others, linking to data sources means giving audiences “all of the data” and conflicts with the journalistic norm of identifying and then telling a story.
 
