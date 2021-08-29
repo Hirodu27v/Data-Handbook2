@@ -35,11 +35,11 @@ Datavizの作成を自動化し、専門家ではないジャーナリストで�
 また、時間的な変化を表現したり、ビジュアライゼーションにズーム機能を持たせたりするなどするアニメーションの価値を認める人もいます。
 
 ジャーナリズムの社会的役割
-
-
-Linking a dataviz to a data source, providing access to the raw data and explaining methodologies are seen by some participants as ethical practices which create transparency and counterbalance the subjectivity of selection and interpretation which, for some, is an inevitable aspect of visualizing data. Yet for others, linking to data sources means giving audiences “all of the data” and conflicts with the journalistic norm of identifying and then telling a story.
-
-For some, this conflict is addressed by complex processes of sharing different elements of data and process on different platforms (Twitter, Pinterest, GitHub). This leads data journalists and visualization designers to reflect on how much data to share, their roles as fact providers and their social role more generally. Data journalist Paul Bradshaw sums this up on his blog:
+Datavizをデータソースにリンクさせ、生データへのアクセスを提供し、方法論を説明することは、透明性を高め、選択と解釈の主観性を打ち消す倫理的な行為であると考える参加者もいます。
+一方で、データソースにリンクすることは、視聴者に「すべてのデータ」を提供することを意味し、特定してからストーリーを伝えるというジャーナリズムの規範と相反すると考える人もいます。
+この矛盾を解消するために、データやプロセスのさまざまな要素を異なるプラットフォーム（Twitter、Pinterest、GitHub）で共有するという複雑なプロセスを採用する人もいます。
+そのため、データジャーナリストやビジュアライゼーションデザイナーは、どの程度のデータを共有すべきか、事実の提供者としての役割、そして社会的な役割について考えることになります。
+データジャーナリストのポール・ブラッドショーは、自身のブログでこのことをまとめています。
 
 How much responsibility do we have for the stories that people tell with our information? And how much responsibility do we have for delivering as much information as someone needs? (Bradshaw, 2017)
 
