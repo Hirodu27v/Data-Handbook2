@@ -40,10 +40,12 @@ Datavizをデータソースにリンクさせ、生データへのアクセス�
 この矛盾を解消するために、データやプロセスのさまざまな要素を異なるプラットフォーム（Twitter、Pinterest、GitHub）で共有するという複雑なプロセスを採用する人もいます。
 そのため、データジャーナリストやビジュアライゼーションデザイナーは、どの程度のデータを共有すべきか、事実の提供者としての役割、そして社会的な役割について考えることになります。
 データジャーナリストのポール・ブラッドショーは、自身のブログでこのことをまとめています。
-
-How much responsibility do we have for the stories that people tell with our information? And how much responsibility do we have for delivering as much information as someone needs? (Bradshaw, 2017)
-
-Former Guardian editor Alan Rusbridger (2010) raised a similar question about the social role of journalism when he pointed to the range of actors who do what journalism has historically done—that is, act as a gatekeeper of data and official information (e.g., FixMyStreet and TheyWorkForYou in the United Kingdom). He concluded: “I don’t know if that is journalism or not. I don’t know if that matters” (Baack, 2018). Some of our interviewees work on large-scale projects similar to those discussed by Rusbridger—for example, one project collated all available data relating to schools in the United Kingdom and made this explorable by postcode to inform decision making about school preference. So the question of what counts as journalism in the context of widespread data and dataviz is not easy to answer.
+人々が私たちの情報を使って語るストーリーに対して、私たちにはどのくらいの責任があるのでしょうか?そして、必要なだけの情報を提供する責任はどの程度あるのでしょうか(Bradshaw, 2017)。
+ガーディアンの元編集者、アラン・ラスブリッジャー（2010）は、ジャーナリズムの社会的役割について同様の疑問を投げかけ、ジャーナリズムが歴史的に行ってきたこと、つまり、データや公式情報のゲートキーパーとしての役割を果たすさまざまなアクターの存在を指摘しました（英国のFixMyStreetやTheyWorkForYouなど）
+そして、「それがジャーナリズムかどうかはわからない。私はそれが重要かどうか分からない」と結論づけたのでした(Baack, 2018)。
+私たちのインタビュー対象者の中には、ラスブリッジャーが語ったような大規模なプロジェクトに取り組んでいる人もいます。
+例えば、あるプロジェクトでは、イギリスの学校に関する入手可能なデータをすべて照合し、それを郵便番号ごとに探索できるようにして、学校の選択に役立てているのです。
+このように、データやDatavizが普及する中で、何がジャーナリズムなのかという問いに答えるのは容易ではありません。
 
 What’s more, sharing data sets assumes that audiences will interact with them, yet studies indicate that online interactivity is as much a myth as a reality, with the idealized image of an active and motivated explorer of a visualized data set contrasting with the more common quick and scrolling reader of news (e.g., Burmester et al., 2010).
 
