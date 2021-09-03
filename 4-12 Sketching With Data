@@ -15,10 +15,11 @@ Written by Mona Chalabi and Jonathan Gray
 
 Figure 25.1
 Figure 25.1. Mona Chalabi illustration “Average Sentences”. Source: The Guardian. https://www.the- guardian.com/news/datablog/2019/jan/12/intimate-partner-violence-gender-gap-cyntoia-brown
-
-JG: In the book we explore how data journalists do not just have to mirror and reinforce established forms of expertise (e.g., data science and advanced statistical methods), but how they can also promote other kinds of data practices and data cultures. Do you consider your work to be partly about finding other ways of working with and relating to data?
-
-MC: I don’t have really advanced statistical skills. The way that I often start analyzing data is through relatively simple calculations that other people can replicate. In a way this makes the data that I’m using much more reliable. At a certain point with other more advanced statistical approaches you present readers with an ultimatum: Either you trust the journalist’s analysis or you don’t. This is different to the proposition of trusting government statistics and basic multiplication or not trusting them. There is a certain benefit to doing things with simple calculations. This is a big part of what I do and my approach.
+JG：この本では、データジャーナリストが、既存の専門知識（データサイエンスや高度な統計手法など）を反映したり強化したりするだけではなく、他の種類のデータプラクティスやデータ文化を促進する方法も探っています。
+あなたの仕事は、データの扱い方やデータとの関わり方を模索することでもあるのでしょうか？
+MC：私には高度な統計学のスキルはありません。私がデータの分析を始めるときは、他の人でも再現できるような比較的簡単な計算をすることが多いですね。
+そうすることで、データの信頼性を高めることができるからです。他の高度な統計的アプローチでは、ある時点で読者に最後通牒を突きつけることになります：ジャーナリストの分析を信じるか、信じないか。
+これは、政府の統計や基本的な掛け算を信用するかしないかという命題とは異なります。単純な計算で物事を進めることには一定のメリットがあります。これが私の仕事やアプローチの大きな特徴です。
 
 Data can be used as an opportunity to do two different things: To “zoom in” or “zoom out.” On the one hand, my responsibility as a data journalist is to zoom out from that one specific incident and give readers context using data. For example, say there is an incident or an attack, we might show them how these attacks happen, where they happen, whether their prevalence increases over time and whether there are people who are more targeted than others. That is an opportunity for readers to understand broader trends, which can be really informative for them. Maybe it helps them to not freak out, or to duly freak out in response to the news.
 
