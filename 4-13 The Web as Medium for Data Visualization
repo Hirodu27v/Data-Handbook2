@@ -7,13 +7,10 @@ Written by Elliot Bentley
 
 キーワード：インタラクティブ・グラフィックス、データ・ビジュアライゼーション、ウェブ開発、JavaScript、インフォグラフィックス、ニュースゲーム
 
-
-
-
-
-Not all media are created equal. A 20-episode television series is able to tell a story differently than a two-hour film, for example. In the same way, the humble web page can provide its own possibilities for data visualization.
-
-The web was originally designed for simple, hyperlinked documents consisting of mostly text and static images. The addition of JavaScript and a slow drip of new features and tools has expanded the palette available to work with.1
+すべてのメディアが同じように作られているわけではありません。例えば、20話からなるテレビシリーズは、2時間の映画とは違ったストーリーを伝えることができます。
+同じように、地味なウェブページにも、独自のデータの可視化の可能性があります。
+Webは元来、単純でハイパーリンクが張られたドキュメント向けに設計されたもので、ほとんどがテキストと静止画像で構成されています。
+しかし、JavaScriptが追加され、新しい機能やツールが徐々に追加されたことで、扱うことのできるパレットが広がりました。
 
 Although traditional data visualization theory and techniques (e.g., Edward Tufte, Jacques Bertin) are still mostly applicable to graphics on the web, the unique features of the web provide vast potential for new forms of data journalism. These works are often referred to as “interactives,” an awkward word that obscures some of the web’s unique strengths.
 
