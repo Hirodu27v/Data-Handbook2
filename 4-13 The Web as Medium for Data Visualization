@@ -11,11 +11,14 @@ Written by Elliot Bentley
 同じように、地味なウェブページにも、独自のデータの可視化の可能性があります。
 Webは元来、単純でハイパーリンクが張られたドキュメント向けに設計されたもので、ほとんどがテキストと静止画像で構成されています。
 しかし、JavaScriptが追加され、新しい機能やツールが徐々に追加されたことで、扱うことのできるパレットが広がりました。
-
-Although traditional data visualization theory and techniques (e.g., Edward Tufte, Jacques Bertin) are still mostly applicable to graphics on the web, the unique features of the web provide vast potential for new forms of data journalism. These works are often referred to as “interactives,” an awkward word that obscures some of the web’s unique strengths.
-
-Below is a list illustrating some of the ways in which graphics on the web can take advantage of their host medium.
-
+伝統的なデータビジュアライゼーションの理論や技術（エドワード・タフテやジャック・ベルタンら）は、Web上のグラフィックにもほぼあてはまりますが、Webのユニークな特徴は、新しい形のデータ・ジャーナリズムに大きな可能性をもたらします。
+これらの作品はしばしば「インタラクティブ」と呼ばれていますが、この言葉はWebのユニークな強みをわかりにくくしています。
+以下は、Web上のグラフィックがホストメディアの利点を生かす方法のいくつかを示したリストです。
+膨大でわかりやすいデータセット
+「双方向性」の典型例は、巨大なデータセットを読者に提示し、読者が好きなだけ「飛び込んで」探索できるようにすることです。これは、巨大な表の形をとることもあれば、大きな地図の形をとることもあります。
+この形式は、読者が自分で面白い部分を見つけることを期待しているため、最近では蔑視されることが多いのですが、データが十分に魅力的であれば、まだまだ使いようがあります。
+最も成功しているバージョンは、（記事ではなく）単なるツールであるという事実を受け入れているものでしょう。
+例えば、大人気のウォールストリート・ジャーナルの米大学ランキングやプロパブリカの公共サービスのニュースアプリなどです。
 Huge, Explorable Data Sets
 
 A classic use of interactivity is to present the reader with a huge data set and allow them to “dive in” and explore in as much depth as they like. Sometimes this takes the shape of a giant table; other times, a big interactive map.
