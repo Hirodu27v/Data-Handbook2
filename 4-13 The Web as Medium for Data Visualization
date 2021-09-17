@@ -19,15 +19,9 @@ Webは元来、単純でハイパーリンクが張られたドキュメント�
 この形式は、読者が自分で面白い部分を見つけることを期待しているため、最近では蔑視されることが多いのですが、データが十分に魅力的であれば、まだまだ使いようがあります。
 最も成功しているバージョンは、（記事ではなく）単なるツールであるという事実を受け入れているものでしょう。
 例えば、大人気のウォールストリート・ジャーナルの米大学ランキングやプロパブリカの公共サービスのニュースアプリなどです。
-Huge, Explorable Data Sets
-
-A classic use of interactivity is to present the reader with a huge data set and allow them to “dive in” and explore in as much depth as they like. Sometimes this takes the shape of a giant table; other times, a big interactive map.
-
-This format is often looked down upon nowadays, since it expects the reader to find the interesting bits themselves; but it can still be valuable if the data is juicy enough. I find that the most successful versions accept the fact they are simply tools (as opposed to being articles), such as the extremely popular Wall Street Journal College Rankings or ProPublica’s public-service news apps.2
-
-Guide the Reader Through Complex Charts
-
-A now-common format begins with a single chart and then proceeds to manipulate it—zooming in and out, travelling through time, switching out data—in order to fully explore the data set. This pairs exceptionally well with scrollytelling and is especially valuable on mobile, where there may not be enough space to show all elements of a chart at once.3
+複雑なチャートを読み解く
+現在の一般的なフォーマットは、まず1枚のチャートを用意し、それを操作することで、データセットを完全に把握できるようになっています。
+これは、スクロールテリングと非常に相性がよく、チャートのすべての要素を一度に表示するのに十分なスペースがないモバイル(形式)では、特に有効です。
 
 In the now-classic piece “A Visual Introduction to Machine Learning” (Figure 26.1), the same data points transition between multiple chart formats, helping readers keep track of how the machine learning algorithms are sorting them.4 Another good example is “100 years of tax brackets, in one chart,” a Vox piece that zooms in and out of a data set that might be overwhelming if presented otherwise.5
 
