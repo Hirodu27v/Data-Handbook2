@@ -25,12 +25,15 @@ Webは元来、単純でハイパーリンクが張られたドキュメント�
 今や古典となった「A Visual Introduction to Machine Learning」（図26.1）では、同じデータポイントが複数のチャート形式に切り替わり、機械学習アルゴリズムがそれらをどのように分類しているか読者が把握できるようになっています。
 もう一つの良い例が、Voxの作品「100 years of tax brackets, in one chart」で、他の方法では圧倒されてしまうような（100年に及ぶ税制優遇措置に関する）データセットを拡大・縮小して提示しています。
 最新のライブデータ
-
-Why settle for a static data set when you can use the latest numbers of whatever you’re charting? Elections, sport coverage, weather events and financial data are obvious sources of live data interesting enough to display in real time. Even more cool is providing context for these live figures in interesting ways—for example, showing which countries benefit from the current price of oil (Figure 26.2).
+最新の数字を使ってグラフを描くことができるのに、静的なデータセットに甘んじる必要はありません。
+選挙、スポーツ中継、天気予報、金融データなどは、リアルタイムで表示するのに適したライブデータの源です。
+さらに素晴らしいのは、これらのライブデータに面白い方法でコンテキストを与えることです。
+例えば、現在の原油価格からどの国が恩恵を受けているかを示すことができます（図26.2）。
 
 Figure 26.1
 Figure 26.1. A visual introduction to machine learning. Source: R2D3. http://www.r2d3.us/ visual-intro-to-machine-learning-part-1/
-Ampp3d, a short-lived experimental pop-data journalism outlet, used live counters to bring numbers to life in interesting ways, such as the number of immigrants entering the United Kingdom, and footballer Wayne Rooney’s earnings.6 Sadly, these have since been taken offline.
+短期間の実験的なポップデータ・ジャーナリズムとして登場したAmpp3dは、ライブカウンターを使って、イギリスに入国する移民の数やサッカー選手のウェイン・ルーニーの収入など、興味深い方法で数字に命を吹き込みました。
+残念ながら、これらはその後オフラインになってしまいましたがね。
 
 Placing the Reader Within a Data Set
 
