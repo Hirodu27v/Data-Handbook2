@@ -34,12 +34,11 @@ Figure 26.1
 Figure 26.1. A visual introduction to machine learning. Source: R2D3. http://www.r2d3.us/ visual-intro-to-machine-learning-part-1/
 短期間の実験的なポップデータ・ジャーナリズムとして登場したAmpp3dは、ライブカウンターを使って、イギリスに入国する移民の数やサッカー選手のウェイン・ルーニーの収入など、興味深い方法で数字に命を吹き込みました。
 残念ながら、これらはその後オフラインになってしまいましたがね。
-
-Placing the Reader Within a Data Set
-
-Another twist on the “huge data sets” idea—and one that I’ve found to be incredibly compelling to readers—is to show the reader where they fall in a data set, usually by asking for a couple of personal details. The New York Times’ 2013 dialect quiz map (Figure 26.3) famously became the publication’s most popular article of the year—despite only being published on December 20th.
-
-The BBC seem to do these pretty frequently, often as a public service tool, with things like “UK fat scale calculator.”7 I like this Quartz piece on how people in different cultures draw circles, which opens by asking the reader to draw a circle, a compelling introduction to an otherwise (potentially) dull feature.8
+読者をデータセットに招き入れる
+「巨大なデータセット」というアイデアで使えるもう一つの工夫は、読者がデータセットのどこに位置するかを示すことです。
+ニューヨーク･タイムズの2013年の方言クイズマップ（図26.3）は、12月20日に公開されたにもかかわらず、その年で最も人気のある記事となったことで有名です。
+英国のBBCは、公共サービスの一環として、「UK fat scale calculator」のような記事を頻繁に掲載しているようです。
+異なる文化圏の人々がどのように円を描くのかを紹介したQuartzの記事は、読者に円を描くよう求めることで始まり、（やりようによっては）退屈になる特集の魅力的な導入部となっています。
 
 Figure 26.2.
 Figure 26.2. Countries that benefit from the current price of oil. Source: Wall Street Journal. http://graphics.wsj.com/oil-producers-break-even-prices/
