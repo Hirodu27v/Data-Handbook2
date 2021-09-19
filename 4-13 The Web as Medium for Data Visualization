@@ -42,7 +42,8 @@ Figure 26.1. A visual introduction to machine learning. Source: R2D3. http://www
 
 Figure 26.2.
 Figure 26.2. Countries that benefit from the current price of oil. Source: Wall Street Journal. http://graphics.wsj.com/oil-producers-break-even-prices/
-Collecting Original Data Sets
+
+オリジナル・データセットの収集
 
 A step beyond the previous category are projects that not only use readers’ submitted data to give an immediate response, but also to compile a new data set for further analysis.
 
