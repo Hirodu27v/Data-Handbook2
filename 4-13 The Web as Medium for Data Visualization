@@ -38,28 +38,26 @@ Figure 26.1. A visual introduction to machine learning. Source: R2D3. http://www
 「巨大なデータセット」というアイデアで使えるもう一つの工夫は、読者がデータセットのどこに位置するかを示すことです。
 ニューヨーク･タイムズの2013年の方言クイズマップ（図26.3）は、12月20日に公開されたにもかかわらず、その年で最も人気のある記事となったことで有名です。
 英国のBBCは、公共サービスの一環として、「UK fat scale calculator」のような記事を頻繁に掲載しているようです。
-異なる文化圏の人々がどのように円を描くのかを紹介したQuartzの記事は、読者に円を描くよう求めることで始まり、（やりようによっては）退屈になる特集の魅力的な導入部となっています。
+異なる文化圏の人々がどのように円を描くのかを紹介したQuartzの記事は、読者に円を描くよう求めることで始まり、退屈になりそうだった特集の魅力的な導入部となっています。
 
 Figure 26.2.
 Figure 26.2. Countries that benefit from the current price of oil. Source: Wall Street Journal. http://graphics.wsj.com/oil-producers-break-even-prices/
 
 オリジナル・データセットの収集
-
-A step beyond the previous category are projects that not only use readers’ submitted data to give an immediate response, but also to compile a new data set for further analysis.
-
-The Australian Broadcasting Corporation collaborated with political scientists on a “Vote Compass” to help readers understand their place in the political landscape—and then wrote a series of articles based on the data.9
+前述のカテゴリーから一歩進み、読者からデータを受け取って即座に反応するだけでなく、さらなる分析のために新たなデータセットを作成するプロジェクトもあります。
+オーストラリア放送協会は、政治学者と共同で「Vote Compass」を作成し、読者が自分の政治的立場を理解できるようにし、そのデータに基づいて一連の記事を書きました。
 
 Figure 26.3
 Figure 26.3: The New York Times’ 2013 dialect quiz map. Source: The New York Times. https://www. nytimes.com/interactive/2014/upshot/dialect-quiz-map.html
-More recently, The New York Times used the same idea on a softer subject, asking readers to rate Game of Thrones characters and plotting the results on live charts (Figure 26.4).
+さらに最近では、ニューヨーク・タイムズが同じアイデアをよりソフトなテーマで使用し、読者に「ゲーム・オブ・スローンズ」のキャラクターを評価してもらい、その結果をライブチャートにプロットしました（図26.4）。
+無限のキャンバス
 
-The Infinite Canvas
-
-The web is infinite in its scope and capacity, but more specifically web pages can be as wide or tall as they like—an “infinite canvas” on which to work. I borrowed this term from artist Scott McCloud, who argues that there is “no reason that longform comics have to be split into pages when moving online.”10 And indeed, why should our graphics be constrained to the limits of paper either?
-
-In The Washington Post’s “The Depth of the Problem,” a 16K-pixel-tall graphic is used to show the depth of the ocean area being searched for missing flight MH370 (Figure 26.5).11 Sure, this information could have been squeezed into a single screen, but it would have lacked the level of detail and emotional impact of this extremely tall graphic.
-
-In The Guardian’s “How the List Tallies Europe’s Migrant Bodycount,” tens of thousands of migrant deaths are powerfully rendered as individual dots that appear one by one as the reader scrolls down the page.12
+Webの範囲と容量は無限であり、より具体的にいえば、Webページの幅や高さは自由に変更できます。つまり、作業の場としての 「無限のキャンバス」なのです。
+私はこの言葉を（「マンガ学」の著作がある）アーティストのスコット・マクラウドから拝借しましたが、彼は「長編コミックをオンラインに移行する際に、ページを分割しなければならない理由はない」と主張しています。
+実際、私たちのグラフィックが紙の限界に制約される必要はないのではないでしょう。
+ワシントン・ポストの「The Depth of the Problem」では、行方不明になったMH370便を捜索している海域の深さを示すために、高さ16Kピクセルのグラフィックが使われています（図 26.5）。
+この情報は（紙面の）１ページに収めることもできたでしょうが、この非常に背の高いグラフィックの詳細さと感情的なインパクトには及ばなかったことでしょう。
+ガーディアンの「How the List Tallies Europe's Migrant Bodycount」では、何万人もの移民の死が、ページをスクロールするたびに一つ一つの点として表示され、力強く表現されています。
 
 Figure 26.4
 Figure 26.4: A plot chart rating Game of Thrones characters. Source: The Upshot. https://www. nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html
