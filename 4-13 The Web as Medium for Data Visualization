@@ -57,17 +57,16 @@ Webの範囲と容量は無限であり、より具体的にいえば、Webペ�
 実際、私たちのグラフィックが紙の限界に制約される必要はないのではないでしょう。
 ワシントン・ポストの「The Depth of the Problem」では、行方不明になったMH370便を捜索している海域の深さを示すために、高さ16Kピクセルのグラフィックが使われています（図 26.5）。
 この情報は（紙面の）１ページに収めることもできたでしょうが、この非常に背の高いグラフィックの詳細さと感情的なインパクトには及ばなかったことでしょう。
-ガーディアンの「How the List Tallies Europe's Migrant Bodycount」では、何万人もの移民の死が、ページをスクロールするたびに一つ一つの点として表示され、力強く表現されています。
+ガーディアンの「How the List Tallies Europe's Migrant Bodycount」では、何万人もの移民の死が、ページをスクロールするたびに一つ一つの点として、力強く表現されています。
 
 Figure 26.4
 Figure 26.4: A plot chart rating Game of Thrones characters. Source: The Upshot. https://www. nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html
 Figure 26.5.
 Figure 26.5. Graphic that shows the depth of the ocean area being searched for the missing flight MH370. Source: The Washington Post. http://apps.washingtonpost.com/g/page/ world/the-depth-of-the-problem/931/
-Data-Driven Games
-
-“Newsgames,” interactive experiences that borrow mechanics from video games to explore news subjects, have existed for a while, with varying levels of success. The Upshot’s “You Draw It” series (Figure 26.6) challenges readers’ as- sumptions by asking them to fill in a blank chart, before revealing the answer and exploring the subject in greater depth.
-
-Some games are more involved, perhaps asking the reader to solve a simplified version of a real-world problem—such as how to fund the BBC—to prove just how difficult it is.13
+データ駆動型ゲーム
+テレビゲームのようにニュースのテーマを探求するインタラクティブな体験「ニュースゲーム」は、しばらく前に登場し、さまざまな成功を収めています。
+The Upshotの「You Draw It」シリーズ（図26.6）は、読者に白紙の表を埋めてもらうことで、思い込みを暴露し、その後、答えを明らかにしてそのテーマをより深く掘り下げていくものです。
+ゲームの中にはもっと複雑なものもあって、それはBBCに資金を提供する方法など、現実世界の問題を簡略化して読者に解いてもらい、その難しさを証明するようなものです。
 
 Figure 26.6.
 Figure 26.6. A chart from The Upshot’s “You Draw It” series. Source: The Upshot. https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how- family-income-affects-childrens-college-chances.html
