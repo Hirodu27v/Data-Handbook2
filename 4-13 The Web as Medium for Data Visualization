@@ -73,18 +73,16 @@ Figure 26.6. A chart from The Upshot’s “You Draw It” series. Source: The U
 These could be considered toys that only present the reader with surface level information, but done right they can provide a fresh perspective on played-out subjects. FiveThirtyEight’s “How to Win a Trade War,” in which the reader chooses a trading strategy and competes against a previous visitor to the page, brings to life the otherwise potentially dry economic theory.14
 
 ライブで無作為に行われる実験
-
-A related format is to allow the reader to run a live simulation in their browser. More than just an animated explainer, this introduces a degree of randomness that leads to a unique result each time and is a great way to bring abstract statistical probabilities to life.
-
-The Guardian piece in Figure 26.7 simulates a measles outbreak across ten populations with varying rates of vaccination. The web graphics make the results starkly clear in a way that percentages alone could not convey.
-
-In Nathan Yau’s “Years You Have Left to Live, Probably,” a simple line chart (“probability of living to next year”) is made more poignant with “lives” that die at random and then pile up.15
-
-These simulations don’t have to use imaginary data. “The Birthday Paradox” tests the probability of shared birthdays using data from previous visitors to the page.16
+関連するフォーマットとして、読者がブラウザ上でライブシミュレーションを実行できるようにする方法があります。
+単なるアニメーションの説明ではなく、ある程度のランダム性を持たせることで、毎回ユニークな結果が得られ、抽象的な統計的確率に命を吹き込むのに最適な方法です。
+図26.7のガーディアンの作品では、ワクチン接種率が異なる10の集団で麻疹の発生をシミュレーションしています。
+ウェブグラフィックは、パーセント表示だけでは伝えきれない結果を明確に示しています。
+ネイサン・ヤウの「Years You Have Left to Live, Probably」では、単純な折れ線グラフ（「来年まで生きる確率」）が、ランダムに死んでいく「命」を積み重ねることで、より切実なものになっています。
+このようなシミュレーションは、架空のデータを使う必要はありません。「The Birthday Paradox」では、過去にこのページを訪れた人のデータを使って、誕生日を共有する確率を検証しています。
 
 Figure 26.7
 Figure 26.7: A simulation of a measles outbreak across ten populations with varying rates of vaccination. Source: The Guardian, https://www.theguardian.com/society/ng-interactive/2015/ feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated
-3D, VR and AR
+3D、VRとAR
 
 3D graphics and virtual reality are difficult to harness in service of data journalism, outside of maps of terrain.
 
