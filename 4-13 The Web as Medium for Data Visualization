@@ -90,13 +90,14 @@ Figure 26.7: A simulation of a measles outbreak across ten populations with vary
 おわりに：新しいフォーマットが生まれるまで
 上記のWebグラフィックの一部は、ここ数年で登場したばかりの新しい形式です。
 中には、複雑なチャートのガイド（主にスクローリングテリングのインタラクション・パターンを使用）のように、定着したものもありますし、三次元チャートのように一時的な成功で終わるものもありました。
-
-Yet it’s not just taste that determines which types of graphics are in vogue on the web: Available technology and readers’ consumption habits shape trends, too.
-
-Take, for example, the widely used interactive map. In addition to being a visually attractive and easily grasped form, the proliferation and familiarity of this format was doubtless helped by tools that make them easy to create and manipulate—Google Maps and Leaflet being two of the most common.
-
-Without any hard data to hand, it at least feels as though fewer interactive maps are being published nowadays. While it would be easy to attribute this trend to a growing realization among journalists that such interactivity (or even the map itself) can often be superfluous, new technologies likely also contributed to this drop.
-
-A high proportion of readers now access the web using mobile phones, and interactive maps are a particularly poor experience on small touchscreens. In addition, there is a new technological solution that in many ways is superior: ai2html, a script open-sourced by The New York Times that generates a responsive html snippet from Adobe Illustrator files.18 Maps built with ai2html can leverage a traditional cartographer’s skill set and still have sharp, machine-readable text. The lack of interactivity in such maps is often a blessing, even if it is in many ways limiting.
-
-This is just one example of how data journalists should be thoughtful in their use of the web’s unique features. With so many possibilities to hand, it’s important to carefully evaluate those and use them only when truly necessary.
+しかし、web上でどのようなグラフィックが流行するかを決めるのは、好みだけではありません。テクノロジーの進歩や読者の消費傾向によっても、トレンドは変わってきます。
+たとえば、広く使用されているインタラクティブマップを考えてみましょう。
+見た目の美しさや理解のしやすさに加え、「Google Maps」や「Leaflet」など、簡単に作成・操作できるツールが普及したことが、普及と親しみやすさを後押ししたことは間違いありません。
+しかし、確たるデータがあるわけではありませんが、最近ではインタラクティブ・マップの公開数が減っているように感じられます。
+この傾向を、インタラクティブな機能（あるいは地図そのもの）が不要だとする認識がジャーナリストの間で高まっているからだと考えるのは簡単ですが、新しいテクノロジーもこの減少に貢献していると思われます。
+現在、読者の多くは携帯電話でウェブにアクセスしており、インタラクティブな地図は小さなタッチスクリーンでは使いにくいのです。
+さらに、多くの点で優れた新しい技術があります。
+ai2htmlは、Adobe IllustratorのファイルからレスポンシブHTMLを生成するスクリプトで、ニューヨーク･タイムズがオープンソースで提供しています。
+これで作られた地図は、従来の地図製作者の技術を活かしつつ、機械可読性のあるシャープなテキストを実現しています。
+このような地図に相互性がないことは、多くの点で制限されているとはいえ、恩恵が勝ります。
+これは、データ・ジャーナリストがWebのユニークな機能をどのように利用すべきかを示す一例です。たくさんの可能性がある中で、それらを慎重に評価し、本当に必要なときを見極めて使うことが大切です。
