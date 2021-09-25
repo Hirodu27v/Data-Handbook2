@@ -1,0 +1,57 @@
+Four Recent Developments in News Graphics
+Written by Gregor Aisch and Lisa Charlotte Rost
+
+Abstract
+
+This chapter explores four developments we have recently seen in news graphics: “Mobile first” becomes more important, the importance of interactivity shifts, more (in-house) charting tools get developed, and data-centric online publications are on the rise.
+
+
+Keywords: news graphics, mobile, charting tools, interactivity, data visualization, data journalism
+
+The news graphics field is still young and tries to answer questions like: How do we show the bias and uncertainty in (polls) data? (Cairo & Schlossberg, 2019). How do we work together with reporters? How do we communicate complex data on fast-paced social media? (Segger, 2018). Here, we try to cover four key developments that we think are relevant for the coming years.
+
+“Mobile First” Starts to Be Taken Seriously
+
+“Mobile first” is a widely used buzzword, but in the fast-paced world of news graphics, mobile experiences have often remained an afterthought. Now we finally see them climb up the priority list. That has two consequences. First, there is more thought being put in making graphics work on mobile.
+
+A note telling mobile users that “this experience works best on a desktop” becomes a faux pas. A chart needs to be responsive, to not make more than half of the users leave. But thinking inside the few pixels of a mobile box can be frustrating for graphics reporters, many of whom are used to the “luxury” of filling entire pages in print newspapers and designing full-screen desktop experiences. In the best case, the limits of the small screen motivate graphics reporters to think outside of the box and become creative. We already see this happening: For example, the Financial Times turned their parliament seat chart 90 degrees, essentially creating a new chart type.1
+
+The second consequence of mobile-first data visualization is that news developers and reporters will see “mobile” not just as a tiny screen anymore, but also as a device that is packed with sensors. This can lead to new data experiences. The Guardian created an app with which you can take a virtual audio tour of Rio de Janeiro, covering the same length as the marathon that took place there in 2016.2 “Our challenge for you: Complete all 26.2 miles—or 42.2 km—of the route over the next three weeks,” they write. AR and VR make similar use of our smartphones, and we see them arriving in news as well.
+
+Interactivity Is Dead, Except When It’s Not
+
+We’ve seen interactivity being used less and less for simple charts in the past few years. It’s now reserved for the biggest projects a newsroom will publish each year. But interactivity is not necessary for success anymore. Newsrooms like the Financial Times, FiveThirtyEight and National Geographic have repeatedly published charts that went viral without letting users interact with them.
+
+We see two main reasons for a decline in interactive graphics. First, fewer people interact with charts than previously assumed.3 Curious, Internet-savvy people—like graphics reporters—will always try to hover over a visualization. And reporters want their articles to feel more alive. But we’re creating for an audience that prefers passive consumption; especially on mobile. Most people will miss content if it’s hidden behind interactivity, which led many graphic reporters to decide not to hide anything in the first place.
+
+Second, graphics arrived in the breaking news cycle. Graphics reporters have gotten faster and faster at creating visualizations, and a breaking news story will quickly have, for instance, a locator map of where an event happened. However, well-made interactivity still takes time. Often, it is left out for the sake of publishing the article faster.
+
+We still see interactive news graphics, but their importance has shifted. Instead of adding to a story, interactivity becomes the story. We’ve seen great examples of explorable explanations where readers can enter their personal data, such as location, income, or opinion, to then see how they fit into the greater scheme. Examples are “You Draw It: How Family Income Predicts Children’s College Chances” and “Is It Better to Rent or Buy?” from The New York Times.4 Both pieces are of no value for readers if they don’t enter data: The value comes through the interaction.
+
+Newsrooms Use More (in-House) Charting Tools
+
+More than ever, reporters are pressured to make their articles stand out. Adding a chart is one solution, but graphics teams struggle to handle the increasingly large numbers of incoming requests. That’s why we see more and more newsrooms deciding to use charting tools that make it easy to create charts, maps and tables with a few clicks. A newsroom has two options when it comes to charting tools: Use an external charting tool such as Datawrapper or Infogram, or build an in-house charting tool adjusted to internal requirements and integrated into the content management system. Although the second option sounds like a great idea, many newsrooms will find that it uses more resources than expected. External charting tools are built by dedicated teams that will maintain the tool and offer training. Within a newsroom, all of this will often be done by the graphics or interactive team, leaving them less time for actual news projects. An in-house charting tool can become a success only if it is made a priority. The Neue Zürcher Zeitung, for example, has three developers that dedicate their time exclusively to developing and maintaining their charting tool Q.
+
+Data-Centric Publications Drive Innovation and Visual Literacy
+
+While a data-driven approach was only considered useful for individual stories a few years back, we now see entire (successful!) publications build on this idea. Often, these sites use data as a means to communicate about publication-specific topics, for example, FiveThirtyEight about politics and sport, The Pudding about pop culture and Our World in Data about the long-term development of humanity. Maybe the biggest difference between these publications and others about the same topics is the audience: It’s a curious and data-orientated one, one that is not afraid of seeing a chart. As a consequence, data-centric publications can show their readership harder-to-decipher chart types such as connected scatterplots. If used well, they give a more complex, less aggregated view of the world and make comparisons visible in a way that a bar chart wouldn’t be able to do.
+
+A chapter reviewing recent developments can quickly become outdated. However, the four developments we covered have dominated debates for a few years now, and we expect them to remain relevant. This is because they are underpinned by questions with no single right answer in day-to-day news work: “Do we design a project mobile-first or go with a more complex solution that only works on desktop?”, “Do we invest effort into making this visualization interactive and possibly more interesting to readers (even if only an estimated 10–20% of them will use the interactive features)?”, “Do we build the visualization from scratch or use a charting tool?”, “Do we create a visualization for a broader audience or for a data-savvy audience?” The answers may differ across newsrooms, graphics teams and projects.
+
+But, increasingly, we think, the answers will converge on mobile-first and non-interactive charts and visualizations built with charting tools and for an increasingly data-literate audience.
+
+Footnotes
+
+1. ig.ft.com/italy-poll-tracker/
+
+2. www.theguardian.com/sport/2016/aug/06/rio-running-app-marathon-course-riorun
+
+3. vimeo.com/182590214, medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb
+
+4.www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html, www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html
+
+Works Cited
+
+Cairo, A., & Schlossberg, T. (2019, August 29). Those hurricane maps don’t mean what you think they mean. The New York Times. www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html
+
+Segger, M. (2018, June 28). Lessons for showcasing data journalism on social media. Medium. medium.com/severe-contest/lessons-for-showcasing-data-journalism-on-social-media-17e6ed03a868
