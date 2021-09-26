@@ -11,12 +11,18 @@ Written by Gregor Aisch and Lisa Charlotte Rost
 記者とどのように協力するのか？テンポの速いソーシャルメディアで複雑なデータをどのように伝えるか？(Segger, 2018)
 ここでは、今後数年間影響を及ぼすと思われる四つの重要な動きを取り上げてみます。
 「モバイルファースト」が本格的に動き出す
-
-“Mobile first” is a widely used buzzword, but in the fast-paced world of news graphics, mobile experiences have often remained an afterthought. Now we finally see them climb up the priority list. That has two consequences. First, there is more thought being put in making graphics work on mobile.
-
-A note telling mobile users that “this experience works best on a desktop” becomes a faux pas. A chart needs to be responsive, to not make more than half of the users leave. But thinking inside the few pixels of a mobile box can be frustrating for graphics reporters, many of whom are used to the “luxury” of filling entire pages in print newspapers and designing full-screen desktop experiences. In the best case, the limits of the small screen motivate graphics reporters to think outside of the box and become creative. We already see this happening: For example, the Financial Times turned their parliament seat chart 90 degrees, essentially creating a new chart type.1
-
-The second consequence of mobile-first data visualization is that news developers and reporters will see “mobile” not just as a tiny screen anymore, but also as a device that is packed with sensors. This can lead to new data experiences. The Guardian created an app with which you can take a virtual audio tour of Rio de Janeiro, covering the same length as the marathon that took place there in 2016.2 “Our challenge for you: Complete all 26.2 miles—or 42.2 km—of the route over the next three weeks,” they write. AR and VR make similar use of our smartphones, and we see them arriving in news as well.
+「モバイルファースト」という言葉は広く使われていますが、目まぐるしく変化するニュースグラフィックの世界では、モバイルエクスペリエンスはしばしば後回しにされてきました。
+今では、ようやく優先順位が上がってきました。これには二つの意味があります。まず、グラフィックをモバイルで動作させるために、より多くの配慮がなされるようになりました。
+モバイルユーザーに「このエクスペリエンスはデスクトップでの使用が最適です」という注意書きをするのはまずいでしょう。
+ユーザーの半数以上が離れてしまわないように、図表はレスポンシブでなければなりません。しかし、モバイルの数ピクセルの枠の中で考えることは、グラフィックレポーターにとってはフラストレーションが溜まるものです。
+なにせ彼らの多くは、紙の新聞でページ全体を埋め尽くしたり、デスクトップの全画面表示をデザインしたりする「贅沢」に慣れているのですから。
+一方、小さな画面の限界が、グラフィックレポーターに既成概念にとらわれない創造的な発想をもたらすこともあります。
+例えば、Financial Timesは、国会の議席数のグラフを90度回転させ、新しいタイプのチャートを作成しました。
+モバイルファーストのデータ・ビジュアライゼーションがもたらす二つ目の結果は、ニュース開発者や記者が、「モバイル」を単に小さな画面としてではなく、センサーが搭載されたデバイスとして捉えるようになることです。
+これにより、新しいデータエクスペリエンスが可能になります。
+ガーディアン紙は、2016年にリオデジャネイロで開催されたマラソン大会と同じ距離のバーチャルオーディオツアーに参加できるアプリを制作しました。
+（画面には）「今後3週間で、26.2マイル（42.2km）のルートをすべて走破してください」と書かれています。
+ARやVRも同様にスマートフォンを利用したものであり、ニュースでも取り上げられています。
 
 Interactivity Is Dead, Except When It’s Not
 
