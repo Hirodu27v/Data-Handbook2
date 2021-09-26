@@ -6,9 +6,11 @@ Written by Gregor Aisch and Lisa Charlotte Rost
 本章では、最近のニュース・グラフィックに見られる四つの動きを紹介します。
 それは、「モバイルファースト」の重要性の高まり、インタラクティブ性の重要性の変化、より多くの（自社製）チャートツールの開発、そしてデータ中心のオンライン出版物の増加です。
 キーワード：ニュースグラフィックス、モバイル、チャートツール、インタラクティビティ、データ・ビジュアライゼーション、データ・ジャーナリズム
-The news graphics field is still young and tries to answer questions like: How do we show the bias and uncertainty in (polls) data? (Cairo & Schlossberg, 2019). How do we work together with reporters? How do we communicate complex data on fast-paced social media? (Segger, 2018). Here, we try to cover four key developments that we think are relevant for the coming years.
-
-“Mobile First” Starts to Be Taken Seriously
+ニュースグラフィックスの分野はまだ歴史が浅く、次のような問いに答えようとしています。
+（世論調査の）データの偏りや不確実性をどのように示すのか？(Cairo & Schlossberg, 2019)。
+記者とどのように協力するのか？テンポの速いソーシャルメディアで複雑なデータをどのように伝えるか？(Segger, 2018)
+ここでは、今後数年間影響を及ぼすと思われる四つの重要な動きを取り上げてみます。
+「モバイルファースト」が本格的に動き出す
 
 “Mobile first” is a widely used buzzword, but in the fast-paced world of news graphics, mobile experiences have often remained an afterthought. Now we finally see them climb up the priority list. That has two consequences. First, there is more thought being put in making graphics work on mobile.
 
