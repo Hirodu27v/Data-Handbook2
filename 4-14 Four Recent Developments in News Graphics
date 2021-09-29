@@ -23,16 +23,21 @@ Written by Gregor Aisch and Lisa Charlotte Rost
 ガーディアン紙は、2016年にリオデジャネイロで開催されたマラソン大会と同じ距離のバーチャルオーディオツアーに参加できるアプリを制作しました。
 （画面には）「今後3週間で、26.2マイル（42.2km）のルートをすべて走破してください」と書かれています。
 ARやVRも同様にスマートフォンを利用したものであり、ニュースでも取り上げられています。
-相互性は死んだ、そうでない時以外は
+対話性は死んだ、そうでない時以外は
 ここ数年、インタラクティブ機能がシンプルなチャートに使われることは少なくなってきています。
-ニュースルームが毎年発表する最大のプロジェクトにはなお使われているものの、成功のために相互性はもはや必要ありません。
+ニュースルームが毎年発表する最大のプロジェクトにはなお使われているものの、成功のために対話性はもはや必要ありません。
 フィナンシャルタイムズや「FiveThirtyEight」、「National Geographic」などのニュースルームでは、読者にインタラクティブな操作を求めない、ネットで話題のチャートをいくつも発表しています。
-
-We see two main reasons for a decline in interactive graphics. First, fewer people interact with charts than previously assumed.3 Curious, Internet-savvy people—like graphics reporters—will always try to hover over a visualization. And reporters want their articles to feel more alive. But we’re creating for an audience that prefers passive consumption; especially on mobile. Most people will miss content if it’s hidden behind interactivity, which led many graphic reporters to decide not to hide anything in the first place.
-
-Second, graphics arrived in the breaking news cycle. Graphics reporters have gotten faster and faster at creating visualizations, and a breaking news story will quickly have, for instance, a locator map of where an event happened. However, well-made interactivity still takes time. Often, it is left out for the sake of publishing the article faster.
-
-We still see interactive news graphics, but their importance has shifted. Instead of adding to a story, interactivity becomes the story. We’ve seen great examples of explorable explanations where readers can enter their personal data, such as location, income, or opinion, to then see how they fit into the greater scheme. Examples are “You Draw It: How Family Income Predicts Children’s College Chances” and “Is It Better to Rent or Buy?” from The New York Times.4 Both pieces are of no value for readers if they don’t enter data: The value comes through the interaction.
+インタラクティブ・グラフィックスが減少した理由は、大きく分けて二つあります。第一に、これまで想定されていたよりも、チャートを操作する人の数が減っていることです。
+好奇心旺盛でインターネットに精通している人たちはグラフィック担当の記者と同じように、ビジュアライゼーションにカーソルを合わせようとします。
+また、記者は自分の記事がより生き生きとしたものであることを望んでいます。
+しかし、私たちは、特にモバイルでは、受動的な消費を好む読者を想定して制作しています。
+そのため、多くのグラフィックレポーターは、そもそも何も隠さないことにしました。
+二つ目は、グラフィックがニュース速報のサイクルに乗ったことです。グラフィックレポーターのビジュアライゼーション作成のスピードはどんどん上がっており、ニュース速報には、例えば、ある出来事が起きた場所を示すロケーターマップがすぐに掲載されます。
+しかし、よくできたインタラクティビティにはまだ時間がかかります。記事を早く仕上げるために、相互機能が省かれることもよくあります。
+今でもインタラクティブなニュースグラフィックは見られますが、その重要性は変わってきています。物語を補足するのではなく、対話性が物語になるのです。
+私たちは、読者が居住地や収入、意見などの個人情報を入力し、それが全体の中でどのように位置づけられるかを知ることができる、探索可能な説明の素晴らしい例を見てきました。
+ニューヨークタイムズ紙の「You Draw It: How Family Income Predicts Children's College Chances」や「Is It Better to Rent or Buy? 」が典型例です。
+どちらの記事も、読者がデータを入力しなければ意味がありません。対話性が価値を生み出すのです。
 
 Newsrooms Use More (in-House) Charting Tools
 
