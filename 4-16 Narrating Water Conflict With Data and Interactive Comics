@@ -1,0 +1,56 @@
+データとインタラクティブ・コミックで水紛争を語る
+Written by Nelly Luna Amancio
+
+Abstract
+
+How we developed an interactive comic to narrate the findings of a journalistic investigation into the water war in Peru against a big mining company.
+
+
+Keywords: water conflicts, data journalism, environment, comic, interactivity, Peru
+
+Everything in the comic La guerra por el agua (The war over water) is real (Figure 29.1). The main characters—Mauro Apaza and Melchora Tacure— exist, along with their fears and uncertainties. We found them on a hot September day of 2016. It was noon and there were no shadows, no wind. She was weeding the soil with her hands, he was making furrows on the rough ground. For over 70 years they’ve grown food on a small plot of land in the Tambo Valley, an agricultural area in southern Peru where there are proposals for a mining project. The history of this couple, like that of thousands of farmers and Indigenous communities, tells of disputes between farmers and the powerful industries working to extract one of the world’s most strategic resources: Water.
+
+How to narrate this confrontation in a country like Peru where there are more than 200 environmental conflicts and the national budget depends heavily on income from this sector? How to approach a story about tensions between precarious farmers, the interests of multinational companies and those of a government that needs to increase its tax collection? What narrative can help us to understand this? How is it possible to mobilize people around this urgent issue? These questions prompted The War Over Water—the first interactive comic in Peru, developed by OjoPúblico.
+
+Figure 29.1
+Figure 29.1. Home screen of the interactive comic The War over Water. Source: OjoPúblico.
+The piece integrates data and visualizations into a narrative about this conflict.1
+
+Why an Interactive Comic?
+
+The project began in July 2016. We set out to narrate the conflict from an economic perspective, but to approach the reader from the perspective of two farmers, through a route that mimics an intimate trip to one of the most emblematic areas of the conflict. The interactivity of the format allows the audience to discover the sounds and dialogues of the conflict, across and beyond the strips.
+
+We chose the story of the Tía María mining project of the Southern Copper Corporation—one of the biggest mining companies in the world, owned by one of the richest individuals in Mexico and in the world, Germán Larrea. Local opposition to this project led to violent police repression that killed six citizens.
+
+The team that produced this comic was composed of a journalist (myself), cartoonist Jesús Cossio and web developer Jason Martínez. The three of us travelled to the Tambo Valley in Arequipa, the heart of the conflict, to interview leaders, farmers and authorities, and document the process. We took notes, photos and drawings that would later become the first sketches of the comic. Upon returning to Lima, we structured what would become the
+first prototype. Based on the prototype, we wrote the final script, worked out the interactive features, and started developing the project.
+
+Figure 29.2
+Figure 29.2. Data visualisation showing the decrease in tax collection since 2008 in Peru, as a result of the mining conflict over water. Source: OjoPúblico.
+Honesty With Comics
+
+We chose the medium of the comic because we believe that journalists should not—as cartoonist Joe Sacco (2012) puts it—“neuter the truth in the name of equal time.” Sacco joined us for a presentation of the first chapter of the project and it was one of his works that inspired us: Srebrenica, a webcomic about the massacre in which more than 8,000 Bosnian Muslims died in 1995.
+
+The War Over Water took eight months to develop. It is based on real events and has a narrative structure that allows the audience to experience the daily life of the characters and to surface one of the biggest dilemmas in the economy of Peru: Agriculture or mining? Is there enough water to do both? We told the story of this conflict through the eyes and memories of Mauro and Melchora. The story is accompanied by data visualizations showing the economic dependency of the region as well as the tax privileges that mining companies have. All the scenes and the dialogue in the comic are real, products of our reporting in the area, interviews with the authorities and local people, and investigations into the finances of Southern Copper. We aimed to compose scenes from dialogues, figures, interviews and settings with honesty and precision.
+
+Figure 29.3.
+Figure 29.3. This is how the journalists and the illustrator of OjoPúblico developed the interactive script of the comic “The War over Water.” Source: OjoPúblico.
+From Paper to the Web
+
+For the cartoonist Jesús Cossio, the challenge was to rethink how to work with time in an interactive comic: “While in a printed cartoon or static digital strip the idea is to make the reader stop at the impact of the images, in an interactive comic the composition and images had to be adapted to the more agile and dynamic flow of reading.”
+
+From a technological perspective, the project was a challenge for the OjoPúblico team as we had never developed an interactive comic before. We used the GreenSock Animation Platform (GSAP), a library that allowed us to make animations and transitions, as well as to standardize the scenes and timeline. This was complemented with JavaScript, CSS and HTML5.
+
+The comic has 42 scenes and more than 120 drawings. Jesús Cossio drew each of the characters, scenes and landscapes in the script with pencil and ink. These images were then digitized and separated by layers: Backgrounds, environments, characters and elements of the drawing that had to interact with each other.
+
+From the Web Back to Paper
+
+The War Over Water is a transmedia experience. We have also published a print edition. With its two platforms, the comic seeks to approach different audiences. One of the greatest interests in the OjoPúblico team is the exploration of narratives and formats to tell (often complex) stories of public interest. We have previously won awards for our data investigations. In other projects we have also used the comic format to narrate the topic of violence. In Proyecto Memoria (Memory project), the images tell the horror of the domestic conflict that Peru faced between 1980 and 2000. Comics provide a powerful language for telling stories with data. This is our proposal: That investigative journalists should test all possible languages to tell stories for different audiences. But above all, we want to denounce imbalances of power—in this case the management of natural resources in Peru.
+
+Footnotes
+
+1. laguerraporelagua.ojo-publico.com/en
+
+Works Cited
+
+Sacco, J. (2012). Journalism. Henry Holt and Co.
