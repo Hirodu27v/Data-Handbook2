@@ -22,15 +22,16 @@ Figure 29.1. Home screen of the interactive comic The War over Water. Source: Oj
 プロジェクトは2016年7月に始まりました。
 経済的な観点から紛争を語ろうと、紛争の最も象徴的な地域のひとつへの旅行を模して、2人の農民の視点から読者にアプローチすることにしました。
 インタラクティブなフォーマットにより、観客は道のりを越えて、紛争の音や対話を体験できます。
-
-We chose the story of the Tía María mining project of the Southern Copper Corporation—one of the biggest mining companies in the world, owned by one of the richest individuals in Mexico and in the world, Germán Larrea. Local opposition to this project led to violent police repression that killed six citizens.
-
-The team that produced this comic was composed of a journalist (myself), cartoonist Jesús Cossio and web developer Jason Martínez. The three of us travelled to the Tambo Valley in Arequipa, the heart of the conflict, to interview leaders, farmers and authorities, and document the process. We took notes, photos and drawings that would later become the first sketches of the comic. Upon returning to Lima, we structured what would become the
-first prototype. Based on the prototype, we wrote the final script, worked out the interactive features, and started developing the project.
+私たちが選んだのは、メキシコでも世界でも有数の大富豪であるゲルマン・ラレア氏が所有する世界最大級の鉱山会社、サザン・コッパー社のティア・マリア鉱山プロジェクトの話です。
+このプロジェクトに反対する地元の人々は、警察による暴力的な弾圧を受け、6人の市民が犠牲になりました。
+このコミックを制作したチームは、ジャーナリストの私、漫画家のヘスス・コジオ、ウェブ開発者のジェイソン・マルティネスで構成されています。
+私たち3人は、紛争の中心地である（ペルー第二の都市）アレキパのタンボ渓谷に赴き、指導者や農民、当局にインタビューし、その過程を記録しました。
+メモ、写真、そして後にコミックの最初のスケッチとなる絵を描きました。リマに戻ってからは、最初のプロトタイプとなるものを作成しました。これです。
+このプロトタイプをもとに、最終的な脚本を書き、インタラクティブな機能を検討し、プロジェクトの開発に着手しました。
 
 Figure 29.2
 Figure 29.2. Data visualisation showing the decrease in tax collection since 2008 in Peru, as a result of the mining conflict over water. Source: OjoPúblico.
-Honesty With Comics
+コミックに誠実であること
 
 We chose the medium of the comic because we believe that journalists should not—as cartoonist Joe Sacco (2012) puts it—“neuter the truth in the name of equal time.” Sacco joined us for a presentation of the first chapter of the project and it was one of his works that inspired us: Srebrenica, a webcomic about the massacre in which more than 8,000 Bosnian Muslims died in 1995.
 
