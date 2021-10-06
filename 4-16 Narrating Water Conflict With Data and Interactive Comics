@@ -43,12 +43,13 @@ Figure 29.2. Data visualisation showing the decrease in tax collection since 200
 Figure 29.3.
 Figure 29.3. This is how the journalists and the illustrator of OjoPúblico developed the interactive script of the comic “The War over Water.” Source: OjoPúblico.
 紙媒体からWebへ
-
-For the cartoonist Jesús Cossio, the challenge was to rethink how to work with time in an interactive comic: “While in a printed cartoon or static digital strip the idea is to make the reader stop at the impact of the images, in an interactive comic the composition and images had to be adapted to the more agile and dynamic flow of reading.”
-
-From a technological perspective, the project was a challenge for the OjoPúblico team as we had never developed an interactive comic before. We used the GreenSock Animation Platform (GSAP), a library that allowed us to make animations and transitions, as well as to standardize the scenes and timeline. This was complemented with JavaScript, CSS and HTML5.
-
-The comic has 42 scenes and more than 120 drawings. Jesús Cossio drew each of the characters, scenes and landscapes in the script with pencil and ink. These images were then digitized and separated by layers: Backgrounds, environments, characters and elements of the drawing that had to interact with each other.
+漫画家のヘスス・コジオにとっての挑戦は、インタラクティブ・コミックでの時間の扱い方を再考することでした。
+「印刷された漫画や静的なデジタルストリップでは、画像のインパクトで読者を立ち止まらせることが目的ですが、インタラクティブコミックでは、より機敏でダイナミックな読書の流れに合わせて構成や画像を変更しなければなりませんでした」。
+技術的な観点から見ると、これまでにインタラクティブ・コミックを開発したことがないOjoPúblicoのチームにとって、挑戦的なプロジェクトでした。
+アニメーションやトランジションを作ることができ、シーンやタイムラインを標準化することができる（Javascript）ライブラリ、GSAP（GreenSock Animation Platform）を使用しました。それをJavaScript、CSS、HTML5で補完しました。
+このコミックには42のシーンと120以上のカットがあります。
+ヘスス・コジオは、鉛筆とインクを使って、台本に登場するキャラクター、シーン、風景をそれぞれ描きました。
+次に、これらのイメージをデジタル化し、レイヤー (背景、環境、相互に作用する必要のある図面の文字と要素) ごとに分離しました。
 
 From the Web Back to Paper
 
