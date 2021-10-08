@@ -1,0 +1,54 @@
+Data Journalism Should Focus on People and Stories
+Written by:
+Written by Winny de Jong
+
+Abstract
+
+The story and the people the story is about should be the sun around which journalism, including data journalism, revolve.
+
+Keywords: storytelling, data journalism, radio, television, data publics, data visualization
+
+As is the case with people, data journalism and journalism share more commonalities than differences.1 Although data-driven reporting builds on different types of sources which require other skills to interrogate, the thought process is much the same. Actually, if you zoom out enough, you’ll find that the processes are almost indistinguishable.
+
+Known Unknowns
+
+At its core, journalism is the business of making known unknowns into known knowns. The concept of knowns and unknowns was popularized by the US Secretary of Defense Donald Rumsfeld in 2002. At the time there was a lack of evidence that the Iraqi government had supplied weapons of mass destruction to terrorist groups. During a press briefing over the matter, Rumsfeld said:
+
+Reports that say that something hasn’t happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don’t know we don’t know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones. (US Department of Defense, 2002)
+
+Every journalistic process comes down to moving pawns over the matrix of knowns and unknowns. All journalism starts with a question or, to follow the said matrix, with a known unknown. (You know there is something you don’t know, hence the question.) When bootstrapping to move from question or hunch to publication-ready story, the ideal route is to “simply” move all pawns from known unknowns to known knowns. But as every journalist will tell you, reality tends to differ. While researching—either by interviewing people or examining documents or data sets -you are likely to find things you were not aware that you didn’t know (unknown unknowns), that require answers, too. If you’re lucky, you might stumble upon some things you didn’t know you were familiar with (unknown knowns). Working towards your deadline, you’re transforming three categories of knowledge into known knowns: Known unknowns (i.e., the questions that got you started), unknown unknowns (i.e., the questions you didn’t know you should have asked), and unknown knowns (answers you didn’t know you had). Unlike our governments, journalists can only proceed to action with, or publish, known knowns.
+
+Solid Journalism
+
+With data-driven reporting and classic bootstrapping being so indistinguish- able, surely the two should meet the same standards. Like journalism, data journalism should always be truthful, independent and free of bias. Like all other facts, data needs to be verified. So before trying to create known knowns, ask yourself: Is the data true? What does each number actually mean? What is the source? Why was the data collected? Who made the data set? How was the data table created? Are there outliers in the data? Do they make sense? And, often forgotten but, as with every interview, of significant importance: What does the source not say? While the requirements and therefore the questions are the same, the actions they result in slightly differ.
+
+Figure 30.2
+Figure 30.2. Navigating the knowns and unknowns matrix for journalism. Source: Lars Boogaard.
+As Bill Kovach and Tom Rosenstiel (2007) describe in The Elements of Journalism, the first task of the news journalist is “to verify what information is reliable and then order it so people can grasp it efficiently.” For data journalists especially those working in television or radio—this means that the numbers they came to love do not necessarily have a place in the final production.
+
+Figure 30.3
+Figure 30.3. Still from an NOS video on how thin you need to be to become a fashion model. Source: NOS.
+Limited Nerdery
+
+Obviously you should be precise while doing data analysis. But in order to keep your story “efficiently graspable,” there needs to be a limit on precision for example, the number of decimals used in the final publication. Using “4 out of 10 people” is probably better than “41.8612%.” In my experience the right amount of precision is pretty close to the precision you would use when talking about your story to non-data-nerd friends on a Saturday afternoon.
+
+Unless your audience needs to know about the methods and tools used to be able to grasp the story, you should probably save the nerd goodies for the methodology. Because when your audience is reading, listening or watching your data-driven production they should be thinking about the story, not the data, analysis or technology that keep the story afloat. This means that the best data journalism might hardly be recognizable as such—making data journalism an invisible craft. As long as this invisibility facilitates the story, making your journalism more “efficient to grasp,” it’s all for the better. After all, journalism creates different maps for citizens to navigate society with, so we should make sure our maps are readable for all and read by many.
+
+Radio and Television
+
+When publishing data journalism stories for radio or television, less is more. In the newsroom of NOS, the largest news organization in the Netherlands, reporters talk about the number of seconds they have to tell their stories. This means that there is no time to dwell on how a story was made or why we decided to use the one data source and not the other, if that does not contribute to the story or the public’s understanding of said story. In an online video on how thin you need to be to be able to become a high fashion model, we spent 20 seconds explaining our methods.2 When you have 90 seconds to tell a story on national television, 20 seconds is a lot. In this case, less is more means no time left to explain how we went about the investigation. When time and space are limited, the story prevails above everything else.
+
+Modest Visuals
+
+Of course, the “less is more” adage goes for data visualizations, too. Data journalism is much like teenage sex: Everybody talks about it, yet almost nobody actually does it. When newsrooms finally add data to their toolkit, some have a tendency to kiss and tell by making data visuals for everything. Sure, I love visuals, too, especially the innovative, high-end ones—but only if they add to the story. Visualizations can add value to journalism in multiple ways. Among others they can do so by deepening the public’s understanding of the story at hand and by widening the public’s understanding by giving extra insight at, for example, a regional level. So act like a gentleman and don’t kiss and tell. Limit yourself to value-adding data visualizations that help to get the story across. Nowadays most people combine listening to the radio and watching television with another activity. This limits their information intake: When driving, listening to news is secondary; the same goes for watching TV while cooking. So be careful not to ask too much from your audience. Again, this might make our craft an invisible one; but we’re here to break news and tell stories—not to flex our dataviz (data visualization) muscles.
+
+About People
+
+All of this is to say that everything that truly matters—in your story, in journalism and in life at large—does not fit in a data set. It never has, and it never will. In the end it’s always about people; so whatever you do, wherever you publish, talk people not data. And when you f ind yourself tempted to use more data, technology or news nerdery than necessary, remember that you’re one of too few craftspeople in this f ield. That in and of itself is awesome: There is no need to underline the obvious. So simply stick to the pecking order found in the best data journalism: Form facilitates data, facilitates story. Everything and everybody needs to revolve around the story it is our sun. Story is king.
+
+Footnotes
+
+1. Since ideas are new combinations of old elements, this essay draws on Winny’s 2019 Nieman Lab prediction, a talk at the Smart News Design Conference in Amsterdam and alshetongeveer- maarklopt.nl, a Dutch website that teaches math to journalist
+
+2. www.youtube.com/watch?v=DWRGqmywNY
+
