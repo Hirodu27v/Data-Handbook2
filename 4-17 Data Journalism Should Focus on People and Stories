@@ -20,11 +20,20 @@ Written by Winny de Jong
 また、既知の未知があることも知っています。つまり、知らないことを分かっているということです。
 しかし、（知らないことすら分かっていない）未知の未知もあります。我が国や他の自由主義国の歴史を振り返ってみると、難しいのは後者のカテゴリーであることが分かります。(米国国防総省、2002年)
 ジャーナリズムのプロセスはすべて、知っていることと知らないことのマトリックスの上で駒を動かすことに尽きます。
-All journalism starts with a question or, to follow the said matrix, with a known unknown. (You know there is something you don’t know, hence the question.) When bootstrapping to move from question or hunch to publication-ready story, the ideal route is to “simply” move all pawns from known unknowns to known knowns. But as every journalist will tell you, reality tends to differ. While researching—either by interviewing people or examining documents or data sets -you are likely to find things you were not aware that you didn’t know (unknown unknowns), that require answers, too. If you’re lucky, you might stumble upon some things you didn’t know you were familiar with (unknown knowns). Working towards your deadline, you’re transforming three categories of knowledge into known knowns: Known unknowns (i.e., the questions that got you started), unknown unknowns (i.e., the questions you didn’t know you should have asked), and unknown knowns (answers you didn’t know you had). Unlike our governments, journalists can only proceed to action with, or publish, known knowns.
+すべてのジャーナリズムは、疑問や、マトリクスで言うと既知の未知のものから始まります(何かわからないことがあるからこそ、質問をするのです）。
+疑問や予感から公開できるストーリーに移行するためにブートストラップを行う場合、理想的なルートは、すべてのポーンを既知の未知から既知の既知へと「単純に」移動させることです。
+しかし、ジャーナリストであれば誰もが言うように、現実は異なります。取材をしたり、文書やデータを調べたりしているうちに、自分が知らなかったこと（未知の未知）が出てきて、それにも答えが必要になってくることがあります。
+運が良ければ、自分が知っていることを知らなかったこと（未知の既知）に出くわすこともあるでしょう。
+締め切りに向けて、あなたは三つのカテゴリーの知識を「既知の既知」に変えていくことになります。
+既知の未知(始めたきっかけとなった疑問は)、未知の未知(つまり、質問すべきであったことを知らなかった質問)、未知の既知(自分が知らなかった答え) です。
+政府とは異なり、ジャーナリストは既知の知識を持って行動を起こしたり、公表したりすることしかできません。
 
-Solid Journalism
-
-With data-driven reporting and classic bootstrapping being so indistinguish- able, surely the two should meet the same standards. Like journalism, data journalism should always be truthful, independent and free of bias. Like all other facts, data needs to be verified. So before trying to create known knowns, ask yourself: Is the data true? What does each number actually mean? What is the source? Why was the data collected? Who made the data set? How was the data table created? Are there outliers in the data? Do they make sense? And, often forgotten but, as with every interview, of significant importance: What does the source not say? While the requirements and therefore the questions are the same, the actions they result in slightly differ.
+堅実なジャーナリズム
+データ駆動型報道と伝統的なブートストラップ（独力で行う報道）がこれほどまでに区別されないのであれば、きっとこの二つは同じ基準を満たすべきでしょう。
+ジャーナリズムと同様に、データジャーナリズムも常に真実であり、独立性があり、偏りがないものでなければなりません。他の事実と同様に、データは検証される必要があります。
+既知の既知を作り出す前に、自問してみてください。そのデータは真実か？各数値は実際に何を意味しているのか？データの出典は何か？そのデータはなぜ集められたのか？誰がそのデータセットを作ったのか？データテーブルはどのように作成されたか？データには外れ値があるか？それらは意味があるのか？
+そして、忘れられがちだが、あらゆるインタビューと同様に、非常に重要なことがあります。ソースに書かれていないことは何か？
+要件とそのための質問は同じでも、結果として生じる行動はわずかに異なります。
 
 Figure 30.2
 Figure 30.2. Navigating the knowns and unknowns matrix for journalism. Source: Lars Boogaard.
