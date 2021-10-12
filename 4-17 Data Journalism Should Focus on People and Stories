@@ -18,7 +18,7 @@ Written by Winny de Jong
 何かが起こっていないという報告は、私にとっていつも興味深いものです。
 なぜなら、私たちは、（自分が知っていることを知っている）既知の既知があると知っているからです。
 また、既知の未知があることも知っています。つまり、知らないことを分かっているということです。
-しかし、（知らないことすら分かっていない）未知の未知もあります。我が国や他の自由主義国の歴史を振り返ってみると、難しいのは後者のカテゴリーであることが分かります。(米国国防総省、2002年)
+しかし、（知らないことすら分かっていない）未知の未知もあります。我が国や他の自由主義国の歴史を振り返ってみると、難しいのは後者のカテゴリーであることが分かります。(米国防総省、2002年)
 ジャーナリズムのプロセスはすべて、知っていることと知らないことのマトリックスの上で駒を動かすことに尽きます。
 すべてのジャーナリズムは、疑問や、マトリクスで言うと既知の未知のものから始まります(何かわからないことがあるからこそ、質問をするのです）。
 疑問や予感から公開できるストーリーに移行するためにブートストラップを行う場合、理想的なルートは、すべてのポーンを既知の未知から既知の既知へと「単純に」移動させることです。
@@ -37,13 +37,14 @@ Written by Winny de Jong
 
 Figure 30.2
 Figure 30.2. Navigating the knowns and unknowns matrix for journalism. Source: Lars Boogaard.
-As Bill Kovach and Tom Rosenstiel (2007) describe in The Elements of Journalism, the first task of the news journalist is “to verify what information is reliable and then order it so people can grasp it efficiently.” For data journalists especially those working in television or radio—this means that the numbers they came to love do not necessarily have a place in the final production.
-
+ビル・コヴァッチとトム・ローゼンスティールが『ジャーナリズムの原則』（2007）で述べているように、ジャーナリストの仕事はまず、「どのような情報が信頼できるかを確認し、人々が効率的に把握できるように情報を整理すること」につきます。
+データジャーナリスト、特にテレビやラジオで働いている人たちにとって、これは、自分たちが好む数値が必ずしも最終的な作品に反映されないことを意味します。
 Figure 30.3
 Figure 30.3. Still from an NOS video on how thin you need to be to become a fashion model. Source: NOS.
-Limited Nerdery
-
-Obviously you should be precise while doing data analysis. But in order to keep your story “efficiently graspable,” there needs to be a limit on precision for example, the number of decimals used in the final publication. Using “4 out of 10 people” is probably better than “41.8612%.” In my experience the right amount of precision is pretty close to the precision you would use when talking about your story to non-data-nerd friends on a Saturday afternoon.
+限られたオタク
+データ分析をするときには、当然ながら正確であるべきです。しかし、ストーリーを「効率的に把握できる」ようにするためには、精度に制限を設ける必要があります。
+例えば、最終的に使用する小数位です。「10人中4人」という数字は、「41.8612%」よりも良いでしょう。
+私の経験では、適切な精度とは、土曜日の午後、データオタクではない友人に自分の話をするときに使う精度にかなり近いものです。
 
 Unless your audience needs to know about the methods and tools used to be able to grasp the story, you should probably save the nerd goodies for the methodology. Because when your audience is reading, listening or watching your data-driven production they should be thinking about the story, not the data, analysis or technology that keep the story afloat. This means that the best data journalism might hardly be recognizable as such—making data journalism an invisible craft. As long as this invisibility facilitates the story, making your journalism more “efficient to grasp,” it’s all for the better. After all, journalism creates different maps for citizens to navigate society with, so we should make sure our maps are readable for all and read by many.
 
