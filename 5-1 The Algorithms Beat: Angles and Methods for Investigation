@@ -5,10 +5,17 @@ Written by Nicholas Diakopoulos
 
 アルゴリズムにふさわしい精査を行うために、ジャーナリスティックなスキルと技術的なスキルが融合し、アルゴリズムに関する専門性が形成されつつあります。
 キーワード：アルゴリズム、アルゴリズムの説明責任、コンピュテーショナル・ジャーナリズム、調査報道、アルゴリズム研究、情報の自由(FOI)
-
-The “Machine Bias” series from ProPublica began in May 2016 as an effort to investigate algorithms in society.1 Perhaps most striking in the series was an investigation and analysis exposing the racial bias of recidivism risk assessment algorithms used in criminal justice decisions (Angwin et al., 2016). These algorithms score individuals based on whether they are a low or high risk of reoffending. States and other municipalities variously use the scores for managing pretrial detention, probation, parole and sometimes even sentencing. Reporters at ProPublica filed a public records request for the scores from Broward County in Florida and then matched those scores to actual criminal histories to see whether an individual had actually recidivated (i.e., reoffended) within two years. Analysis of the data showed that Black defendants tended to be assigned higher risk scores than White defendants, and were more likely to be incorrectly labelled as high risk when in fact after two years they hadn’t actually been rearrested (Larson et al., 2016).
-
-Scoring in the criminal justice system is, of course, just one domain where algorithms are being deployed in society. The “Machine Bias” series has since covered everything from Facebook’s ad-targeting system, to geographically discriminatory auto insurance rates, and unfair pricing practices on Amazon. com. Algorithmic decision making is increasingly pervasive throughout both the public and private sectors. We see it in domains like credit and insurance risk scoring, employment systems, welfare management, educational and teacher rankings, and online media curation, among many others (Eubanks, 2018; O’Neil, 2016; Pasquale, 2015). Operating at scale and often impacting large swaths of people, algorithms can make consequential and sometimes contestable calculation, ranking, classification, association and filtering decisions. Algorithms, animated by piles of data, are a potent new way of wielding power in society.
+プロパブリカの社会におけるアルゴリズムを調査する取り組み「Machine Bias」シリーズは、2016年5月に始まりました。
+このシリーズで最も目を引いたのは、刑事司法の判断に用いられる再犯リスク評価アルゴリズムの人種的偏りを暴いた調査・分析でした（Angwin et al.2016）。
+これらのアルゴリズムは、再犯のリスクが低いか高いかに基づいて個人を採点します。州やその他の自治体は、公判前拘留、保護観察、仮釈放、そして時には判決に至るまで、さまざまな場面でこのスコアを利用しています。
+プロパブリカの記者は、フロリダ州ブロワード郡のスコアを情報公開請求し、そのスコアと実際の犯罪歴を照合して、2年以内に実際に再犯したかどうかを調べました。
+分析したところ、黒人の被告人は白人よりも高いリスクスコアを割り当てられる傾向があり、2年後に再逮捕されていないのに、誤って高リスクと判定される可能性が高いことがわかりました（Larson et al.2016）。
+刑事司法制度におけるスコアリングは、アルゴリズムが社会に展開されている一つの領域にすぎません。
+「Machine Bias」シリーズではその後、Facebookの広告ターゲティングシステム、地理的に差別的な自動車保険料、Amazon.comの不公平な価格設定慣行など、あらゆる分野を取り上げています。
+アルゴリズムによる意思決定は、官民を問わず、ますます浸透しています。
+クレジットや保険のリスク評価、雇用システム、福祉管理、教育や教師のランキング、オンラインメディアのキュレーションなどの領域で目にすることができます（Eubanks, 2018; O'Neil, 2016; Pasquale, 2015）。
+大規模に運用され、多くの人々に影響を与えるアルゴリズムは、時には論争の対象となる計算、ランキング、分類、関連付け、フィルタリングを行うことがあります。
+膨大なデータに基づいて稼働するアルゴリズムは、社会で力を行使する新しい有力な方法となっています。
 
 As ProPublica’s “Machine Bias” series attests, a new strand of computational and data journalism is emerging to investigate and hold accountable how power is exerted through algorithms. I call this algorithmic account- ability reporting, a re-orientation of the traditional watchdog function of journalism towards the power wielded through algorithms (Diakopoulos, 2015).2 Despite their ostensible objectivity, algorithms can and do make mistakes and embed biases that warrant closer scrutiny. Slowly, a beat on algorithms is coalescing as journalistic skills come together with technical skills to provide the scrutiny that algorithms deserve.
 
