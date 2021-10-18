@@ -4,7 +4,7 @@ Written by Nicholas Diakopoulos
 概要
 
 アルゴリズムにふさわしい精査を行うために、ジャーナリスティックなスキルと技術的なスキルが融合し、アルゴリズムに関する専門性が形成されつつあります。
-キーワード：アルゴリズム、アルゴリズムの説明責任、コンピュテーショナル・ジャーナリズム、調査報道、アルゴリズム研究、情報の自由(FOI)
+キーワード：アルゴリズム、アルゴリズムの説明責任、計算論的ジャーナリズム、調査報道、アルゴリズム研究、情報の自由(FOI)
 プロパブリカの社会におけるアルゴリズムを調査する取り組み「Machine Bias」シリーズは、2016年5月に始まりました。
 このシリーズで最も目を引いたのは、刑事司法の判断に用いられる再犯リスク評価アルゴリズムの人種的偏りを暴いた調査・分析でした（Angwin et al.2016）。
 これらのアルゴリズムは、再犯のリスクが低いか高いかに基づいて個人を採点します。州やその他の自治体は、公判前拘留、保護観察、仮釈放、そして時には判決に至るまで、さまざまな場面でこのスコアを利用しています。
@@ -16,10 +16,12 @@ Written by Nicholas Diakopoulos
 クレジットや保険のリスク評価、雇用システム、福祉管理、教育や教師のランキング、オンラインメディアのキュレーションなどの領域で目にすることができます（Eubanks, 2018; O'Neil, 2016; Pasquale, 2015）。
 大規模に運用され、多くの人々に影響を与えるアルゴリズムは、時には論争の対象となる計算、ランキング、分類、関連付け、フィルタリングを行うことがあります。
 膨大なデータに基づいて稼働するアルゴリズムは、社会で力を行使する新しい有力な方法となっています。
-
-As ProPublica’s “Machine Bias” series attests, a new strand of computational and data journalism is emerging to investigate and hold accountable how power is exerted through algorithms. I call this algorithmic account- ability reporting, a re-orientation of the traditional watchdog function of journalism towards the power wielded through algorithms (Diakopoulos, 2015).2 Despite their ostensible objectivity, algorithms can and do make mistakes and embed biases that warrant closer scrutiny. Slowly, a beat on algorithms is coalescing as journalistic skills come together with technical skills to provide the scrutiny that algorithms deserve.
-
-There are, of course, a variety of forms of algorithmic accountability that may take place in diverse forums beyond journalism, such as in po- litical, legal, academic, activist or artistic contexts (Brain & Mattu, n.d.; Bucher, 2018).3 But my focus is this chapter is squarely on algorithmic accountability reporting as an independent journalistic endeavour that contributes to accountability by mobilizing public pressure. This can be seen as complementary to other avenues that may ultimately also contribute to accountability, such as by developing regulations and legal standards, creating audit institutions in civil society, elaborating effective transparency policies, exhibiting reflexive art shows, and publishing academic critiques.
+ProPublicaの「Machine Bias」シリーズが証明するように、アルゴリズムを通じて権力がどのように行使されるかを調査し、説明責任を果たすために、計算論的ジャーナリズムやデータ・ジャーナリズムの新たな分野が生まれています。
+私はこのアルゴリズムを巡る説明責任報道を「ジャーナリズムの伝統的な監視機能を、アルゴリズムによって行使される権力に向け再調整したもの」と呼んでいます（Diakopoulos, 2015）。
+アルゴリズムは、その客観性にもかかわらず、ミスを犯したり、バイアスをかけたりすることがあるため、綿密な調査が必要になります。
+もちろん、アルゴリズ ムの説明責任には様々な形態があり、ジャーナ リズム以外にも、政治、法律、学術、活動家、芸術など、 多様な場で問われる可能性があります（Brain & Mattu, n.d.; Bucher, 2018）。
+しかし、本章では、世論の圧力を動員することで説明責任を果たさせる、独立したジャーナリスティックな試みとしての報道に焦点を当てます。
+これは、規制や法的基準の策定、市民社会における監査機関の創設、効果的な透明性政策の策定、反射的なアートショーの開催、学術的な批評の発表など、説明責任に貢献しうる他の手段を補完するものです。
 
 In deciding what constitutes the beat in journalism, it is first helpful to define what is newsworthy about algorithms. Technically speaking, an algorithm is a sequence of steps followed in order to solve a particular problem or to accomplish a defined outcome. In terms of information processes, the outcomes of algorithms are typically decisions. The crux of algorithmic power often boils down to computers’ ability to make such decisions very quickly and at scale, potentially affecting large numbers of people. In practice, algorithmic accountability is not just about the technical side of algorithms, however—algorithms should be understood as composites of technology woven together with people such as designers, operators, owners and maintainers in complex sociotechnical systems (Ananny, 2015; Seaver, 2017). Algorithmic accountability is about understanding how those people exercise power within and through the system, and are ultimately responsible for the system’s decisions. Oftentimes what makes an algorithm newsworthy is when it somehow makes a “bad” decision. This might involve an algorithm doing something it was not supposed to do, or perhaps not doing something it was supposed to do. For journalism, the public significance and consequences of a bad decision are key factors. What is the potential harm for an individual, or for society? Bad decisions might impact individu- als directly, or in aggregate may reinforce issues like structural bias. Bad decisions can also be costly. Let’s look at how various bad decisions can lead to news stories.
 
