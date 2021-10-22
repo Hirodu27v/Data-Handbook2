@@ -3,7 +3,7 @@ Written by Nicholas Diakopoulos
 
 概要
 
-アルゴリズムにふさわしい精査を行うために、ジャーナリスティックなスキルと技術的なスキルが融合し、アルゴリズムに関する専門性が形成されつつあります。
+アルゴリズムに適した精査を行うために、ジャーナリスティックなスキルと技術的なスキルが融合し、アルゴリズムに関する専門性が形成されつつあります。
 キーワード：アルゴリズム、アルゴリズムの説明責任、計算論的ジャーナリズム、調査報道、アルゴリズム研究、情報の自由(FOI)
 プロパブリカの社会におけるアルゴリズムを調査する取り組み「Machine Bias」シリーズは、2016年5月に始まりました。
 このシリーズで最も目を引いたのは、刑事司法の判断に用いられる再犯リスク評価アルゴリズムの人種的偏りを暴いた調査・分析でした（Angwin et al.2016）。
@@ -51,10 +51,21 @@ FacebookやGoogleなどのプラットフォームでは、アルゴリズムに
 このアプリのフィルタリングアルゴリズムのエラーは、子どもたちが不適切だったり暴力的なコンテンツに遭遇することがあるため、ニュースになるのです（Maheshwari, 2017）。
 古典的に、アルゴリズムは2種類のミスを犯します。偽陽性と偽陰性です。
 YouTube Kidsの場合、誤検出とは、実際には子供にとって全く問題ないのに、不適切と誤って分類された動画のことです。偽陰性とは、適切と分類された動画が、本当は子供に見せたくないものであることです。
-
-Classification decisions impact individuals when they either increase or decrease the positive or negative treatment an individual receives. When an algorithm mistakenly selects an individual to receive free ice cream (increased positive treatment), you won’t hear that individual complain (although when others f ind out, they might say it’s unfair). Errors are generally newsworthy when they lead to increased negative treatment for a person, such as by exposing a child to an inappropriate video. Errors are also newsworthy when they lead to a decrease in positive treatment for an individual, such as when a person misses an opportunity. Just imagine a qualified buyer who never gets a special offer because an algorithm mistakenly excludes them. Finally, errors can be newsworthy when they cause a decrease in warranted negative attention. Consider a criminal risk assessment algorithm mistakenly labelling a high-risk individual as low-risk—a false negative. While that’s great for the individual, this creates a greater risk to public safety by setting free an individual who might go on to commit a crime again.
-
-Legal and Social Norm Violations. Predictive algorithms can sometimes test the boundaries of established legal or social norms, leading to other opportunities and angles for coverage. Consider for a moment the possibility of algorithmic defamation (Diakopoulos, 2013; Lewis et al., 2019). Defamation is defined as “a false statement of fact that exposes a person to hatred, ridicule or contempt, lowers him in the esteem of his peers, causes him to be shunned, or injures him in his business or trade.”4 Over the last several years there have been numerous stories, and legal battles, over individuals who feel they have been defamed by Google’s autocomplete algorithm. An autocompletion can link an individual’s or a company’s name to everything from crime and fraud to bankruptcy or sexual conduct, which can then have consequences for reputation. Algorithms can also be newsworthy when they encroach on social norms like privacy. For instance, Gizmodo has extensively covered the “People You May Know” (PYMK) algorithm on Facebook, which suggests potential “friends” on the platform that are sometimes inappropriate or undesired (Hill, 2017b). In one story, reporters identified a case where PYMK outed the real identity of a sex worker to her clients (Hill, 2017a). This is problematic not only because of the potential stigma attached to sex work, but also out of fear of clients who could become stalkers.
+分類の決定は、個人が受けるポジティブないしネガティブな待遇の増減に影響します。
+アルゴリズムが誤って個人を選んでアイスクリームを無料で提供しても（ポジティブな扱いの増加）、その個人が文句を言うことはありません（ただし、他の人は不公平だと言うかもしれません）。
+一般的にエラーがニュースになるのは、子供に不適切なビデオを見せてしまうなど、その人にとってネガティブな扱いを増やすことにつながる場合です。また、機会を逃すなど、個人に対するプラスの扱いが減少した場合もニュースになります。
+アルゴリズムが誤って除外したため、資格があるのに特別なオファーを受けることができない人がいたとしてみましょう。
+最後に、エラーがニュースになるのは、正当化されるべきネガティブな注目を減少させる原因となる場合です。例えば、犯罪リスク評価のアルゴリズムが、高リスクの人物を誤って低リスクと判定してしまうことを考えてみましょう（偽陰性）。
+本人にとっては良いことですが、再び犯罪を犯す可能性のある人を自由にすることで、公共の安全に大きなリスクをもたらします。
+法的・社会的規範の違反。予測アルゴリズムは、時として確立された法的・社会的規範の境界線を試すことがあり、それが別の機会や報道の角度につながることがあります。
+アルゴリズムによる名誉毀損の可能性について考えてみましょう（Diakopoulos, 2013; Lewis et al.2019）。
+名誉毀損とは、「ある人物を憎悪、嘲笑、軽蔑の対象とし、同業者の尊敬を低下させ、敬遠される原因となり、または事業や取引において損害を与える虚偽の事実の陳述」と定義されています。
+ここ数年、Googleの（検索語句のタイプ中に自動的に検索候補を表示する）オートコンプリートアルゴリズムによって名誉を毀損されたと感じる個人を巡り、数多くの記事や訴訟が発生しています。
+オートコンプリートは、個人や企業の名前を、犯罪や詐欺、破産、性的行為などあらゆるものと結び付け、その人の評判に影響を与える可能性があります。
+アルゴリズムは、プライバシーなどの社会的規範を侵害した場合にもニュースになります。
+（テックサイトの）GizmodoはFacebookの「People You May Know」（PYMK）アルゴリズムを大きく取り上げています。PYMKアルゴリズムは、プラットフォーム上で潜在的な「友達」を提案しますが、それが時に不適切であったり、望ましくないものであったりします（Hill, 2017b）。
+ある記事では、記者が、PYMKが風俗嬢の本当の身元を客に暴露したケースを確認しました（Hill, 2017a）。
+これは、性風俗につきまとう付随する潜在的な偏見だけでなく、ストーカーになりかねない客への恐怖（という観点）からも問題となります。
 
 Defamation and privacy violations are only two possible story angles here. Journalists should be on the lookout for a range of other legal or social norm violations that algorithms may create in various social contexts. Since algorithms necessarily rely on a quantified version of reality that only incorporates what is measurable as data they can miss a lot of the social and legal context that would otherwise be essential in rendering an accurate decision. By understanding what a particular algorithm actually quantifies about the world—how it “sees” things—journalists can inform critique by illuminating the missing bits that would support a decision in the richness of its full context.
 
