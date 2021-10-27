@@ -1,0 +1,143 @@
+ソーシャル・ウェブでストーリーを伝える
+Written by: Lam Thuy Vo
+We have become the largest producers of data in history1. Almost every click online, each swipe on our tablets and each tap on our smartphone produces a data point in a virtual repository. Facebook generates data on the lives of more than 2 billion people. Twitter records the activity of more than 330 million monthly users. One MIT study found that the average American office worker was producing 5GB of data each day2. That was in 2013 and we haven’t slowed down. As more and more people conduct their lives online, and as smartphones are penetrating previously unconnected regions around the world, this trove of stories is only becoming larger.
+
+A lot of researchers tend to treat each social media user like they would treat an individual subject — as anecdotes and single points of contact. But to do so with a handful of users and their individual posts is to ignore the potential of hundreds of millions of others and their interactions with one another. There are many stories that could be told from the vast amounts of data produced by social media users and platforms because researchers and journalists are still only starting to acquire the large-scale data-wrangling expertise and analytical techniques needed to tap them.
+
+Recent events have also shown that it is becoming crucial for reporters to gain a better grasp of the social web. The Russian interference with the 2016 U.S. presidential elections and Brexit; the dangerous spread of anti-Muslim hate speech on Facebook in countries in Europe and in Myanmar; and the heavy-handed use of Twitter by global leaders — all these developments show that there’s an ever-growing need to gain a competent level of literacy around the usefulness and pitfalls of social media data in aggregate.
+
+How can journalists use social media data?
+While there are many different ways in which social media can be helpful in reporting, it may be useful to examine the data we can harvest from social media platforms through two lenses.
+
+First, social media can be used as a proxy to better understand individuals and their actions. Be it public proclamations or private exchanges between individuals — a lot of people’s actions, as mediated and disseminated through technology nowadays, leave traces online that can be mined for insights. This is particularly helpful when looking at politicians and other important figures, whose public opinions could be indicative of their policies or have real-life consequences like the plummeting of stock prices or the firing of important people.
+
+Secondly, the web can be seen as an ecosystem in its own right in which stories take place on social platforms (albeit still driven by human and automated actions). Misinformation campaigns, algorithmically skewed information universes, and trolling attacks are all phenomena that are unique to the social web.
+
+Case Studies
+Instead of discussing these kinds of stories in the abstract, it may be more helpful to understand social media data in the context of how it can be used to tell particular stories. The following sections discuss a number of journalistic projects that made use of social media data.
+
+Understanding public figures: social media data for accountability reporting
+For public figures and everyday people alike, social media has become a way to address the public in a direct manner. Status updates, tweets and posts can serve as ways to bypass older projection mechanisms like interviews with the news media, press releases or press conferences.
+
+Figure 32.1. A snapshot of the media links that Trump tweeted during his presidential campaign. Source: BuzzFeed News.
+Figure 32.1. A snapshot of the media links that Trump tweeted during his presidential campaign. Source: BuzzFeed News.
+For politicians, however, these public announcements — these projections of their selves — may become binding statements and in the case of powerful political figures may become harbingers for policies that need yet to be put in place.
+
+Because a politician's job is partially to be public-facing, researching a politician’s social media accounts can help us better understand their ideological mindset. For one story, my colleague Charlie Warzel and I collected and analyzed more than 20,000 of Donald Trump’s tweets to answer the following question: what kind of information does he disseminate and how can this information serve as a proxy for the kind of information he may consume?
+
+Social data points are not a full image of who we actually are, in part due to its performative nature and in part because these data sets are incomplete and so open to individual interpretation. But they can help as complements: President Trump's affiliation with Breitbart online, as shown above, was an early indicator for his strong ties to Steve Bannon in real life. His retweeting of smaller conservative blogs like The Conservative Tree House and News Ninja 2012 perhaps hinted at his distrust of “mainstream media.”.
+
+Tracing back human actions
+While public and semi-public communications like tweets and open Facebook posts can give insights into how people portray themselves to others, there’s also the kind of data that lives on social platforms behind closed walls like private messages, Google searches or geolocation data.
+
+Christian Rudder (2014), co-founder of OKCupid and author of the book Dataclysm had a rather apt description of this kind of data: These are statistics that are recorded of our behavior when we “think that no one is watching.”
+
+By virtue of using a social platform, a person ends up producing longitudinal data of their own behaviour. And while it’s hard to extrapolate much from these personal data troves beyond the scope of the person who produced them, this kind of data can be extremely powerful when trying to tell the story of one person. I often like to refer this kind of approach as a “quantified selfie,” a term Maureen O’Connor coined for me when she described some of my work.
+
+Take the story of Jeffrey Ngo, for instance. When pro-democracy protests began in his hometown, Hong Kong, in early September 2014, Ngo, a New York University student originally from Hong Kong, felt compelled to act. Ngo started to talk to other expatriate Hong Kongers in New York and in Washington, DC. He ended up organizing protests in 86 cities across the globe and his story is emblematic of many movements that originate on global outrage about an issue.
+
+For this Al Jazeera America story, Ngo allowed us to mine his personal Facebook history—an archive that each Facebook user can download from the platform (Vo, 2015). We scraped the messages he exchanged with another core organizer in Hong Kong and found 10 different chat rooms in which the two and other organizers exchanged thoughts about their political activities.
+
+The chart below (Figure 32.2) documents the ebbs and flows of their communications. First there’s a spike of communications when a news event brought about public outrage—Hong Kong police throwing tear gas at peaceful demonstrators. Then there’s the emergence of one chat room, the one in beige, which became the chat room in which the core organizersplanned political activities well beyond the initial news events.
+
+Since most of their planning took place inside these chat rooms, we were also able to recount the moment when Ngo first met his co-organizer, Angel Yau. Ngo himself wasn’t able to recall their first exchanges but thanks to the Facebook archive we were able to reconstruct the very first conversation Ngo had with Yau.
+
+Figure 32.2. United for Democracy: Global Solidarity with Hong Kong Facebook group. Facebook data courtesy of Jeffrey Ngo. Source: BuzzFeed News.
+Figure 32.2. United for Democracy: Global Solidarity with Hong Kong Facebook group. Facebook data courtesy of Jeffrey Ngo. Source: BuzzFeed News.
+While it is clear that Ngo’s evolution as a political organizer is that of an individual and by no means representative of every person who participated in his movement, it is, however, emblematic of the kind of path a political organizer may take in the digital age.
+
+Phenomena Specific to Online Ecosystems
+Many of our interactions are moving exclusively to online platforms.
+
+While much of our social behavior online and offline is often intermingled, our online environments are still quite particular because online human beings are assisted by powerful tools.
+
+There’s bullying for one. Bullying has arguably existed as long as humankind. But now bullies are assisted by thousands of other bullies who can be called upon within the blink of an eye. Bullies have access to search engines and digital traces of a person’s life, sometimes going as far back as that person’s online personas go. And they have the means of amplification—one bully shouting from across the hallway is not nearly as deafening as thousands of them coming at you all at the same time. Such is the nature of trolling.
+
+Figure 32.3 - A chart of Doris Truong’s Twitter mentions starting the day of the attack. Source: BuzzFeed News. https://www.buzzfeednews.com/article/lamvo/heres-what-it-feels-like-to-be-trolled-in-trumps-america
+Figure 32.3 - A chart of Doris Truong’s Twitter mentions starting the day of the attack. Source: BuzzFeed News. https://www.buzzfeednews.com/article/lamvo/heres-what-it-feels-like-to-be-trolled-in-trumps-america
+Washington Post editor Doris Truong, for instance, found herself at the heart of a political controversy online. Over the course of a few days, trolls (and a good amount of people defending her) directed 24,731 Twitter mentions at her. Being pummelled with vitriol on the Internet can only be ignored for so long before it takes some kind of emotional toll.
+
+Trolling, not unlike many other online attacks, have become problems that can afflict any person now—famous or not. From Yelp reviews of businesses that go viral—like the cake shop that refused to prepare a wedding cake for a gay couple—to the ways in which virality brought about the f iring and public shaming of Justine Sacco—a PR person who made an unfortunate joke about HIV and South Africans right before she took off on an intercontinental flight—many stories that affect our day-to-day life take place online these days.
+
+Information Wars
+The emergence and the ubiquitous use of social media have brought about a new phenomenon in our lives: Virality.
+
+Figure 32.4. BuzzFeed News compared one of its own human editors’ Twitter data, @tomnamako, and the data of several accounts that displayed bot-like activity to highlight their differences in personas and behavior. The first chart above shows that the BuzzFeed News editor’s last 2,955 tweets are evenly distributed throughout several months. His daily tweet count barely ever surpassed the mark of 72 tweets per day, which the Digital Forensics Research Lab designated as a suspicious level of activity. The second chart shows the bot’s last 2,955 tweets. It was routinely blasting out a suspicious number of tweets, hitting 584 in one day. Then, it seems to have stopped abruptly. Source: BuzzFeed News.
+Figure 32.4. BuzzFeed News compared one of its own human editors’ Twitter data, @tomnamako, and the data of several accounts that displayed bot-like activity to highlight their differences in personas and behavior. The first chart above shows that the BuzzFeed News editor’s last 2,955 tweets are evenly distributed throughout several months. His daily tweet count barely ever surpassed the mark of 72 tweets per day, which the Digital Forensics Research Lab designated as a suspicious level of activity. The second chart shows the bot’s last 2,955 tweets. It was routinely blasting out a suspicious number of tweets, hitting 584 in one day. Then, it seems to have stopped abruptly. Source: BuzzFeed News.
+Social sharing has made it possible for any kind of content to potentially be seen not just by a few hundred but by millions of people without expensive marketing campaigns or TV air time purchases.
+
+But what that means is that many people have also found ways to game algorithms with fake or purchased followers as well as (semi-)automated accounts like bots and cyborgs (Vo, 2017a).
+
+Bots are not evil from the get-go: There are plenty of bots that may delight us with their whimsical haikus or self-care tips. But as Atlantic Council fellow Ben Nimmo, who has researched bot armies for years, told me for a BuzzFeed story: “[Bots] have the potential to seriously distort any debate.
+
+. . They can make a group of six people look like a group of 46,000 people.” The social media platforms themselves are at a pivotal point in their existence where they have to recognize their responsibility in defining and clamping down on what they may deem a “problematic bot.” In the meantime, journalists should recognize the ever-growing presence of non-humans and their power online.
+
+For one explanatory piece about automated accounts we wanted to compare tweets from a human to those from a bot (Vo, 2017b). While there’s no sure-fire way to really determine whether an account is operated through a coding script and thus is not a human, there are ways to look at different traits of a user to see whether their behaviour may be suspicious. One of the characteristics we decided to look at is that of an account’s activity.
+
+For this we compared the activity of a real person with that of a bot. During its busiest hour on its busiest day the bot we examined tweeted more than 200 times. Its human counterpart only tweeted 21 times.
+
+How to harvest social data
+There are broadly three different ways to harvest data from the social web: APIs, personal archives and scraping.
+
+The kind of data that official channels like API data streams provide is very limited. Despite harbouring warehouses of data on consumers’ behaviour, social media companies only provide a sliver of it through their APIs. For Facebook, researchers were once able to get data for public pages and groups but are no longer able to mine that kind of data after the company implemented restrictions on the availability of this data in response to the Cambridge Analytica scandal. For Twitter, this access is often restricted to a set number of tweets from a user’s timeline or to a set time frame for search.
+
+Then there are limitations on the kind of data users can request of their own online persona and behaviour. Some services like Facebook or Twitter will allow users to download a history of the data that constitutes their online selves—their posts, their messaging, or their profile photos—but that data archive won’t always include everything each social media company has on them either.
+
+For instance, users can only see what ads they’ve clicked on going three months back, making it really hard for them to see whether they may or may not have clicked on a Russia-sponsored post.
+
+Last but not least, extracting social media data from the platforms through scraping is often against the terms of service. Scraping a social media platform can get users booted from a service and potentially even result in a lawsuit (Facebook, Inc. v. Power Ventures, Inc., 2016).
+
+For social media platforms, suing scrapers may make financial sense. A lot of the information that social media platforms gather about their users is for sale—not directly, but companies and advertisers can profit from it through ads and marketing. Competitors could scrape information from Facebook to build a comparable platform, for instance. But lawsuits may inadvertently deter not just economically motivated data scrapers but also academics and journalists who want to gather information from social media platforms for research purposes.
+
+This means that journalists may need to be more creative in how they report and tell these stories. Journalists may want to buy bots to better understand how they act online, or reporters may want to purchase Facebook ads to get a better understanding of how Facebook works (Angwin et al., 2017).
+
+Whatever the means, operating within and outside of the confines set by social media companies will be a major challenge for journalists as they are navigating this ever-changing cyber environment.
+
+What Social Media Data Is Not Good For
+It seems imperative to better understand the universe of social data also from a standpoint of its caveats.
+
+Understanding Who Is and Who Is Not Using Social Media
+One of the biggest issues with social media data is that we cannot assume that the people we hear on Twitter or Facebook are representative samples of broader populations offline.
+
+While there are a large number of people who have a Facebook or Twitter account, journalists should be wary of thinking that the opinions expressed online are those of the general population. As a Pew study from 2018 il- lustrates, usage of social media varies from platform to platform (Smith & Anderson, 2018). While more than two thirds of US adults online use YouTube and Facebook, less than a quarter use Twitter. This kind of data can be much more powerful for a concrete and specific story, whether it is examining the hate speech spread by specific politicians in Myanmar or examining the type of coverage published by conspiracy publication Infowars over time.
+
+Not Every User Represents One Real Human Being
+In addition to that, not every user necessarily represents a person. There are automated accounts (bots) and accounts that are semi-automated and semi-human controlled (cyborgs). And there are also users who operate multiple accounts.
+
+Again, understanding that there’s a multitude of actors out there manipu- lating the flow of information for economic or political gain is an important aspect to keep in mind when looking at social media data in bulk (although this subject in itself—media and information manipulation—has become a major story in its own right that journalists have been trying to tell in ever more sophisticated ways).
+
+The Tyranny of the Loudest
+Last but not least it’s important to recognize that not everything or everyone’s behaviour is measured. A vast amount of people often choose to remain silent. And as more moderate voices are recorded less, it is only the extreme reactions that are recorded and fed back into algorithms that disproportionately amplify the already existing prominence of the loudest.
+
+What this means is that the content that Facebook, Twitter and other platforms algorithmically surface on our social feeds is often based on the likes, retweets and comments of those who chose to chime in. Those who did not speak up are disproportionately drowned out in this process. Therefore, we need to be as mindful of what is not measured as we are of what is measured and how information is ranked and surfaced as a result of these measured and unmeasured data points.
+
+Footnotes
+
+1. Earlier versions of this chapter have been published at: source.opennews.org/articles/what-buzzfeed-news-learned-after-year-mining-data-/
+
+www.niemanlab.org/2016/12/the-primary-source-in-the-age-of-mechanical-multiplication/ doi 10.5117/9789462989511_ch32
+
+Works Cited
+
+Angwin, J., Varner, M., & Tobin, A. (2017, September 14). Facebook enabled adver- tisers to reach “Jew haters.” ProPublica.www.propublica.org/article/facebook-enabled-advertisers-to-reach-jew-haters
+
+Facebook, Inc. v. Power Ventures, Inc., No. 13-17102 (United States Ninth Circuit July 12, 2016). https://caselaw.findlaw.com/su...caselaw.findlaw.com/summary/opinion/us-9th-circuit/2016/07/12/276979.html
+
+
+Rudder, C. (2014). Dataclysm: Who we are (When we think no one’s looking). Fourth Estate.
+
+Smith, A., & Anderson, M. (2018, March 1). Social media use 2018: Demograph- ics and statistics. Pew Research Center. www.pewresearch.org/internet/2018/03/01/social-media-use-in-2018/
+
+www.technologyreview.com/2013/05/07/178542/%20has-big-data-made-anonymity-impossible/Tucker, P. (2013, May 7). Has big data made anonymity impossible? MIT Technology Review.
+
+Vo, L. T. (2015, June 3). The umbrella network. Al Jazeera America. projects.aljazeera.com/2015/04/loving-long-distance/hong-kong-umbrella-protest.html
+
+Vo, L. T. (2016). The primary source in the age of mechanical multiplication. Nieman Lab. www.niemanlab.org/2016/12/the-primary-source-in-the-age-of-mechanical-multiplication/
+
+Vo, L. T. (2017a, October 11). Twitter bots are trying to influence you. These six charts show you how to spot one. BuzzFeed News. www.buzzfeednews.com/article/lamvo/twitter-bots-v-human
+
+
+Vo, L. T. (2017b, October 20). Here’s what we learned from staring at social media data for a year. BuzzFeed. www.buzzfeed.com/lamvo/heres-what-we-learned-from-staring-at-social-media-data-for
+
+Vo, L. T. (2017c, October 20). What we learned from staring at social media data for a year. Source. source.opennews.org/articles/what-buzzfeed-news-learned-after-year-mining-data-/
+
