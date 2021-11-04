@@ -34,16 +34,14 @@ Figure 32.1. A snapshot of the media links that Trump tweeted during his preside
 人間の行動をたどる
 ツイートやFacebookのオープンな投稿のような公的・半公的なコミュニケーションは、人々が他者に対して自分をどのように表現しているかを知ることができますが、プライベートメッセージやGoogle検索、ジオロケーションデータのように、壁の向こうにあるソーシャルプラットフォームに存在するデータもあります。
 OKCupidの共同設立者であり、『Dataclysm』という本の著者であるクリスチャン・ラダー（2014年）は、この種のデータについて、かなり的確な表現をしています。これらは、私たちが「"誰も見ていないと思っている」ときの行動が記録された統計なのです。
-
-By virtue of using a social platform, a person ends up producing longitudinal data of their own behaviour. And while it’s hard to extrapolate much from these personal data troves beyond the scope of the person who produced them, this kind of data can be extremely powerful when trying to tell the story of one person. I often like to refer this kind of approach as a “quantified selfie,” a term Maureen O’Connor coined for me when she described some of my work.
-
-Take the story of Jeffrey Ngo, for instance. When pro-democracy protests began in his hometown, Hong Kong, in early September 2014, Ngo, a New York University student originally from Hong Kong, felt compelled to act. Ngo started to talk to other expatriate Hong Kongers in New York and in Washington, DC. He ended up organizing protests in 86 cities across the globe and his story is emblematic of many movements that originate on global outrage about an issue.
-
-For this Al Jazeera America story, Ngo allowed us to mine his personal Facebook history—an archive that each Facebook user can download from the platform (Vo, 2015). We scraped the messages he exchanged with another core organizer in Hong Kong and found 10 different chat rooms in which the two and other organizers exchanged thoughts about their political activities.
-
-The chart below (Figure 32.2) documents the ebbs and flows of their communications. First there’s a spike of communications when a news event brought about public outrage—Hong Kong police throwing tear gas at peaceful demonstrators. Then there’s the emergence of one chat room, the one in beige, which became the chat room in which the core organizersplanned political activities well beyond the initial news events.
-
-Since most of their planning took place inside these chat rooms, we were also able to recount the moment when Ngo first met his co-organizer, Angel Yau. Ngo himself wasn’t able to recall their first exchanges but thanks to the Facebook archive we were able to reconstruct the very first conversation Ngo had with Yau.
+ソーシャルプラットフォームを利用することで、人は自分の行動の縦断的なデータを作り出すことになります。このような個人的なデータの山から、それを作成した人の範囲を超えて多くのことを推測するのは難しいが、この種のデータは一人の人間のストーリーを伝えようとするときには非常に強力です。
+私はこのようなアプローチを「定量化された自撮り写真」と呼びたいと思っています。これは、モーリーン・オコナーが私の作品を紹介する際に作った言葉です。
+（香港の民主派団体「デモシスト」）ジェフリー・ゴー（敖卓軒）のストーリーを例にしてみましょう。香港出身のニューヨーク大生であるゴーは、2014年9月初めに故郷の香港で民主化デモが始まったとき、行動を起こさなければならないと感じました。
+ニューヨークやワシントンD.C.に住む香港在住の他の人々に声がけし、最終的には世界中の86都市で抗議運動を組織することになりました。彼の話は、ある問題に対する世界的な怒りから始まる多くの運動を象徴しています。
+ゴーはアル・ジャジーラ・アメリカの記事のために、個人的なFacebookの履歴の調査を許可してくれました。彼が香港の別のコア・オーガナイザーと交わしたメッセージをスクレイピングし、2人と他のオーガナイザーが政治活動について意見を交わした10の異なるチャットルームを発見しました。
+下の図（図32.2）は、彼らのコミュニケーションの波と流れを記録したものです。まず、「香港警察が平和的なデモ隊に催涙ガスを投げつけた」というニュースが世間を騒がせたとき、通信が急増しました。そして、ベージュ色のチャットルームが出現します。
+このチャットルームは、最初のニュースイベントを超えて、中心組織が政治活動を計画するためのチャットルームとなりました。
+ここでは、ゴーが共同主催者のアグネス・チョ（周庭）と初めて会ったときのことを振り返ることができました。ゴー本人は最初のやり取りを覚えていませんでしたが、Facebookのアーカイブのおかげで、ンゴがヤウと最初に交わした会話を再現することができました。
 
 Figure 32.2. United for Democracy: Global Solidarity with Hong Kong Facebook group. Facebook data courtesy of Jeffrey Ngo. Source: BuzzFeed News.
 Figure 32.2. United for Democracy: Global Solidarity with Hong Kong Facebook group. Facebook data courtesy of Jeffrey Ngo. Source: BuzzFeed News.
