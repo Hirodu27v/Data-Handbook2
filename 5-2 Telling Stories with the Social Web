@@ -67,17 +67,13 @@ Figure 32.4. BuzzFeed News compared one of its own human editors’ Twitter data
 Figure 32.4. BuzzFeed News compared one of its own human editors’ Twitter data, @tomnamako, and the data of several accounts that displayed bot-like activity to highlight their differences in personas and behavior. The first chart above shows that the BuzzFeed News editor’s last 2,955 tweets are evenly distributed throughout several months. His daily tweet count barely ever surpassed the mark of 72 tweets per day, which the Digital Forensics Research Lab designated as a suspicious level of activity. The second chart shows the bot’s last 2,955 tweets. It was routinely blasting out a suspicious number of tweets, hitting 584 in one day. Then, it seems to have stopped abruptly. Source: BuzzFeed News.
 ソーシャルシェアリングによってあらゆる種類のコンテンツが、数百人だけでなく数百万人の人々に見られる可能性が実現し、高価なマーケティングキャンペーンやテレビの放送時間枠の購入が不要になりました。
 しかしそれは、多くの人が偽のフォロワーや購入したフォロワー、ボットやサイボーグ(Vo、2017 a)のような (半) 自動化されたアカウントを使ってアルゴリズムを操作するようになったことを意味しています。
-Social sharing has made it possible for any kind of content to potentially be seen not just by a few hundred but by millions of people without expensive marketing campaigns or TV air time purchases.
-
-But what that means is that many people have also found ways to game algorithms with fake or purchased followers as well as (semi-)automated accounts like bots and cyborgs (Vo, 2017a).
-
-Bots are not evil from the get-go: There are plenty of bots that may delight us with their whimsical haikus or self-care tips. But as Atlantic Council fellow Ben Nimmo, who has researched bot armies for years, told me for a BuzzFeed story: “[Bots] have the potential to seriously distort any debate.
-
-. . They can make a group of six people look like a group of 46,000 people.” The social media platforms themselves are at a pivotal point in their existence where they have to recognize their responsibility in defining and clamping down on what they may deem a “problematic bot.” In the meantime, journalists should recognize the ever-growing presence of non-humans and their power online.
-
-For one explanatory piece about automated accounts we wanted to compare tweets from a human to those from a bot (Vo, 2017b). While there’s no sure-fire way to really determine whether an account is operated through a coding script and thus is not a human, there are ways to look at different traits of a user to see whether their behaviour may be suspicious. One of the characteristics we decided to look at is that of an account’s activity.
-
-For this we compared the activity of a real person with that of a bot. During its busiest hour on its busiest day the bot we examined tweeted more than 200 times. Its human counterpart only tweeted 21 times.
+ボットは元来悪ではありません。気まぐれな俳句やセルフケアのヒントで私たちを楽しませてくれるかもしれないボットもたくさんいます。
+しかし、Atlantic Councilのフェローで、ボット・アーミーを長年研究してきたベン・ニモがBuzzFeedの記事で私に語ったように、「 (ボットは) あらゆる議論をとても歪める可能性を秘めている･･･6人のグループを4万6,000人のグループに見せかけることができる」のです。
+ソーシャルメディアのプラットフォーム自身も、「問題のあるボット」を定義し、それを取り締まる責任を認識しなければならない重要な時期に来ています。一方で、ジャーナリストは、オンライン上で増え続ける非人間の存在とその力を認識すべきです。
+自動化されたアカウントに関するある記事では、人間のツイートとボットのツイートを比較したいと考えました（Vo, 2017b）。
+あるアカウントがコード化されたスクリプトによって操作され、人間ではないかどうかを判断する確実な方法はありませんが、ユーザーのさまざまな特徴を見て、その行動が疑わしいものであるかどうかを確認する方法はあります。
+私たちが調べようと決めた特徴の一つは、アカウントの活動量です。
+そこで、実際の人間とボットの行動を比較してみました。最も忙しい日の最も忙しい時間帯に、私たちが調べたボットは200回以上ツイートしていました。一方、人間は21回しかつぶやきませんでした。
 
 How to harvest social data
 There are broadly three different ways to harvest data from the social web: APIs, personal archives and scraping.
