@@ -74,13 +74,13 @@ Figure 32.4. BuzzFeed News compared one of its own human editors’ Twitter data
 あるアカウントがコード化されたスクリプトによって操作され、人間ではないかどうかを判断する確実な方法はありませんが、ユーザーのさまざまな特徴を見て、その行動が疑わしいものであるかどうかを確認する方法はあります。
 私たちが調べようと決めた特徴の一つは、アカウントの活動量です。
 そこで、実際の人間とボットの行動を比較してみました。最も忙しい日の最も忙しい時間帯に、私たちが調べたボットは200回以上ツイートしていました。一方、人間は21回しかつぶやきませんでした。
-
-How to harvest social data
-There are broadly three different ways to harvest data from the social web: APIs, personal archives and scraping.
-
-The kind of data that official channels like API data streams provide is very limited. Despite harbouring warehouses of data on consumers’ behaviour, social media companies only provide a sliver of it through their APIs. For Facebook, researchers were once able to get data for public pages and groups but are no longer able to mine that kind of data after the company implemented restrictions on the availability of this data in response to the Cambridge Analytica scandal. For Twitter, this access is often restricted to a set number of tweets from a user’s timeline or to a set time frame for search.
-
-Then there are limitations on the kind of data users can request of their own online persona and behaviour. Some services like Facebook or Twitter will allow users to download a history of the data that constitutes their online selves—their posts, their messaging, or their profile photos—but that data archive won’t always include everything each social media company has on them either.
+ソーシャルデータの取得方法
+ソーシャル・ウェブからデータを取得する方法は、大きく分けて三つあります。API、パーソナルアーカイブ、スクレイピングです。
+APIデータストリームのような公式チャネルが提供するデータの種類は非常に限られています。ソーシャルメディア企業は、消費者行動に関するデータを保管しているのに、APIを通じて提供しているのはその一部にすぎません。
+Facebookの場合、かつては研究者が公開ページやグループのデータを入手することができましたが、ケンブリッジ・アナリティカのスキャンダルを受けて同社がこのデータの利用に制限を設けたため、この種のデータをマイニングすることはできなくなりました。
+Twitterの場合、このアクセスはユーザーのタイムラインからのツイート数や検索の時間枠に制限されることが多いのです。
+さらに、ユーザーがオンライン上の自分の人格や行動について要求できるデータの種類にも制限があります。
+FacebookやTwitterなどの一部のサービスでは、ユーザーがオンライン上の自分を構成するデータ（投稿、メッセージ、プロフィール写真など）の履歴をダウンロードすることができますが、そのデータアーカイブには、各ソーシャルメディア企業が保有する自分の情報がすべて含まれているとは限りません。
 
 For instance, users can only see what ads they’ve clicked on going three months back, making it really hard for them to see whether they may or may not have clicked on a Russia-sponsored post.
 
