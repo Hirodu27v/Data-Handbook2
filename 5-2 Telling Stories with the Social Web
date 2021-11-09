@@ -81,22 +81,20 @@ Facebookの場合、かつては研究者が公開ページやグループのデ
 Twitterの場合、このアクセスはユーザーのタイムラインからのツイート数や検索の時間枠に制限されることが多いのです。
 さらに、ユーザーがオンライン上の自分の人格や行動について要求できるデータの種類にも制限があります。
 FacebookやTwitterなどの一部のサービスでは、ユーザーがオンライン上の自分を構成するデータ（投稿、メッセージ、プロフィール写真など）の履歴をダウンロードすることができますが、そのデータアーカイブには、各ソーシャルメディア企業が保有する自分の情報がすべて含まれているとは限りません。
-
-For instance, users can only see what ads they’ve clicked on going three months back, making it really hard for them to see whether they may or may not have clicked on a Russia-sponsored post.
-
-Last but not least, extracting social media data from the platforms through scraping is often against the terms of service. Scraping a social media platform can get users booted from a service and potentially even result in a lawsuit (Facebook, Inc. v. Power Ventures, Inc., 2016).
-
-For social media platforms, suing scrapers may make financial sense. A lot of the information that social media platforms gather about their users is for sale—not directly, but companies and advertisers can profit from it through ads and marketing. Competitors could scrape information from Facebook to build a comparable platform, for instance. But lawsuits may inadvertently deter not just economically motivated data scrapers but also academics and journalists who want to gather information from social media platforms for research purposes.
-
-This means that journalists may need to be more creative in how they report and tell these stories. Journalists may want to buy bots to better understand how they act online, or reporters may want to purchase Facebook ads to get a better understanding of how Facebook works (Angwin et al., 2017).
-
-Whatever the means, operating within and outside of the confines set by social media companies will be a major challenge for journalists as they are navigating this ever-changing cyber environment.
-
-What Social Media Data Is Not Good For
-It seems imperative to better understand the universe of social data also from a standpoint of its caveats.
-
-Understanding Who Is and Who Is Not Using Social Media
-One of the biggest issues with social media data is that we cannot assume that the people we hear on Twitter or Facebook are representative samples of broader populations offline.
+例えば、ユーザーがクリックした広告は3ヶ月前までしか見ることができないため、ロシアがスポンサーとなっている投稿をクリックしたかどうかを知るのは非常に困難です。
+最後に重要なことでが、スクレイピングによってソーシャルメディアのデータをプラットフォームから抽出することは、多くの場合、利用規約に反します。
+ソーシャルメディアプラットフォームをスクレイピングすると、ユーザーはサービスから追い出され、訴訟に発展する可能性もあります（Facebook, Inc. v. Power Ventures, Inc.）。
+ソーシャルメディアプラットフォームにとって、スクレイパーを訴えることは金銭的に理にかなっているかもしれません。
+ソーシャルメディア・プラットフォームがユーザーについて収集した情報の多くは販売用で、直接（自分たちが使うため）ではなく、企業や広告主が広告やマーケティングを通じて利益を得るために使われます。
+例えば、競合他社はFacebookから情報をスクレイピングすれば、同等のプラットフォームを構築できてしまいます。
+しかし、訴訟は、経済的な動機によるデータスクレーパーだけでなく、研究目的でソーシャルメディアプラットフォームから情報を収集したいと考えている学者やジャーナリストも、意図せず抑止してしまうかもしれません。
+ジャーナリストは、これらのストーリーをどのように報道し、伝えるかについて、より創造的になる必要があるかもしれません。
+ボットを購入してオンラインでの行動をよりよく理解するとか、Facebookの仕組みをよく理解するためにFacebookの広告枠を購入することが考えられます（Angwin et al.）。
+手段が何であれ、ソーシャルメディア企業が設定した枠の内外で活動することは、刻々と変化するサイバー環境をナビゲートするジャーナリストにとって大きな課題となるでしょう。
+ソーシャルメディアデータが苦手とするもの
+ソーシャルデータの世界を理解するためには、その注意点についても目配りする必要があります。
+ソーシャルメディアを使っている人、使っていない人を理解する
+ソーシャルメディアデータの最大の問題点は、TwitterやFacebookで見かける人々が、オフラインのより広範な人々を代表するサンプルではないことです。
 
 While there are a large number of people who have a Facebook or Twitter account, journalists should be wary of thinking that the opinions expressed online are those of the general population. As a Pew study from 2018 il- lustrates, usage of social media varies from platform to platform (Smith & Anderson, 2018). While more than two thirds of US adults online use YouTube and Facebook, less than a quarter use Twitter. This kind of data can be much more powerful for a concrete and specific story, whether it is examining the hate speech spread by specific politicians in Myanmar or examining the type of coverage published by conspiracy publication Infowars over time.
 
