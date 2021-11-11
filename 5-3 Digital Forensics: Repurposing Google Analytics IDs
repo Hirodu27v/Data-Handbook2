@@ -1,13 +1,12 @@
-Digital Forensics: Repurposing Google Analytics IDs
+デジタル・フォレンジック:Google AnalyticsのIDを再利用する
 Written by Richard Rogers
 
-Abstract
+概要
 
-This chapter describes a network discovery technique on the basis of websites sharing the same Google Analytics and/or AdSense IDs.
+本章では、Google AnalyticsやAdSenseのIDを共有しているWebサイトを基にしたネットワーク発見技術について説明します。
 
 
-Keywords: digital methods, digital forensics, anonymous sources, network mapping, Google Analytics, data journalism
-
+キーワード：デジタル・メソッド，デジタル・フォレンジック，匿名ソース，ネットワーク・マッピング，Google Analytics，データ・ジャーナリズム
 When an investigative journalist uncovered a covert network of Russian websites in July 2015 furnishing disinformation about Ukraine, not only did this revelation portend the state-sponsored influence campaigning prior to the 2016 US presidential elections,1 it also popularized a network discovery technique for data journalists and social researchers (Alexander, 2015).
 
 Which websites share the same Google Analytics ID (see Figure 33.1)? If the websites share the same ID, it follows that they are operated by the same registrant, be it an individual, organization or media group.
