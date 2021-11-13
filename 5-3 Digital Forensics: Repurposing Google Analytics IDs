@@ -7,7 +7,9 @@ Written by Richard Rogers
 
 
 キーワード：デジタル・メソッド，デジタル・フォレンジック，匿名ソース，ネットワーク・マッピング，Google Analytics，データ・ジャーナリズム
-When an investigative journalist uncovered a covert network of Russian websites in July 2015 furnishing disinformation about Ukraine, not only did this revelation portend the state-sponsored influence campaigning prior to the 2016 US presidential elections,1 it also popularized a network discovery technique for data journalists and social researchers (Alexander, 2015).
+2015年7月、ある調査ジャーナリストが、ウクライナに関する偽情報を提供するロシアのWebサイトの秘密ネットワークを発見しました。
+この発見は、2016年の米国大統領選挙における国家後援によるキャンペーンの前触れとなっただけでなく、データジャーナリストや社会研究者にネットワーク発見技術を知らしめました（Alexander, 2015）。
+
 
 Which websites share the same Google Analytics ID (see Figure 33.1)? If the websites share the same ID, it follows that they are operated by the same registrant, be it an individual, organization or media group.
 
