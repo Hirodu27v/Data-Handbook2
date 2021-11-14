@@ -9,17 +9,15 @@ Written by Richard Rogers
 キーワード：デジタル・メソッド，デジタル・フォレンジック，匿名ソース，ネットワーク・マッピング，Google Analytics，データ・ジャーナリズム
 2015年7月、ある調査ジャーナリストが、ウクライナに関する偽情報を提供するロシアのWebサイトの秘密ネットワークを発見しました。
 この発見は、2016年の米国大統領選挙における国家後援によるキャンペーンの前触れとなっただけでなく、データジャーナリストや社会研究者にネットワーク発見技術を知らしめました（Alexander, 2015）。
+同じGoogle Analytics IDを共有しているWebサイトはどれでしょう（図33.1参照）？
+同じIDを持つWebサイトは、個人、組織、メディアグループなど、同じ登録者によって運営されていることがわかります。
+ジャーナリストのローレンス・アレキサンダーは、2013～14年に親ロシア派のウクライナ大統領を打倒して親欧米派の大統領を生み出した、ユーロマイダン抗議活動に関する情報を提供しているウェブサイト、「emmaidan.com.ua」のソースが欠如していることをきっかけに、仕事を始めたそうです。
+その情報源を探し、 「匿名性に興味をそそられた」彼は、サイトのソースコードを掘り下げました。
 
-
-Which websites share the same Google Analytics ID (see Figure 33.1)? If the websites share the same ID, it follows that they are operated by the same registrant, be it an individual, organization or media group.
-
-The journalist, Lawrence Alexander, was prompted in his work by the lack of a source behind emaidan.com.ua, a website that appears to give information about the Euromaidan protests in 2013–2014 in Ukraine that ultimately upended the pro-Russian Ukrainian president in favour of a pro-Western one.
-
-In search of the source, and “intrigued by its anonymity,” Alexander (2015) dug into the website code.
 
 Figure 33.1.
 Figure 33.1. Website network discovered through (shared) Google Analytics IDs. Source: Alexander, L. (2015, July 13). Open-source information reveals pro-Kremlin web campaign. Global Voices. https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web-campaign/.
-Viewing the source code of the web page, he found a Google Analytics ID, which he inserted into reverse lookup software that furnishes a list of other websites using the same ID.2
+ソースコードから、Google AnalyticsのIDを見つけ、同じIDを使用している他のウェブサイトのリストを提供する逆引きソフトウェアに挿入しました。
 
 He found a (star-shaped) network of a Google Analytics ID linked to eight other (in Figure 33.1 at the top of the diagram), sharing a similar anti-Ukraine narrative.
 
