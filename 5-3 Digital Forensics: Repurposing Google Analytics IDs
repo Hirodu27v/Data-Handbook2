@@ -18,14 +18,12 @@ Written by Richard Rogers
 Figure 33.1.
 Figure 33.1. Website network discovered through (shared) Google Analytics IDs. Source: Alexander, L. (2015, July 13). Open-source information reveals pro-Kremlin web campaign. Global Voices. https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web-campaign/.
 ソースコードから、Google AnalyticsのIDを見つけ、同じIDを使用している他のウェブサイトのリストを提供する逆引きソフトウェアに挿入しました。
-
-He found a (star-shaped) network of a Google Analytics ID linked to eight other (in Figure 33.1 at the top of the diagram), sharing a similar anti-Ukraine narrative.
-
-One of those websites also used an additional Google Analytics ID, which led to another cluster of related websites (in Figure 33.1 at the bottom to the right), also of similar political persuasion.
-
-Examining the WHOIS records of several of these domains, he found an associated email address, and subsequently a person’s profile and photo on VKontakte, the Russian social networking site. The name of this person he then found on a leaked list of employees from the Internet Research Agency in St Petersburg, known as the workplace of the Russian government-sponsored “troll army” (Chen, 2015; Toler, 2015).
-
-Drawing links between data points, Alexander put a name and face on a so-called Russian troll. He also humanized the troll, somewhat, by pointing to his Pinterest hobby page, where there is posted a picture of Russian space achievements. The troll is a Cosmonaut space fan, too.
+彼は、あるGoogle Analytics IDが八つの他のサイトにリンクしている（図33.1の上段）という（星型の）ネットワークを見つけました。いずれも反ウクライナの立場を取るものでした。
+それらのウェブサイトの1つは、さらに別のGoogle Analytics IDを使用しており、これが、同じく同様の政治的影響力を持つ別のクラスタ（図33.1の右下）につながっていたのです。
+これらのドメインのWHOIS記録を調べると、関連する電子メールアドレスが見つかり、続いて、ロシアのソーシャルネットワーキングサイトであるフコンタクテ上の人物のプロフィールと写真が見つかりました。
+この人物の名前は、ロシア政府が支援する情報工作組織として知られるサンクトペテルブルクのインターネット・リサーチ・エージェンシーから流出した従業員リストに記載されていました（Chen, 2015; Toler, 2015）。
+アレキサンダーはデータポイント間のリンクを作成し、ロシアのトロール (荒らし) に名前と顔を与えました。
+また、彼のPinterestの趣味欄にロシアの宇宙開発の写真が掲載されていることを明らかにして、トロールを多少なりとも人間味のあるものにしました。このトロールは宇宙飛行士のファンでもあります。
 
 Employing so-called “open-source intelligence” (OSINT) tools as discovery techniques (and also digital methods in the sense of repurposing Google Analytics and reverse lookup software), Alexander and other journalists make and follow links in code, public records, databases and leaks, piecing it all together for an account of “who’s behind” particular operations (Bazzell, 2016).
 
