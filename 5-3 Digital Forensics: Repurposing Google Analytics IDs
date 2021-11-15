@@ -31,8 +31,7 @@ Figure 33.1. Website network discovered through (shared) Google Analytics IDs. S
 
 Figure 33.3
 Figure 33.3. Embedded digital objects on websites, depicted as network diagram. Source: Alexander, L. (2015, July 13). Open-source information reveals pro-Kremlin web campaign. Global Voices. https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web- campaign/.
-
-Google Analytics ID detective work has a lineage in the practice of unmasking anonymous online actors through exploits, or entry points to personally identificable data that have not been foreseen by its creators.
+GoogleアナリティクスのID検出作業は、エクスプロイト（個人を特定できるデータへの侵入口）を利用して匿名のオンラインアクターの仮面を剥ぐという、作成者が予期していなかった作業の系譜を受け継いでいます。
 
 Mining Google Analytics IDs for network discovery and mapping is also a repurposing exercise, using the software in unintended fashion for social research.
 
