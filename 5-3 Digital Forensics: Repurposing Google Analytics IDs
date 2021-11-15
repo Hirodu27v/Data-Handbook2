@@ -24,15 +24,14 @@ Figure 33.1. Website network discovered through (shared) Google Analytics IDs. S
 この人物の名前は、ロシア政府が支援する情報工作組織として知られるサンクトペテルブルクのインターネット・リサーチ・エージェンシーから流出した従業員リストに記載されていました（Chen, 2015; Toler, 2015）。
 アレキサンダーはデータポイント間のリンクを作成し、ロシアのトロール (荒らし) に名前と顔を与えました。
 また、彼のPinterestの趣味欄にロシアの宇宙開発の写真が掲載されていることを明らかにして、トロールを多少なりとも人間味のあるものにしました。このトロールは宇宙飛行士のファンでもあります。
-
-Employing so-called “open-source intelligence” (OSINT) tools as discovery techniques (and also digital methods in the sense of repurposing Google Analytics and reverse lookup software), Alexander and other journalists make and follow links in code, public records, databases and leaks, piecing it all together for an account of “who’s behind” particular operations (Bazzell, 2016).
-
-“Discovery” is an investigative or even digital forensics approach for journalistic mining and exposure, where one would identify and subsequently strive to contact the individual, organization or media group to interview them, and grant them an opportunity to account for their work.3
-
-The dual accountings—the journalist’s discovery and the discovered’s explanation—constitute the story to be told. The purpose is to make things public, to wring out of the hairy code of websites the covert political work being undertaken, and have this particular proof be acknowledged (Latour, 2005).
+アレキサンダーらジャーナリストは、いわゆる「オープンソース・インテリジェンス」（OSINT）ツールを「発見」に活用し（Google Analyticsや逆引きソフトを再利用する手法もある）、コード、公文書、データベース、リークなどのリンクを作り、それをすべてつなぎ合わせて、特定の活動の「背後にいる人物」を説明しています（Bazzell, 2016）。
+「発見」とは、ジャーナリスティックな情報収集と暴露のための調査的、あるいはデジタルフォレンジック的なアプローチであり、個人、組織、メディアグループを特定してインタビューを試み、自分の仕事について説明する機会を与えるというものです。
+ジャーナリストの発見とその相手による二重の説明が、語られるべきストーリーを構成します。
+その目的は、Webサイトのヤバいコードから、秘密裏に行われている政治活動を抽出し、この特定の証拠を認めさせることにあります（Latour, 2005）。
 
 Figure 33.3
 Figure 33.3. Embedded digital objects on websites, depicted as network diagram. Source: Alexander, L. (2015, July 13). Open-source information reveals pro-Kremlin web campaign. Global Voices. https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web- campaign/.
+
 Google Analytics ID detective work has a lineage in the practice of unmasking anonymous online actors through exploits, or entry points to personally identificable data that have not been foreseen by its creators.
 
 Mining Google Analytics IDs for network discovery and mapping is also a repurposing exercise, using the software in unintended fashion for social research.
