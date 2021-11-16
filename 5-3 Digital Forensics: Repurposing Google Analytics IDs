@@ -31,19 +31,17 @@ Figure 33.1. Website network discovered through (shared) Google Analytics IDs. S
 
 Figure 33.3
 Figure 33.3. Embedded digital objects on websites, depicted as network diagram. Source: Alexander, L. (2015, July 13). Open-source information reveals pro-Kremlin web campaign. Global Voices. https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web- campaign/.
-GoogleアナリティクスのID検出作業は、エクスプロイト（個人を特定できるデータへの侵入口）を利用して匿名のオンラインアクターの仮面を剥ぐという、作成者が予期していなかった作業の系譜を受け継いでいます。
-
-Mining Google Analytics IDs for network discovery and mapping is also a repurposing exercise, using the software in unintended fashion for social research.
-
-The originator of the technique, Andy Baio, a journalist at Wired magazine, tells the story of an anonymous blogger posting highly offensive material, who had covered his tracks in the “usual ways”: “hiding personal info in the domain record, using a different IP address from his other sites, and scrubbing any shared resources from his WordPress install” (Baio, 2011).
-
-Baio ID’d him because the blogger shared a Google Analytics ID with other websites he operated in full view. The cautionary tale about this discovery and unmasking technique concludes with Baio providing a safety guide for other anonymous bloggers with a just cause, such as those monitoring Mexican drug cartels, whose discovery could lead to danger or even loss of life. Here one also could test the robustness of the anonymity, and inform the journalists working undercover online of any vulnerabilities or potential exploits.
-
-By way of conclusion, I offer a research protocol for network discovery using Google Analytics IDs, summarized in the list below:
-
-Curate a list of websites that do not provide their sources. Locate Google Analytics and AdSense IDs.
-Insert URL list into reverse lookup software such as dnslytics.com. Seek websites that share the same IDs.
-Thematically group and characterize the websites sharing IDs. Consider network visualization using Gephi.
+GoogleアナリティクスのID検出作業は、エクスプロイト（個人を特定できるデータへの侵入口）を利用して匿名のオンラインアクターの仮面を剥ぐという、開発者が予期していなかった作業の系譜を受け継いでいます。
+Google AnalyticsのIDをマイニングしてネットワークの発見やマッピングを行うことは、ソフトウェアを(開発者の)意図しない形で社会調査に使用する再利用でもあるのです。
+このテクニックの創始者であるWired誌のジャーナリスト、アンディ・バイオは、非常に攻撃的な内容を投稿する匿名のブロガーが、「いつもやり方」で正体を隠していた話を紹介しています。
+このブロガーは、「ドメインレコードの個人情報を隠し、他のサイトとは異なるIPアドレスを使用し、インストールしたWordPressから共有リソースを削除する」といった方法をとっていました。
+このブロガーは、Google AnalyticsのIDを自分が運営する他のサイトと共有しており、それが丸見えだったため、バイオは彼を特定できたのです。
+この発見と正体を暴く手法についての注意喚起は、メキシコの麻薬カルテルを監視しているといったような正当な理由のある他の匿名ブロガーに対し、その発見によって危険にさらされたり、命を落としたりしないよう安全の手引きを提供することで締めくくられています。
+また、匿名性が担保されているのかをテストし、脆弱性や悪用の可能性がある場合は、オンラインで覆面調査をしているジャーナリストに知らせることもできます。
+最後に、Google AnalyticsのIDを使ってネットワークを発見するための探査プロトコルを以下のリストにまとめてみました。
+ソースを提供していないウェブサイトのリストを作成する。Google AnalyticsとAdSenseのIDを探す。
+URLリストをdnslytics.comなどの逆引きソフトに挿入する。同じIDを持つウェブサイトを探す。
+IDを共有しているWebサイトをテーマ別に分類し、特徴を明らかにする。Gephiによるネットワークの可視化を検討する。
 Footnotes
 
 1. A longer version of this chapter is available in Rogers, R. (2019). Doing digital methods. SAGE. The author would like to acknowledge the groundwork by Mischa Szpirt. For more on this approach, see Rogers, R. (2019). Doing digital methods. SAGE (Chapter 11), and Bounegru, L., Gray, J., Venturini, T., & Mauri, M. (Comp.) (2017). A fĳield guide to “fake news”: A collection of recipes for those who love to cook with digital methods. Public Data Lab (Chapter 3).
