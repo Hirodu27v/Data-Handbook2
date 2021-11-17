@@ -1,13 +1,11 @@
 データ調査のためのアプリとその活用法
 Written by Esther Weltevrede
+概要
 
-Abstract
-
-Exploring app–platform relations for data investigations.
-
-Keywords: apps, social media platforms, digital methods, data infrastructures, data journalism, data investigations
-
-Recently, Netvizz, a tool to extract data from Facebook, lost access to Facebook’s Page Public Content Access feature. This seems to have terminated the precarious relationship its developer, the digital methods researcher Bernhard Rieder, has maintained with the Facebook API over the past nine years.1
+データ調査のためのアプリとプラットフォームの関係を探る。
+キーワード:アプリ、ソーシャルメディアプラットフォーム、デジタルメソッド、データインフラ、データジャーナリズム、データ調査
+最近、Facebookからデータを抽出するツールNetvizzが、Facebookのページ公開コンテンツアクセス機能へのアクセスを失いました。
+開発者であるデジタルメソッド研究者のベルンハルト・リーダーは９年間維持してきたFacebook APIとの不安定な関係に終止符を打ったのでした。
 
 The end of Netvizz is symptomatic of a larger shift in digital research and investigations where platforms are further restricting data collection through their application programming interfaces (APIs) and developer policies.
 
