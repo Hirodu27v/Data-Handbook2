@@ -6,14 +6,10 @@ Written by Esther Weltevrede
 キーワード:アプリ、ソーシャルメディアプラットフォーム、デジタルメソッド、データインフラ、データジャーナリズム、データ調査
 最近、Facebookからデータを抽出するツールNetvizzが、Facebookのページ公開コンテンツアクセス機能へのアクセスを失いました。
 開発者であるデジタルメソッド研究者のベルンハルト・リーダーは９年間維持してきたFacebook APIとの不安定な関係に終止符を打ったのでした。
-
-The end of Netvizz is symptomatic of a larger shift in digital research and investigations where platforms are further restricting data collection through their application programming interfaces (APIs) and developer policies.
-
-Even though the actual effectiveness of the Cambridge Analytica methods are questioned (Lomas, 2018; Smout & Busvine, 2018), the scandal prompted a debate on privacy and data protection in social media and in turn Facebook responded by further restricting access to data from their platforms.
-
-Since the initial announcement in March 2018,2 the staggered implementation of data access restrictions by Facebook within its larger family of apps has made visible the vast network of third-party stakeholders that have come to rely on the platform for a wide variety of purposes.
-
-Apps stopped working, advertising targets have been restricted, but the party most severely hit seems to be digital researchers. This is because apps that have data collection as their primary purpose are no longer allowed.
+Netvizzの終了は、プラットフォームがアプリケーション・プログラミング・インターフェース（API）や開発者ポリシーを通じたデータ収集をさらに制限しようという、デジタル調査・研究におけるより大きな変化を示しています。
+ケンブリッジ・アナリティカの手法の実際の有効性が疑問視されているにもかかわらず（Lomas, 2018; Smout & Busvine, 2018）、このスキャンダルはソーシャルメディアにおけるプライバシーとデータ保護に関する議論を巻き起こし、Facebookは自社プラットフォームからのデータへのアクセスをさらに制限することで対応しました。
+2018年3月の最初の発表以来、Facebookがその大規模なアプリ群の中でデータアクセス制限を段階的に実施したことで、さまざまな目的でプラットフォームに依存するようになったサードパーティの利害関係者の膨大なネットワークが可視化されました。
+アプリが動かなくなったり、広告ターゲットが制限されたりしていますが、最も深刻な被害を受けているのはデジタル研究者のようです。データ収集を主な目的とするアプリが許可されなくなったからです。
 
 Digital researchers resisted these changes (Bruns, 2018) by arguing that they would be to the cost of research in the interest of the public good. The list of references to the Netvizz article (Rieder, 2013) comprise over 450 publications, which in reality easily exceed that amount—just consider the many student research projects making use of the tool. Similarly, an ad hoc inventory by Bechmann of studies that “could not have existed without access to API data"3 comprises an impressive list of journalism, social science and other digital research publications.
 
