@@ -13,12 +13,11 @@ Netvizzの終了は、プラットフォームがアプリケーション・プ�
 デジタル研究者は、公共の利益のために研究費を負担することになると主張して、これらの変化に抵抗しました（Bruns, 2018）。
 Netvizz論文の参考文献リスト（Rieder, 2013）には450以上の出版物が掲載されているが、実際にはその量を簡単に超えているのです-このツールを利用している多くの学生の研究プロジェクトを考えてみてください。
 同様に、Bechmannが「APIデータへのアクセスがなければ存在し得なかった」研究のアドホックな目録を作成したところ、ジャーナリズム、社会科学、その他のデジタル研究の出版物の印象的なリストができました。
-
-Reflecting on the impact data access restrictions have on digital research, authors have contextualized these developments and periodized the past decade as “API-based research” (Venturini & Rogers, 2019) or “API-related research” (Perriam et al., 2020).
-
-These are defined as approaches to digital research based on the extraction of data made available by online platforms through their APIs. Certainly, APIs—with their data ready-made for social research—have lowered the threshold for research with social media data, not to mention that they allowed a generation of students to experiment with digital research.
-
-No technical skills are required, and for web data standards, the data is relatively clean. API-based research has also been critiqued from the onset, most notably because of APIs’ research affordances driven by convenience, affecting the researchers’ agency in developing relevant research questions (Marres, 2017).
+データアクセス制限がデジタル研究に与える影響を考慮して、著者らはこれらの動きがあった過去10年間を「APIベースの研究」（Venturini & Rogers, 2019）または「API関連の研究」（Perriam et al, 2020）の時代と名付けました。
+これらは、オンラインプラットフォームがAPIを通じて利用可能にしたデータの抽出に基づくデジタルリサーチのアプローチと定義されています。
+社会調査のためのデータが用意されているAPIは、ソーシャルメディアのデータを使った研究の敷居を下げただけでなくデジタル研究を試みるある世代の学生を増やしたことは言うまでもないことでしょう。
+技術的なスキルを必要とせず、Webデータの基準に照らして、データは比較的クリーンです。
+APIを使った研究も当初から批判されており、特にAPIが利便性を追求した研究の特性をもつため、研究機関が関連する研究問題を開発する際に影響を与えているという批判がありました（Marres, 2017）。
 
 This chapter picks up on recent calls for “post-API research” by Venturini and Rogers (2019) and the Digital Methods Initiative and focuses on the opportunities that arise in response to recent developments within social media ecosystems.4
 
