@@ -20,16 +20,17 @@ Netvizz論文の参考文献リスト（Rieder, 2013）には450以上の出版�
 APIを使った研究も当初から批判されており、特にAPIが利便性を追求した研究の特性をもつため、研究機関が関連する研究問題を開発する際に影響を与えているという批判がありました（Marres, 2017）。
 本章では、Venturini and Rogers (2019)やDigital Methods Initiativeによる最近の「ポストAPI研究」の呼びかけを取り上げ、ソーシャルメディアのエコシステムにおける発展に対応して生じる機会に焦点を当てています。
 本章で採用する意味でのデジタルリサーチは、「媒体に従う」という方法論の原則に基づくもので、デジタル環境の発展に対応し、それらの方法と相互作用するものです。
-
-In what follows I approach the recent API restrictions by arguing for the renewed need for, and potential of, creative and inventive explorations of different types of sociotechnical data that are key in shaping the current platform environments. I continue by picking up on the opportunities that have been identified by digital researchers, and adding to that by proposing a methodological perspective to study app–platform relations.
-
-In doing so I hope to offer data journalists interested in the potential of social data for storytelling (see, e.g., the chapter by Lam Thuy Vo in this volume), some starting points for approaching investigations with and about platforms and their data in the current post-API moment.
-
-Digital methods have in common that they utilize a series of data collection and analysis techniques that optimize the use of native digital data formats. These emerge with the introduction of digital media in social life.
-
-Digital methods researchers develop tools inspired by digital media to be able to handle these data formats in methodologically innovative ways. The history of digital methods can therefore also be read as narrating a history of key data formats and data structures of the Internet; they are adaptive to changes of the media and include these in analysis.
-
-In what follows, I would like to contribute to post-API research approaches by proposing a perspective to study platforms as data infrastructures from an app–platform perspective. The impact the data access restrictions have on the larger media ecosystems attest to the fact that advanced, nuanced knowledge of platform infrastructures and their interplay with third-party apps is direly needed. It demonstrates the need for a broadened data infrastructure literacy (Gray et al., 2018), in addition to knowledge about how third-party companies and apps operate in social media environments.
+以下では、最近のAPI制限について、現在のプラットフォーム環境を形成する鍵となる様々な種類の社会工学的データを創造的かつ独創的に探求することの新たな必要性と可能性を論じることでアプローチします。
+続いて、デジタル研究者の議論を紹介し、アプリとプラットフォームの関係を研究するための方法論的視点を補足します。
+ストーリーテリングのためのソーシャルデータに関心のあるデータジャーナリスト（例えば、本巻のLam Thuy Vo氏の章を参照）に、ポストAPIの現在において、プラットフォームとそのデータを巡る調査の足がかりを提供します。
+デジタルメソッドに共通するのは、ネイティブなデジタルデータ形式の使用を最適化する一連のデータ収集および分析技術を利用していることです。
+これらは、デジタルメディアが社会生活に導入されることによって出現したのです。
+デジタルメソッドの研究者は、革新的な方法でこれらのデータ形式を扱えるように、デジタルメディアに触発されたツールを開発しています。
+すなわちデジタルメソッドの歴史は、インターネットの主要なデータ・フォーマットやデータ構造の歴史であるとも言えます。
+デジタルメソッドは、メディアの変化に適応し、それらを分析に取り入れています。
+以下では、データインフラとしてのプラットフォームを研究する視点を提案することで、ポストAPIの研究アプローチに貢献します。
+大規模なメディア・エコシステムに対するデータ・アクセス制限の影響は、プラットフォームのインフラとサードパーティアプリとの相互作用に関する高度で微妙な知識が切実に求められることの証左です。
+サードパーティの企業やアプリがソーシャルメディア環境でどのように動作するかについての知識だけでなく、幅広いデータインフラのリテラシー（Gray et al.、2018）が必要なのです。
 
 Apps and Platforms-as-Infrastructure
 
