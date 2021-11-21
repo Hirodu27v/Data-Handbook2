@@ -2,7 +2,7 @@
 Written by Esther Weltevrede
 概要
 
-データ調査のためのアプリとプラットフォームの関係を探る。
+データ調査のためのアプリとプラットフォームの関係を探ります。
 キーワード:アプリ、ソーシャルメディアプラットフォーム、デジタルメソッド、データインフラ、データジャーナリズム、データ調査
 最近、Facebookからデータを抽出するツールNetvizzが、Facebookのページ公開コンテンツアクセス機能へのアクセスを失いました。
 開発者であるデジタルメソッド研究者のベルンハルト・リーダーは９年間維持してきたFacebook APIとの不安定な関係に終止符を打ったのでした。
@@ -31,10 +31,10 @@ APIを使った研究も当初から批判されており、特にAPIが利便�
 以下では、データインフラとしてのプラットフォームを研究する視点を提案することで、ポストAPIの研究アプローチに貢献します。
 大規模なメディア・エコシステムに対するデータ・アクセス制限の影響は、プラットフォームのインフラとサードパーティアプリとの相互作用に関する高度で微妙な知識が切実に求められることの証左です。
 サードパーティの企業やアプリがソーシャルメディア環境でどのように動作するかについての知識だけでなく、幅広いデータインフラのリテラシー（Gray et al.、2018）が必要なのです。
-
-Apps and Platforms-as-Infrastructure
-
-The platform data restrictions are part and parcel of developments of social media into platforms-as-infrastructure. These developments highlight the evolution of digital ecosystems’ focus on corporate partnerships (Helmond et al., 2019). After a year of negative coverage following the platform’s role in elections, Zuckerberg posted a note sketching out the platform’s changing perspective from “connecting people” to building a “social infrastructure” (Helmond et al., 2019; Hoffmann et al., 2018).5
+アプリとインフラとしてのプラットフォーム
+プラットフォームのデータ制限は、ソーシャルメディアをインフラとしてのプラットフォームへと発展させるための重要な要素です。
+このような動きは、デジタルエコシステムが企業とのパートナーシップに重点を置くようになったことの表れです（Helmond et al.、2019）。
+プラットフォームが選挙で果たした役割を1年にわたり否定的に報道され続け、ザッカーバーグは、「人々をつなぐ」から「社会的インフラ」を構築するというプラットフォームの視点の変化をスケッチしたメモを投稿しました（Helmond et al.2019; Hoffmann et al.2018）。
 
 The notion of social infrastructure both highlights social activities as the platform’s core product to connect and create value for the multiple sides of the market, as well as the company’s shift from a social network into a data infrastructure, extending the platform to include their websites and the larger family of 70 apps (Nieborg & Helmond, 2019).6
 
