@@ -12,7 +12,7 @@ Netvizzの終了は、プラットフォームがアプリケーション・プ�
 アプリが動かなくなったり、広告ターゲットが制限されたりしていますが、最も深刻な被害を受けているのはデジタル研究者のようです。データ収集を主な目的とするアプリが許可されなくなったからです。
 デジタル研究者は、公共の利益のために研究費を負担することになると主張して、これらの変化に抵抗しました（Bruns, 2018）。
 Netvizz論文の参考文献リスト（Rieder, 2013）には450以上の出版物が掲載されているが、実際にはその量を簡単に超えているのです-このツールを利用している多くの学生の研究プロジェクトを考えてみてください。
-同様に、Bechmannが「APIデータへのアクセスがなければ存在し得なかった」研究のアドホックな目録を作成したところ、ジャーナリズム、社会科学、その他のデジタル研究の出版物の印象的なリストができました。
+同様に、ベックマンが「APIデータへのアクセスがなければ存在し得なかった」研究のアドホックな目録を作成したところ、ジャーナリズム、社会科学、その他のデジタル研究の出版物の印象的なリストができました。
 データアクセス制限がデジタル研究に与える影響を考慮して、著者らはこれらの動きがあった過去10年間を「APIベースの研究」（Venturini & Rogers, 2019）または「API関連の研究」（Perriam et al, 2020）の時代と名付けました。
 これらは、オンラインプラットフォームがAPIを通じて利用可能にしたデータの抽出に基づくデジタルリサーチのアプローチと定義されています。
 社会調査のためのデータが用意されているAPIは、ソーシャルメディアのデータを使った研究の敷居を下げただけでなくデジタル研究を試みるある世代の学生を増やしたことは言うまでもないことでしょう。
@@ -37,14 +37,13 @@ APIを使った研究も当初から批判されており、特にAPIが利便�
 プラットフォームが選挙で果たした役割を1年にわたり否定的に報道され続け、ザッカーバーグは、「人々をつなぐ」から「社会的インフラ」を構築するというプラットフォームの視点の変化をスケッチしたメモを投稿しました（Helmond et al.2019; Hoffmann et al.2018）。
 ソーシャルインフラという概念は、市場の複数の側面を結びつけて価値を創造するプラットフォームの中核製品としてのソーシャル活動を強調すると同時に、同社がソーシャルネットワークからデータインフラへと移行し、プラットフォームを自社のウェブサイトや70個のアプリの大規模なファミリーにまで拡張していることを示しています。
 このインフラの転換は、プラットフォームがデータインフラをサードパーティのアプリ、プラットフォーム、ウェブサイトに拡張し、内向きの統合を促進するという次のステップを示しています。
-
-Even though platforms-as-infrastructure receive increasing attention (Plantin et al., 2018), as do individual apps, how apps operate on and between data infrastructures is understudied and often unaccounted for. Yet apps continually transform and valorize everyday practices within platform environments.
-
-I use a relational definition of apps by focusing on third-party apps, defined as applications built on a platform by external developers, not owned or operated by the platform. When an app connects to a platform, access is granted to platform functions and data, depending on the permissions. Apps also enable their stakeholders—for example, app stores, advertisers or users—to integrate and valorize them in multiple, simultaneous ways.
-
-In other words, apps have built-in tendencies to be related to, and relate themselves within different operative data infrastructures. This specific position of third-party apps makes them particularly appropriate for studies into our platform-as-infrastructure environments.
-
-Social media platforms pose methodological challenges, because, as mentioned, access to user-generated data is increasingly limited, which challenges researchers to consider what “social data” is anew and open up alternative perspectives.
+インフラとしてのプラットフォームが注目されるようになっても（Plantin et al, 2018）、個々のアプリがそうであるように、アプリがデータインフラ上やデータインフラ間でどのように動作するのかは、十分に研究されておらず、説明されていないことが多いのが実情です。
+しかし、アプリはプラットフォーム環境内の日常的なプラクティスを継続的に変容させ、価値付けているのです。
+サードパーティ製のアプリに焦点を当てて、アプリの関係性を定義しましょう。アプリがプラットフォームに接続すると、権限に応じてプラットフォームの機能やデータへのアクセスが許可されます。
+また、アプリストア、広告主、ユーザーなどの関係者は、アプリを複数の方法で同時に統合し、価値を高めることができます。
+言い換えれば、アプリには、さまざまな操作可能なデータインフラに関連し、その中で自らを関連付ける傾向が組み込まれています。
+サードパーティ製アプリのこのような位置付けは、「インフラとしてのプラットフォーム」環境の研究に特に適しています。
+ソーシャルメディアプラットフォームは、前述のように、ユーザーが生成したデータへのアクセスがますます制限されています。研究者は「ソーシャルデータ」とは何かを新たに考え、別の視点を開く必要があり、方法論上の課題となっているのです。
 
 Contrary to how social media platforms offer access to user-generated data for digital research, structured via APIs, app data sources are increasingly characterized by their closed source or proprietary nature. Even though obfuscation is a widely used technique in software engineering (Matviyenko et al., 2015), efforts that render code and data illegible or inaccessible have a significant impact on digital research.
 
