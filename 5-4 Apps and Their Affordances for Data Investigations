@@ -49,7 +49,11 @@ APIを使った研究も当初から批判されており、特にAPIが利便�
 プラットフォームやアプリが実証的研究をすり抜けようともたらすこうした課題の増加を、同僚や私は「インフラストラクチャーの抵抗」と呼んでいます（Dieter et al.）。
 今日のデジタル研究で利用できるデータ形式は、デバイスベースのデータ（GPSなど）、ソフトウェアライブラリ（ソフトウェア開発キット、SDKなど）、ネットワーク接続（広告ネットワークなど）に至るまで、異質なデータ形式が特徴です。
 アプリはユーザーが生成したデータを収集することができますが、ほとんどの場合、オープンなAPIを介したアクセスを提供していないため、データ調査のための既製のデータが存在しません。
-
+以下では、三つの異なるボトムアップのデータ調査を紹介します。
+デジタル研究者やジャーナリストは、これらの調査を進めるために、さまざまな「リサーチアフォーダンス」（Weltevrede, 2016）を活用できます。
+リサーチアフォーダンスは、研究者の視点に寄り添い、協力する形でソフトウェア内での行為の可能性を調整するものです。
+このアプローチにより、独創的なデジタル手法の開発が可能になります（Lury & Wakeford, 2012; Rogers, 2013）。そのためには、アプリとプラットフォームの関係の技術的な形式やフォーマットを再考し、その分析機会を探る必要があります。
+ここでは、同僚と私が行った最近の研究から、課題を指摘し、インフラとしてのプラットフォーム環境の理解を深めるために、これらのデータソースを使ってどのような調査を行うべきかを提案します。
 In what follows I present three different bottom-up data explorations through which digital researchers and journalists can actively invoke different “research affordances” (Weltevrede, 2016) and use these to advance or initiate an inquiry. Research affordances attune to the action possibilities within software from the perspective of, and aligned with, the interests of the researcher.
 
 This approach allows the development of inventive digital methods (Lury & Wakeford, 2012; Rogers, 2013). These require the rethinking of the technical forms and formats of app–platform relationships by exploring their analytical opportunities.
