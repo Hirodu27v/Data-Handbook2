@@ -54,15 +54,12 @@ APIを使った研究も当初から批判されており、特にAPIが利便�
 リサーチアフォーダンスは、研究者の視点に寄り添い、協力する形でソフトウェア内での行為の可能性を調整するものです。
 このアプローチにより、独創的なデジタル手法の開発が可能になります（Lury & Wakeford, 2012; Rogers, 2013）。そのためには、アプリとプラットフォームの関係の技術的な形式やフォーマットを再考し、その分析機会を探る必要があります。
 ここでは、同僚と私が行った最近の研究から、課題を指摘し、インフラとしてのプラットフォーム環境の理解を深めるために、これらのデータソースを使ってどのような調査を行うべきかを提案します。
-In what follows I present three different bottom-up data explorations through which digital researchers and journalists can actively invoke different “research affordances” (Weltevrede, 2016) and use these to advance or initiate an inquiry. Research affordances attune to the action possibilities within software from the perspective of, and aligned with, the interests of the researcher.
-
-This approach allows the development of inventive digital methods (Lury & Wakeford, 2012; Rogers, 2013). These require the rethinking of the technical forms and formats of app–platform relationships by exploring their analytical opportunities.
-
-The explorations draw on recent research colleagues and I undertook, taking inspiration from but also noting challenges and making suggestions towards the type of inquiries these data sources afford to increase our understanding of the platform-as-infrastructure environment.
-
-Fake Social Infrastructures
-
-The first exploration considers fake followers and their relation to Facebook’s social infrastructure. Increasing attention is being paid to the extent of fake followers in social media environments from both platforms and digital research. From the perspective of the platforms, the fake follower market is often excluded in discussions of platforms as multisided markets; the fake follower market is not considered a “side” and certainly not part of the “family.” Fake followers establish an unofficial infrastructure of relations, recognized by the platforms as undesirable misuses. They are unintended by the platforms, but work in tandem with and by virtue of platform mechanisms. Moreover, these practices decrease the value of the key product, namely social activity.
+フェイクのソーシャルインフラ
+まずは、フェイクフォロワーとFacebookのソーシャルインフラとの関係について考察します。ソーシャルメディア環境におけるフェイクフォロワーの存在は、プラットフォームとデジタルリサーチの両面から注目されています。
+プラットフォーム側から見ると、多面的マーケットとしてのプラットフォームの議論では、フェイクフォロワーのマーケットはたいてい除外されます。フェイクフォロワーのマーケットは 「面的」ではなく、もちろん 「ファミリー」 の一部でもありません。
+フェイクフォロワーは、非公式な関係性のインフラを構築しており、プラットフォームは望ましくない誤用として認識している。
+これらの行為は、プラットフォームが意図したものではないものの、プラットフォームのメカニズムに便乗して機能しています。
+さらに、これらの行為は、重要な商品である社会的活動の価値を低下させるのです。
 
 Colleagues and I investigated the run-up to the Brexit referendum on Twitter by focusing on the most frequently used apps in that data set (Gerlitz & Weltevrede, 2019) (see Figure 34.1).
 
