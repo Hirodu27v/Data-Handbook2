@@ -60,17 +60,18 @@ APIを使った研究も当初から批判されており、特にAPIが利便�
 フェイクフォロワーは、非公式な関係性のインフラを構築しており、プラットフォームは望ましくない誤用として認識している。
 これらの行為は、プラットフォームが意図したものではないものの、プラットフォームのメカニズムに便乗して機能しています。
 さらに、これらの行為は、重要な商品である社会的活動の価値を低下させるのです。
-
-Colleagues and I investigated the run-up to the Brexit referendum on Twitter by focusing on the most frequently used apps in that data set (Gerlitz & Weltevrede, 2019) (see Figure 34.1).
-
-A systematic analysis of these apps and their functionalities provides insight into the mechanisms of automated and fake engagements within the platform’s governance structure. In an ongoing project with Johan Lindquist, we are exploring a set of over 1,200 reselling platforms that enable the buying and selling of fake engagements on an extensive range of platforms. These initial explorations show how fake followers technically relate to platforms, both official third-party apps connecting through the API, as well as through an infrastructure of platforms unofficially connecting to social media platforms.
-
-What these initial explorations have shown is that research will have to accommodate a variety of data of automated and fake origin. Automated and fake accounts cannot (only) be treated as type or actor but as practice, that is situated and emerging in relation to the affordances of the medium.
-
-As shown in the case of Twitter, an account does not necessarily represent a human user, as it is accomplished in distributed and situated ways, just as a tweet is not a tweet, commonly understood as a uniquely typed post (Gerlitz & Weltevrede, 2019).
+同僚と私は、そのデータセットの中で最も頻繁に使用されているアプリに焦点を当てて、TwitterでのBrexit国民投票までの流れを調査しました（Gerlitz & Weltevrede, 2019）（図34.1参照）。
+これらのアプリとその機能性を体系的に分析することで、プラットフォームのガバナンス構造の中で自動化されたエンゲージメントとフェイクエンゲージメントのメカニズムについての洞察が得られます。
+ヨハン・リンドキストとは、広範囲のプラットフォームでフェイク・エンゲージメントの売買を可能にする1,200以上の再販プラットフォームのセットを調査するプロジェクトを進めています。
+初期の調査では、フェイクフォロワーが技術的にどのようにプラットフォームと関係しているかを示しています。
+公式のサードパーティアプリがAPIを介して接続している場合と、プラットフォームが非公式にソーシャルメディアのプラットフォームに接続している場合があります。
+こうして、研究は自動化されたフェイク起源の様々なデータに対応しなければならないということが明らかになりました。
+自動化された偽のアカウントは (単に) タイプやアクターとして扱われることはできないが、メディアのアフォーダンスに関連して登場したものとして扱われます。
+Twitterのツイートが一般的に理解されるように一意的で固有のものではないのと同じく、アカウントも（複数あるように）分散的でその時々の状況に応じた存在で、必ずしも人間のユーザーを代表するものではないのです。
 
 Figure 34.1
 Figure 34.1. Automation functions. The dendrogram visualises the hierarchy of sources, degrees of automation, types of sources and their functions in the Brexit data set, 17–23 June 2016. Source: Gerlitz, C., & Weltevrede, E. (2019). What happens to ANT, and its emphasis on the socio-material grounding of the social, in digital sociology? In A. Blok, I. Farias, & C. Roberts (Eds.), Companion to Actor-Network Theory. Routledge. https://doi.org/10.4324/9781315111667-38
+
 App–Platform Relations
 
 The second exploration considers app stores as data infrastructures for apps. Today, the main entry point to apps—for developers and users—is via app stores, where users can search for individual apps or demarcate collections or genres of apps.
