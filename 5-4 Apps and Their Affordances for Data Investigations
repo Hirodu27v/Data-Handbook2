@@ -74,8 +74,9 @@ Figure 34.1. Automation functions. The dendrogram visualises the hierarchy of so
 アプリとプラットフォームの関係
 
 2つ目は、アプリのデータインフラとしてのアプリストアについて考えてみます。現在、開発者やユーザーにとって、アプリへの主な入り口はアプリストアであり、ユーザーは個々のアプリを検索したり、アプリのコレクションやジャンルを区別することができます。
+アルゴリズム研究（Rogers, 2013; Sandvig et al, 2014）の手法をもとに、Google PlayやApp Storeにおける「ランキングカルチャー」（Rieder et al, 2018）の技術的側面に関わることもできるでしょう。
 
-Building on methods from algorithm studies (Rogers, 2013; Sandvig et al., 2014), one can engage with the technicity of “ranking cultures” (Rieder et al., 2018), for example, in Google Play and the App Store. Such an undertaking concerns both algorithmic and economic power as well as their societal consequences. It can be used to gain knowledge about their ranking mechanisms and an understanding of why this matters for the circulation of cultural content.
+ Such an undertaking concerns both algorithmic and economic power as well as their societal consequences. It can be used to gain knowledge about their ranking mechanisms and an understanding of why this matters for the circulation of cultural content.
 
 The app stores can also be used to demarcate collections or genres of apps to study app–platform relations from the perspective of apps. In “Regramming the Platform” (Gerlitz et al., 2019), colleagues and I investigated over 18,500 apps and the different ways in which apps relate themselves to platform features and functionalities.
 
