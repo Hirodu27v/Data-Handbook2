@@ -75,30 +75,26 @@ Figure 34.1. Automation functions. The dendrogram visualises the hierarchy of so
 
 2つ目は、アプリのデータインフラとしてのアプリストアについて考えてみます。現在、開発者やユーザーにとって、アプリへの主な入り口はアプリストアであり、ユーザーは個々のアプリを検索したり、アプリのコレクションやジャンルを区別することができます。
 アルゴリズム研究（Rogers, 2013; Sandvig et al, 2014）の手法をもとに、Google PlayやApp Storeにおける「ランキングカルチャー」（Rieder et al, 2018）の技術的側面に関わることもできるでしょう。
-
- Such an undertaking concerns both algorithmic and economic power as well as their societal consequences. It can be used to gain knowledge about their ranking mechanisms and an understanding of why this matters for the circulation of cultural content.
-
-The app stores can also be used to demarcate collections or genres of apps to study app–platform relations from the perspective of apps. In “Regramming the Platform” (Gerlitz et al., 2019), colleagues and I investigated over 18,500 apps and the different ways in which apps relate themselves to platform features and functionalities.
-
-One of the key findings of this study is that app developers find creative solutions to navigate around the official platform APIs, thereby also navigating around the official governance systems of platforms (Table 34.1).
-
-The app-centric approach to platforms-as- infrastructure provides insights into the third-party apps developed on the peripheries of social media platforms, the practices and features supported and extended by those apps, and the messy and contingent relations between apps and social media platforms (Gerlitz et al., 2019).
-
-Third-Party Data Connections
-
-The third exploration considers app software and how it relates to data infrastructures of external stakeholders. With this type of exploration it is possible to map out how the app as a software object embeds external data infrastructures as well as the dynamic data flows in and out of apps (Weltevrede & Jansen, 2019). Apps appear to us as discrete and bounded objects, whereas they are by definition data infrastructural objects, re- lating themselves to platforms to extend and integrate within the data infrastructure.
-
-In order to activate and explore the inbound and outbound data flows, we used a variation on the “walkthrough method” (Light et al., 2016). Focusing on data connections, the resulting visualization shows which data is channelled into apps from social media platforms and the mobile platform (Figure 34.2).
-
-In a second step, we mapped the advertising networks, cloud services, analytics and other third-party networks the apps connect to in order to monetize app data, improve functionality or distribute hosting to external parties, among others (Figure 34.3).
-
-Mapping data flows in and out of apps provides critical insight into the political economy of the circulation and recombination of data: The data connections that are established, how they are triggered and which data types are being transferred to which parties.
+このような取り組みは、アルゴリズム的・経済的な力と社会的影響の両方に関係しています。ランキングのメカニズムについての知識や、文化的コンテンツの流通にとってなぜそれが重要なのかを理解するのにも役立ちます。
+また、アプリストアは、アプリのコレクションやジャンルを区分けするのにも使われ、アプリの視点からアプリとプラットフォームの関係を研究することができます。
+「Regramming the Platform」（Gerlitz et al., 2019）では、同僚と私が1万8500本以上のアプリと、アプリがプラットフォームの機能や特徴とどのように関連しているのかを調べました。
+この調査で得られた重要な知見の1つは、アプリの開発者が公式のプラットフォームAPIを回避する創造的なソリューションを見つけ、プラットフォームの公式のガバナンスシステムも回避しているということです（表34.1）。
+インフラとしてのプラットフォームに対するアプリ中心のアプローチは、ソーシャルメディア・プラットフォームの周辺で開発されるサードパーティ・アプリ、それらのアプリによってサポートされ拡張されるプラクティスと機能、そしてアプリとソーシャルメディア・プラットフォームの間の乱雑で気まぐれな関係を巡る洞察を提供します(Gerlitzほか、2019年)。
+サードパーティのデータ接続
+三つ目の調査では、アプリのソフトウェアと、外部のステークホルダーのデータインフラとの関連性を検討します。
+こうした調査によって、ソフトウェアオブジェクトとしてのアプリが、外部のデータインフラをどのように埋め込むのか、また動的なデータフローをどうやってアプリに出入力するのか把握することができます（Weltevrede & Jansen, 2019）。
+アプリは、私たちには離散的で境界のあるオブジェクトのように見えますが、定義上はデータインフラのオブジェクトであり、データインフラ内で拡張・統合するためのプラットフォームに再配置されるのです。
+入口と出口のデータフローを活性化して探索するために、私たちは「ウォークスルー法」のバリエーションを使用しました（Light et al.）。
+データの接続に焦点を当てた結果、どのデータがソーシャルメディアプラットフォームやモバイルプラットフォームからアプリに流れ込んでいるのかを可視化しました（図34.2）。
+次に、アプリのデータを収益化したり、機能を改善したり、外部（のサーバー）にホスティングしたりするために、アプリが接続している広告ネットワーク、クラウドサービス、アナリティクスなどのサードパーティネットワークをマッピングしました（図34.3）。
+アプリに出入りするデータの流れをマッピングすることで、データの循環と再結合の政治経済について、重要な洞察を得ることができます。
+データ接続がどのように確立され、進められ、どんな型のデータがどの関係者に転送されているかということが分かるのです。
 
 Figure 34.2
 Figure 34.2. Interface walkthrough of data flows during the registration process. Source: Infrastructures of intimate data: Mapping the inbound and outbound data flows of dating apps. Computational Culture, 7. http://computationalculture.net/infrastructures-of-intimate-data- mapping-the-inbound-and-outbound-data-flows-of-dating-apps/
 Figure 34.3.
 Figure 34.3. Network connections established between dating apps Tinder, Grindr and OKCupid and their third parties. Source: Infrastructures of intimate data: Mapping the inbound and out- bound data flows of dating apps. Computational Culture, 7. http://computationalculture.net/infra- structures-of-intimate-data-mapping-the-inbound-and-outbound-data-flows-of-dating-apps/
-Conclusion
+結論
 
 Platforms and apps are so fundamentally woven into everyday life that they often go unnoticed without any moment of reflection. This tendency to move to the background is precisely the reason why digital researchers, data journalists and activists should explore how they work and the conditions which underpin their creation and use.
 
