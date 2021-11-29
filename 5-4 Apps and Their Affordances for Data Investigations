@@ -95,18 +95,13 @@ Figure 34.2. Interface walkthrough of data flows during the registration process
 Figure 34.3.
 Figure 34.3. Network connections established between dating apps Tinder, Grindr and OKCupid and their third parties. Source: Infrastructures of intimate data: Mapping the inbound and out- bound data flows of dating apps. Computational Culture, 7. http://computationalculture.net/infra- structures-of-intimate-data-mapping-the-inbound-and-outbound-data-flows-of-dating-apps/
 結論
-
-Platforms and apps are so fundamentally woven into everyday life that they often go unnoticed without any moment of reflection. This tendency to move to the background is precisely the reason why digital researchers, data journalists and activists should explore how they work and the conditions which underpin their creation and use.
-
-It is important to improve data infrastructure literacy in order to understand how they are related to different platforms and networks, how they operate between them, and how they involve a diversity of often unknown stakeholders.
-
-In the aftermath of the Cambridge Analytica scandal, data ready-made for social investigations accessible through structured APIs is increasingly being restricted by platforms in response to public pressure.
-
-In this chapter, I have suggested that, as a response, researchers, journalists and civil society groups should be creative and inventive in exploring novel types of data in terms of their affordances for data investigations.
-
-I have explored three types of data for investigating apps. There are, moreover, multiple opportunities to further expand on this. It should be stressed that I have mainly addressed apps, yet this might offer inspiration for investigations into different data-rich environments, including smart cities and the Internet of things.
-
-A more nuanced understanding of the data infrastructures that increasingly shape the practices of everyday life remains an ongoing project.
+プラットフォームやアプリは生活に深く浸透しているため、気づかないうちに日常に埋もれてしまうことがよくあります。
+デジタル研究者、データジャーナリスト、アクティビストは、このような背景があるからこそ、プラットフォームやアプリがどのように機能し、どのような状況で作成・利用されているのかを調査する必要があるのです。
+データインフラのリテラシーを高めることは、データインフラがさまざまなプラットフォームやネットワークとどのように関連しているのか、それらの間でどのように機能しているのか、また、知られざる利害関係者がどのように関わっているのかを理解するために重要です。
+ケンブリッジ・アナリティカのスキャンダルの後、プラットフォームが世論の圧力を受けて、構造化されたAPIを通じてアクセス可能な社会的調査のために用意されたデータを制限することが多くなっています。
+本章では、その対応策として、研究者、ジャーナリスト、市民社会グループは、データ調査に適した新しいタイプのデータを創造的かつ独創的に探索すべきであると提案した。
+本章では、アプリを調査するための3種類のデータを紹介しました。しかし、これをさらに発展させることができる可能性があります。ここでは主にアプリを取り上げましたが、スマートシティやモノのインターネット（IoT）など、データが豊富なさまざまな環境を調査する際のヒントになるかもしれません。
+このように、日常生活を形作るデータ基盤をより深く理解することは、まだまだ現在進行形のプロジェクトです。
 
 Footnotes
 
