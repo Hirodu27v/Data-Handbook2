@@ -2,19 +2,15 @@
 Written by: Christina Elmer
 アルゴリズムの透明性を求める声は、ドイツでは新しいものではありません。
 2012年には、デア・シュピーゲルのコラムニストのサシャ・ロボが、Googleに、たとえ損害を受けるとしても検索アルゴリズムの仕組みを開示するよう求めました（Lobo, 2012）。
-
-The demand for transparency around algorithms is not new in Germany. In 2012, Der Spiegel columnist Sascha Lobo called for the mechanics of the Google search algorithm to be disclosed (Lobo, 2012), even if this would harm the company.
-
-The reason was that Google can shape how we view the world, for example through the autocomplete function, as a prominent case in Germany illustrated. In this case, the wife of the former federal president had taken legal action against Google because problematic terms were suggested in the autocomplete function when her name was searched for. Two years later, the German minister of justice repeated this appeal, which was extended again by the federal chancellor in 2016: Algorithms should be more transparent, Angela Merkel demanded (Kartell, 2014; Reinbold, 2016).
-
-In the past few years, the topic of algorithmic accountability has been under constant discussion at Der Spiegel—but initially only as an occasion for reporting, not in the form of our own research or analysis project.
-
-There may be two primary reasons why the German media began experimenting in this area later than their colleagues in the United States.
-
-First, journalists in Germany do not have such strong freedom of information rights and instruments at their disposal. Second, data journalism does not have such a long tradition as in the United States.
-
-Der Spiegel has only had its own data journalism department since 2016 and is slowly but steadily expanding this area. It is, of course, also possible for newsrooms with smaller resources to be active in this field—for example, through cooperation with organizations or freelancers. In our case, too, all previous projects in the area of algorithmic accountability reporting have come about in this way. This chapter will therefore focus on collaborations and the lessons we have learned from them.
-
+ドイツで起きた著名な事件が示したように、Googleはオートコンプリート機能などを通じて、私たちの世界の見方を形成することができます。
+前連邦大統領の妻（ベティーナ・ウルフ）は、自分の名前を検索したときにオートコンプリート機能で問題のある表示が提案されたとして、Googleを提訴しました。
+2年後、ドイツの法相はこの訴えを繰り返し、首相は2016年にこれを再び蒸し返しました:メルケル首相は「アルゴリズムはより透明であるべきである」と求めたのです（Kartell, 2014; Reinbold, 2016）。
+ここ数年、シュピーゲルはアルゴリズムの説明責任について議論してきましたが、当初は報道の対象としてのみで、独自の調査や分析プロジェクトはありませんでした。
+ドイツのメディアが米国のメディアよりも遅れてこの分野の実験を始めた理由は、主に2つあると思われます。
+第一に、ドイツのジャーナリストには、自由に使える強力な情報公開の権利や手段がないこと。第二に、データ・ジャーナリズムには、米国のような長い伝統がありません。
+シュピーゲルは16年に独自のデータジャーナリズム部門を設けたばかりですが、徐々に、しかし着実にこの分野を拡大しています。
+もちろん、（経営）リソースの少ないニュースルームでも、組織やフリーランサーとの協力などを通じて、この分野で活躍することは可能です。
+私たちの場合も、これまでに取り組んできたアルゴリズムによる説明責任報道のプロジェクトは、すべてこのような方法で生まれたものです。そこで本章では、共同作業とそこから得られた教訓に焦点を当てます。
 Google, Facebook and Schufa: Three Projects at a Glance
 Our editorial team primarily relies on cooperation when it comes to the investigation of algorithms. In the run-up to the 2017 federal elections, we joined forces with the NGO AlgorithmWatch to gain insights into the personalization of Google search results.1
 
