@@ -14,10 +14,9 @@ Written by: Christina Elmer
 Google、Facebook、Schufa:三つのプロジェクトの概要
 私たち編集部は、（外部との）協力を中心にアルゴリズムの調査をしています。2017年の連邦選挙に向けて、私たちはNGO「AlgorithmWatch」と協力して、Googleの検索結果のパーソナライズについての知見を得ました。
 ユーザーには、あらかじめ定義された検索を定期的に実行するプラグインを自分のコンピューターにインストールしてもらいました。合計で約4,400人の参加者が約600万件の検索結果を提供してくれたため、少なくともGoogleと調査対象地域に関しては、フィルターバブル理論に疑問を投げかける分析データを得ることができたのです。
-
-For this project, our collaborators from AlgorithmWatch approached Der Spiegel, as they were looking for a media partner with a large reach for crowdsourcing the required data. While the content of the reporting was entirely the responsibility of our department covering Internet- and technology-related topics, the data journalism department supported the planning and methodological evaluation of the operation.
-
-Furthermore, the backup of our legal department was essential in order to implement the project in a way which was legally bulletproof. For example, data protection issues had to be clarified within the reporting and had to be fully comprehensible for all participants involved in the project.
+このプロジェクトでは、AlgorithmWatchの共同研究者がデア・シュピーゲルにアプローチしてきました。必要なデータをクラウドソーシングするために、大きなリーチを持つメディアパートナーを探していたのです。
+取材はインターネットやテクノロジー関連の話題を扱う部門が担当しましたが、データジャーナリズム部門は、取材の計画や方法論の評価をサポートしました。
+さらに、法的に問題のない方法でプロジェクトを遂行するためには、法務部門のバックアップが不可欠でした。例えば、データ保護の問題は、報道の中で明確にされなければならず、プロジェクトに参加したすべての人が十分に理解できるようにしなければなりません。
 
 Almost at the same time, Der Spiegel collaborated with ProPublica to deploy their AdCollector in Germany in the months before the elections (Angwin & Larson, 2017). The project aimed to make transparent how German parties target Facebook users with ads.
 
