@@ -17,12 +17,11 @@ Google、Facebook、Schufa:三つのプロジェクトの概要
 このプロジェクトでは、AlgorithmWatchの共同研究者がデア・シュピーゲルにアプローチしてきました。必要なデータをクラウドソーシングするために、大きなリーチを持つメディアパートナーを探していたのです。
 取材はインターネットやテクノロジー関連の話題を扱う部門が担当しましたが、データジャーナリズム部門は、取材の計画や方法論の評価をサポートしました。
 さらに、法的に問題のない方法でプロジェクトを遂行するためには、法務部門のバックアップが不可欠でした。例えば、データ保護の問題は、報道の中で明確にされなければならず、プロジェクトに参加したすべての人が十分に理解できるようにしなければなりません。
-
-Almost at the same time, Der Spiegel collaborated with ProPublica to deploy their AdCollector in Germany in the months before the elections (Angwin & Larson, 2017). The project aimed to make transparent how German parties target Facebook users with ads.
-
-Therefore, a plug-in collected the political ads that a user sees in her stream and revealed those ads that are not displayed to her. For this project, Der Spiegel joined forces with other German media outlets such as Süddeutsche Zeitung and Tagesschau—an unusual constellation of actors who usually are in competition with each other.
-
-In this case it was necessary to reach as many people as possible to serve the public interest. The results could also be published as journalistic stories, but our primary focus was transparency. After two weeks, around 600 political advertisements had been collected and made available to the public.
+並行して、シュピーゲルはプロパブリカとともに、選挙前の数ヶ月間にドイツでAdCollectorを展開しました（Angwin & Larson, 2017）。
+このプロジェクトは、ドイツの政党がFacebookユーザーをターゲットに広告を出す様子を明らかにすることを目的としたものです。
+あるプラグインを用いて、ユーザーが自分のストリームで目にする政治広告を収集し、どんな広告がユーザーに表示されないのかを明らかにしました。
+南ドイツ新聞やターゲスシャウなど他のドイツのメディアとも協力しました。
+この場合、公共の利益に資するため、できるだけ多くの人々に情報を届ける必要がありました。結果を記事として発表することもできましたが、私たちが最も重視したのは透明性です。2週間後には、約600の政治広告が収集され、公開されました。
 
 ProPublica’s Julia Angwin and Jeff Larson introduced the idea of a collaboration at the annual conference of the German association of investigative journalists, Netzwerk Recherche in Hamburg, where they held a session on algorithmic accountability reporting.
 
