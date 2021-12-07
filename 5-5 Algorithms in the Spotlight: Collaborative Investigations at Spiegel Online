@@ -26,14 +26,14 @@ Google、Facebook、Schufa:三つのプロジェクトの概要
 このアイデアは、シュピーゲルの報道部門の複数の部署から集まった技術・方法論の専門家と協力して、一から練り上げられたものです。
 また、以前からのパートナーである非営利団体AlgorithmWatchとの交流は、法的背景に光を当て、それを研究に盛り込むために、私たちにとって非常に貴重なものとなりました。
 大会後は、定期的に電話会議を行い、さらにアイデアを広げていきました。ドイツの他のメディアのパートナーも、後から参加してくれました。
-
-In 2018, Der Spiegel contributed to a major project to investigate an extremely powerful algorithm in Germany—the Schufa credit report. The report is used to assess the creditworthiness of private individuals. The report should indicate the probability that someone can pay their bills, pay the rent or service a loan. It can therefore have far-reaching implications for a person’s private life and a negative effect on society as a whole.
-
-For example, it is conceivable that the score may increase social discrimination and unequal treatment of individuals, depending on the amount of data that is available about them. Incorrect data or mix-ups could be fatal for individuals. The algorithm’s underlying scoring is not transparent. Which data is taken into account in which weighting is not known. And those affected often have no knowledge of the process.
-
-This makes Schufa a controversial institution in Germany—and projects like OpenSCHUFA absolutely vital for public debate on algorithmic accountability, in our opinion.2
-
-The project was mainly driven by the NGOs Open Knowledge Foundation (OKFN) and AlgorithmWatch. Der Spiegel was one of two associated partners, together with Bayerischer Rundfunk (Bavarian Broadcasting). The idea for this project came up more or less simultaneously, with several parties involved. After some successful projects with the NGOs AlgorithmWatch and OKFN as well as with the data journalism team of Bayerischer Rundfunk, Der Spiegel was included in the initial discussions.
+2018年、デア・シュピーゲルは、ドイツの極めて強力なアルゴリズム、心情情報機関Schufaを調査する一大プロジェクトに携わりました。
+このレポートは、民間人の信用力を評価するために使用されます。このレポートは、誰かが請求書を支払ったり、家賃やローンを負担できる確率を示す必要があります。
+そのため、個人の私生活に多大な影響を与え、社会全体にも悪影響を及ぼす可能性があります。
+例えば、個人に関して利用できるデータの量によっては、スコアが社会的な差別や不平等な扱いを助長することも考えられます。
+誤ったデータや取り違えは、個人にとって致命的となる可能性があります。アルゴリズムの基礎となるスコアリングは透明ではありません。どのデータがどのような重み付けで考慮されるのかは不明です。また、影響を受ける人は、そのプロセスを知らないことが多いのです。
+このような状況から，ドイツではSchufaが議論の対象となっており、OpenSCHUFAのようなプロジェクトはアルゴリズムの説明責任に関する公共の討論に不可欠なのです。
+このプロジェクトは、NGOであるOpen Knowledge Foundation（OKFN）とAlgorithmWatchが中心となって進められました。シュピーゲルは、バイエルン放送とともに提携パートナーを務めました。
+このプロジェクトのアイデアは、複数の関係者がほぼ同時に思いついたものでした。NGOのAlgorithmWatchとOKFN、そしてバイエルン放送のデータジャーナリズムチームがプロジェクトを成功させた後、シュピーゲルが初の会合に加わったのです。
 
 The constellation posed special challenges. For the two media teams, it was important to work separately from the NGOs in order to ensure their independence from the crowdfunding process in particular. Therefore, although there were, of course, discussions between the actors involved, neither an official partnership nor a joint data evaluation were possible. This example emphasizes how important it is for journalists to reflect on their autonomy, especially in such high-publicity topics.
 
