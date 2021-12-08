@@ -34,16 +34,14 @@ Google、Facebook、Schufa:三つのプロジェクトの概要
 このような状況から，ドイツではSchufaが議論の対象となっており、OpenSCHUFAのようなプロジェクトはアルゴリズムの説明責任に関する公共の討論に不可欠なのです。
 このプロジェクトは、NGOであるOpen Knowledge Foundation（OKFN）とAlgorithmWatchが中心となって進められました。シュピーゲルは、バイエルン放送とともに提携パートナーを務めました。
 このプロジェクトのアイデアは、複数の関係者がほぼ同時に思いついたものでした。NGOのAlgorithmWatchとOKFN、そしてバイエルン放送のデータジャーナリズムチームがプロジェクトを成功させた後、シュピーゲルが初の会合に加わったのです。
-
-The constellation posed special challenges. For the two media teams, it was important to work separately from the NGOs in order to ensure their independence from the crowdfunding process in particular. Therefore, although there were, of course, discussions between the actors involved, neither an official partnership nor a joint data evaluation were possible. This example emphasizes how important it is for journalists to reflect on their autonomy, especially in such high-publicity topics.
-
-Making OpenSCHUFA known was one of the central success factors of this project. The first step was to use crowdfunding to create the necessary infrastructure to collect the data, which was obtained via crowdsourcing. The results were jointly evaluated by the partners in the course of the year in anonymized form.
-
-The central question behind it is: Does the Schufa algorithm discriminate against certain population groups, and does it increase inequality in society? According to the results, it does. We found that the score privileged older and female individuals, as well as those who change their residence less frequently. And we discovered that different versions of algorithms within the score generated different outcomes for people with the same attributes, a type of discrimination that was not previously known regarding this score.
-
-These results would not have been possible without the participation of many volunteers and supporters. The crowdfunding campaign was largely successful, so that the financing of the software could be secured within the framework.3
-
-And within the subsequent crowdsourcing process, about 2,800 people sent in their personal credit reports. This sample was, of course, not representative, but nevertheless sufficiently diverse to reveal the findings described.
+この組み合わせは、特別な課題を提示しました。両メディアチームにとっては、特にクラウドファンディングのプロセスからの独立性を確保するため、NGOとは別に活動することが重要でした。
+そのため、関係者間での話し合いはあったものの、正式なパートナーシップや共同でのデータ評価はできませんでした。この例は、特にこのような公共性の高いテーマにおいて、ジャーナリストが自らの自律性について考えることがいかに重要かを示しています。
+OpenSCHUFAを知ってもらうことは、このプロジェクトの中心的な成功要因の一つでした。まず、データを収集するために必要なインフラをクラウドファンディングを利用して構築しました。
+結果は、匿名化された形で、年間を通じてパートナーが共同で評価しました。その背後にある中心的な疑問は、Schufaアルゴリズムは特定の集団を差別し、社会の不平等を増大させるのかということです。
+結果を見ると、そのようになっています。このスコアは、高齢者や女性、居住地の変更頻度が低い人を優遇していることがわかりました。
+スコア内のアルゴリズムのバージョンが異なると、同じ属性の人でも結果が異なるという、これまで知られていなかったタイプの差別が発見されました。
+これらの成果は、多くのボランティアや支援者の参加がなければ実現しませんでした。クラウドファンディングのキャンペーンはほぼ成功し、こうした枠組みの中でソフトウェアの資金を確保することができました。
+また、その後のクラウドソーシングでは、約2,800人の方から個人信用情報が寄せられました。このサンプルは、もちろん代表的なものではありませんが、今回の調査結果を明らかにするのに十分な多様性を持っています。
 
 Impact and Success Indicators
 
