@@ -80,12 +80,11 @@ FacebookとGoogleの調査は、どちらも結果としては地味だったも
 しかし、これらの詳細がアルゴリズムがもたらす結果に影響を与える場合にのみ、報道の対象となり、読者がアクセスしやすい方法で語られることになります。
 編集部内では、この三つのプロジェクトへの支持は非常に高いものでした。とはいえ、ニュースを中心とした編集チームの日常業務の中で、日々の報道にリソースを割くことは容易ではありませんでした。
 調査の結果が必ずしも素晴らしいものではなかった場合はなおさらです。
+学んだこと
 
-Lessons Learned
-
-By way of conclusion, I summarize what we have learned from these projects.
-
-Collaborate where possible. Good algorithmic accountability investigations are only possible by joining forces with others and creating teams with diverse skill sets. This is also important given both the scarcity of resources and legal restrictions that most journalists have to cope with. But since these projects bring together actors from different fields, it is crucial to discuss beforehand the underlying relevance criteria, requirements and capabilities.
+最後に、これらのプロジェクトから学んだことをまとめてみました。
+可能な限り協力すること。アルゴリズムの説明責任をめぐる優れた調査報道は、他の人と力を合わせ、多様なスキルセットを持つチームを作ることで初めて可能になります。
+これは、多くのジャーナリストが対処しなければならないリソースの不足と法的規制の両方を考慮すると、重要なことです。しかし、このようなプロジェクトでは、異なる分野の関係者が集まるため、基本的な関連性の基準、要件、能力について事前に話し合っておくことが重要です。
 
 Define your goals systematically. Raising awareness of the operating principles of algorithms can be a first strong goal in such projects. Of course, projects should also try to achieve as much transparency as possible. At best we would check whether algorithms have a discriminatory effect—but project partners should bear in mind that this is a more challenging goal to attain, one that requires extensive data sets and resources.
 
