@@ -85,14 +85,15 @@ FacebookとGoogleの調査は、どちらも結果としては地味だったも
 最後に、これらのプロジェクトから学んだことをまとめてみました。
 可能な限り協力すること。アルゴリズムの説明責任をめぐる優れた調査報道は、他の人と力を合わせ、多様なスキルセットを持つチームを作ることで初めて可能になります。
 これは、多くのジャーナリストが対処しなければならないリソースの不足と法的規制の両方を考慮すると、重要なことです。しかし、このようなプロジェクトでは、異なる分野の関係者が集まるため、基本的な関連性の基準、要件、能力について事前に話し合っておくことが重要です。
-
-Define your goals systematically. Raising awareness of the operating principles of algorithms can be a first strong goal in such projects. Of course, projects should also try to achieve as much transparency as possible. At best we would check whether algorithms have a discriminatory effect—but project partners should bear in mind that this is a more challenging goal to attain, one that requires extensive data sets and resources.
-
-Exercise caution in project implementation. Depending on the workload and the day-to-day pressure of the journalists involved, you might even need a project manager. Be aware that the project timeline may sometimes conflict with reporting requirements. Take this into account in communicating with other partners and, if possible, prepare alternatives for such cases.
-
-Invest in research design. To set up a meaningful design that produces useful data, you might need specialized partners. Close alliances with scientists from computer science, mathematics and related disciplines are particularly helpful for investigating some of the more technical aspects of algorithms. Furthermore, it may also be useful to cooperate with social and cultural researchers to gain a deeper understanding of classifications and norms that are implemented in them.
-
-Protect user data. Data donations from users may be useful to investigate algorithms. In such crowdsourcing projects legal support is indispensable in order to ensure data protection and to take into account the requirements of the national laws and regulations. If your company has a data protection officer, involve them in the project early on.
+目標を体系的に定義する。このようなプロジェクトでは、アルゴリズムの動作原理に対する認識を高めることが最初の大きな目標になります。
+もちろん、プロジェクトは可能な限り透明性を確保することも重要です。
+アルゴリズムに差別的な効果があるかどうかをチェックする程度でも困難な目標であり、膨大なデータセットとリソースを必要とすることを、プロジェクトのパートナーは心に留めておく必要があります。
+プロジェクトの実装には注意が必要である。作業量や関係するジャーナリストの日々のプレッシャーによっては、プロジェクトマネージャーが必要な場合もあります。
+プロジェクトのスケジュールが報道の日程とぶつかる場合があることに注意してください。この点を考慮して、他のパートナーと連絡を取り、可能であれば、そのような場合の代替案を準備します。
+研究デザインに投資する。有用なデータを生み出す有意義な設計を行うには、専門のパートナーが必要になる場合があります。
+コンピュータサイエンス、数学、および関連分野の科学者との緊密な提携は、アルゴリズムのより技術的な側面のいくつかを調査するために特に有用です。さらに、社会・文化研究者と協力し、分類やそこに実装されている規範をより深く理解することもいいでしょう。
+ユーザーデータを保護する ユーザーからのデータ提供は、アルゴリズムを調査する上で有用な場合がある。このようなクラウドソーシングのプロジェクトでは、データ保護を確保し、各国の法規制の要件を考慮するために、法的サポートが不可欠です。
+会社にデータ保護担当者がいるなら、早い段階からプロジェクトに参加させましょう。
 
 Footnotes
 
