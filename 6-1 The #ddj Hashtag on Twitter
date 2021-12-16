@@ -1,15 +1,16 @@
 Twitterの#ddjハッシュタグ
 Written by Eunice Au and Marc Smith
+概要
 
-Abstract
+ソーシャルネットワーク分析・可視化パッケージNodeXLを使用して、世界のデータジャーナリズムコミュニティが何についてツイートしているかを調べてみました
+キーワード：#ddj, Twitter, ソーシャルネットワーク分析, データジャーナリズム, ソーシャルメディア, データ分析
+データジャーナリズムの分野を1つの用語で追跡するのは簡単ではありません。
+データジャーナリストは、#datajournalism、#ddj、#dataviz、#infographics、#dataなど、自分たちの仕事に関連して無数のハッシュタグを使用しています。データジャーナリストは、#datajournalism、#ddj、#dataviz、#infographics、#dataなど、自分たちの仕事に関連して無数のハッシュタグを使用しています。
+6年前、調査報道機関の国際組織であるグローバル調査報道ネットワーク（GIJN）がTwitterでデータジャーナリズムに関する発信を始めたとき、最も人気のあったハッシュタグは#ddj（データ駆動型ジャーナリズム）でした。
+ジャーナリズムはデータによって駆動されているのではなく、データは単にジャーナリズムに情報を提供する、あるいは使用するツールに過ぎないという議論もあり、「データ駆動型ジャーナリズム」という言葉そのものが議論の的になっています。
+データは構造化された事実と統計から構成されており、ジャーナリストはストーリーを作成するためにフィルタリングし、分析し、パターンを発見する必要があります。
+プロフィール記事を「インタビュー駆動型ジャーナリズム」、公文書に基づいた記事を「ドキュメント駆動型ジャーナリズム」と呼んだりしないように、優れたデータ・ジャーナリズムの記事はデータをその構成要素の一つとしてしか使いこなすのです。
 
-How we used the social network analysis and visualization package NodeXL to examine what the global data journalism community tweets about.
-
-Keywords: #ddj, Twitter, social network analysis, data journalism, social media, data analysis
-
-Picking a single term to track the data journalism field is not easy. Data journalists use a myriad of hashtags in connection with their work, such as #datajournalism, #ddj, #dataviz, #infographics, and #data. When the Global Investigative Journalism Network (GIJN)—an international association of investigative journalism organizations that supports the training and sharing of information among investigative and data journalists—first started to report on conversations around data journalism on Twitter six years ago, the most popular hashtag appeared to be #ddj (data-driven journalism).1
-
-The term “data-driven journalism” itself is controversial as it can be argued that journalism is not driven by data; data merely informs, or is a tool used for journalism. Data consists of structured facts and statistics that require journalists to filter, analyze and discover patterns in order to produce stories. Just as one would not call a profile piece “interview-driven journalism” or an article based on public documents “document-driven journalism,” great data journalism stories use data as only one of their components.
 
 The Role of #ddj
 
