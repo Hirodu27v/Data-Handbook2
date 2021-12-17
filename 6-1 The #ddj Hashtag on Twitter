@@ -18,15 +18,18 @@ Written by Eunice Au and Marc Smith
 
 Figure 36.1. #ddj mapping on Twitter from January 1, 2018, to August 13, 2018. Source: NodeXL.
 Figure 36.1. #ddj mapping on Twitter from January 1, 2018, to August 13, 2018. Source: NodeXL.
-The Birth of Top 10 #ddj
+トップ10 #ddjの誕生
 
-GIJN’s weekly Top 10 #ddj series started in January 2014 when one of us first tweeted a #ddj network graph (Smith, 2014). The graph, which mapped tweets mentioning the hashtag #ddj, including replies to those tweets, was created using NodeXL, a social network analysis and visualization package that builds on the Excel spreadsheet software.
-
-These network graphs reveal the patterns of interconnection that emerge from activities such as replying, @mentioning and retweeting. These patterns highlight key people, groups and topics being discussed.
-
-As an international investigative journalism organization, GIJN is always looking for ways to raise awareness about what is happening in the fields of investigative and data journalism. When GIJN’s executive director, David Kaplan, saw Smith’s network graph, he proposed to use the map to produce a weekly Top 10 #ddj to showcase popular and interesting examples of data journalism. (He and Smith also tried a weekly round-up of investigative journalism, but no single hashtag came close to doing the job that #ddj does for data journalism.) Although GIJN follows the network graph’s suggested findings closely, some human curation is necessary to eliminate duplicates and to highlight the most interesting items.
-
-Since the birth of the series, we have assembled more than 250 snapshots of the data journalism community’s discussions featuring the #ddj hashtag over the past six years (GIJN, n.d.). The series now serves as a good quick summary for interested parties who cannot follow every #ddj tweet. Our use of the term “snapshot” is not simply a metaphor. This analysis gives us a picture of the data journalism Twitter community, in the same way that photojournalism depicts real crowds on the front pages of major news outlets.
+GIJNの週刊トップ10 #ddjシリーズは、2014年1月、私たちの一人が初めて#ddjネットワークグラフをツイートしたことから始まりました（Smith, 2014）。
+このグラフは、#ddjというハッシュタグに言及したツイートを、それらのツイートへの返信も含めてマッピングしたもので、 「Excel」 スプレッドシートソフトウェア上に構築されたソーシャルネットワーク分析および視覚化パッケージ 「NodeXL」 を使用して作成されました。
+これらのネットワークグラフは、返信、@メンション、リツイートなどの行動から生まれる相互関係のパターンを明らかにします。これらのパターンにより、主要な人物、グループ、話題のトピックが浮き彫りになります。
+国際的な調査報道機関として、GIJNは常に調査とデータジャーナリズムの分野で何が起きているかについての認識を高める方法を探しています。
+GIJNのエグゼクティブ・ディレクターであるデビッド・カプランは、スミスのネットワークグラフを見て、このマップを使って、データジャーナリズムの人気で興味深い例を紹介する「トップ10 #ddj」を毎週作成することを提案しました。
+(彼とスミスは、調査ジャーナリズムを毎週まとめる試みにも取り組みましたが、#ddjほど役立つハッシュタグは一つもありませんでした。)
+GIJNはネットワークグラフが提案する調査結果に忠実に従っていますが、重複を排除し、最も興味深い項目を強調するために、人が多少のキュレーションしなければなりません。
+このシリーズが誕生して以来、過去6年間に#ddjのハッシュタグを使ったデータジャーナリズムコミュニティのディスカッションのスナップショットを250以上集めました（GIJN, n.d.)。
+このシリーズは、#ddjのツイートをすべて追うことができない関係者にとっても、手っ取り早いまとめとして役立っています。スナップショットという言葉は、単なる比喩ではありません。
+この分析は、フォトジャーナリズムが主要なニュースメディアの第一面に掲載される実際の群衆を描写するのと同じように、データジャーナリズムのTwitterコミュニティの姿を私たちに見せてくれます。
 
 The Evolution of #ddj Twitter Traffic
 
