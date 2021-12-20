@@ -35,19 +35,17 @@ GIJNはネットワークグラフが提案する調査結果に忠実に従っ�
 #ddjを使ったTwitterのトラフィックがどのように進化してきたかを理解するために、我々は2014～19年にかけて収集した#ddjデータの基礎的で大まかな分析を行いました。
 6年間それぞれから2月と3月の8週、つまり48週を少量ずつサンプルとして選びました。さまざまなコンテンツが共有され、最も人気のある項目は、分析と解説記事、賞、助成金、イベント、コース、仕事、ツール、リソース、調査などでした。
 共有されるコンテンツの種類は、数年来一貫しています。
-14
-In 2014, we saw articles that discussed a burgeoning data journalism field. This included pieces arguing that data journalism is needed because it fuels accountability and insights (Howard, 2014), and predicting that analyzing data is the future for journalists (Arthur, 2010).
-
-In later years, we observed new topics being discussed, such as artificial intelligence, massive data leaks and collaborative data investigations. There were also in-depth how-to pieces, where data journalists started offering insights into their data journalism processes (Grossenbacher, 2019) and sharing how to best utilize databases (Gallego, 2018), rather than debating whether the media industry should incorporate data journalism into its newsrooms.
-
-We also noticed that among the investigations shared there were often analyses of elections, immigration, pollution, climate and football.
-
-GIJN’s weekly #ddj round-up not only highlights the most popular tweets and URLs, but also lists the central participants of the #ddj discussion. Some of the usual suspects at the centre of #ddj discussions include data journalism experts Edward Tufte, Alberto Cairo, Martin Stabe, Nate Silver and Nathan Yau, along with data teams from Europe and North America, including those at Le Telegramme, Tages-Anzeiger, Berliner Morgenpost, FiveThirtyEight, the Financial Times, and The Upshot from The New York Times. Their work can at times be educational and inspiring and trigger further debate. The data journalism community can also take advantage of and network with these influencers.
-
-A number of other hashtags often accompany #ddj, as Connected Action’s mapping reveals, allowing members of the community to seek out similar stories.
+14年は、急成長するデータジャーナリズムの分野を論じた記事を目にしました。中には、データジャーナリズムは説明責任と洞察力を高めうると主張する記事（Howard, 2014）や、データ分析はジャーナリストの未来であると予測する記事（Arthur, 2010）などがありました。
+後年、人工知能、大規模なデータリーク、共同でのデータ調査など、新しいトピックが議論されていることが確認されました。
+また、メディア業界がデータジャーナリズムをニュースルームに取り入れるべきかどうかを議論するのではなく、データジャーナリストがデータジャーナリズムのプロセスに関する洞察を提供し（Grossenbacher, 2019）、データベースの最適な活用方法を共有するといった（Gallego, 2018）、掘り下げたハウツー記事が出現したのです。
+さらに、共有された調査の中には、選挙、移民、公害、気候、サッカーに関する分析が多く含まれていることにも気づきました。
+GIJNの週刊#ddjラウンドアップは、最も人気のあるツイートやURLをハイライトするだけでなく、#ddjディスカッションの中心的な参加者もリストアップしています。
+データジャーナリズムの専門家であるエドワード・タフテ、アルベルト・カイロ、マーティン・スタブ、ネイト・シルバー、ネイサン・ヤウ、そしてヨーロッパと北米のデータチーム（仏紙ル・テレグラム、スイス紙ターゲス・アンツァイガー、 独紙ベルリナー・モルゲンポスト、FiveThirtyEight、Financial Times、The New York TimesのThe Upshot）が含まれます。
+Connected Actionのマッピングで明らかになったように、#ddjには他にも多くのハッシュタグが付くことが多く、コミュニティのメンバーは同様のストーリーを探すことができます。
 
 Figure 36.2. Example of top influencers (from January 1, 2018 to August 13, 2018). Source: NodeXL.
 Figure 36.2. Example of top influencers (from January 1, 2018 to August 13, 2018). Source: NodeXL.
+
 By far, the most common hashtags to appear alongside #ddj were #dataviz, #visualization, #datajournalism, #opendata, #data and #infographics. This signals to us that those who are in this fĳield particularly care not just about the availability of public data, but also the way in which data is creatively presented and visualized for readers.
 
 However, the NodeXL #ddj mapping is by no means representative of the entire field as it analyzes only people who tweet. Furthermore, those who generally have more followers on Twitter and garner more retweets tend to feature more prominently in our round-up.
