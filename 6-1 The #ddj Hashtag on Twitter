@@ -45,14 +45,15 @@ Connected Actionのマッピングで明らかになったように、#ddjには
 
 Figure 36.2. Example of top influencers (from January 1, 2018 to August 13, 2018). Source: NodeXL.
 Figure 36.2. Example of top influencers (from January 1, 2018 to August 13, 2018). Source: NodeXL.
-
-By far, the most common hashtags to appear alongside #ddj were #dataviz, #visualization, #datajournalism, #opendata, #data and #infographics. This signals to us that those who are in this fĳield particularly care not just about the availability of public data, but also the way in which data is creatively presented and visualized for readers.
-
-However, the NodeXL #ddj mapping is by no means representative of the entire field as it analyzes only people who tweet. Furthermore, those who generally have more followers on Twitter and garner more retweets tend to feature more prominently in our round-up.
-
-We have also noticed that the majority of the top tweets usually come from Europe and the Americas, particularly Germany and the United States, with some smatterings of tweets from Asia and Africa. This could be due to the skew of the user base on Twitter, because other regions have relatively less robust data journalism communities, or because data journalism com- munities in other regions do not organize through the same Twitter hashtags or do not organize on Twitter at all.
-
-Over the past year, we observed that some work by prominent data journalism organizations that was widely shared on Twitter did not appear in our network graph. This could possibly be due to people not using the hashtag #ddj when tweeting the story, or using other hashtags or none at all. We suspect that Twitter’s expansion of the tweet character count from 140 to 280 in November 2017 might also have helped people to choose lengthier hashtags such as #datajournalism.
+#ddjと並んで表示されるハッシュタグで群を抜いているのは、#dataviz、#visualization、#datajournalism、#opendata、#data、#infographicsです。
+このことは、この分野の人々が、公開データの入手可能性だけでなく、データが読者のために創造的に提示され視覚化される方法にも関心を寄せていることを示しているのです。
+しかし、NodeXLの#ddjマッピングはツイートした人だけを分析するため、決してこの分野全体を代表するものではありません。
+さらに、一般的にTwitterのフォロワー数が多く、リツイートされる数が多い人は、われわれのまとめでより目立つように取り上げられる傾向があります。
+また、上位のツイートは通常、ドイツやアメリカを中心とするヨーロッパとアメリカ大陸からのものが多く、アジアやアフリカからのツイートは少ないことにも気づきました。
+これは、他の地域ではデータ・ジャーナリズムのコミュニティーが比較的安定していないため、あるいは他の地域のデータ・ジャーナリズムのコミュニティーが同じTwitterハッシュタグを使って組織化されていないか、Twitter上でまったく組織化されていないために、Twitterのユーザー・ベースが偏っていることが原因である可能性があります。
+この1年間で、Twitter で広く共有されている著名なデータ・ジャーナリズム団体の活動が、私たちのネットワーク・グラフに表示されないこともありました。
+これは、人々がストーリーをツイートする際に#ddjというハッシュタグを使わなかったり、他のハッシュタグを使ったり、全く使わなかったりしたことが原因である可能性があります。
+2017年11月にTwitterがツイート文字数を140文字から280文字に拡大したことも、#datajournalismのような長めのハッシュタグを選択させる一因になったのではないかと推測しています。
 
 Figure 36.3. Example of top related hashtags (from January 1, 2018 to August 13, 2018). Source: NodeXL.
 Figure 36.3. Example of top related hashtags (from January 1, 2018 to August 13, 2018). Source: NodeXL.
