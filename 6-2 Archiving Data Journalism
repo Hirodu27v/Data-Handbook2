@@ -1,0 +1,81 @@
+データジャーナリズムを記録する
+Written by: Meredith Broussard
+概要
+
+この章では、データジャーナリズムのプロジェクトを記録する際の課題と、プロジェクトが将来にわたって確実に保存されるためにデータチームが取るべき措置について説明します。
+
+キーワード：データジャーナリズム，アーカイブの実践，アーカイブ，デジタルアーカイブ，リンク切れ，ウェブアーカイビング
+
+In the first edition of The Data Journalism Handbook, published in 2012, data journalism pioneer Steve Doig wrote that one of his favourite data stories was the “Murder Mysteries” project by Tom Hargrove.1
+
+In the project, which was published by the Scripps Howard News Service, Hargrove looked at demographically detailed data about 185,000 unsolved murders and built an algorithm to suggest which murders might be linked. Linked murders could indicate a serial killer at work. “This project has it all,” Doig wrote. “Hard work, a database better than the government’s own, clever analysis using social science techniques, and interactive presentation of the data online so readers can explore it themselves.”
+
+By the time of the second edition of The Data Journalism Handbook, six years later, the URL to the project was broken (projects.scrippsnews.com/magazine/murder-mysteries). The project was gone from the web because its publisher, Scripps Howard, was gone. The Scripps Howard News Service had gone through multiple mergers and restructurings, eventually merging with Gannett, publisher of the USA Today local news network.
+
+We know that people change jobs and media companies come and go. However, this has had disastrous consequences for data journalism projects (for more on this issue see, e.g., Boss & Broussard, 2017; Broussard, 2014, 2015a, 2015b; Fisher & Klein, 2016).
+
+Data projects are more fragile than “plain” text-and-images stories that are published in the print edition of a newspaper or magazine.
+
+Ordinarily, link rot is not a big deal for archivists; it is easy to use LexisNexis or ProQuest or another database provider to find a copy of everything published by, say, The New York Times print edition on any day in the 21st century.
+
+But for data stories, link rot indicates a deeper problem. Data journalism stories are not being preserved in traditional archives. As such, they are disappearing from the web.
+
+Unless news organizations and libraries take action, future historians will not be able to read everything published by The Boston Globe on any given day in 2017.
+
+This has serious implications for scholars and for the collective memory of the field. Journalism is often referred to as the “first draft of history.” If that first draft is incomplete, how will future scholars understand the present day? Or, if stories disappear from the web, how will individual journalists maintain personal portfolios of work?
+
+This is a human problem, not just a computational problem. To understand why data journalism is not being archived for posterity, it helps to start with how “regular” news is archived.
+
+All news organizations use software called a content management system (CMS), which allows the organization to schedule and manage the hundreds of pieces of content it creates every day and also imposes a consistent visual look and feel on each piece of content published.
+
+Historically, legacy news organizations have used a different CMS for the print edition and for the web edition. The web CMS allows the news organization to embed ads on each page, which is one of the ways that the news organization makes money.
+
+The print CMS allows print page designers to manage different versions of the print layout and then send the pages to the printer for printing and binding. Usually, video is in a different CMS. Social media posts may or may not be managed by a different application like SocialFlow or Hootsuite.
+
+Archival feeds to Lexis-Nexis and the other big providers tend to be hooked up to the print CMS. Unless someone at the news organization remembers to hook up the web CMS, too, digital-first news is not included in the digital feeds that libraries and archives get. This is a reminder that archiving is not neutral, but depends on deliberate human choices about what matters (and what doesn’t) for the future.
+
+Most people ask at this point, “What about the Internet Archive?” The Internet Archive is a treasure, and the group does an admirable job of capturing snapshots of news sites.
+
+Their technology is among the most advanced digital archiving software. However, their approach does not capture everything. The Internet Archive only collects publicly available web pages.
+
+News organizations that require logins, or which include paywalls as part of their financial strategy, cannot be automatically preserved in the Internet Archive. Web pages that are static content, or plain HTML, are the easiest to preserve.
+
+These pages are easily captured in the Internet Archive. Dynamic content, such as JavaScript or a data visualization or anything that was once referred to as “Web 2.0,” is much harder to preserve, and is not often stored in the Internet Archive. “There are many different kinds of dynamic pages, some of which are easily stored in an archive and some of which fall apart completely,” reads an Internet Archive FAQ.
+
+“When a dynamic page renders standard html, the archive works beautifully. When a dynamic page contains forms, JavaScript, or other elements that require interaction with the originating host, the archive will not contain the original site’s functionality.”
+
+Dynamic data visualizations and news apps, currently the most cutting- edge kinds of data journalism stories, cannot be captured by existing web archiving technology. Also, for a variety of institutional reasons, these types of stories tend to be built outside of a CMS. So, even if it were possible to archive data visualizations and news apps (which it generally is not using this approach), any automated feed would not capture them because they are not inside the CMS.
+
+It’s a complicated problem. There aren’t any easy answers. I work with a team of data journalists, librarians and computer scientists who are trying to develop tech to solve this thorny problem.
+
+We are borrowing methods from reproducible scientific research to make sure people can read today’s news on tomorrow’s computers. We are adapting a tool called ReproZip that collects the code, data and server environment used in computational science experiments.
+
+We think that ReproZip can be integrated with a tool such as Webrecorder.io in order to collect and preserve news apps, which are both stories and software.
+
+Because web-and mobile-based data journalism projects depend on and exist in relation to a wide range of other media environments, libraries, browser features and web entities (which may also continually change), we expect that we will be able to use ReproZip to collect and preserve the remote libraries and code that allow complex data journalism objects to function on the web. It will take another year or two to prove our hypothesis.
+
+In the meantime, there are a few concrete things that every data team can do to make sure their data journalism is preserved for the future.
+
+Take a video. This strategy is borrowed from video game preservation. Even when a video game console is no more, a video play-through can show the game in its original environment. The same is true of data journalism stories. Store the video in a central location with plain text metadata that describes what the video shows. Whenever a new video format emerges (as when VHS gave way to DVD, or DVD was replaced by streaming video), upgrade all of the videos to this new format.
+
+Make a scaled-down version for posterity. Libraries like Django-bakery allow dynamic pages to be rendered as static pages. This is sometimes called “baking out”. Even in a database with thousands of records, each dynamic record could be baked out as a static page that requires very little maintenance. Theoretically, all of these static pages could be imported into the organization’s content management system. Baking out doesn’t have to happen at launch. A data project can be launched as a dynamic site, then it can be transformed into a static site after traffic dies down a few months later. The general idea is to adapt your work for archiving systems by making the simplest possible version, then make sure that simple version is in the same digital location as all of the other stories published around the same time.
+
+Think about the future. Journalists tend to plan to publish and move on to the next thing. Instead, try planning for the sunset of your data stories at the same time that you plan to launch them. Matt Waite’s story “Kill All Your Darlings” on Source, the OpenNews blog, is a great guide to how to think about the life cycle of a data journalism story. Eventually, you will be promoted or will move on to a new organization. You want your data journalism to survive your departure.
+
+Work with libraries, memory institutions and commercial archives. As an individual journalist, you should absolutely keep copies of your work. However, nobody is going to look in a box in your closet or on your hard drive, or even on your personal website, when they look for journalism in the future. They are going to look in Lexis-Nexis, ProQuest or other large commercial repositories. To learn more about commercial preservation and digital archiving, Kathleen Hansen and Nora Paul’s book Future-Proofing the News: Preserving the First Draft of History (2017) is the canonical guide for understanding the news archiving landscape as well as the technological, legal and organizational challenges to preserving the news.
+
+Footnotes
+
+1. www.murderdata.org
+
+Works Cited
+
+Boss, K., & Broussard, M. (2017). Challenges of archiving and preserving born-digital news applications. IFLA Journal, 43(2), 150–157. doi.org/10.1177/0340035216686355
+
+Broussard, M. (2014, April 23). Future-proofĳing news apps. MediaShift. mediashift.org/2014/04/future-proofing-news-apps/
+
+Broussard, M. (2015a). Preserving news apps present huge challenges. Newspaper Research Journal, 36(3), 299–313. doi.org/10.1177/0739532915600742
+
+Broussard, M. (2015b, November 20). The irony of writing about digital preserva- tion. The Atlantic.www.theatlantic.com/technology/archive/2015/11/the-irony-of-writing-about-digital-preservation/416184/
+
+Fisher, T., & Klein, S. (2016). A conceptual model for interactive databases in news. GitHub. github.com/propublica/newsappmodel
