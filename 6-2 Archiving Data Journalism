@@ -5,12 +5,12 @@ Written by: Meredith Broussard
 この章では、データジャーナリズムのプロジェクトを記録する際の課題と、プロジェクトが将来にわたって確実に保存されるためにデータチームが取るべき措置について説明します。
 
 キーワード：データジャーナリズム，アーカイブの実践，アーカイブ，デジタルアーカイブ，リンク切れ，ウェブアーカイビング
-
-In the first edition of The Data Journalism Handbook, published in 2012, data journalism pioneer Steve Doig wrote that one of his favourite data stories was the “Murder Mysteries” project by Tom Hargrove.1
-
-In the project, which was published by the Scripps Howard News Service, Hargrove looked at demographically detailed data about 185,000 unsolved murders and built an algorithm to suggest which murders might be linked. Linked murders could indicate a serial killer at work. “This project has it all,” Doig wrote. “Hard work, a database better than the government’s own, clever analysis using social science techniques, and interactive presentation of the data online so readers can explore it themselves.”
-
-By the time of the second edition of The Data Journalism Handbook, six years later, the URL to the project was broken (projects.scrippsnews.com/magazine/murder-mysteries). The project was gone from the web because its publisher, Scripps Howard, was gone. The Scripps Howard News Service had gone through multiple mergers and restructurings, eventually merging with Gannett, publisher of the USA Today local news network.
+2012年に出版された『データジャーナリズムハンドブック』の初版で、データジャーナリズムのパイオニアであるスティーブ・ドイグは、お気に入りのデータストーリーの一つがトム・ハーグローブによる「殺人ミステリー」プロジェクトだと書いています1。
+スクリップス・ハワード・ニュース・サービスが発行したこのプロジェクトでは、18万5000件の未解決殺人事件に関する人口統計学的に詳細なデータを調べ、どの殺人事件が関連しているかを示唆するアルゴリズムを構築しました。
+関連性のある殺人は、連続殺人犯の仕業である可能性があります。「このプロジェクトにはすべてがある」とドイグは書いています。
+「ハードワーク、政府自身よりも優れたデータベース、社会科学技術を使った巧妙な分析、読者が自分で調べることができるオンラインのインタラクティブなデータの提示」。
+6年後のハンドブック第2版の時点では、このプロジェクトのURLは壊れていました（projects.scrippsnews.com/magazine/murder-mysteries）。このプロジェクトがウェブ上から消えていたのは、発行元のスクリプスハワードがなくなったからです。
+スクリプスハワード・ニュース・サービスは何度も合併や再編を繰り返し、最終的にはローカルニュースネットワーク『USAトゥデイ』を発行するガネットと合併したのです。
 
 We know that people change jobs and media companies come and go. However, this has had disastrous consequences for data journalism projects (for more on this issue see, e.g., Boss & Broussard, 2017; Broussard, 2014, 2015a, 2015b; Fisher & Klein, 2016).
 
