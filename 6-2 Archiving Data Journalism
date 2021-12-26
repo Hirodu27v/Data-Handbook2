@@ -17,12 +17,10 @@ Written by: Meredith Broussard
 LexisNexisやProQuestなどのデータベースプロバイダーを使えば、21世紀のどの日でもニューヨークタイムズの紙面を簡単に見つけることができるからです。
 しかし、データストーリーの場合、リンク切れはより深刻です。データ・ジャーナリズムの記事は、従来のアーカイブには保存されておらず、Webから消えつつあるのです。
 報道機関や図書館が行動を起こさない限り、将来の歴史家は、2017年のある日にボストン・グローブ紙が発行したすべての記事を読むことはできないだろう。
-
-This has serious implications for scholars and for the collective memory of the field. Journalism is often referred to as the “first draft of history.” If that first draft is incomplete, how will future scholars understand the present day? Or, if stories disappear from the web, how will individual journalists maintain personal portfolios of work?
-
-This is a human problem, not just a computational problem. To understand why data journalism is not being archived for posterity, it helps to start with how “regular” news is archived.
-
-All news organizations use software called a content management system (CMS), which allows the organization to schedule and manage the hundreds of pieces of content it creates every day and also imposes a consistent visual look and feel on each piece of content published.
+このことは、研究者にとっても、この分野の集合的な記憶にとっても、重大な意味を持ちます。ジャーナリズムはしばしば、"歴史の初稿 "と呼ばれます。もし、その初稿が不完全ならば、未来の学者はどうやって現代を理解するのでしょうか。
+あるいは、記事がWebから消えてしまった場合、ジャーナリストはどのようにして個人的な仕事のポートフォリオを維持するのでしょう?
+これは人間の問題であり、単なる計算上の問題ではないのです。データ・ジャーナリズムがなぜ後世のためにアーカイブされていないのかを理解するには、「通常の」ニュースがどのようにアーカイブされているかを知ることから始めるとよいでしょう。
+すべての報道機関は、コンテンツ管理システム（CMS）と呼ばれるソフトウェアを使用しています。このシステムによって、報道機関は毎日作成する何百ものコンテンツをスケジュール管理し、公開する各コンテンツに一貫した視覚的外観と感触を与えることができるのです。
 
 Historically, legacy news organizations have used a different CMS for the print edition and for the web edition. The web CMS allows the news organization to embed ads on each page, which is one of the ways that the news organization makes money.
 
