@@ -21,10 +21,8 @@ LexisNexisやProQuestなどのデータベースプロバイダーを使えば�
 あるいは、記事がWebから消えてしまった場合、ジャーナリストはどのようにして個人的な仕事のポートフォリオを維持するのでしょう?
 これは人間の問題であり、単なる計算上の問題ではないのです。データ・ジャーナリズムがなぜ後世のためにアーカイブされていないのかを理解するには、「通常の」ニュースがどのようにアーカイブされているかを知ることから始めるとよいでしょう。
 すべての報道機関は、コンテンツ管理システム（CMS）と呼ばれるソフトウェアを使用しています。このシステムによって、報道機関は毎日作成する何百ものコンテンツをスケジュール管理し、公開する各コンテンツに一貫した視覚的外観と感触を与えることができるのです。
-
-Historically, legacy news organizations have used a different CMS for the print edition and for the web edition. The web CMS allows the news organization to embed ads on each page, which is one of the ways that the news organization makes money.
-
-The print CMS allows print page designers to manage different versions of the print layout and then send the pages to the printer for printing and binding. Usually, video is in a different CMS. Social media posts may or may not be managed by a different application like SocialFlow or Hootsuite.
+歴史的に、旧来の報道機関では、紙とWebで異なるCMSを使用してきました。WebのCMSでは、各ページに広告を埋め込むことができ、これが報道機関が収益を上げる方法の一つとなっています。
+紙のCMSでは、印刷デザイナーが異なるバージョンのレイアウトを管理し、そのページを印刷所に送って印刷・製本します。通常、動画は別のCMSになります。ソーシャルメディアの投稿は、SocialFlowやHootsuiteなど別のアプリケーションで管理することもありますし、そうでないこともあります。
 
 Archival feeds to Lexis-Nexis and the other big providers tend to be hooked up to the print CMS. Unless someone at the news organization remembers to hook up the web CMS, too, digital-first news is not included in the digital feeds that libraries and archives get. This is a reminder that archiving is not neutral, but depends on deliberate human choices about what matters (and what doesn’t) for the future.
 
