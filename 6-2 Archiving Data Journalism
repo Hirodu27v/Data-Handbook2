@@ -23,10 +23,10 @@ LexisNexisやProQuestなどのデータベースプロバイダーを使えば�
 すべての報道機関は、コンテンツ管理システム（CMS）と呼ばれるソフトウェアを使用しています。このシステムによって、報道機関は毎日作成する何百ものコンテンツをスケジュール管理し、公開する各コンテンツに一貫した視覚的外観と感触を与えることができるのです。
 歴史的に、旧来の報道機関では、紙とWebで異なるCMSを使用してきました。WebのCMSでは、各ページに広告を埋め込むことができ、これが報道機関が収益を上げる方法の一つとなっています。
 紙のCMSでは、印刷デザイナーが異なるバージョンのレイアウトを管理し、そのページを印刷所に送って印刷・製本します。通常、動画は別のCMSになります。ソーシャルメディアの投稿は、SocialFlowやHootsuiteなど別のアプリケーションで管理することもありますし、そうでないこともあります。
-アーカイブの
-Archival feeds to Lexis-Nexis and the other big providers tend to be hooked up to the print CMS. Unless someone at the news organization remembers to hook up the web CMS, too, digital-first news is not included in the digital feeds that libraries and archives get. This is a reminder that archiving is not neutral, but depends on deliberate human choices about what matters (and what doesn’t) for the future.
-
-Most people ask at this point, “What about the Internet Archive?” The Internet Archive is a treasure, and the group does an admirable job of capturing snapshots of news sites.
+Lexis-Nexisや他の大手プロバイダーへのアーカイブのフィードは、紙媒体のCMSに接続されていることが多いようです。
+報道機関の誰かがウェブCMSに接続することを忘れない限り、デジタルファーストのニュースは図書館やアーカイブが取得するデジタルフィードには含まれないのです。
+これは、アーカイブが中立的な存在ではなく、人間による何が将来にとって重要か（そして何が重要でないか）を意図的に選択することに依存していることを思い知らせるのです。
+ほとんどの人はこの時点で、"Internet Archiveはどうなんだ？"と尋ねます。Internet Archiveは宝であって、このグループはニュースサイトのスナップショットを捕らえるという立派な仕事をしています。
 
 Their technology is among the most advanced digital archiving software. However, their approach does not capture everything. The Internet Archive only collects publicly available web pages.
 
