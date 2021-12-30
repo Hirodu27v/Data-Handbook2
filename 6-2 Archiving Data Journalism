@@ -27,14 +27,11 @@ Lexis-Nexisや他の大手プロバイダーへのアーカイブのフィード
 報道機関の誰かがウェブCMSに接続することを忘れない限り、デジタルファーストのニュースは図書館やアーカイブが取得するデジタルフィードには含まれないのです。
 これは、アーカイブが中立的な存在ではなく、人間による何が将来にとって重要か（そして何が重要でないか）を意図的に選択することに依存していることを思い知らせるのです。
 ほとんどの人はこの時点で、"Internet Archiveはどうなんだ？"と尋ねます。Internet Archiveは宝であって、このグループはニュースサイトのスナップショットを捕らえるという立派な仕事をしています。
-
-Their technology is among the most advanced digital archiving software. However, their approach does not capture everything. The Internet Archive only collects publicly available web pages.
-
-News organizations that require logins, or which include paywalls as part of their financial strategy, cannot be automatically preserved in the Internet Archive. Web pages that are static content, or plain HTML, are the easiest to preserve.
-
-These pages are easily captured in the Internet Archive. Dynamic content, such as JavaScript or a data visualization or anything that was once referred to as “Web 2.0,” is much harder to preserve, and is not often stored in the Internet Archive. “There are many different kinds of dynamic pages, some of which are easily stored in an archive and some of which fall apart completely,” reads an Internet Archive FAQ.
-
-“When a dynamic page renders standard html, the archive works beautifully. When a dynamic page contains forms, JavaScript, or other elements that require interaction with the originating host, the archive will not contain the original site’s functionality.”
+その技術は、最先端のデジタルアーカイブソフトウェアの一つです。しかし、彼らのアプローチは、すべてを捕捉しているわけではありません。Internet Archiveは、一般公開されているwebページのみを収集しています。
+ログインが必要であったり、ペイウォールを導入していたりする報道機関は、Internet Archiveに自動的に保存されることはありません。
+静的コンテンツであるWebページ、つまりプレーンHTMLは、最も簡単に保存できます。このようなページは Internet Archive に簡単に取り込まれます。JavaScriptやデータの可視化など、かつて「Web 2.0」と呼ばれたダイナミックなコンテンツは保存が非常に難しく、Internet Archiveに保存されることはあまりありません。
+Internet Archive FAQには「動的ページには多くの種類があり、簡単にアーカイブに保存できるものと、完全に崩壊してしまうものがあります」と書かれています。
+「動的なページが標準的なhtmlをレンダリングする場合、アーカイブは機能します。ページが元のホストとの対話を必要とするフォーム、JavaScript、その他の要素を含んでいる場合、アーカイブは元のサイトの機能を再現できません」 。
 
 Dynamic data visualizations and news apps, currently the most cutting- edge kinds of data journalism stories, cannot be captured by existing web archiving technology. Also, for a variety of institutional reasons, these types of stories tend to be built outside of a CMS. So, even if it were possible to archive data visualizations and news apps (which it generally is not using this approach), any automated feed would not capture them because they are not inside the CMS.
 
