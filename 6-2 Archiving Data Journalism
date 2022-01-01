@@ -32,7 +32,7 @@ Lexis-Nexisや他の大手プロバイダーへのアーカイブのフィード
 静的コンテンツであるWebページ、つまりプレーンHTMLは、最も簡単に保存できます。このようなページは Internet Archive に簡単に取り込まれます。JavaScriptやデータの可視化など、かつて「Web 2.0」と呼ばれたダイナミックなコンテンツは保存が非常に難しく、Internet Archiveに保存されることはあまりありません。
 Internet Archive FAQには「動的ページには多くの種類があり、簡単にアーカイブに保存できるものと、完全に崩壊してしまうものがあります」と書かれています。
 「動的なページが標準的なhtmlをレンダリングする場合、アーカイブは機能します。ページが元のホストとの対話を必要とするフォーム、JavaScript、その他の要素を含んでいる場合、アーカイブは元のサイトの機能を再現できません」 。
-
+ダイナミック
 Dynamic data visualizations and news apps, currently the most cutting- edge kinds of data journalism stories, cannot be captured by existing web archiving technology. Also, for a variety of institutional reasons, these types of stories tend to be built outside of a CMS. So, even if it were possible to archive data visualizations and news apps (which it generally is not using this approach), any automated feed would not capture them because they are not inside the CMS.
 
 It’s a complicated problem. There aren’t any easy answers. I work with a team of data journalists, librarians and computer scientists who are trying to develop tech to solve this thorny problem.
