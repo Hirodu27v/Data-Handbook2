@@ -34,12 +34,10 @@ Internet Archive FAQには「動的ページには多くの種類があり、簡
 「動的なページが標準的なhtmlをレンダリングする場合、アーカイブは機能します。ページが元のホストとの対話を必要とするフォーム、JavaScript、その他の要素を含んでいる場合、アーカイブは元のサイトの機能を再現できません」 。
 ダイナミックなデータビジュアライゼーションやニュースアプリは、現在最も先端的なデータジャーナリズムのストーリーですが、既存のウェブアーカイブ技術では捕捉することができません。また、さまざまな制度上の理由から、この種のストーリーはCMSの外部で構築される傾向があります。
 のため、たとえデータの可視化やニュースアプリのアーカイブが可能だとしても（このアプローチでは一般的に不可能です）、自動フィードはCMSの内部にないため、それらを捉えることができません。
-
-It’s a complicated problem. There aren’t any easy answers. I work with a team of data journalists, librarians and computer scientists who are trying to develop tech to solve this thorny problem.
-
-We are borrowing methods from reproducible scientific research to make sure people can read today’s news on tomorrow’s computers. We are adapting a tool called ReproZip that collects the code, data and server environment used in computational science experiments.
-
-We think that ReproZip can be integrated with a tool such as Webrecorder.io in order to collect and preserve news apps, which are both stories and software.
+それは複雑な問題で、簡単な答えはありません。私はデータジャーナリスト、図書館員、コンピューター科学者のチームと一緒に、この茨の道を解決するための技術を開発しようとしています。
+私たちは、再現可能な科学研究の手法を借りて、人々が明日のコンピュータで今日のニュースを読めるようにすることを目指しています。
+私たちは、計算科学の実験で使用されるコード、データ、サーバー環境を収集するReproZipというツールを応用しています。
+ReproZipは、Webrecorder.ioのようなツールと統合することで、ストーリーとソフトウェアの両方（の性格を併せ持つ）ニュースアプリを収集し保存することができると考えています。
 
 Because web-and mobile-based data journalism projects depend on and exist in relation to a wide range of other media environments, libraries, browser features and web entities (which may also continually change), we expect that we will be able to use ReproZip to collect and preserve the remote libraries and code that allow complex data journalism objects to function on the web. It will take another year or two to prove our hypothesis.
 
