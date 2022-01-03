@@ -38,12 +38,12 @@ Internet Archive FAQには「動的ページには多くの種類があり、簡
 私たちは、再現可能な科学研究の手法を借りて、人々が明日のコンピュータで今日のニュースを読めるようにすることを目指しています。
 私たちは、計算科学の実験で使用されるコード、データ、サーバー環境を収集するReproZipというツールを応用しています。
 ReproZipは、Webrecorder.ioのようなツールと統合することで、ストーリーとソフトウェアの両方（の性格を併せ持つ）ニュースアプリを収集し保存することができると考えています。
-
-Because web-and mobile-based data journalism projects depend on and exist in relation to a wide range of other media environments, libraries, browser features and web entities (which may also continually change), we expect that we will be able to use ReproZip to collect and preserve the remote libraries and code that allow complex data journalism objects to function on the web. It will take another year or two to prove our hypothesis.
-
-In the meantime, there are a few concrete things that every data team can do to make sure their data journalism is preserved for the future.
-
-Take a video. This strategy is borrowed from video game preservation. Even when a video game console is no more, a video play-through can show the game in its original environment. The same is true of data journalism stories. Store the video in a central location with plain text metadata that describes what the video shows. Whenever a new video format emerges (as when VHS gave way to DVD, or DVD was replaced by streaming video), upgrade all of the videos to this new format.
+Webやモバイルベースのデータジャーナリズム・プロジェクトは、他の幅広いメディア環境、ライブラリ、ブラウザ機能、Web実体（これらも継続的に変化する可能性があります）に依存し、それらと関連して存在するため、ReproZipを使用して、複雑なデータ・ジャーナリズム・オブジェクトをWeb上で機能させるためのリモート・ライブラリーとコードを収集し、保存できることが期待されます。
+私たちの仮説を証明するには、あと1、2年かかるでしょう。
+その間、データ・ジャーナリズムを将来にわたって確実に保存するために、すべてのデータ・チームができることがいくつかあります。
+動画を撮る。この戦略は、ビデオゲームの保存から借用したものです。ゲーム機がなくなっても、ビデオでプレイスルーすれば、元の環境でゲームを見ることができる。データジャーナリズムのストーリーにも同じことが言えます。
+映像は、その映像が示すものを説明するプレーンテキストのメタデータとともに、一カ所に保存します。
+新しいビデオ・フォーマット（VHSからDVDへ、あるいはDVDからストリーミング・ビデオへ）が登場するたびに、すべてのビデオをこの新しいフォーマットにアップグレードします。
 
 Make a scaled-down version for posterity. Libraries like Django-bakery allow dynamic pages to be rendered as static pages. This is sometimes called “baking out”. Even in a database with thousands of records, each dynamic record could be baked out as a static page that requires very little maintenance. Theoretically, all of these static pages could be imported into the organization’s content management system. Baking out doesn’t have to happen at launch. A data project can be launched as a dynamic site, then it can be transformed into a static site after traffic dies down a few months later. The general idea is to adapt your work for archiving systems by making the simplest possible version, then make sure that simple version is in the same digital location as all of the other stories published around the same time.
 
