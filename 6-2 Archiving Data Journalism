@@ -44,13 +44,19 @@ Webやモバイルベースのデータジャーナリズム・プロジェク�
 動画を撮る。この戦略は、ビデオゲームの保存から借用したものです。ゲーム機がなくなっても、ビデオでプレイスルーすれば、元の環境でゲームを見ることができる。データジャーナリズムのストーリーにも同じことが言えます。
 映像は、その映像が示すものを説明するプレーンテキストのメタデータとともに、一カ所に保存します。
 新しいビデオ・フォーマット（VHSからDVDへ、あるいはDVDからストリーミング・ビデオへ）が登場するたびに、すべてのビデオをこの新しいフォーマットにアップグレードします。
-
-Make a scaled-down version for posterity. Libraries like Django-bakery allow dynamic pages to be rendered as static pages. This is sometimes called “baking out”. Even in a database with thousands of records, each dynamic record could be baked out as a static page that requires very little maintenance. Theoretically, all of these static pages could be imported into the organization’s content management system. Baking out doesn’t have to happen at launch. A data project can be launched as a dynamic site, then it can be transformed into a static site after traffic dies down a few months later. The general idea is to adapt your work for archiving systems by making the simplest possible version, then make sure that simple version is in the same digital location as all of the other stories published around the same time.
-
-Think about the future. Journalists tend to plan to publish and move on to the next thing. Instead, try planning for the sunset of your data stories at the same time that you plan to launch them. Matt Waite’s story “Kill All Your Darlings” on Source, the OpenNews blog, is a great guide to how to think about the life cycle of a data journalism story. Eventually, you will be promoted or will move on to a new organization. You want your data journalism to survive your departure.
-
-Work with libraries, memory institutions and commercial archives. As an individual journalist, you should absolutely keep copies of your work. However, nobody is going to look in a box in your closet or on your hard drive, or even on your personal website, when they look for journalism in the future. They are going to look in Lexis-Nexis, ProQuest or other large commercial repositories. To learn more about commercial preservation and digital archiving, Kathleen Hansen and Nora Paul’s book Future-Proofing the News: Preserving the First Draft of History (2017) is the canonical guide for understanding the news archiving landscape as well as the technological, legal and organizational challenges to preserving the news.
-
+後世に残すために縮小版を作る。Django-bakery のようなライブラリを使えば、動的なページを静的なページとしてレンダリングできます。
+これは「ベイクアウト」と呼ばれることもあります。何千ものレコードを持つデータベースでも、それぞれの動的なレコードを静的なページとしてベイクアウトすれば、ほとんどメンテナンスが不要になります。
+理論的には、これらの静的ページをすべて組織のコンテンツ管理システムにインポートすることができます。ベイクアウトは、ローンチ当初から行う必要はありません。
+データプロジェクトを動的なサイトとして立ち上げ、数ヵ月後にトラフィックが減少したら、静的なサイトに変更することも可能です。
+一般的には、できるだけシンプルなバージョンを作成し、同時期に公開された他のすべてのストーリーと同じデジタルロケーションに置いて、作品をアーカイブシステムに適応させるとよいでしょう。
+将来について考える。ジャーナリストは、記事を公開して次の仕事に移ることを考えがちです。
+その代わりに、データストーリーを発表するのと同時に、そのストーリーが終わるまでの計画を立ててみましょう。
+OpenNewsのブログSourceにあるマット・ウェイトのストーリー「Kill All Your Darlings」は、データジャーナリズムの記事のライフサイクルについて考える素晴らしいガイドとなるものです。
+いずれ、あなたは昇進するか、新しい組織に移ることになります。あなたのデータジャーナリズムが、あなたの退職後も生き残るようにしたいものです。
+図書館、知の記録機関、商業アーカイブと協力する。個人のジャーナリストとして、あなたは自分の作品のコピーを絶対に取っておくべきでしょう。
+しかし、将来ジャーナリズムを探すときに、あなたのクローゼットの中の箱やハードディスク、あるいはあなたの個人ウェブサイトを見る人はいないでしょう。
+彼らはLexis-NexisやProQuestなどの巨大な商用リポジトリを探すのです。
+商業作品の保存とデジタル・アーカイブの詳細については、キャスリン・ハンセンとノラ・ポールの共著、 「Future-Proofing the News:Preserving the First Draft of History (2017) 」 を参照してください。これは、ニュース・アーカイブの状況と、ニュースの保存に関する技術的、法的、組織的な課題を理解するための標準的なガイドです。
 Footnotes
 
 1. www.murderdata.org
