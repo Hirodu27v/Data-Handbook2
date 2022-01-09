@@ -12,10 +12,11 @@ Written by Simon Rogers
 当時、私は、オンラインを経て、科学セクションの編集を担当し、紙媒体（当時は重心が置かれていた）のニュース編集者でした。
 ホロバティが、データを使ってストーリーを伝え、人々が世界を理解する手助けをすることについて話せば話すほど、私の中で何かが動きました。
 可能だということだけでなく、実際にやってみることができるのです。 もしかしたら、私はデータを扱うジャーナリストになれるかもしれない。"データジャーナリスト "です。
-
-Working as a news editor with the graphics desk gave me the opportunity to work with designers who changed how I see the world, in Michael Robinson’s talented team. And as the portfolio of visuals grew, it turned out that I had accumulated a lot of numbers: Matt McAlister, who was launching The Guardian’s open API, described it as “the motherlode.” We had GDP data, carbon emissions, government spending data and much more cleaned up, all saved as Google spreadsheets and ready for use the next time we needed it.
-
-What if we just published this data in an open data format? No PDFs, just interesting accessible data, ready to use, by anyone. And that’s what we did with The Guardian’s Datablog—at first with 200 distinct data sets: Crime rates, economic indicators, war zone details, and even fashion week and Doctor Who villains. We started to realize that data could be applied to everything.
+ニュースエディターとしてグラフィックデスクを担当したことで、マイケル・ロビンソンの才能あふれるチームの中で、私の世界の見方を変えたデザイナーと仕事をする機会を得ることができました。
+そして、ビジュアル分野のポートフォリオが増えるにつれて、（そこには）たくさんの数字が蓄積されていることがわかりました。
+ガーディアンのオープンAPIを立ち上げたマット・マカリスターは、これを "マザーロード "と表現しています。GDPデータ、二酸化炭素排出量、政府支出データ、その他多くのデータをきれいに整理し、すべてGoogleスプレッドシートとして保存し、次に必要なときにすぐに使えるようにしました。
+このデータをオープンデータとして公開したら？PDFではなく、誰でもすぐに使える、アクセス可能なデータです。これが、ガーディアンのDatablogで行ったことです。
+当初は200の異なるデータセットがありました。犯罪率、経済指標、紛争地域の詳細、さらにはファッション・ウィークやドクター・フーの悪役まで。そして、データはあらゆるものに応用できるのだということに気づきました。
 
 It was still a weird thing to be doing. “Data editor” was hardly a widespread job—very few newsrooms had any kind of data team at all. In fact, just using the word “data” in a news meeting would elicit sniggers. This wasn’t “proper” journalism, right?
 
