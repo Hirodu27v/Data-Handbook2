@@ -17,10 +17,10 @@ Written by Simon Rogers
 ガーディアンのオープンAPIを立ち上げたマット・マカリスターは、これを "マザーロード "と表現しています。GDPデータ、二酸化炭素排出量、政府支出データ、その他多くのデータをきれいに整理し、すべてGoogleスプレッドシートとして保存し、次に必要なときにすぐに使えるようにしました。
 このデータをオープンデータとして公開したら？PDFではなく、誰でもすぐに使える、アクセス可能なデータです。これが、ガーディアンのDatablogで行ったことです。
 当初は200の異なるデータセットがありました。犯罪率、経済指標、紛争地域の詳細、さらにはファッション・ウィークやドクター・フーの悪役まで。そして、データはあらゆるものに応用できるのだということに気づきました。
-
-It was still a weird thing to be doing. “Data editor” was hardly a widespread job—very few newsrooms had any kind of data team at all. In fact, just using the word “data” in a news meeting would elicit sniggers. This wasn’t “proper” journalism, right?
-
-But 2009 was the start of the open data revolution: US government data hub data.gov had been launched in May of that year with just 47 data sets. Open data portals were being launched by countries and cities all over the world, and campaigners were demanding access to ever more.
+しかし、それはまだ奇妙な存在でした。「データエディターという職業はほとんど普及しておらず、データチームを設置している報道局はほとんどありませんでした。
+ニュースの打ち合わせで「データ」という言葉を使うだけで、鼻で笑われるような状況でした。これは「まともな」ジャーナリズムではない、というわけです。
+しかし、2009年はオープンデータ革命の始まりの年でした。米国政府のデータハブであるdata.govは、その年の5月にわずか47件のデータセットでスタートしました。
+世界中の国や都市がオープンデータポータルを立ち上げ、活動家たちはより多くのデータへのアクセスを要求していました。
 
 Within a year, we had our readers helping to crowdsource the expenses of thousands of MPs. Within the same period, the UK government had released its ultimate spending data set: COINS (Combined Online Information System) and The Guardian team had built an interactive explorer to encourage readers to help explore it.1 Once stories were produced from that data, however, the ask became, “How can we get more of this?”
 
