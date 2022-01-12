@@ -21,8 +21,9 @@ Written by Simon Rogers
 ニュースの打ち合わせで「データ」という言葉を使うだけで、鼻で笑われるような状況でした。これは「まともな」ジャーナリズムではない、というわけです。
 しかし、2009年はオープンデータ革命の始まりの年でした。米国政府のデータハブであるdata.govは、その年の5月にわずか47件のデータセットでスタートしました。
 世界中の国や都市がオープンデータポータルを立ち上げ、活動家たちはより多くのデータへのアクセスを要求していました。
-
-Within a year, we had our readers helping to crowdsource the expenses of thousands of MPs. Within the same period, the UK government had released its ultimate spending data set: COINS (Combined Online Information System) and The Guardian team had built an interactive explorer to encourage readers to help explore it.1 Once stories were produced from that data, however, the ask became, “How can we get more of this?”
+読者の協力のもと、1年足らずで何千人もの国会議員の経費をクラウドソース化できました。同じ時期に、英国政府はCOINS（Combined Online Information System）という究極の支出データセットを発表しました。
+ガーディアンのチームは読者にその探索を手伝ってもらうために、インタラクティブなエクスプローラーを作りました。
+そのデータから記事が生まれると、「どうすればもっと多くのデータを入手できるか」という問いが出てきました。
 
 There wasn’t long to wait. The answer came from a then-new organization based in Sweden with what could charitably be described as a radical transparency agenda: WikiLeaks.
 
