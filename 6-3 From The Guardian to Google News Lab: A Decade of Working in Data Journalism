@@ -28,12 +28,16 @@ Written by Simon Rogers
 ウィキリークスについて今日どう思うかは別にして、この組織が近年のデータジャーナリズムの歴史に与えた影響は誇張しすぎることはないでしょう。
 ここには、まずアフガニスタン、次いでイラクの戦場から、何千もの詳細な記録が大量に投げ込まれたのです。
 それは巨大なスプレッドシートの形で提供され、ガーディアンの調査チームが最初に扱うには大きすぎるものでした。
-
-It was larger than the Pentagon Papers, that release of files during the Vietnam War which shed light on how the conflict was really going. The records were detailed too—including a list of incidents with casualty counts, geo locations, details and categories. We could see the rise in IED attacks in Iraq, for instance, and how perilous the roads around the country had become. And when that data was combined with the traditional reporting skills of seasoned war reporters, the data changed how the world saw the wars.
-
-It wasn’t hard to produce content that seemed to have an impact across the whole world. The geodata in the spreadsheets lent itself to mapping, for instance, and there was a new free tool which could help with that: Google Fusion Tables. So we produced a quick map of every incident in Iraq in which there had been at least one death. Within 24 hours, a piece of content which took an hour to make was being seen around the world as users could explore the war zone for themselves in a way which made it seem more real. And because the data was structured, graphics teams could produce sophisticated, rich visuals which provided more in-depth reporting.
-
-And by the end of 2011—the year before this book was first published— the “Reading the Riots” project had applied the computer-assisted reporting techniques of Phil Meyer in the 1960s to an outbreak of violence across England (Robertson, 2011). Meyer had applied social science techniques to reporting on the Detroit riots of the late 1960s. A team led by The Guardian’s Paul Lewis did the same to the outbreak of unrest across England that year and incorporated data as a key part of that work. These were front-page, data-based stories.
+ベトナム戦争の実態を明らかにしたペンタゴン・ペーパーズ（米国防総省発行の文書）よりも規模が大きく、詳細で、死傷者数、地理的位置、詳細、カテゴリーを含む事件のリストも含まれていました。
+例えば、イラクでは簡易爆弾の被害が増加し、道路が危険な状態になっていることが分かりました。そして、そのデータと熟練した戦争記者の伝統的な報道技術が組み合わさったとき、世界の戦争の見え方が変わったのです。
+全世界にインパクトを与えるようなコンテンツを作ることは難しくありませんでした。例えば、スプレッドシートのジオデータはマッピングに適しており、それを支援する新しい無料ツールがあったのです。
+Google Fusion Tablesです。そこで私たちは、イラクで少なくとも1人の死者が出ているすべての事件を大づかみで地図化しました。
+24時間以内に、1時間で作ったコンテンツが世界中で見られるようになり、ユーザーは戦場をよりリアルに感じられるようになりました。
+また、データが構造化されているため、グラフィック・チームは洗練されたリッチなビジュアルを作成し、より詳細なレポートを提供することができました。
+ハンドブック初版公開前年の2011年末には、「暴動を読む」プロジェクトが、1960年代にフィル・マイヤーが行ったコンピュータ支援報道の技術を、イングランドで発生した暴力事件に応用しました（Robertson, 2011）。
+マイヤーは、1960年代後半のデトロイト暴動に関する報道に社会科学の手法を応用したのです。
+ガーディアンのポール・ルイスが率いるチームは、その年のイングランド全土で発生した暴力事件に敷衍し、その作業の重要な部分としてデータを取り入れたのです。
+これらは、一面を飾る、データに基づいたストーリーでした。
 
 
 But there was another change happening to the way we consume information, and it was developing fast. I can’t remember hearing the word “viral” outside health stories before 2010. The same is not true today and the rise of data journalism also coincided with the rise of social media.
