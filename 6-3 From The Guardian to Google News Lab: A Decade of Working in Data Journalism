@@ -42,14 +42,16 @@ Google Fusion Tablesです。そこで私たちは、イラクで少なくとも
 今は違います。データジャーナリズムの台頭は、ソーシャルメディアの台頭とも重なります。
 私たちは世界中のユーザーに記事を売り込むのにツイートを活用し、トラフィックが増え、この種のデータに基づくストーリーを探すユーザーが増えました。
 ビジュアルや数値は、数秒で何千人もの目に触れることができるのです。ソーシャルメディアはジャーナリズムを一変させましたが、データ・ジャーナリズムの拡大はニッチから主流への移行を促したのです。
-
-For one thing, it changed the dynamic with consumers. In the past, the words of a reporter were considered sacrosanct; now you are just one voice among millions. Make a mistake with a data set and 500 people would be ready to let you know. I can recall having long (and deep) conversations on Twitter with designers around colour schemes for maps—and changing what I did because of it. Sharing made my work better.
-
-In fact that spirit of collaboration is something that still persists in data journalism today. The first edition of this book was, after all, initially developed by a group of people meeting at the Mozilla Festival in London—and as events around data started to spring up, so did the opportunities for data journalists to work together and share skill sets.
-
-If the Iraq and WikiLeaks releases were great initial examples of cross-Atlantic cooperation, then see how those exercises grew into pan-global reporting involving hundreds of reporters. The Snowden leaks and the Panama Papers were notable for how reporters coordinated around the world to share their stories and build off each other’s work.2
-
-Just take an exercise like Electionland, which used collaborative reporting techniques to monitor voting issues in real time on election day. I was involved, too, providing real-time Google data and helping to visualize those concerns in real time. To this date, Electionland is the biggest single-day reporting exercise in history, with over a thousand journalists involved on the day itself. There’s a direct line from Electionland to what we were doing in those first few years.
+（具体例の）一つは、消費者との関係が変わったことです。以前は、記者の言葉は神聖なものとされていましたが、今は何百万人の中の一人の声に過ぎません。
+あるデータセットでミスを犯せば、500人の人がすぐに知らせてくれるでしょう。Twitterでデザイナーと地図の配色について長く（そして深く）語り合い、そのために自分の仕事を変えたことを思い出します。
+シェアすることで、私の仕事はより良いものになりました。
+このようなコラボレーションの精神は、今日でもデータジャーナリズムに根差しています。ハンドブック初版は、ロンドンのモジラ・フェスの参加者によって作られました。
+データに関するイベントが増えるにつれ、データジャーナリストが一緒に仕事をし、スキルを共有する機会も増えてきました。
+イラクとウィキリークスの発表が大西洋を越えた協力の素晴らしい最初の例であったならば、これらは何百人もの記者を含む全世界的な報道に成長した実例です。
+スノーデンのリークやパナマ文書は、記者が世界中で連携してストーリーを共有し、互いの仕事を発展させたという点で注目されました。
+選挙当日の投票問題をリアルタイムで監視するために共同報道の手法を用いたElectionlandのような活動を考えてみるとよいでしょう。
+私も参加し、リアルタイムでGoogleのデータを提供し、それらの懸念をリアルタイムで視覚化することに貢献しました。
+今に至るまで、Electionlandは1日の取材活動としては史上最大規模であり、当日は1000人以上のジャーナリストが参加しました。Electionlandは、私たちが最初の数年間にやっていたことと、直結しているのです。
 
 My point is not to list projects but to highlight the broader context of those earlier years, not just at The Guardian, but in newsrooms around the world. The New York Times, the Los Angeles Times, La Nación in Argentina: Across the world journalists were discovering new ways to work by telling data-led stories in innovative ways. This was the background to the first edition of this book.
 
