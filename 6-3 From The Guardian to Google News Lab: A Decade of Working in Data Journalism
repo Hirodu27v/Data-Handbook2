@@ -57,13 +57,18 @@ Google Fusion Tablesです。そこで私たちは、イラクで少なくとも
 これがハンドブック初版（制作）の背景だったのです。
 アルゼンチンのラ・ナシオンがその良い例です。
 熱心な記者たちでつくる小チームは、Tableau（当時は新しいツール）を使った可視化を独学で学び、これを情報の自由の記事と組み合わせて、中南米におけるデータジャーナリズムの口火を切りました。
-
-Data journalism went from being the province of a few loners to an established part of many major newsrooms. But one trend became clear even then: Whenever a new technique is introduced in reporting, data would not only be a key part of it but data journalists would be right there in the middle of it. In a period of less than three years, crowdsourcing became an established newsroom tool, and journalists found data, used databases to manage huge document dumps, published data sets and applied data-driven analytical techniques to complex news stories.
-
-This should not be seen as an isolated development within the field of journalism. These were just the effects of huge developments in international transparency beyond the setting up of open data portals. These included campaigns such as those run by Free Our Data, the Open Knowledge Foundation and civic tech groups to increase the pressure on the UK government to open up news data sets for public use and provide APIs for anyone to explore. They also included increased access to powerful free data visualization and cleaning tools, such as OpenRefine, Google Fusion Tables, Many Eyes, Datawrapper, Tableau Public and more. Those free tools combined with access to a lot of free public data facilitated the production of more and more public-facing visualizations and data projects. Newsrooms, such as The Texas Tribune and ProPublica, started to build operations around this data.
-
-Can you see how this works? A virtuous circle of data, easy processing, data visualization, more data, and so on. The more data is out there, the more work is done with the data the greater pressure there is for more data to be released. When I wrote the piece “Data Journalism Is the New Punk” it was making that point: We were at a place where creativity could really run free (Rogers, 2012). But also where the work would eventually become mainstream.
-
+データジャーナリズムは、少数の一匹狼の領域から、多くの主要なニュースルームで確立された手法になりました。しかし、当時から一つの傾向は明らかでした。
+報道に新しい手法が導入されるたびに、データが重要な役割を果たすだけでなく、データ・ジャーナリストが台頭したのです。
+3年足らずの間に、クラウドソーシングはニュースルームのツールとして定着し、ジャーナリストはデータを見つけ、データベースを使って膨大な量の文書を管理し、データセットを公開し、複雑なニュース記事にデータ駆動型の分析手法を適用するようになりました。
+これは、ジャーナリズムの分野でのみ起こった発展ではありません。これらは、オープンデータ・ポータルの設置にとどまらず、国際的な透明性に関する大きな進展の影響に過ぎないのです。
+（時代の流れが）Free Our Data、Open Knowledge Foundation、シビックテック・グループによるキャンペーンなど、英国政府に対する圧力を高め、ニュース・データセットを一般利用のために開放し、誰もが探索できるようにAPIを提供するよう求めたのである。
+また、OpenRefine、Google Fusion Tables、Many Eyes、Datawrapper、Tableau Publicなど、強力な無料のデータ可視化・クリーニングツールへのアクセス向上も含まれています。
+これらの無料ツールと多くの無料公共データへのアクセスが相まって、より多くの公共向け可視化およびデータプロジェクトの作成が促進されました。
+The Texas TribuneやProPublicaなどのニュースルームは、このデータを中心に事業を展開するようになりました。
+この仕組みがわかりましたか？データ、簡単な処理、データの可視化、さらにデータ......という好循環が生まれるのです。
+データが世に出れば出るほど、そのデータを使った作業が増えれば増えるほど、より多くのデータを公開するよう求める圧力が強くなります。
+私が「データ・ジャーナリズムは新しいパンク」という作品を書いたとき、その点を指摘していたのです。私たちは、創造性を自由に発揮できる場所にいるのです(Rogers, 2012)。
+そしてまた、その仕事はやがて主流となるものでもありました。
 
 Data can’t do everything. As Jonathan Gray (2012) wrote: “The current wave of excitement about data, data technologies and all things data-driven might lead one to suspect that this machine-readable, structured stuff is a special case.” It is just one piece of the puzzle of evidence that reporters have to assemble. But as there is more and more data available, that role changes and becomes even more important.
 
