@@ -1,0 +1,94 @@
+データジャーナリズムとシビックテックの絆
+Written by: Stefan Baack
+概要
+
+データジャーナリズムは他の形態のデータワークやデータ文化とどのように連帯するのでしょうか。
+
+キーワード：シビックテック、ゲートキーピング、専門家の境界、データジャーナリズム、情報の自由（FOI）、データベース
+
+While computer-assisted reporting was considered a practice exclusive to (investigative) journalists, data journalism is characterized by its entanglements with the technology sector and other forms of data work and data culture.
+
+Compared to computer-assisted reporting, the emergence of data journalism in the United States and in Europe intersected with several developments both within and outside newsrooms.
+
+These include: The growing availability of data online, not least due to open data initiatives and leaks; newsrooms hiring developers and integrating them within the editorial team to better cope with data and provide interactive web applications; and the emergence of various “tech for good” movements that are attracted to journalism as a way to use their technological skills for a “public good.”
+
+This has contributed to an influx of technologists into newsrooms ever since data journalism emerged and became popular in the 2000s in the West and elsewhere.
+
+However, the resulting entanglements between data journalists and other forms of data work are distinct in different regions. Moreover, data journalism is connected to new, entrepreneurial forms of journalism that have emerged in response to the continued struggle of media organizations to develop sustainable business models.
+
+These new types of media organizations, for example, non-profit newsrooms like ProPublica or venture-backed news start-ups like BuzzFeed, tend to question traditional boundaries of journalism in their aspiration to “revive” or “improve” journalism, and technology and data often play a key role in these efforts (see Usher, 2017; Wagemans et al., 2019).
+
+The entanglements between data journalism and other forms of data work and data cultures create new dependencies, but also new synergies that enable new forms of collaboration across sectors.
+
+Here I want to use the close relationship between data journalism and civic tech as an example because in many places both phenomena emerged around the same time and mutually shaped each other from an early stage.
+
+Civic tech is about the development of tools that aim to empower citizens by making it easier for them to engage with their governments or to hold them accountable.
+
+Examples of civic tech projects are OpenParliament, a parliamentary monitoring website that, among other things, makes parliamentary speeches more accessible; WhatDoTheyKnow, a freedom of information website that helps users to submit and find freedom of information requests; and FixMyStreet, which simplifies the reporting of problems to local authorities.1
+
+
+www.fixmystreet.com
+Civic technologists and data journalists share some important characteristics.
+
+First, many practitioners in both groups are committed to the principles of open-source culture and promote sharing, the use of open-source tools and data standards.
+
+Second, data journalists and civic technologists heavily rely on data, be it from official institutions, via crowdsourcing or via other sources.
+
+Third, while differing in their means, both groups aspire to provide a public service that empowers citizens and holds authorities accountable.
+
+Because of this overlapping set of data skills, complementary ambitions and joint commitment to sharing, civic technologists and data journalists easily perceive each other as complementary.
+
+In addition, support from media organizations, foundations such as the Knight Foundation, and grassroots initiatives such as Hacks/Hackers, have created continuous exchanges and collaborations between data journalists and civic technologists.
+
+The Tension Between Expanding and Reinforcing the Journalistic “Core”
+Based on a case study in Germany and the United Kingdom that examined how data journalists and civic technologists complement each other, we can describe their entanglements as revolving around two core practices:
+
+Facilitating and gatekeeping (Baack, 2018). Facilitating means enabling others to take actions themselves, while gatekeeping refers to the traditional journalistic role model of being a gatekeeper for publicly relevant information.
+
+To illustrate the difference, parliamentary monitoring websites developed by civic technologists are intended to enable their users to inform themselves, for example, by searching through parliamentary speeches (facilitating), but not to pro-actively push information to them that is deemed relevant by professionals (gatekeeping).
+
+Facilitating is about individual empowerment, while gatekeeping is about directing public debate and having impact.
+
+What characterizes the entanglements between data journalists and civic technologists is that practices of facilitating and gatekeeping are complementary and can mutually reinforce each other. For example, civic tech applications not only facilitate ordinary citizens; data journalists can use them for their own investigations.
+
+Investigations by journalists, on the other hand, can draw attention to particular issues and encourage people to make use of facilitating services. Moreover, information rights are essential for both facilitating and gatekeeping practices, which creates additional synergies. For example, data journalists can use their exclusive rights to get data that they then share with civic technologists, while journalists can profit from civic tech’s advocacy for stronger freedom of information rights and open data policies.
+
+New entrepreneurial forms of journalism play a particular role in the relationship between data journalism and civic tech, as they are more open towards expanding traditional gatekeeping with civic tech’s notion of facilitating. For example, ProPublica has developed several large, searchable databases intended not only to facilitate the engagement of ordinary citizens with their governments, but also to aid journalistic investigations by reporters in local newsrooms who do not have the resources and expertise to collect, clean and analyze data themselves.
+
+Another non-profit newsroom from Germany, Correctiv, has taken a similar approach and integrated the freedom of information website of the Open Knowledge Foundation Germany into some of its applications.
+
+This integration enabled users to directly request further information that is automatically added back to Correctiv’s database once obtained.2
+
+While these examples illustrate that there is a growing number of organizations that expand traditional notions of journalism by incorporating practices and values from other data cultures, there is also the opposite: Data journalists that react to the similarities in practices and aspirations with other fields of data work by embracing their professional identity as gatekeepers and storytellers.
+
+Those journalists do not necessarily reject civic tech, but their response is a greater specialization of journalism, closer to notions of traditional, investigative journalism.
+
+The Opportunities of Blurry Boundaries
+In sum, data journalism’s entanglements with other fields of data work and data culture contribute to a greater diversification of how “journalism” is understood and practiced, be it towards an expansion or a reinforcement of traditional values and identities.
+
+Both journalists themselves and researchers can consider data journalism as a phenomenon embedded in broader technological, cultural and economic transformations.
+
+I have focused on the entanglements between data journalists and civic technologists in this chapter, but I would like to point out two key lessons for data journalists that are relevant beyond this particular case.
+
+Benefitting from blurry boundaries. Journalists tend to describe a lack of professional boundaries towards other fields as problematic, but the synergies between civic technologists and data journalists demonstrate that blurry boundaries can also be an advantage. Rather than perceiving them primarily as problematic, data journalists also need to ask whether there are synergies with other fields of data work, and how to best benefit from them. Importantly, this does not mean that journalists necessarily have to adopt practices of facilitating themselves. While there are examples of that, journalists who reject this idea can still try to find ways to benefit without sacrificing their professional identity.
+
+Embracing diversity in professional journalism. The findings of my study reflect how “journalism” is increasingly delivered by a variety of different, more specialized actors. This diversification is raising concerns for some of the journalists I interviewed.
+
+For them, media organizations that adopt practices of facilitating might weaken their notion of “hard,” investigative journalism.
+
+However, journalists need to acknowledge that it is unlikely that there will be a single definite form of journalism in the future.
+
+In sum, a stronger awareness of both the historical and contemporary ties to other forms of data work and data culture can help journalists to reflect on their own role and to be better aware of not just new dependencies, but also potential synergies that can be used to support and potentially expand their mission.
+
+Footnotes
+
+1. Openparliament.ca, WhatDoTheyKnow.com, FixMyStreet.com
+
+2. correctiv.org
+
+Works Cited
+Baack, S. (2018). Practically engaged. The entanglements between data journalism and civic tech. Digital Journalism, 6(6), 673–692. doi.org/10.1080/21670811.2017.1375382
+
+Usher, N. (2017). Venture-backed news start-ups and the fĳield of journalism. Digital Journalism, 5(9), 1116–1133. doi.org/10.1080/21670811.2016.1272064
+
+Wagemans, A., Witschge, T., & Harbers, F. (2019). Impact as driving force of journalistic and social change. Journalism, 20(4), 552–567. doi.org/10.1177/1464884918770538
