@@ -85,17 +85,21 @@ The Texas TribuneやProPublicaなどのニュースルームは、このデー�
 一方、仮想現実や拡張現実のような新しい技術へのアクセスは、データを使って新しい方法でストーリーを語る可能性を開くものです。
 データジャーナリズムがどのように変化しうるか、そしてそれをサポートするために私たちに何ができるかを想像することを仕事にしている私は、新しい技術をより多くの記者が仕事に取り入れやすくするにはどうしたらよいかを考えています。
 例えば、私たちは最近、デザインスタジオのDatavizedと協力して、データを音に変換するビジュアルツールTwoToneを構築しました。
-
-What does a data journalist at Google do? I get to tell stories with a large and rich collection of data sets, as well as getting to work with talented designers to imagine the future of news data visualization and the role of new technologies in journalism. Part of my role is to help explore how new technologies can be matched with the right use cases and circumstances in which they are appropriate and useful. This role also involves exploring how journalists are using data and digital technologies to tell stories in new ways. For example, one recent project, El Universal’s “Zones of Silence", demonstrated the use of AI in journalism, using language processing to analyze news coverage of drug cartel murders and compare them to the official data, the gap between the two being areas of silence in reporting. I helped them do it, through access to AI APIs and design resources.
-
-The challenges are great, for all of us. We all consume information in increasingly mobile ways, which brings its own challenges. The days of full-screen complex visualizations have crashed against the fact that more than half of us now read the news on our phones or other mobile devices (a third of us read the news on the toilet, according to a Reuters news consumption study (Newman et al., 2017)). That means that increasingly newsroom designers have to design for tiny screens and dwindling attention spans.
-
-We also have a new problem that can stop us learning from the past. Code dies, libraries rot and eventually much of the most ambitious work in journalism just dies. The Guardian’s MPs’ expenses, EveryBlock and other projects have all succumbed to a vanishing institutional memory. This problem of vanishing data journalism is already subject to some innovative approaches (as you can see from Broussard’s chapter in this book). In the long run, this requires proper investment and it remains to be seen if the community is sufficiently motivated to make it happen.
-
-And we face a wider and increasingly alarming issue: Trust. Data analysis has always been subject to interpretation and disagreement, but good data journalism can overcome that. At a time when belief in the news and a shared set of facts are in doubt every day, data journalism can light the way for us, by bringing facts and evidence to light in an accessible way.
-
-So, despite all the change, some things are constant in this field. Data journalism has a long history,5 but in 2009, data journalism seemed an important way to get at a common truth, something we could all get behind. Now that need is greater than ever before.
-
+Googleのデータジャーナリストはどんな仕事をしているのでしょう？大規模で豊富なデータセットを使ってストーリーを伝えるだけでなく、才能あるデザイナーと、ニュースデータの可視化の未来や、ジャーナリズムにおける新しいテクノロジーの役割を想像することができます。
+私の役割のひとつは、新しいテクノロジーを適切な使用例や状況にどのようにマッチさせれば、適切かつ有用になるかを探ることです。また、ジャーナリストがデータやデジタル技術を使って、どのように新しい方法でストーリーを伝えているかを探ることも含まれます。
+例えば、最近のプロジェクトのひとつ、エル・ユニバーサルの「Zones of Silence」では、言語処理を使って麻薬カルテルの殺人事件の報道を分析し、公式データと比較して、両者のギャップを報道における沈黙の領域と捉え、ジャーナリズムにおけるAIの活用を実証しています。
+私は、AIのAPIやデザインリソースにアクセスすることで、彼らの活動を支援しました。
+私たち全員にとって、課題は大きいと言わざるをえません。私たちは皆、ますますモバイルで情報を消費するようになり、独自の課題をもたらしています。
+今や半数以上の人がスマートフォンやその他のモバイルデバイスでニュースを読んでおり、(ロイターのニュース消費調査(Newmanら、2017)によると、3分の1の人がトイレでニュースを読んでいるそうです)フルスクリーンの複雑なビジュアライゼーションの時代は終わりを告げました。
+つまりニュースルームのデザイナーは、小さな画面と注意力の持続時間の短縮に対応してデザインしなければならなくなったということです。
+過去からの学びに立ちはだかる新しい問題もあります。コードは死に、ライブラリは朽ち、最終的にはジャーナリズムの最も野心的な仕事の多くがただ消えてしまうのです。
+ガーディアンのMPs' expensesやEveryBlock、その他のプロジェクトはすべて、消えゆく組織の記憶に屈してしまいました。
+データジャーナリズムの消滅という問題は、すでにいくつかの革新的なアプローチの対象になっています（本書のブルサードの章をご覧ください）。
+長期的に見れば、これには適切な投資が必要ですが、コミュニティがそれを実現する十分な動機付けがあるかどうかは断言できません。
+そして、私たちはより広く、ますます憂慮すべき問題に直面しています。それは「信頼」です。データ分析には常に解釈や意見の相違がつきまといますが、優れたデータ・ジャーナリズムはそれを克服することができます。
+ニュースに対する信頼や事実の共有が日々疑われている今、データ・ジャーナリズムは事実と証拠をわかりやすく明るみに出すことで、私たちに道を示してくれるのです。
+このように、変化はあっても、この分野では不変のものがあります。データジャーナリズムには長い歴史がありますが、2009年当時、データジャーナリズムは、共通の真実に迫る重要な方法で、私たち全員が支持できるものだと考えられていました。
+今、その必要性はかつてないほど高まっています。
 Footnotes
 
 1. www.theguardian.com/politics/coins-combined-online-information-system
