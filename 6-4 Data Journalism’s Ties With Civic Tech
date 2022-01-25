@@ -15,26 +15,17 @@ Written by: Stefan Baack
 さらに、データジャーナリズムは、持続可能なビジネス・モデルを開発するためにメディア組織が継続的に苦闘していることに対応して登場した、新しい起業家的なジャーナリズムの形態と結びついています。
 こうした新しいタイプのメディア組織、例えばProPublicaのような非営利のニュースルームやBuzzFeedのようなベンチャー支援のニュース新興企業は、ジャーナリズムの「復活」または「改善」を熱望するあまり、従来の境界線を疑う傾向があり、テクノロジーとデータはしばしばその傾向を後押しする重要な役割を果たします（Usher、2017；Wagemans et al.、2019をご覧ください）。
 データジャーナリズムと他の形態のデータ・ワークやデータ文化との絡み合いは、新たな依存関係を生み出すだけでなく、セクター間の新たな形態のコラボレーションを可能にする相乗効果も生み出します。
+ここでは、データジャーナリズムとシビックテックの密接な関係を例に挙げます。なぜなら、両者は同時期に多くの場所で出現し、早い段階から相互に影響し合っていたからです。
+シビックテックとは、市民が政府と関わり、その責任を追及することを容易にすることで、市民の力を高めることを目的としたツールの開発することです。
+シビックテック・プロジェクトの例としては、議会の監視サイトであり、特に議会の演説をよりアクセスしやすくするOpenParliament、ユーザーが情報の自由に関する要求を提出したり見つけたりするのを助ける情報の自由のウェブサイトWhatDoTheyKnow、地方自治体への問題の報告を簡素化するFixMyStreetなどがあります。
+シビック・テクノロジストとデータ・ジャーナリストには、いくつかの重要な特徴があります。
+まず、両グループの実務家の多くは、オープンソース文化の原則に基づき、共有、オープンソースツールの使用、データ標準を推進しています。
+第二に、データジャーナリストとシビックテクノロジストは、公的機関、クラウドソーシング、その他のソースを問わず、データに大きく依存しています。
+第三に、手段は異なるが、両者とも市民に力を与え、当局に責任を負わせる公共サービスを提供することを望んでいるのです。
+このように、データのスキル、志、共有への取り組みが重なり合うため、市民技術者とデータジャーナリストはお互いを容易に補完し合う存在として認識することができるのです。
+また、報道機関やナイト財団などの財団からの支援、Hacks/Hackersなどの草の根的な取り組みにより、データジャーナリストとシビックテクノロジストの継続的な交流やコラボレーションが生まれました。
 
-Here I want to use the close relationship between data journalism and civic tech as an example because in many places both phenomena emerged around the same time and mutually shaped each other from an early stage.
 
-Civic tech is about the development of tools that aim to empower citizens by making it easier for them to engage with their governments or to hold them accountable.
-
-Examples of civic tech projects are OpenParliament, a parliamentary monitoring website that, among other things, makes parliamentary speeches more accessible; WhatDoTheyKnow, a freedom of information website that helps users to submit and find freedom of information requests; and FixMyStreet, which simplifies the reporting of problems to local authorities.1
-
-
-www.fixmystreet.com
-Civic technologists and data journalists share some important characteristics.
-
-First, many practitioners in both groups are committed to the principles of open-source culture and promote sharing, the use of open-source tools and data standards.
-
-Second, data journalists and civic technologists heavily rely on data, be it from official institutions, via crowdsourcing or via other sources.
-
-Third, while differing in their means, both groups aspire to provide a public service that empowers citizens and holds authorities accountable.
-
-Because of this overlapping set of data skills, complementary ambitions and joint commitment to sharing, civic technologists and data journalists easily perceive each other as complementary.
-
-In addition, support from media organizations, foundations such as the Knight Foundation, and grassroots initiatives such as Hacks/Hackers, have created continuous exchanges and collaborations between data journalists and civic technologists.
 
 The Tension Between Expanding and Reinforcing the Journalistic “Core”
 Based on a case study in Germany and the United Kingdom that examined how data journalists and civic technologists complement each other, we can describe their entanglements as revolving around two core practices:
