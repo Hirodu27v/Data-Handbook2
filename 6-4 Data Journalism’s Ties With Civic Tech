@@ -26,12 +26,9 @@ Written by: Stefan Baack
 また、報道機関やナイト財団などの財団からの支援、Hacks/Hackersなどの草の根的な取り組みにより、データジャーナリストとシビックテクノロジストの継続的な交流やコラボレーションが生まれました。
 ジャーナリズムの "核 "の拡大と強化の間にある緊張関係
 ドイツと英国のケーススタディに基づき、データジャーナリストと市民技術者がどのように相互補完しあっているかを検証したところ、両者の絡み合いは2つの中核的なプラクティスを中心としていると説明できることが分かりました。
-
-Facilitating and gatekeeping (Baack, 2018). Facilitating means enabling others to take actions themselves, while gatekeeping refers to the traditional journalistic role model of being a gatekeeper for publicly relevant information.
-
-To illustrate the difference, parliamentary monitoring websites developed by civic technologists are intended to enable their users to inform themselves, for example, by searching through parliamentary speeches (facilitating), but not to pro-actively push information to them that is deemed relevant by professionals (gatekeeping).
-
-Facilitating is about individual empowerment, while gatekeeping is about directing public debate and having impact.
+それはファシリテートとゲートキーピングです（Baack, 2018）。ファシリテートとは、他者が自ら行動を起こせるようにすることであり、ゲートキーピングは、公に関連する情報の門番となる伝統的なジャーナリズムの役割モデルを指します。
+シビック・テクノロジストが開発した議会監視サイトは、議会演説を検索するなどして、利用者が自ら情報を得られるようにすること（ファシリテート）を目的としているが、専門家が適切と判断した情報を積極的に利用者に押し付けること（ゲートキーピング）ではありません。
+ファシリテーターは個人のエンパワーメントを目的とし、ゲートキーピングは公的な議論を誘導し、影響を与えることを目的としているのです。
 
 What characterizes the entanglements between data journalists and civic technologists is that practices of facilitating and gatekeeping are complementary and can mutually reinforce each other. For example, civic tech applications not only facilitate ordinary citizens; data journalists can use them for their own investigations.
 
