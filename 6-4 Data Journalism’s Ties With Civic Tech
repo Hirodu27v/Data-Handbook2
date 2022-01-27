@@ -29,12 +29,14 @@ Written by: Stefan Baack
 それはファシリテートとゲートキーピングです（Baack, 2018）。ファシリテートとは、他者が自ら行動を起こせるようにすることであり、ゲートキーピングは、公に関連する情報の門番となる伝統的なジャーナリズムの役割モデルを指します。
 シビック・テクノロジストが開発した議会監視サイトは、議会演説を検索するなどして、利用者が自ら情報を得られるようにすること（ファシリテート）を目的としているが、専門家が適切と判断した情報を積極的に利用者に押し付けること（ゲートキーピング）ではありません。
 ファシリテーターは個人のエンパワーメントを目的とし、ゲートキーピングは公的な議論を誘導し、影響を与えることを目的としているのです。
-
-What characterizes the entanglements between data journalists and civic technologists is that practices of facilitating and gatekeeping are complementary and can mutually reinforce each other. For example, civic tech applications not only facilitate ordinary citizens; data journalists can use them for their own investigations.
-
-Investigations by journalists, on the other hand, can draw attention to particular issues and encourage people to make use of facilitating services. Moreover, information rights are essential for both facilitating and gatekeeping practices, which creates additional synergies. For example, data journalists can use their exclusive rights to get data that they then share with civic technologists, while journalists can profit from civic tech’s advocacy for stronger freedom of information rights and open data policies.
-
-New entrepreneurial forms of journalism play a particular role in the relationship between data journalism and civic tech, as they are more open towards expanding traditional gatekeeping with civic tech’s notion of facilitating. For example, ProPublica has developed several large, searchable databases intended not only to facilitate the engagement of ordinary citizens with their governments, but also to aid journalistic investigations by reporters in local newsrooms who do not have the resources and expertise to collect, clean and analyze data themselves.
+データジャーナリストとシビック・テクノロジストの絡みを特徴づけるのは、ファシリテートとゲートキーピングが補完的であり、相互に補強し合うことができるという点です。
+シビックテックのアプリケーションは一般市民の利便性を高めるだけでなく、データジャーナリストも自らの調査に利用することができます。
+一方、ジャーナリストによる調査は、特定の問題に注意を向けさせ、人々が支援サービスを利用するよう促すことができます。
+さらに、情報権はファシリテートとゲートキーピングの両方に不可欠であり、さらなる相乗効果を生みだします。
+例えば、データジャーナリストは排他的権利を利用してデータを入手し、シビックテックと共有することができます。
+一方、ジャーナリストはシビックテックが情報自由権の強化やオープンデータ政策の提唱をすることで利益を得ることができるのである。
+データジャーナリズムとシビックテックの関係では、新しい起業家的なジャーナリズムが特に重要な役割を担っています。
+例えば、プロパブリカは、一般市民と政府との関わりを促進するだけでなく、自らデータを収集、洗浄、分析するリソースや専門知識を持たない地方のニュースルームの記者によるジャーナリズム調査を支援するために、検索可能な大規模データベースをいくつか開発しました。
 
 Another non-profit newsroom from Germany, Correctiv, has taken a similar approach and integrated the freedom of information website of the Open Knowledge Foundation Germany into some of its applications.
 
