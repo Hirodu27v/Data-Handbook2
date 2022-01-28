@@ -1,4 +1,4 @@
-データジャーナリズムとシビックテックの絆
+データジャーナリズムとシビックテックの連帯
 Written by: Stefan Baack
 概要
 
@@ -37,16 +37,14 @@ Written by: Stefan Baack
 一方、ジャーナリストはシビックテックが情報自由権の強化やオープンデータ政策の提唱をすることで利益を得ることができるのである。
 データジャーナリズムとシビックテックの関係では、新しい起業家的なジャーナリズムが特に重要な役割を担っています。
 例えば、プロパブリカは、一般市民と政府との関わりを促進するだけでなく、自らデータを収集、洗浄、分析するリソースや専門知識を持たない地方のニュースルームの記者によるジャーナリズム調査を支援するために、検索可能な大規模データベースをいくつか開発しました。
+また、ドイツの非営利団体Correctivは、同様のアプローチで、Open Knowledge Foundation Germanyの情報公開サイトを一部のアプリケーションに統合しました。
+この統合により、ユーザーは直接、さらなる情報を要求できるようになり、一度入手した情報は自動的にCorrectivのデータベースに追加されるようになりました。
+これらの例は、他のデータ文化圏の慣行や価値観を取り入れることで、従来のジャーナリズムの概念を拡張する組織が増加していることを示していますが、その逆もあります。
+データ・ジャーナリストは、ゲートキーパーやストーリーテラーとしての専門的なアイデンティティを受け入れることによって、他の分野の慣習や願望の類似性に反応します。
+これらのジャーナリストは、必ずしもシビックテックを拒否しているわけではないが、その反応は、伝統的な調査報道という概念に近い、より専門化したジャーナリズムといえるでしょう。
+境界が曖昧になることで生まれる可能性
 
-Another non-profit newsroom from Germany, Correctiv, has taken a similar approach and integrated the freedom of information website of the Open Knowledge Foundation Germany into some of its applications.
 
-This integration enabled users to directly request further information that is automatically added back to Correctiv’s database once obtained.2
-
-While these examples illustrate that there is a growing number of organizations that expand traditional notions of journalism by incorporating practices and values from other data cultures, there is also the opposite: Data journalists that react to the similarities in practices and aspirations with other fields of data work by embracing their professional identity as gatekeepers and storytellers.
-
-Those journalists do not necessarily reject civic tech, but their response is a greater specialization of journalism, closer to notions of traditional, investigative journalism.
-
-The Opportunities of Blurry Boundaries
 In sum, data journalism’s entanglements with other fields of data work and data culture contribute to a greater diversification of how “journalism” is understood and practiced, be it towards an expansion or a reinforcement of traditional values and identities.
 
 Both journalists themselves and researchers can consider data journalism as a phenomenon embedded in broader technological, cultural and economic transformations.
