@@ -1,0 +1,43 @@
+Open-Source Coding Practices in Data Journalism
+Written by Ryan Pitts and Lindsay Muscato
+Abstract
+
+This chapter discusses the challenges of open-source coding for journalism and the features that successful projects share.
+
+Keywords: open source, programming, coding, journalism, tool development, code libraries
+
+Imagine this: a couple of journalists work together to scrape records from government websites, transform those scraped documents into data, analyze that data to look for patterns and then publish a visualization that tells a story for readers. Some version of this process unfolds in newsrooms around the world every single day. In many newsrooms, each step relies at least in part on open-source software, piecing together community-tested tools into a workflow that is faster than any way we could do it before.
+
+But it is not just open-source software that has become part of today’s data journalism workflow, it is also the philosophy of open source. We share knowledge and skills with one another, at events and through community channels and social media. We publish methodologies and data, inviting colleagues to correct our assumptions and giving readers reason to trust our results. Such open, collaborative approaches can make our journalism better.1 Every time we seek feedback or outside contributions, we make our work more resilient. Someone else might spot a problem with how we used data in a story or contribute a new feature that makes our software better.
+
+These practices can also have broader benefits beyond our own projects and organizations. Most of us will never dive into a big project using nothing but tools we have built ourselves and techniques we have pioneered alone. Instead, we build on the work of other people, learning from mentors, listening at conferences and learning how projects we like were made.
+
+At OpenNews, we have worked with journalists on open-source projects, supported developer collaborations, and written The Field Guide to Open Source in the Newsroom. In this chapter we reflect on some of the things we have learned about the role of open-source practices in data journalism, including common challenges and features of successful projects.
+
+The Field Guide to Open Source in the Newsroom
+An overview of The Field Guide to Open Source in the Newsroom homepage
+Common Challenges
+Working openly can be rewarding and fun, and you can learn more in the process—but it is not always simple! Planning for success means going in clear-eyed about the challenges that open-source projects often face.
+
+Making the case. It can feel hard to persuade editors, legal teams and others that “giving away” your work is a good idea. There may be legal, business, reputational and sustainability concerns. In response, we have been working with journalists to document the benefits of open-sourcing tools and process, including stronger code, community goodwill and increased credibility.
+
+People move on, and so does technology. When a key member of a team takes another job, the time they have available to maintain and advocate for an open-source project often goes with them. For example, a few years ago, The New York Times released Pourover, a JavaScript framework that powered fast, in-browser filtering of gigantic data sets. Pourover was widely shared and began to build a community. But one of the primary developers took a job elsewhere, and the team started looking at newer tools to solve similar problems. That is by no means a knock on Pourover’s code or planning—sometimes a project’s lifespan is just different than you had imagined.
+
+Pressures of success. It sounds counterintuitive, but finding out that people are really excited about something you built can create work you are not ready for. Sudden, explosive popularity adds pressure to keep building, fix bugs and respond to community contributions. Elliot Bentley wrestled with all these things after releasing oTranscribe, a web app he wrote to solve a problem in his day job: Transcribing audio interviews. A few months later he had tens of thousands of active users and questions about the future of the project.
+
+Features of Successful Projects
+There are many great examples of open source in journalism—from projects released by one newsroom and adopted by many others, to those that are collaborations from the start. The most successful efforts we have seen share one or more qualities, which we describe below.
+
+They solve a problem that you run into every day. Odds are, someone else is running into the same roadblock or the same set of repetitive tasks as you are. In covering criminal justice nationwide, the Marshall Project watches hundreds of websites for changes and announcements. Visiting a list of URLs over and over again is not a good use of a reporter’s time, but it is a great use of a cloud server. Klaxon keeps an eye on those websites and sends an alert whenever one changes—it’s so fast that the newsroom often has information even before it is officially announced. That kind of tracking is useful for all kinds of beats, and when the Marshall Project solved a problem for their reporters, they solved it for other organizations, too. By releasing Klaxon as an open-source project, its developers help reporting in dozens of newsrooms and receive code contributions in return that make their tool even better.
+
+They solve a problem that is not fun to work on. NPR’s data/visuals team needed a way to make graphics change dimensions along with the responsive pages they were embedded on. It is a critical feature as readers increasingly use mobile devices to access news content, but not necessarily a fun problem to work on. When NPR released Pym.js, an open-source code library that solved the problem, it did not take long to find widespread adoption across the journalism community.
+
+They have great documentation. There is a huge difference between dumping code onto the Internet and actually explaining what a project is for and how to use it. Deadlines have a tendency to make writing documentation a low priority, but a project can’t thrive without it. New users need a place to get started, and you, too, will thank yourself when you revisit your own work later on. Wherewolf is a small JavaScript service you can use to figure out where an address is located inside a set of boundaries (e.g., school districts or county borders). Although the code has not needed an update for a while, the user community is still growing, at least in part because its documentation is thorough and full of examples.
+
+They welcome contributors. The California Civic Data Coalition has a suite of open-source tools that help reporters use state campaign-finance data. The project began as a collaboration between a few developers in two newsrooms, but it has grown thanks to contributions from students, interns, civic data folks, interested citizens and even journalists with no coding experience at all. This didn’t happen by accident: The initiative has a roadmap of features to build and bugs to fix, they create tickets with tasks for different levels of expertise, and they show up at conferences and plan sprints that welcome everyone.
+
+There are many ways to measure success for an open-source newsroom project. Are you looking to build a community and invite contributions? Do you need a way to get extra eyes on your work? Or did you make something that solves a problem for you, and it just feels good to save other people the same heartache? You get to decide what success looks like for you. No matter what you choose, developing a plan that gets you there will have a few things in common: Being clear about your goal so you can create an honest roadmap for yourself and set the right expectations for others; writing friendly, example-driven documentation that brings new people onboard and explains decision making down the road; adopting a collaborative way of working that welcomes people in. You’ll learn so much by doing, so get out there and share!
+
+Footnotes
+
+1. See also the chapters by Leon and Mazotte for different perspectives on the role of open-source practices and philosophies in data journalism.
