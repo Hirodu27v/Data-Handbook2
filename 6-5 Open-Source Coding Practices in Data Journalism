@@ -1,10 +1,8 @@
-Open-Source Coding Practices in Data Journalism
+データジャーナリズムにおけるオープンソースコーディングの実践
 Written by Ryan Pitts and Lindsay Muscato
-Abstract
-
-This chapter discusses the challenges of open-source coding for journalism and the features that successful projects share.
-
-Keywords: open source, programming, coding, journalism, tool development, code libraries
+概要
+この章では、ジャーナリズムのためのオープンソースコーディングの課題と、成功したプロジェクトに共通する特徴を説明します。
+キーワード：オープンソース、プログラミング、コーディング、ジャーナリズム、ツール開発、コードライブラリ
 
 Imagine this: a couple of journalists work together to scrape records from government websites, transform those scraped documents into data, analyze that data to look for patterns and then publish a visualization that tells a story for readers. Some version of this process unfolds in newsrooms around the world every single day. In many newsrooms, each step relies at least in part on open-source software, piecing together community-tested tools into a workflow that is faster than any way we could do it before.
 
