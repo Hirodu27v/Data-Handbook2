@@ -3,14 +3,19 @@ Written by Ryan Pitts and Lindsay Muscato
 概要
 この章では、ジャーナリズムのためのオープンソースコーディングの課題と、成功したプロジェクトに共通する特徴を説明します。
 キーワード：オープンソース、プログラミング、コーディング、ジャーナリズム、ツール開発、コードライブラリ
-
-Imagine this: a couple of journalists work together to scrape records from government websites, transform those scraped documents into data, analyze that data to look for patterns and then publish a visualization that tells a story for readers. Some version of this process unfolds in newsrooms around the world every single day. In many newsrooms, each step relies at least in part on open-source software, piecing together community-tested tools into a workflow that is faster than any way we could do it before.
-
-But it is not just open-source software that has become part of today’s data journalism workflow, it is also the philosophy of open source. We share knowledge and skills with one another, at events and through community channels and social media. We publish methodologies and data, inviting colleagues to correct our assumptions and giving readers reason to trust our results. Such open, collaborative approaches can make our journalism better.1 Every time we seek feedback or outside contributions, we make our work more resilient. Someone else might spot a problem with how we used data in a story or contribute a new feature that makes our software better.
-
-These practices can also have broader benefits beyond our own projects and organizations. Most of us will never dive into a big project using nothing but tools we have built ourselves and techniques we have pioneered alone. Instead, we build on the work of other people, learning from mentors, listening at conferences and learning how projects we like were made.
-
-At OpenNews, we have worked with journalists on open-source projects, supported developer collaborations, and written The Field Guide to Open Source in the Newsroom. In this chapter we reflect on some of the things we have learned about the role of open-source practices in data journalism, including common challenges and features of successful projects.
+ご想像ください。
+数人のジャーナリストが協力して政府のＷｅｂサイトから記録をかき集め、データに変換し、そのデータを分析してパターンを探し、読者にストーリーを伝えるために可視化したものを発表します。
+このようなプロセスは、毎日、世界中のニュースルームで展開されています。
+多くのニュースルームでは、各ステップが少なくとも部分的にはオープンソースソフトウェアに依存しており、コミュニティでテストされたツールをつなぎ合わせて、以前のどの方法よりも高速なワークフローを実現しています。
+しかし、今日のデータジャーナリズムのワークフローの一部となっているのは、オープンソースソフトウェアだけではなく、オープンソースの哲学でもあるのです。私たちは、イベントやコミュニティ・チャンネル、ソーシャルメディアを通じて、互いに知識やスキルを共有しています。
+私たちは、方法論とデータを公開し、同僚に私たちの仮説を正してもらい、読者に私たちの結果を信頼する根拠を与えます。
+このようなオープンで協力的なアプローチは、私たちのジャーナリズムをより良いものにします。フィードバックや外部からの貢献を求めるたびに、私たちの仕事はより弾力的なものになるのです。
+記事でデータを使用する際の問題点を他の誰かが発見するかもしれませんし、私たちのソフトウェアをより良くする新機能を提供してくれるかもしれません。
+このようなプラクティスは、自分たちのプロジェクトや組織の枠を超えて、より大きな利益をもたらす可能性もあります。
+私たちはふつう、独力で開発したツールや技術だけを用いて、大きなプロジェクトに飛び込むことはしません。
+その代わりに、メンターから学び、カンファレンスで話を聞き、気に入ったプロジェクトがどのように作られたかを学びながら、他の人たちの仕事の上に構築していくのです。
+OpenNews では、オープンソースプロジェクトでジャーナリストと協力し、開発者のコラボレーションをサポートし、「The Field Guide to Open Source in the Newsroom」を執筆してきました。
+この章では、データジャーナリズムにおけるオープンソースの役割について、共通の課題や成功したプロジェクトの特徴など、私たちが学んだことを振り返っていきます。
 
 The Field Guide to Open Source in the Newsroom
 An overview of The Field Guide to Open Source in the Newsroom homepage
