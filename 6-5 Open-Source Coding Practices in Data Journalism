@@ -16,17 +16,20 @@ Written by Ryan Pitts and Lindsay Muscato
 その代わりに、メンターから学び、カンファレンスで話を聞き、気に入ったプロジェクトがどのように作られたかを学びながら、他の人たちの仕事の上に構築していくのです。
 OpenNews では、オープンソースプロジェクトでジャーナリストと協力し、開発者のコラボレーションをサポートし、「The Field Guide to Open Source in the Newsroom」を執筆してきました。
 この章では、データジャーナリズムにおけるオープンソースの役割について、共通の課題や成功したプロジェクトの特徴など、私たちが学んだことを振り返っていきます。
-
-The Field Guide to Open Source in the Newsroom
-An overview of The Field Guide to Open Source in the Newsroom homepage
-Common Challenges
-Working openly can be rewarding and fun, and you can learn more in the process—but it is not always simple! Planning for success means going in clear-eyed about the challenges that open-source projects often face.
-
-Making the case. It can feel hard to persuade editors, legal teams and others that “giving away” your work is a good idea. There may be legal, business, reputational and sustainability concerns. In response, we have been working with journalists to document the benefits of open-sourcing tools and process, including stronger code, community goodwill and increased credibility.
-
-People move on, and so does technology. When a key member of a team takes another job, the time they have available to maintain and advocate for an open-source project often goes with them. For example, a few years ago, The New York Times released Pourover, a JavaScript framework that powered fast, in-browser filtering of gigantic data sets. Pourover was widely shared and began to build a community. But one of the primary developers took a job elsewhere, and the team started looking at newer tools to solve similar problems. That is by no means a knock on Pourover’s code or planning—sometimes a project’s lifespan is just different than you had imagined.
-
-Pressures of success. It sounds counterintuitive, but finding out that people are really excited about something you built can create work you are not ready for. Sudden, explosive popularity adds pressure to keep building, fix bugs and respond to community contributions. Elliot Bentley wrestled with all these things after releasing oTranscribe, a web app he wrote to solve a problem in his day job: Transcribing audio interviews. A few months later he had tens of thousands of active users and questions about the future of the project.
+共通の課題
+オープンな仕事はやりがいがあって楽しく、その過程で多くのことを学ぶことができますが、いつも簡単というわけではありません。
+成功には、オープンソースプロジェクトがしばしば直面する課題に目を向けることが必要です。
+ケースを作る。編集者や法務チームなどに、自分の作品を「無料で提供する」ことが良いアイデアだと説得するのは難しいと感じることがあります。
+法律、ビジネス、風評、持続可能性などの懸念があるかもしれません。そこで私たちは、ジャーナリストの方々と協力して、オープンソースのツールやプロセスがもたらすメリット（より強固なコード、コミュニティの好意、信頼性の向上など）を文書化しています。
+人は移り変わるものであり、テクノロジーも同じです。チームの主要メンバーが別の仕事に就くと、オープンソース・プロジェクトの維持管理に使える時間が、彼らとともに消えてしまうことがよくあります。
+例えば、数年前、ニューヨークタイムズ紙は、巨大なデータセットをブラウザ内で高速にフィルタリングするJavaScriptフレームワーク、Pouroverをリリースしました。
+Pouroverは広く共有され、コミュニティが形成され始めました。しかし、主要な開発者の一人が転職し、チームは同様の問題を解決する新しいツールを探し始めることになったのです。
+決してPouroverのコードや計画を非難しているわけではなく、プロジェクトの寿命が想像と違うだけということもあるということです。
+成功へのプレッシャー。直感に反するようですが、自分が作ったものに人々が熱狂していることを知ると、作り込まれていない作品が生まれることがあります。
+突然の爆発的な人気は、作り続け、バグを修正し、コミュニティの貢献に応えなければならないというプレッシャーとなります。
+エリオット・ベントレーは、本業の問題を解決するために書いたウェブアプリ、oTranscribeをリリースした後、これらすべてのことと格闘していました。
+これは、彼が本業であるインタビューの音声を書き起こしのために書いたＷｅｂアプリです。
+数ヶ月後、彼は何万人ものアクティブユーザーを抱え、プロジェクトの将来について質問攻めに遭いました。
 
 Features of Successful Projects
 There are many great examples of open source in journalism—from projects released by one newsroom and adopted by many others, to those that are collaborations from the start. The most successful efforts we have seen share one or more qualities, which we describe below.
