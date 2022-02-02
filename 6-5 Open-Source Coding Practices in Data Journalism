@@ -30,13 +30,18 @@ Pouroverは広く共有され、コミュニティが形成され始めました
 エリオット・ベントレーは、本業の問題を解決するために書いたウェブアプリ、oTranscribeをリリースした後、これらすべてのことと格闘していました。
 これは、彼が本業であるインタビューの音声を書き起こしのために書いたＷｅｂアプリです。
 数ヶ月後、彼は何万人ものアクティブユーザーを抱え、プロジェクトの将来について質問攻めに遭いました。
-
-Features of Successful Projects
-There are many great examples of open source in journalism—from projects released by one newsroom and adopted by many others, to those that are collaborations from the start. The most successful efforts we have seen share one or more qualities, which we describe below.
-
-They solve a problem that you run into every day. Odds are, someone else is running into the same roadblock or the same set of repetitive tasks as you are. In covering criminal justice nationwide, the Marshall Project watches hundreds of websites for changes and announcements. Visiting a list of URLs over and over again is not a good use of a reporter’s time, but it is a great use of a cloud server. Klaxon keeps an eye on those websites and sends an alert whenever one changes—it’s so fast that the newsroom often has information even before it is officially announced. That kind of tracking is useful for all kinds of beats, and when the Marshall Project solved a problem for their reporters, they solved it for other organizations, too. By releasing Klaxon as an open-source project, its developers help reporting in dozens of newsrooms and receive code contributions in return that make their tool even better.
-
-They solve a problem that is not fun to work on. NPR’s data/visuals team needed a way to make graphics change dimensions along with the responsive pages they were embedded on. It is a critical feature as readers increasingly use mobile devices to access news content, but not necessarily a fun problem to work on. When NPR released Pym.js, an open-source code library that solved the problem, it did not take long to find widespread adoption across the journalism community.
+成功するプロジェクトの特徴
+ジャーナリズムにおけるオープンソースの素晴らしい例はたくさんあります。あるニュースルームが発表し、他の多くのニュースルームが採用したプロジェクトから、最初からコラボレーションが行われているものまで、さまざまです。
+これまで見てきた中で最も成功した取り組みには、以下に述べる特徴を一つ以上持っています。
+毎日出くわす問題を解決している。多くの場合、誰かがあなたと同じような障害や一連の繰り返し作業に直面しています。
+マーシャル・プロジェクトは、全国の刑事司法をカバーするため、何百ものウェブサイトを監視し、変化や発表がないかを調べています。
+URLのリストを何度も訪れることは、記者の時間を無駄にしますが、クラウド・サーバーを有効に使えば簡単にできます。
+KlaxonはこれらのWebサイトを監視し、変更があった場合にはアラートを送信します。非常に高速なので、ニュースルームでは公式発表前に情報を入手することもよくあります。
+このようなトラッキングは、あらゆる種類の報道に有効です。マーシャル・プロジェクトは、記者にとっての問題を解決すると同時に、他の組織にとっての問題も解決しました。
+Klaxonをオープンソースプロジェクトとして公開することで、開発者は何十ものニュースルームの報道を助け、その見返りとして自分たちのツールをさらに良くするためのコードの提供を受けることができるのです。
+七面倒な問題を解決する。NPRのデータ／ビジュアル・チームは、グラフィックスが埋め込まれているレスポンシブ・ページの寸法を変更する方法を必要としていました。
+読者がモバイルデバイスを使ってニュースコンテンツにアクセスする機会が増えているため、これは重要な機能ですが、大変な作業です。
+NPRがこの問題を解決するオープンソースのコードライブラリPym.jsをリリースすると、ジャーナリズムのコミュニティにはあっという間に広まりました。
 
 They have great documentation. There is a huge difference between dumping code onto the Internet and actually explaining what a project is for and how to use it. Deadlines have a tendency to make writing documentation a low priority, but a project can’t thrive without it. New users need a place to get started, and you, too, will thank yourself when you revisit your own work later on. Wherewolf is a small JavaScript service you can use to figure out where an address is located inside a set of boundaries (e.g., school districts or county borders). Although the code has not needed an update for a while, the user community is still growing, at least in part because its documentation is thorough and full of examples.
 
