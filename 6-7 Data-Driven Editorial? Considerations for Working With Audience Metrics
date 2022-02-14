@@ -15,10 +15,14 @@ Abstract
 メディア企業は、視聴者の人口統計や行動に関するデータを収集する努力を常にしてきました。
 しかし、インターネットの追跡能力と、膨大な量のデータを保存し解析する能力によって、視聴者測定基準は近年はるかに洗練されたものになってきている。
 分析ツールは、前述のページビューや直帰率に加え、訪問者の再訪問率、参照サイト、スクロールの深さ、ページ滞在時間などの変数を追跡します。これらのデータの多くは、報道機関にリアルタイムで配信されます。
-
-Metrics dashboards are now virtually ubiquitous in contemporary newsrooms, and heated debates about how and when they should be consulted are nearly as widespread as the metrics themselves. It is not surprising that metrics have become a hot-button issue in journalism. Their presence invites a number of ever-present tensions in commercial news media to come crashing into the foreground. Among them: What is the fundamental mission of journalism, and how can news organizations know when they achieve that mission? How can media companies reconcile their profit imperative with their civic one? To the extent that the distinction between journalist and audience is still meaningful, what kind of relationship should journalists have with their readers? Audience metrics have become ubiquitous in news organizations, but there has been little empirical research on how the data is produced or how it affects newsroom culture and journalists’ daily work.
-
-With the support of Columbia University’s Tow Center for Digital Journalism, I undertook a long-term ethnographic research project to understand how the use of metrics changes reporters’ behaviour and what this means for journalism. My key research questions included the following:
+現代のニュースルームでは、指標ダッシュボードは事実上ユビキタスになっており、いつ、どのように参照すべきかという熱い議論が、指標そのものと同じくらい広まっています。
+ジャーナリズムの世界で、指標が重要な問題になっているのは驚くべきことではありません。
+その存在は、商業ニュースメディアにおいて常に存在する数々の緊張関係を露呈させます。中でも、ジャーナリズムの基本的な使命とは何か、そしてその使命が達成されたとき、報道機関はそれをどのようにして知ることができるのかという疑問があります。
+さらに、メディア企業は利益の追求と市民的な使命とをどのように調和できるのでしょうか？
+はたまた、ジャーナリストと読者の区別が意味を持つ限り、ジャーナリストは読者とどのような関係を持つべきでしょうか？
+視聴者指標は報道機関ではどこでも見られるようになりましたが、データがどのように作成され、報道室の文化やジャーナリストの日常業務にどのような影響を与えるかについては、これまでほとんど実証的な研究がなされてきませんでした。
+私は、コロンビア大学のTow Center for Digital Journalismの支援を受けて、長期的なエスノグラフィ調査プロジェクトを実施し、測定基準の利用が記者の行動をどのように変え、それがジャーナリズムにとって何を意味するかを理解しようとしてきました。
+調査における主な質問は以下の通りです。
 
 First, how are metrics produced? That is, how do the programmers, data scientists, designers, product leads, marketers and salespeople who make and sell these tools decide which aspects of audience behaviour should be measured and how to measure them? What ideas—about both those whose behaviour they are measuring (news consumers) and those who will be using their tool (journalists)—are embedded in these decisions? How do analytics firms communicate the value of metrics to news organizations?
 
