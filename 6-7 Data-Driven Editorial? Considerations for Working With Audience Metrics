@@ -23,12 +23,16 @@ Abstract
 視聴者指標は報道機関ではどこでも見られるようになりましたが、データがどのように作成され、報道室の文化やジャーナリストの日常業務にどのような影響を与えるかについては、これまでほとんど実証的な研究がなされてきませんでした。
 私は、コロンビア大学のTow Center for Digital Journalismの支援を受けて、長期的なエスノグラフィ調査プロジェクトを実施し、測定基準の利用が記者の行動をどのように変え、それがジャーナリズムにとって何を意味するかを理解しようとしてきました。
 調査における主な質問は以下の通りです。
-
-First, how are metrics produced? That is, how do the programmers, data scientists, designers, product leads, marketers and salespeople who make and sell these tools decide which aspects of audience behaviour should be measured and how to measure them? What ideas—about both those whose behaviour they are measuring (news consumers) and those who will be using their tool (journalists)—are embedded in these decisions? How do analytics firms communicate the value of metrics to news organizations?
-
-Second, how are metrics interpreted? Despite their opposing stances, arguments that metrics are good or bad for journalism have one thing in common: They tend to assume that the meaning of metrics is clear and straightforward. But a number on its own does not mean anything without a conceptual framework with which to interpret it. Who makes sense of metrics, and how do they do it?
-
-Third, how are metrics actually used in news work? Does data inform theway newsrooms assign, write and promote stories? In which ways, if any, is data a factor in personnel decisions such as raises, promotions and layoffs? Does data play more of a role in daily work or long-term strategy? And how do the answers to these questions differ across organizational contexts?
+まず、指標はどのように作られるのでしょうか。
+つまり、これらのツールを作り、販売するプログラマー、データサイエンティスト、デザイナー、プロダクトリード、マーケッター、セールスマンは、視聴者行動のどの側面を測定すべきで、どのように測定すべきかをどう決定するのでしょう。
+そうした決定には、その行動を測定される人々（ニュース消費者）とそのツールを使用する人々（ジャーナリスト）の両方について、どのような考え方が組み込まれているのでしょうか。
+分析企業は、測定基準の価値をどんな風に報道機関に伝えているのでしょうか。
+第二に、測定基準はどのように解釈されるのでしょう。
+測定基準はジャーナリズムにとって良いものなのか悪いものなのか、その対立するスタンスにかかわらず、測定基準の意味は明確でわかりやすいと仮定する傾向があります。
+しかし、数値は、それを解釈するための概念的な枠組みがなければ、それ自体では何の意味もないのです。誰が、どのように指標を理解するのでしょうか？
+第三に、報道業務において測定基準は実際にどのように使われていますか。
+データはニュースルームがストーリーを割り当て、書き、宣伝するのに役立っているのでしょうか？昇給、昇進、解雇などの人事で、データはどのように利用されているのでしょうか。
+データは日々の業務と長期的な戦略のどちらでより大きな役割を果たしているでしょう。また、組織が置かれた状況はこれらの質問に対する回答にどの程度影響するのでしょうか。
 
 To answer these questions, I conducted an ethnographic study of the role of metrics in contemporary news by examining three case studies: Chartbeat, Gawker Media, and The New York Times. Through a combination of observation and interviews with product managers, data scientists, reporters, bloggers, editors and others, my intention was to unearth the assumptions and values that underlie audience measures, the effect of metrics on journalists’ daily work, and the ways in which metrics interact with organizational culture. In what follows I will summarize some of my central discoveries.
 
