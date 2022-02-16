@@ -33,10 +33,15 @@ Abstract
 第三に、報道業務において測定基準は実際にどのように使われていますか。
 データはニュースルームがストーリーを割り当て、書き、宣伝するのに役立っているのでしょうか？昇給、昇進、解雇などの人事で、データはどのように利用されているのでしょうか。
 データは日々の業務と長期的な戦略のどちらでより大きな役割を果たしているでしょう。また、組織が置かれた状況はこれらの質問に対する回答にどの程度影響するのでしょうか。
-
-To answer these questions, I conducted an ethnographic study of the role of metrics in contemporary news by examining three case studies: Chartbeat, Gawker Media, and The New York Times. Through a combination of observation and interviews with product managers, data scientists, reporters, bloggers, editors and others, my intention was to unearth the assumptions and values that underlie audience measures, the effect of metrics on journalists’ daily work, and the ways in which metrics interact with organizational culture. In what follows I will summarize some of my central discoveries.
-
-First, analytics dashboards have important emotional dimensions that are too often overlooked. Metrics, and the larger “big data” phenomenon of which they are a part, are commonly described as a force of rationalization: That is, they allow people to make decisions based on dispassionate, objective information rather than unreliable intuition or judgement. While this portrayal is not incorrect, it is incomplete. The power and appeal of metrics are significantly grounded in the data’s ability to elicit particular feelings, such as excitement, disappointment, validation and reassurance. Chartbeat knew that this emotional valence was a powerful part of the dashboard’s appeal, and the company included features to engender emo- tions in users. For instance, the dashboard was designed to communicate deference to journalistic judgement, cushion the blow of low traffic and provide opportunities for celebration in newsrooms.
+これらの疑問に答えるようと、Chartbeat、Gawker Media、The New York Timesという三つの事例研究を通じ、現代のニュースにおけるメトリクスの役割に関する民族誌学的研究を行うことにしました。
+プロダクトマネージャー、データサイエンティスト、レポーター、ブロガー、編集者などへのインタビューや観察から、視聴率測定の根底にある仮定や価値観、測定基準がジャーナリストの日常業務に及ぼす影響、測定基準と組織文化との相互作用を明らかにします。
+以下では、私が発見した主要な事柄をいくつかまとめていきます。
+まず、分析ダッシュボードには、見過ごされがちな重要な感情的側面があります。
+指標や指標がその一部であるより大きな「ビッグデータ」は、一般に合理的なものとして説明されます。
+つまり、信頼できない直感や判断ではなく、冷静で客観的な情報に基づいて意思決定を行うことができるとされます。
+この表現は間違ってはいないが、不完全です。測定基準のパワーと魅力は、データが興奮、失望、検証、安心感といった特定の感情を引き出す能力によるものです。
+Chartbeatは、この感情の価値がダッシュボードの強力な魅力の一部であることを理解しており、ユーザーの感情を喚起するような機能を盛り込みました。
+たとえば、ダッシュボードは、ジャーナリストの判断に敬意を表し、トラフィックが少ないときの打撃を和らげ、ニュースルームが喜びに沸く機会を提供するように設計されています。
 
 Second, the impact of an analytics tool depends on the organization using it. It is often assumed that the very presence of an analytics tool will change how a newsroom operates in particular ways. However, I found that organizational context was highly influential in shaping if and how metrics influence the production of news. For instance, Gawker Media and The New York Times are both Chartbeat clients, but the tool manifests in vastly different ways in each setting. At Gawker, metrics were highly visible and influential. At The Times, they were less so, and often used to corroborate decisions editors had already made. This suggests that it is impossible to know how analytics are affecting journalism without examining how they are used in particular newsrooms.
 
