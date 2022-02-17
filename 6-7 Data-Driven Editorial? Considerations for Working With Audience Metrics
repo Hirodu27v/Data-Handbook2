@@ -42,6 +42,18 @@ Abstract
 この表現は間違ってはいないが、不完全です。測定基準のパワーと魅力は、データが興奮、失望、検証、安心感といった特定の感情を引き出す能力によるものです。
 Chartbeatは、この感情の価値がダッシュボードの強力な魅力の一部であることを理解しており、ユーザーの感情を喚起するような機能を盛り込みました。
 たとえば、ダッシュボードは、ジャーナリストの判断に敬意を表し、トラフィックが少ないときの打撃を和らげ、ニュースルームが喜びに沸く機会を提供するように設計されています。
+第2に、分析ツールの影響は、それを使用している組織によって異なります。多くの場合、分析ツールの存在そのものが、ニュースルームの運営を変化させると考えられがちです。
+しかし、私は、測定基準がニュース制作に影響を与えるかどうか、またどのように影響を与えるかを形成する上で、組織のコンテキストが非常に大きな影響力を持つことを発見しました。
+例えば、Gawker Mediaとニューヨーク・タイムズはどちらもChartbeatのクライアントですが、それぞれの環境で、このツールの活用方法は大きく異なります。
+Gawkerでは、指標が非常に目に付くところに表示され、影響力を持っていました。タイムズではそうではなく、編集者がすでに下した決定の裏付けといてよく使われたのです。
+アナリティクスがジャーナリズムにどのような影響を与えているかは、特定のニュースルームでアナリティクスがどのように使われているかを調べなければわかりません。
+最後に、指標駆動型の文化は、記者のストレスと安心感の源になることがあります。
+また、この文化は、編集の自由という認識と驚くほど相性が良いのです。Gawker Mediaの記者は、トラフィックのプレッシャーにストレスを感じていましたが、多くはコメントやソーシャルメディアにおけるオンラインの罵詈雑言にはるかに大きな心理的影響を受けていた。
+ネット上での敵意や嫌がらせがある中で、ライターはプロとしての力量を再認識するためにメトリクスを利用することもありました。興味深いことに、ライターと編集者は、一般に、会社のトラフィックベースの評価システムが編集の自律性を阻害するものとは認識していなかった。
+Gawker Mediaのようなオンラインのみのメディア企業のジャーナリストは、従来のメディア企業とは編集の自由や制約について異なる考えを持っているようです。
+結論として、私は報道機関に次のように提言します。まず、報道機関はアナリティクス関連の問題(すなわち、組織における指標の適切な役割と、データが組織のジャーナリズムの目標と相互作用する方法)について、戦略的思考を優先させるべきです。
+ほとんどのジャーナリストは日々の業務に忙しく、組織における測定基準の役割や、どの測定基準がジャーナリズムの目標を最もよく補完するかについて、広範囲に、あるいは抽象的に考えることができませんでした。その結果、彼らはその場しのぎの方法で測定基準を参照し、解釈し、利用する傾向がありました。
+しかし、このようなデータは、その場しのぎで導入するにはあまりにも強力です。ニュースルームは、社内であれ、外部の研究者との提携であれ、アナリティクスの最適な利用方法について、日々の制作のプレッシャーから解放され、熟考する機会を設ける必要があります。
 
 Second, the impact of an analytics tool depends on the organization using it. It is often assumed that the very presence of an analytics tool will change how a newsroom operates in particular ways. However, I found that organizational context was highly influential in shaping if and how metrics influence the production of news. For instance, Gawker Media and The New York Times are both Chartbeat clients, but the tool manifests in vastly different ways in each setting. At Gawker, metrics were highly visible and influential. At The Times, they were less so, and often used to corroborate decisions editors had already made. This suggests that it is impossible to know how analytics are affecting journalism without examining how they are used in particular newsrooms.
 
