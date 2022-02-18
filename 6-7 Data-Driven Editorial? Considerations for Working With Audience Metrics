@@ -1,4 +1,4 @@
-データ駆動型社説って？視聴者測定基準を利用する際の注意点
+データ駆動型編集って？視聴者測定基準を利用する際の注意点
 Written by Caitlin Petre
 Abstract
 本章では、ケイトリン・ペトレによるChartbeat、Gawker Media、ニューヨーク・タイムズのエスノグラフィー研究をもとに、現代のニュース制作における測定基準の役割を探るとともに、編集実務に取り入れるニュースルームに提言します。
@@ -54,7 +54,17 @@ Gawker Mediaのようなオンラインのみのメディア企業のジャー�
 結論として、私は報道機関に次のように提言します。まず、報道機関はアナリティクス関連の問題(すなわち、組織における指標の適切な役割と、データが組織のジャーナリズムの目標と相互作用する方法)について、戦略的思考を優先させるべきです。
 ほとんどのジャーナリストは日々の業務に忙しく、組織における測定基準の役割や、どの測定基準がジャーナリズムの目標を最もよく補完するかについて、広範囲に、あるいは抽象的に考えることができませんでした。その結果、彼らはその場しのぎの方法で測定基準を参照し、解釈し、利用する傾向がありました。
 しかし、このようなデータは、その場しのぎで導入するにはあまりにも強力です。ニュースルームは、社内であれ、外部の研究者との提携であれ、アナリティクスの最適な利用方法について、日々の制作のプレッシャーから解放され、熟考する機会を設ける必要があります。
-
+第二に、ニュースルームのマネージャーは、アナリティクスサービスを選ぶ際に、ツールだけでなく、どのベンダーの戦略的目標、ビジネスの必須事項、価値観が自社のニュースルームの目標に最も適しているかを検討すべきです。
+私たちは、数字、ひいてはアナリティクスのダッシュボードを、経験則に基づいた権威ある冷静な世界の反映と見なす傾向があります。
+しかし、分析サービスを選択する際には、分析会社も商売しているのだということに注意が必要です。
+第三に、測定基準の使用に関する社内方針を策定する際、ニュースルームの管理者は、トラフィックデータが編集内容だけでなく、編集部員にも影響を与える可能性があることを考慮してください。
+ニュースルームの壁やウェブサイトでランキングが目立つようになると、その影響力は歯止めがきかなくなりがちです。
+トラフィックベースのランキングは、たとえそれが意図的でない場合でも、他の評価形態をかき消す可能性があります。
+最後に、より良い測定基準を開発する努力は必要であり、価値があるものの、ニュースルームと分析会社は測定基準の限界を忘れずに。
+組織の優先順位や評価システムがますます測定基準に基づいて構築されるようになると、定量的に測定可能なものと価値のあるものを混同してしまいがちです。
+すべてのものをカウントできるわけではなく、またカウントすべきでもありません。
+ニュースルーム、分析会社、資金提供者、メディア研究者は、ジャーナリズムの最も魅力的で不可欠な特性、たとえば社会的使命などが、いかに簡単に測定できないものであるか考えてみましょう。
+データ分析の価値が高まっている現在、定量化できるものと価値があるものを同一視しないように注意しなければなりません。
 Second, the impact of an analytics tool depends on the organization using it. It is often assumed that the very presence of an analytics tool will change how a newsroom operates in particular ways. However, I found that organizational context was highly influential in shaping if and how metrics influence the production of news. For instance, Gawker Media and The New York Times are both Chartbeat clients, but the tool manifests in vastly different ways in each setting. At Gawker, metrics were highly visible and influential. At The Times, they were less so, and often used to corroborate decisions editors had already made. This suggests that it is impossible to know how analytics are affecting journalism without examining how they are used in particular newsrooms.
 
 Finally, for writers, a metrics-driven culture can be simultaneously a source of stress and reassurance. It is also surprisingly compatible with a perception of editorial freedom. While writers at Gawker Media found traffic pressures stressful, many were far more psychologically affected by online vitriol in comments and on social media. In a climate of online hostility or even harassment, writers sometimes turned to metrics as a reassuring reminder of their professional competence. Interestingly, writers and editors generally did not perceive the company’s traffic-based evaluation systems as an impediment to their editorial autonomy. This suggests that journalists at online-only media companies like Gawker Media may have different notions of editorial freedom and constraint than their legacy media counterparts.
