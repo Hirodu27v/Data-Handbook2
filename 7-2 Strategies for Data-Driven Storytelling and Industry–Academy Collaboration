@@ -18,14 +18,12 @@ Written by Damian Radcliffe and Seth C. Lewis
 ヴィクトリア朝のイギリスでは、医師のジョン・スノーがロンドン中心部のコレラ患者をプロットした地図を作成しました。
 そして、1855年に狭い地域で大流行したコレラの原因として、ブロードストリートの井戸を特定したのです（図44.1と図44.2参照）。
 スノーの説得力に満ちた分析は、現代のデータ分析と可視化のツールで作成された疾病マップとあまり変わりません。
+別の例では、フローレンス・ナイチンゲールの 「東洋における軍隊の死因」がクリミア戦争で戦う英国兵の死因として衛生（またはその欠如）を挙げました。（"Worth a Thousand Words," 2013）
+彼女のデザインは、今でも驚くほど現代的です。こうした努力と並行して、同じ頃、19世紀半ばにホレス・グリーリーが『ニューヨーク・トリビューン』に寄稿した仕事は、多くの選出議員（若きエイブラハム・リンカーンを含む）が、認められているより多く経費を請求していたことを暴露しました（クライン、2015年）。
+世界は進歩しても（グリーリーは馬で移動する距離に焦点を当てた）、この種の重要な調査仕事はなおジャーナリズムの定番です (Larcinese & Sircar, 2017; see also Barrett, 2009; “A Chronology of the Senate Expenses Scandal,” 2016; “Expenses Scandal an Embarrassing Start,” 2017; “MPs’ Expenses: Full List,” 2009; “Q&A: MP Expenses,” 2009; Rayner, 2009; “Senate Expenses Scandal,” n.d.)。
+こうした歴史的な事例と、より現代的な事例（データ・ジャーナリズム・アワード受賞作品など）は、ジャーナリストにとって強力なインスピレーションの源として機能します。
+これらは、データ駆動型アプローチが、権威に責任を負わせ（ICIJ、n.d）、重要な社会の不正を強調し（Lowenstein,2015）、並外れたものを可視化して紹介するのに使用できるかもしれないということを示します(“2016 Year in Review,” 2016)。
 
-In another example, Florence Nightingale’s visualizations “of the causes of mortality in the army in the East” (“Worth a Thousand Words,” 2013) helped to demonstrate the role that sanitation (or lack thereof) played in causing the death of British soldiers fighting in the Crimean War (see Figure 44.3). Her designs still feel remarkably contemporary.
-
-Alongside these efforts, around the same time, Horace Greeley’s work for The New York Tribune in the mid-19th century exposed how a number of elected officials (including a young Abraham Lincoln) were claiming expenses greater than they were eligible for (Klein, 2015). Although the world has moved on (Greeley’s work focused on distances typically travelled by horseback), this type of important investigative work continues to be a journalistic staple (Larcinese & Sircar, 2017; see also Barrett, 2009; “A Chronology of the Senate Expenses Scandal,” 2016; “Expenses Scandal an Embarrassing Start,” 2017; “MPs’ Expenses: Full List,” 2009; “Q&A: MP Expenses,” 2009; Rayner, 2009; “Senate Expenses Scandal,” n.d.).
-
-Figure 44.1
-Figure 44.1. Map of London produced by physician John Snow, plotting cholera cases in central London in 1855. Source: British Library. https://www.bl.uk/collection-items/ john-snows-map-showing-the-spread-of-cholera-in-soho-london-1855.
-These historic examples, coupled with more contemporary case studies (such as those identified by the annual Data Journalism Awards), can act as powerful sources of inspiration for journalists.2 They demonstrate how data-driven approaches may be used to hold authority to account (ICIJ, n.d.), highlight important social injustices (Lowenstein, 2015), as well as visualize and showcase the extraordinary (“2016 Year in Review,” 2016).
 
 While data has long been a part of journalism, as reflected in the emergence of “computer-assisted reporting” during the late 20th century, recent developments in the availability and accessibility of data-driven techniques have amplified opportunities for distinctly data-driven journalism (for a history, see Anderson, 2018; for an overview of data journalism, see Gray et al., 2012). It is against this backdrop that news organizations around the world—particularly the best-resourced ones, but increasingly smaller newsrooms as well—are using data to inform their journalistic work, both in telling stories with data (Hermida & Young, 2019) as well as in using data (in the form of digital audience metrics) to influence story selection as well as to measure and improve the impact of their work (Zamith, 2018).
 
