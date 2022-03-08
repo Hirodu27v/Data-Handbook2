@@ -54,13 +54,13 @@ Written by Damian Radcliffe and Seth C. Lewis
 どのようなアプローチを取るかは、伝えたいストーリー、視聴者のデータリテラシーや嗜好の両方に影響されるかもしれません。
 いずれにせよ、データ駆動型ストーリーは、オーディエンスが何を見ているのか、どのようにデータを操作すればいいのかわかりやすくなるよう、うまく設計する必要があります（Radcliffe, 2017b, 2017c）。
 自分の仕事をより広い文脈の中に位置づける。データを扱うジャーナリストは、上記の配慮とともに、コンテンツの消費やジャーナリズムに対する姿勢など、より広い範囲の動きも認識する必要があります。
-
-
-Think mobile: In 2012, the Pew Research Center found that over half of those who owned a smartphone or a tablet accessed news content on those devices (Mitchell et al., 2012; “News Consumption on Digital Devices,” 2017); just four years later, more than seven in ten Americans (72%) reported getting news via mobile (Mitchell et al., 2016). As mobile news consumption continues to grow, so too it is imperative that news organizations provide a positive mobile experience for all of their content, including data-rich material.
-
-Make it personal: In an era of personalization and algorithmically generated media experiences, this can include creating opportunities for audiences to interrogate data and understand what it means for them. ProPublica’s Dollars for Docs investigation (Tigas et al., 2019), which enables patients to see the payments made by pharmaceutical and medical device companies to their doctors, is one example of this technique in action.
-
-Protecting your sources: Journalists need to know how to protect data as well as how to analyze it. Protecting yourself, and your sources, may well require a new approach—including new skill sets—to handling sensitive data and whistleblowers (Keeble-Gagnere, 2015). Encryption coupled with anonymity (as witnessed in the Panama Papers) is one way to do this.
+モバイルに配慮を。2012年、ピュー研究所は、スマートフォンやタブレットを所有している人の半数以上がそれらのデバイスでニュースコンテンツにアクセスしていることを明らかにしました（Mitchell et al., 2012; "News Consumption on Digital Devices," 2017）。
+4年後、アメリカ人の10人に7人以上（72%）がモバイル経由でニュースを入手したと報告しています（Mitchell et al., 2016）。
+モバイルニュースの消費が拡大し続ける中、報道機関も、データが豊富な資料を含むすべてのコンテンツに対して、ポジティブなモバイル体験を提供することが不可欠となっています。
+パーソナライズ：パーソナライズとアルゴリズムによるメディア体験の時代には、視聴者がデータを吟味し、それが自分にとって何を意味するかを理解する機会を作ることも含まれます。
+ProPublicaのDollars for Docs調査（Tigas et al.、2019）は、製薬会社や医療機器会社が医師に支払った金額を患者が確認できるようにしたもので、この手法の実践例の一つです。
+情報源保護が命のジャーナリストは、データを分析する方法だけでなく、データを保護する方法も知っておく必要があります。自分自身と情報源を保護するためには、機密データや内部告発者を扱うための新しいスキルセットを含む、新しいアプローチが必要になるかもしれません（Keeble-Gagnere, 2015）。
+パナマ文書に見られるように）匿名性と結びついた暗号化は、そのための1つの方法です。
 
 Harnessing new technologies: Blockchain is just one tool that may protect and support data and investigative work (IJNET, 2016). As Walid Al-Saqaf of Södertörn University (Sweden) (as cited in Bouchart, 2018) has explained: “Blockchain preserves data permanently and prevents any manipulation or fraud. That means that if governmental data is there it can’t be removed or changed once it is published.” Machine learning is another technology already being used in this space, and one which will only grow (Bradshaw, 2017). See also our Long Read article on blockchain and journalism, written by Walid Al-Saqaf.
 
