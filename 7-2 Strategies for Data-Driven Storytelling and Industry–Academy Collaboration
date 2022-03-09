@@ -61,12 +61,16 @@ Written by Damian Radcliffe and Seth C. Lewis
 ProPublicaのDollars for Docs調査（Tigas et al.、2019）は、製薬会社や医療機器会社が医師に支払った金額を患者が確認できるようにしたもので、この手法の実践例の一つです。
 情報源保護が命のジャーナリストは、データを分析する方法だけでなく、データを保護する方法も知っておく必要があります。自分自身と情報源を保護するためには、機密データや内部告発者を扱うための新しいスキルセットを含む、新しいアプローチが必要になるかもしれません（Keeble-Gagnere, 2015）。
 パナマ文書に見られるように）匿名性と結びついた暗号化は、そのための1つの方法です。
-
-Harnessing new technologies: Blockchain is just one tool that may protect and support data and investigative work (IJNET, 2016). As Walid Al-Saqaf of Södertörn University (Sweden) (as cited in Bouchart, 2018) has explained: “Blockchain preserves data permanently and prevents any manipulation or fraud. That means that if governmental data is there it can’t be removed or changed once it is published.” Machine learning is another technology already being used in this space, and one which will only grow (Bradshaw, 2017). See also our Long Read article on blockchain and journalism, written by Walid Al-Saqaf.
-
-Rebuilding public trust: With trust in journalism at near-record lows, it is incumbent on all journalists to work towards remedying this (Knight Foundation, 2018; Nicolau & Giles, 2017). For those working with data, this means being transparent about the data you are working with, providing links to the original sources, and ensuring that original data files are available for download. Showing your work—what Jay Rosen (2017) calls “the new terms for trust in journalism”—allows readers to see the raw materials you worked with (and interpreted), and thereby opens a door to transparency-based trust in news.
-
-The influence of data on your work is/will be wider than you might think. Finally, it is impossible to overlook the role that data also plays in shaping acts of journalism. We need to remember that the datafication of journalism is not just influencing data storytelling but also the wider journalistic profession (Anderson, 2018; Usher, 2016).
+新しい技術を活用する。ブロックチェーンは、データや調査業務を保護・支援しうるツールの一つに過ぎません（IJNET, 2016）。
+セーデルトーン大学（スウェーデン）のワリード・アル・サカフ（Bouchart, 2018に引用されている）が説明しているように「ブロックチェーンはデータを永久に保存し、あらゆる操作や不正を防止します。つまり、政府のデータは、一度公開されたら削除したり変更したりすることはできないのです」。
+機械学習もこの分野ですでに利用されている技術であり、今後ますます発展していく技術です（Bradshaw, 2017）。
+ブロックチェーンとジャーナリズムに関するワリード・アル・サカフの長文記事もご覧ください。
+国民の信頼を回復する ジャーナリズムへの信頼が記録的な低水準にある今、これを改善するために努力することは、すべてのジャーナリストの責務です（Knight Foundation, 2018; Nicolau & Giles, 2017）。
+データを扱う人にとって、これは、扱っているデータについて透明性を保ち、元の情報源へのリンクを提供し、元のデータファイルがダウンロードできるようにすることを意味します。
+自分の仕事を見せること-ジェイ・ローゼン（2017）が「ジャーナリズムにおける信頼のための新しい用語」と呼ぶもの-は、読者にあなたが扱った（そして解釈した）元データを見せることを可能にし、それによってニュースにおける透明性に基づく信頼への扉を開くことになるのです。
+データが仕事に与える影響は、あなたが思っている以上に広く、またいっそうそうなるでしょう。
+最後に、ジャーナリズムの行為を形成する上でもデータが果たす役割を見過ごすことはできません。
+ジャーナリズムのデータ化は、データ・ストーリーテリングにとどまらず、より広いジャーナリズムの職業にも影響を与えていることを忘れてはなりません（Anderson, 2018; Usher, 2016）。
 
 Analytics tools such as Google Analytics, Chartbeat and Omniture are omnipresent in newsrooms, giving journalists more information about the reading habits of their audiences than ever before. These quantitative insights, coupled with qualitative insights (see, e.g., programs like Metrics for News, developed by the American Press Institute), are informing the work of newsrooms large and small.
 
