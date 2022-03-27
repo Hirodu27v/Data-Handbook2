@@ -7,12 +7,14 @@ Written by Cheryl Phillips
 キーワード：吟味思考、データジャーナリズム教育、プログラミング、コラボレーション、データプラクティス、研究者とジャーナリストの協働
 テキサス州立大学では、シンディ・ロイヤル教授がウェブ開発を教えています。数千マイル東のフロリダ大学では、ジャーナリズムテクノロジーと民主的プロセスのナイト講座であるミンディ・マクアダムスとノーマン・ルイス准教授が、コーディングから従来のデータジャーナリズムやアプリ開発までさまざまな授業を担当しています。
 マイアミ大学コミュニケーション学部のビジュアル・ジャーナリズムのKnight Chairであるアルベルト・カイロは、データ可視化に焦点を当てた包括的プログラムを教えています。
+北に向かい、コロンビア大学とニューヨーク市立大学の学生は、NBCやニューヨークタイムズの実践的なデータジャーナリストによる授業を受け、データ分析とともに調査報道の基本を学びます。
+メリーランド大学では、メディア法の授業で、ジャーナリズムのプロジェクトのために公文書請求を提出するプロセスを定期的に行っています。
+ネブラスカ（大学）では、マット・ウェイトがレゴを使ってデータを可視化する方法を教えています。
+スタンフォード大学では、基本的なデータ分析、PythonとRによるコーディング、基本的なデータの可視化について、プレゼンテーションよりも理解を深めるために教えています。
+データジャーナリズムの教授たちは、その多くが実務家としてスタートし、世界中でさまざまな方法で教えています（上記の例は米国のプログラムだけです）。
+どのプログラムが真のデータジャーナリズムなのか？というのは難しい質問で、すべてそうなのです。では、どのように教えればよいのでしょうか？
+どのようなジャーナリズムの授業でも、同じように教えることができます。スポーツ・ジャーナリズムからビジネス・レポート、科学レポートまで、どんな専門分野でもその分野特有のスキルや知識を習得する必要があります。しかし、いずれもジャーナリズムの基礎の上に成り立っています。
 
-Go north and students at Columbia University and CUNY take classes taught by practicing data journalists from NBC and The New York Times, learning the basics of investigative reporting along with data analysis. At the University of Maryland, media law classes regularly go through the process of submitting public records requests for journalism projects. In Nebraska, Matt Waite teaches students to visualize data using Legos. At Stanford University, we teach basic data analysis, coding in Python and R and basic data visualization, more for understanding than presentation.
-
-Data journalism professors—many of whom got their start as practitioners—teach in a variety of ways across the world (and the examples above are just from programmes in the United States). Which programme is true data journalism? Trick question: all of them are. So how to teach?
-
-The same way we teach any type of journalism class. Any specialization— from sports journalism to business reporting or science reporting—has domain-specific skills and knowledge that must be learned. Yet each rests on the fundamentals of journalism.
 
 In the same way, data journalism education should begin with the fundamentals. By that, I don’t mean learning spreadsheets, although I do think it can be ideal for understanding many basic tenets of data journalism. There’s nothing like understanding the inherent messiness of entered data by having students embark on a class exercise that involves entering information into little boxes on a computer screen. I also don’t mean learning a particular way of coding, from Python to R, although I do think both languages have many benefits. There’s nothing like seeing a student run a line of code and get a result that would take four or more steps in a spreadsheet.
 
