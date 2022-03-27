@@ -14,20 +14,18 @@ Written by Cheryl Phillips
 データジャーナリズムの教授たちは、その多くが実務家としてスタートし、世界中でさまざまな方法で教えています（上記の例は米国のプログラムだけです）。
 どのプログラムが真のデータジャーナリズムなのか？というのは難しい質問で、すべてそうなのです。では、どのように教えればよいのでしょうか？
 どのようなジャーナリズムの授業でも、同じように教えることができます。スポーツ・ジャーナリズムからビジネス・レポート、科学レポートまで、どんな専門分野でもその分野特有のスキルや知識を習得する必要があります。しかし、いずれもジャーナリズムの基礎の上に成り立っています。
-同様に
+同様にデータジャーナリズムの教育も基礎から始めるべきでしょう。データジャーナリズムの基本的な考え方の多くを理解するのに、スプレッドシートは理想的だと思いますが、それを学ぶという意味ではありません。
+コンピュータ画面上の小さなマスに情報を入力する実習を行うことで、入力されたデータ固有の乱雑さを理解することは、何よりの収穫です。
+また、PythonやRなど、特定のコーディング方法を学ぶという意味でもありません。学生がコードを実行し、表計算ソフトでは4ステップ以上かかるような結果を得るのを見るのは、何にも代えがたい喜びです。
+データジャーナリズムの学習は、情報を批判的に考える方法と、ジャーナリズムの目的のために情報を収集し、正規化し、分析する方法を理解することから始まります。それは、ストーリーを把握し、そこに到達するための質問をすることから始まります。
+そして、ジャーナリズムの教育者は、これらの質問がどのような形で行われるかをすでに知っていることでしょう。
+そのデータは誰が作成したのか？
+そのデータは何を含んでいるのか？
+データの最終更新日はいつか？
+そのデータは世界のどこを表しているのか？
+なぜこのデータがストーリーに必要なのか？
+このデータから、私たちが尋ねたい質問の答えをどのように見つけるか？
 
-In the same way, data journalism education should begin with the fundamentals. By that, I don’t mean learning spreadsheets, although I do think it can be ideal for understanding many basic tenets of data journalism. There’s nothing like understanding the inherent messiness of entered data by having students embark on a class exercise that involves entering information into little boxes on a computer screen. I also don’t mean learning a particular way of coding, from Python to R, although I do think both languages have many benefits. There’s nothing like seeing a student run a line of code and get a result that would take four or more steps in a spreadsheet.
-
-Learning about data journalism begins with understanding how to think critically about information and how it can be collected, normalized and analyzed for journalistic purposes. It begins with figuring out the story, and asking the questions that get you there.
-
-And journalism educators likely already know the form those questions can take:
-
-Who created the data?
-What is the data supposed to include
-When was the data last updated?
-Where in the world does the data represent?
-Why do we need this data to tell our story?
-How do we find the answers to the questions we want to ask of this data?
 So, build the curricula using spreadsheets, or SQL, or Python, or R. It doesn’t matter. Just as it doesn’t matter that I once knew something called Paradox for DOS. What matters is knowing the steps to take with collecting and analyzing data. Visualization is key both in analyzing and presenting, but if visual analysis for understanding comes first—then presentation follows more easily.
 
 This chapter contains a variety of approaches and starting points regard- ing how to teach data journalism, based on who you are, what level of programme you have and how you can build collaborative efforts. After introducing the “suitcase” approach to teaching data journalism, it explores one-course models, flipped classroom models, integrated models and experiments in co-teaching across different disciplines.
