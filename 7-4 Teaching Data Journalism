@@ -28,16 +28,15 @@ Written by Cheryl Phillips
 だから、表計算ソフトでも、SQLでも、Pythonでも、Rでもいいから、カリキュラムを作ればいいんです。私がかつてDOSの（データベース管理システム）Paradoxを知っていたことが重要でないのと同じように。
 重要なのは、データを収集し、分析する手順を知っていることです。分析するにも発表するにも可視化が重要ですが、まず理解のためのビジュアル分析ができれば、その後の発表はより簡単になります。
 この章では、データジャーナリズムの教え方に関して、様々なアプローチと出発点を紹介します。それは、あなたが誰で、どの程度のプログラムを持っていて、どのように共同作業を構築できるかに基づいています。
-データジャーナリズムを教えるための「スーツケース」アプローチを紹介した後、1コースモデル、反転授業モデル、統合モデル、異なる分野間の共同指導の実験について探求しています。
-
-One Course Is All You Can Do: Packing the Suitcase
-When we go car camping, we always make the joke that we pack everything, including the kitchen sink. The trick is knowing what you can pack and what would overload you to the point of unproductiveness. That kitchen sink is actually a small, foldable, cloth-based bowl.
-
-If you are teaching just one class, and you are the solo data journalism educator—don’t try to pack in too much, including data analysis with spreadsheets and Structured Query Language (SQL), data processing using Python, analysis using R and data visualization design using D3, all in one quarter or semester.
-
-Pick the tools that are vital. Consider making the class at least partly project-based. Either way, walk through the steps. Do it again and keep it simple. Keep the focus on the journalism that comes out of using the tools you do select.
-
-In 2014 and 2015, Charles Berret of Columbia University and I conducted a survey and extensive interviews with data journalists and journalism educators. Most of those who teach data journalism reported that beginning with a spreadsheet introduces the concept of structured data to students in a way that is easy to grasp.
+データジャーナリズムを教えるための「スーツケース」アプローチを紹介した後、ワンコースモデル、反転授業モデル、統合モデル、異なる分野間の共同指導の実験について探求しています。
+ワンコースが精一杯：スーツケースに詰め込もう
+カーキャンプに行くときは、いつも冗談で「台所の流し台も含めて何でも荷造りする」と言うんです。コツは、何を詰め込んでいいのか、何を詰め込むと非生産的なほどの負荷になってしまうのかを知ることです。
+その流し台とは、折りたたみ可能な布製の小さなボウルです。
+もしあなたがたった1つのクラスしか教えておらず、データジャーナリズムの教育者であるなら、スプレッドシートや構造化照会言語（SQL）によるデータ分析、Pythonによるデータ処理、Rによる分析、D3によるデータ可視化設計などの全てを四半期または１学期に詰め込もうとしないでください。
+必要な道具を選びなさい。クラスの少なくとも一部をプロジェクトベースにすることを検討してください。
+いずれにせよ、ステップを踏んでいくこと。もう一度やり、シンプルにする。選んだ道具を使うことで生まれるジャーナリズムに集中しましょう。
+2014、15年に、コロンビア大学のチャールズ・ベレットと私は、データジャーナリストとジャーナリズム教育者へのアンケートと広範囲なインタビューを行いました。
+データジャーナリズムを教える人のほとんどが、スプレッドシートから始めることで、構造化されたデータの概念を学生にわかりやすく紹介できると報告しています。
 
 Another step is to ramp up the complexity to include other valuable techniques in data journalism: moving beyond sorts and filters and into “group by” queries, or joining disparate data sets to find patterns otherwise undiscovered.
 
