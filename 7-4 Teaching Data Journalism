@@ -37,7 +37,11 @@ Written by Cheryl Phillips
 いずれにせよ、ステップを踏んでいくこと。もう一度やり、シンプルにする。選んだ道具を使うことで生まれるジャーナリズムに集中しましょう。
 2014、15年に、コロンビア大学のチャールズ・ベレットと私は、データジャーナリストとジャーナリズム教育者へのアンケートと広範囲なインタビューを行いました。
 データジャーナリズムを教える人のほとんどが、スプレッドシートから始めることで、構造化されたデータの概念を学生にわかりやすく紹介できると報告しています。
-
+もう一つのステップは、複雑さにも対応してデータジャーナリズムに他の価値ある技術を組み込むことです。
+ソートやフィルタを超えて「グループ・バイ」クエリに移行したり、異種のデータセットを結合して未発見のパターンを発見したりしてみましょう。
+しかし、それは無数の新しいツールを追加することでも、最新のツールを選ぶことでもありません。あなたやあなたの教育機関のジャーナリズム・プログラムに適したテクノロジーを使って、学生たちに次のレベルを紹介することができます。
+もし、すべての学生がMS Accessを持っているような大学のプログラムであれば、そのようなテクノロジーは必要ありませんが、使うのならポイント＆クリックのインターフェースの背後にある、各クエリの背後にあるSQLを学生が理解できるようにすることです。
+あるいは、MySQLを使うのもいいでしょう。Jupyter NotebookでPythonを使うのもいいでしょう。RとR StudioはSQLのようなクエリのための素晴らしいパッケージを持っています。
 Another step is to ramp up the complexity to include other valuable techniques in data journalism: moving beyond sorts and filters and into “group by” queries, or joining disparate data sets to find patterns otherwise undiscovered.
 
 But that doesn’t mean adding a myriad number of new tools, or even picking the newest tool. You can introduce students to that next level using whatever technology works for you and your institution’s journalism programme. If it’s a university programme where every student has MS Access, then use that, but go behind the point-and-click interface to make sure that students understand the Structured Query Language behind each query. Or use MySQL. Or use Python in a Jupyter Notebook. Or use R and R Studio, which has some great packages for SQL-like queries.
