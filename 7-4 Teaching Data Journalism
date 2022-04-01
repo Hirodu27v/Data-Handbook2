@@ -50,13 +50,14 @@ Written by Cheryl Phillips
 ジャーナリズムの教授の中には、スキルの指導、批判的思考、理論的考察のバランスをとるために、「反転授業」モデルを実験的に導入している人もいます。学生は自分のペースで個別指導を受け、授業中は講師と問題解決に集中し、データジャーナリズムのさまざまな課題に取り組むための他の手法も学ぶことができます。
 例えば、フロリダ大学のマクアダムス教授は、Webアプリ設計の授業で反転授業モデルを活用しています。
 このような授業の利点は、さまざまなスキルレベルのジャーナリストに対応できることです。ジャーナリズムの授業では、コンピュータサイエンスに長けている学生が興味を示すこともあれば、同時にスプレッドシートを使ったことがない学生もいることでしょう。
-
-
-But teaching data journalism goes beyond flipped classrooms. It means thinking about other ways to teach data journalism concepts. At SRCCON, a regular unconference, Sarah Cohen, the Knight Chair in Data Journalism at Arizona State University, and a Pulitzer Prize-winning journalist most recently at The New York Times, advocated using other analogue activities to engage students. Cohen and Waite, a professor of practice at the University of Nebraska, were introducing the idea of a common curriculum with modules that can be used by educators everywhere. The goal is to create a system where professors don’t have to build everything from scratch. At the conference in summer 2018, they led a group of participants in contributing possible modules for the effort. “We are trying not to have religion on that stuff [tools],” Cohen told the group, instead arguing that the focus should be on the “fundamental values of journalism and the fundamental values of data analysis.”
-
-Now, a GitHub repo is up and going with contributors adding to and tweaking modules for use in data journalism education.2 The repo also offers links to other resources in teaching data journalism, including this handbook.
-
-A few possibilities for modules include interpreting polls or studies. Basic numeracy is an important component of journalism courses. Finding data online is another quick hit that can boost any class.
+しかし、データジャーナリズムを教えることは、反転授業にとどまりません。データジャーナリズムの概念を教える他の方法を考えることを意味します。
+定期的に開催されているアンカンファレンス「SRCCON」で、アリゾナ州立大学のKnight Chair in Data Journalismであり、直近ではニューヨークタイムズでピューリッツァー賞を受賞したジャーナリストであるサラ・コーエンは、他のアナログ活動を使って学生の興味を引くことを提唱しています。
+コーエンとネブラスカ大学の実務担当教授であるウェイトは、世界中の教育者が利用できるモジュールを備えた共通のカリキュラムというアイデアを紹介しています。
+教授がゼロからすべてを構築する必要がないシステムを作ることが目的です。2018年夏のカンファレンスで、彼らは参加者のグループを率いて、この取り組みに可能なモジュールを提唱しました。
+"私たちは、そのようなもの（ツール）に宗教を持たないようにしています "とコーエンはグループに語り、代わりに "ジャーナリズムの基本的価値とデータ分析の基本的価値 "に焦点を当てるべきだと主張したのです。
+現在、GitHubのリポジトリには、データジャーナリズムの教育で使用するためのモジュールが追加・調整されています。
+このハンドブックなど、データジャーナリズムを教えるための他のリソースへのリンクも用意されています。
+モジュールには、世論調査や研究の解釈などが含まれます。基本的な計算能力は、ジャーナリズムのコースで重要な要素です。また、オンラインでデータを検索することも、どの授業でもすぐに役立つ方法です。
 
 It also doesn’t mean you have to give up all your free time for the cause. Build a module or tutorial once and it can be used over and again by others.
 
