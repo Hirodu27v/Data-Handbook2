@@ -5,10 +5,18 @@ Written by: C.W. Anderson
 「歴史」は多くの人にとってかなり学術的で抽象的な話題で、仕事に追われる現役のデータ・ジャーナリストにとっては特に縁遠いものかもしれません。
 ジャーナリストは、厳しい締め切りの中で、できるだけ多くの読者に複雑な情報を素早く分かりやすく伝えることを目標に仕事をしているので、自省に時間を費やすことを嫌うのは当然でしょう。
 しかし、データジャーナリズムやコンピュータ支援報道の実践や概念に関しては、歴史的思考の忌避が、質の高いジャーナリズムの生産を妨げることがあります。
-
-Data journalism may be the most powerful form of collective journalistic sense making in the world today. At the very least, it may be the most positive and positivistic form of journalism. This power (the capacity of data journalism to create high-quality journalism, along with the rhetorical force of the data journalism model), positivity (most data journalists have high hopes for the future of their particular subfield, convinced it is on the rise) and positivism (data reporters are strong believers in the ability of method-guided research to capture real and provable facts about the world) create what I would call an empirically self-assured profession. One consequence of this self-assurance, I would argue, is that it can also create a Whiggish assumption that data journalism is always improving and improving the world. Such an attitude can lead to arrogance and a lack of critical self-reflexivity, and make journalism more like the institutions it spends its time calling to account.
-
-In this chapter I want to argue that a better attention to history can actually improve the day-to-day workings of data journalism. By understanding that their processes and practices have a history, data journalists can open their minds to the fact that things in the present could be done differently because they might have once been otherwise. In particular, data journalists might think harder about how to creatively represent uncertainty in their empirical work. They might consider techniques through which to draw in readers of different political sensibilities and persuasions that go beyond simply stating factual evidence. They might, in short, open themselves up to what science and technology studies scholars and historians Catherine D’Ignazio and Lauren Klein have called a form of “feminist data visualization,” one that rethinks binaries, embraces pluralism, examines power and considers context (D’Ignazio & Klein, 2020; see also D’Ignazio’s chapter in this book). To accomplish these changes, data journalism, more than most forms of journalistic practice, should indeed inculcate this strong historical sensibility due to the very nature of its own power and self-assurance. No form of history is better equipped to lead to self-reflexivity, I would argue, than the genealogical approach to conceptual development pioneered by Michel Foucault and embraced by some historians of science and scholars in science and technology studies.
+データジャーナリズムは、今日の世界で最も強力なジャーナリズムの集団的センス・メイキングの形態かもしれません。
+少なくとも、最もポジティブで実証的なジャーナリズムの形態でしょう。
+この力（データジャーナリズムのモデルの修辞的な力とともに、質の高いジャーナリズムを生み出すデータジャーナリズムの能力）、積極性（ほとんどのデータジャーナリストは、自分たちの特定のサブフィールドの将来に大きな期待を持ち、それが上昇傾向にあると確信している）、実証性（データ記者は、世界に関する実際の証明できる事実を捉える、方法に基づいた調査の能力に対する強い信者）により、私が経験的に自信に満ちた職業と呼ぶものが生み出されています。
+この自己肯定感の結果、データジャーナリズムは常に世界を改善し、向上させているという（進歩主義的）ホイッグ史観のような思い込みも生まれかねません。
+こうした態度は、傲慢さと批判的な自己反省の欠如を招き、ジャーナリズムを、その時間を費やして責任を追及している機関と同じようなものにしてしまう可能性があるのです。
+この章では、歴史にもっと注意を向けることで、データ・ジャーナリズムの日々の活動を実際に改善できることを主張したいと思います。
+自分たちのプロセスや実践には歴史があることを理解することで、データ・ジャーナリストは、現在の物事がかつてそうでなかったかもしれず、別の方法で行われる可能性があるという事実を受け入れられるのです。
+特に、データ・ジャーナリストは、実証的な作業において不確実性を創造的に表現する方法について、より深く考えることができるかもしれません。
+また、単に事実上の証拠を述べるだけでなく、さまざまな政治的感性や説得力のある読者を引き込むためのテクニックを考えるかもしれません。
+つまり、科学技術研究者で歴史家のキャサリン・ディグナツィオとローレン・クラインが「フェミニスト・データ・ビジュアライゼーション」と呼ぶ、二項対立を再考し、多元性を受け入れ、権力を検証し、文脈を考慮するような形に自らを開放することができるだろう（ディグナツィオとクライン、2020年、本書のディグナツィオの章も参照のこと）。
+これらの変化を達成するために、データジャーナリズムは自らの力と自信の性質があるゆえに、ジャーナリズムの実践の多くの形態よりもいっそう確かにこの強力な歴史感覚を教え込むべきである。
+私は、ミシェル・フーコーによって開拓され、科学の歴史家や科学技術研究者によって受け入れられた概念の発展への系図学的アプローチほど、自己再帰性を導く能力を備えた歴史の形式はないと主張したい。
 
 “Genealogy,” as defined by Foucault, who himself draws on the earlier work of Nietzsche, is a unique approach to studying the evolution of institutions and concepts over time and one that might be distinguished from history as such. Genealogical analysis does not look for a single, unbroken origin of practices or ideas in the past, nor does it try to understand how concepts developed in an unbroken and evolutionary line from yesterday to today. Rather, it focuses more on discontinuity and unexpected changes than it does on the presence of the past in the present. As Nietzsche noted, in a passage from the Genealogy of Morals quoted by Foucault:
 
