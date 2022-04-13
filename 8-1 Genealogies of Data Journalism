@@ -31,9 +31,16 @@ Written by: C.W. Anderson
 私は拙著『確かさの使徒たち：データジャーナリズムと疑念の政治学』で、このような系譜の記述を試みています。
 この後のページでは、この本の主な発見をいくつかまとめ、その教訓が現代に役立つかもしれない方法を論じたいと思います。
 最後に、ジャーナリズム、特にデータ化された類のジャーナリズムは、知らないことをよりうまく示すことができるし、そうすべきであり、不確実性に向けたこれらのジェスチャーは、データジャーナリズムの起源を、もしそれが表象化されたものであるというよりは、非合法な権力への批判に置くことを尊重するものであると主張したい。
-
-Data Journalism Through Time: 1910s, 1960s and 2010s
-Can journalists use data—along with other forms of quantified information such as paper documents of figures, data visualizations, and charts and graphs—in order to produce better journalism? And how might that journalism assist the public in making better political choices? These were the main questions guiding Apostles of Certainty: Data Journalism and the Politics of Doubt, which tried to take a longer view of the history of news. With stops in the 1910s, the 1960s, and the present, the book traces the genealogy of data journalism and its material and technological underpinnings, and argues that the use of data in news reporting is inevitably intertwined with national politics, the evolution of computable databases and the history of professional scientific fields. It is impossible to understand journalistic uses of data, I argue in the book, without understanding the oft-contentious relationships between social science and journalism. It is also impossible to disentangle empirical forms of public truth telling without first understanding the remarkably persistent progressive belief that the publication of empirically verifiable information will lead to a more just and prosperous world. Apostles of Certainty concluded that this intersection of technology and professionalism has led to a better journalism but not necessarily to a better politics. To fully meet the demands of the digital age, journalism must be more comfortable expressing empirical doubt as well as certitude. Ironically, this “embrace of doubt” could lead journalism to become more like science, not less.
+データジャーナリズムの変遷：1910年代、1960年代、2010年代
+より良いジャーナリズムを生み出すために、数値の紙文書、データの可視化、チャートやグラフといった他の形式の定量化された情報とともに、データを活用できるか。
+そして、そのジャーナリズムは、国民がよりよい政治的選択をするために、どのように役立つのだろうか。
+これらの疑問が、「確かさの使徒たち：データジャーナリズムと疑念の政治学」に通底する疑問で、ニュースの歴史をより長期的な視点から探ろうとしています。
+本書は、1910年代、1960年代、そして現在に立ち戻り、データジャーナリズムの系譜とその物質的・技術的基盤をたどり、報道におけるデータの利用が、国政や計算可能なデータベースの進化、専門科学分野の歴史と不可避的に絡み合っていることを論じている。
+社会科学とジャーナリズムの関係を理解しなければ、データのジャーナリズム的利用を理解することは不可能です。
+また、実証的に検証可能な情報の出版がより公正で繁栄した世界につながるという非常に根強い進歩的信念を最初に理解しなければ、公の真実を語る実証的な形式を解き明かすことも不可能です。
+この本はこのテクノロジーとプロフェッショナリズムの交差が、より良いジャーナリズムをもたらしたが、必ずしもより良い政治をもたらしたわけではないと結論づけています。
+デジタル時代の要求を十分に満たすためには、ジャーナリズムは確かさだけでなく経験的な疑念を表現することにも慣れていなければなりません。
+皮肉なことに、この「疑いの受容」によって、ジャーナリズムはより科学に近いものになることができるのです。
 
 The Challenge of Social Science
 The narrative of Apostles of Certainty grounds itself in three distinct US time periods which provide three different perspectives on the development of data journalism. The first is the so-called “Progressive Era,” which was a period of liberal political ascendancy accompanied by the belief that both the state and ordinary citizens, informed by the best statistics available, could make the world a more just and humane place. The second moment is the 1950s and 1960s, when a few journalism reformers began to look to quantitative social science, particularly political science and sociology, as a possible source of new ideas and methods for making journalism more empirical and objective. They would be aided in this quest by a new set of increasingly accessible databases and powerful computers. The third moment is the early 2010s, when the cutting edge of data journalism has been supplemented by “computational” or “structured” journalism. In the current moment of big data and “deep machine learning,” these journalists claim that journalistic objectivity depends less on external referents but rather emerges from within the structure of the database itself.
