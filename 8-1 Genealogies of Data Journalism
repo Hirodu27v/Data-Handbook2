@@ -62,9 +62,13 @@ Written by: C.W. Anderson
 データジャーナリズムは、簡単に言えば、データベースの存在なしには不可能だったわけですが、データベースとは何か、どのようにすればジャーナリズムにふさわしい形で展開できるかという特定の専門家の理解によって媒介されたものです（専門知識のネットワーク化された性質に関するこの議論のより一般的な試みは、Anderson、2013を参照してください）。
 社会科学の権威を理解せずにジャーナリズムの権威を理解することは不可能です（コンピュータ科学、人類学、長編物語ノンフィクションについても同じことが言えるかもしれません）。
 ジャーナリズムの専門性と知識は、ジャーナリズムという分野そのものを見るだけでは決して理解できないのです。
-
-The Persistence of Politics
-Data journalism must be understood genealogically and in relation to adjacent expert fields like sociology and political science. All of these fields, in turn, must be analyzed through their larger conceptions of politics and how they come to terms with the fact that the “facts” they uncover are “political” whether they like it or not. Indeed, even the desire for factual knowledge is itself a political act. Throughout the history of data journalism, I argue in Apostles of Certainty, we have witnessed a distinct attempt to lean on the neutrality of social science in order to enact what can only be described as progressive political goals. The larger context in which this connection is forged, however, has shifted dramatically over time. These larger shifts should temper any enthusiasm that what we are witnessing in journalism is a teleological unfolding of journalistic certainty as enabled by increasingly sophisticated digital devices.
+政治の永続性
+データジャーナリズムは、社会学や政治学といった隣接する専門分野との関連において、系譜学的に理解されなければなりません。
+そして、これらの分野はすべて、政治に関するより大きな概念を通じて分析され、彼らが発見した「事実」が好むと好まざるとにかかわらず「政治的」であるという事実とどのように折り合いをつけているかが明らかにされなければならないのです。
+事実に基づく知識を求めること自体が政治的行為です。
+データジャーナリズムの歴史を振り返る『確信の使徒たち』の中で、進歩的な政治目標としか言いようのないものを実現するために、社会科学の中立性に依拠しようとする明確な試みを紹介しました。
+しかし、この関係が形成されるより大きな状況は、時間の経過とともに劇的に変化しています。
+こうした大きな変化は、ジャーナリズムにおいてわれわれが目撃しているものが、高度化するデジタル機器によって実現されたジャーナリズムの確実性の発展だという、いかなる熱狂をも抑制するはずです
 
 In the Progressive Era, proto-data journalists saw the gathering and piling up of quantitative facts as a process of social and political enlightenment, a process that was nonetheless free of any larger political commitments. By collecting granular facts about city sanitation levels, the distribution of poverty across urban spaces, statistics about church attendance and religious practice, labour conditions, and a variety of other bits of factual knowledge—and by transmitting these facts to the public through the medium of the press—social surveyors believed that the social organism would gain a more robust understanding of its own conditions of being. By gaining a better understanding of itself, society would improve, both of its own accord and by spurring politicians towards enacting reformist measures. In this case, factual knowledge about the world spoke for itself; it simply needed to be gathered, visualized and publicized, and enlightenment would follow. We might call this a “naïve and transparent” notion of what facts are—they require no interpretation in and of themselves, and their accumulation will lead to positive social change. Data journalism, at this moment, could be political without explicitly stating its politics.
 
