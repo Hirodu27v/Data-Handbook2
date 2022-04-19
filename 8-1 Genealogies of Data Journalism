@@ -83,9 +83,13 @@ Written by: C.W. Anderson
 そのような分析は専門的であるが、政治的ではない;高度に専門化された真実を語る集団として行動することで、ジャーナリストは政治的混乱を切り抜け、客観的真実の領域に国民を導くことができます。
 その一方で、この真実が導くであろう方向性については、何の関心も持ちませんでした。
 以前の世代の、至って単純で進歩的なデータジャーナリストとは異なり、データがもたらす啓蒙的な結果は、当然の結論ではなかったのです。
-
-
-Today I would argue that a new generation of computational journalists has unwittingly reabsorbed some of the political and epistemological beliefs of their Progressive Era forbearers. Epistemologically, there is an increasing belief amongst computational journalists that digital facts in some way “speak for themselves,” or at least these facts will do so when they have been properly collected, sorted and cleaned. At scale, and when linked to larger and internally consistent semantic databases, facts generate a kind of correlational excess in which troubles with meaning or causality are washed away through a flood of computational data. Professionally, data journalists increasingly understand objectivity as emerging from within the structure of the database itself rather than as part of any larger occupational interpretive process. Politically, finally, I would argue that there has been the return of a kind of “crypto-progressivism” amongst many of the most studiously neutral data journalists, with a deep-seated political hope that more and more data, beautifully visualized and conveyed through a powerful press, can act as a break on the more irrational or pathological political tendencies increasingly manifest within Western democracies. Such, at least, was the hope before 2016 and the twin shocks of Brexit and Donald Trump.
+今日、私は、新しい世代のコンピューター・ジャーナリストが、進歩主義時代の先達の政治的・認識論的信念のいくつかを知らず知らずのうちに再吸収していると主張しようと思います。
+認識論的には、コンピュータ・ジャーナリストの間では、デジタルな事実は何らかの形で「自らを語る」、あるいは少なくともこれらの事実が適切に収集、分類、洗浄されたときにはそうなる、という考えが広まっています。
+規模が大きく、内部的に一貫性のあるセマンティック・データベースにリンクされている場合、事実は一種の相関的過剰を生み出し、意味や因果関係の問題が計算データの洪水によって洗い流される。
+専門的には、データ・ジャーナリストは、客観性が、より大きな職業的解釈プロセスの一部としてではなく、データベースの構造そのものから生まれるものであると理解するようになっている。
+政治的には、最も研究熱心で中立的なデータジャーナリストの多くに、一種の「暗号進歩主義」が戻ってきたと言えるでしょう。
+より多くのデータが美しく視覚化され、強力な報道機関を通じて伝達されれば、西洋民主主義で次第に顕在化している非理性的あるいは病的な政治傾向を断つものとして機能するという根強い政治的希望があります。
+少なくとも、2016年、ブレグジットとドナルド・トランプという双子のショックが起こる前は、そのような希望があったのです。
 
 Certainty and Doubt
 The development of data journalism in the United States across the large arc of the 20th century should be seen as one in which increasingly exact claims to journalistic professional certitude coexisted uneasily with a dawning awareness that all facts, no matter what their origins, were tainted with the grime of politics. These often-contradictory beliefs are evident across a variety of data-oriented fields, of course, not simply just in journalism. In a 2017 article for The Atlantic, for instance, science columnist Ed Yong grappled with how the movement towards “open science” and the growing replicability crisis could be used by an anti-scientific Congress to demean and defund scientific research. Yong quoted Christie Aschwanden, a science reporter at FiveThirtyEight: “It feels like there are two opposite things that the public thinks about science,” she tells Yong.
