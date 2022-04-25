@@ -33,12 +33,17 @@ Written by: Wiebke Loosen
 つまり、受賞に値する作品は、常に応募者と審査員による「共同構築」の結果であり、その期待値は相互に形成されるのです。
 データ・ジャーナリズムは、まだ比較的新しい報道スタイルであり、この分野のすべての関係者が多かれ少なかれ模索を続けているので、こうした効果は特に影響力が強いようです。
 進化しても、革命ではない：（受賞に値する）データジャーナリズムのいくつかの傾向
-
-
-
-Studies that analyze data-driven pieces generally demonstrate that the evolution of data journalism is by no means a revolution in news work. As a result, they challenge the widespread belief that data-driven journalism is revolutionizing journalism by replacing traditional methods of news discovery and reporting. Our own study broadly concurs with what other empirical analyses of “daily” data journalism samples have found (Loosen et al., 2020). These only represent fairly limited data collections, but they do at least allow us to trace some developments and perhaps, above all, some degree of consistency in data journalism output.
-
-In terms of who is producing data-driven journalism on an award-worthy level, results show that the “gold standard” for data journalism, that is, worthy of peer recognition, is dominated by newspapers and their online departments. Over the four years we analyzed, they represent by far the largest group among all nominees as well as among award-winners (total: 43.1%; DJA awarded: 37.8%). The only other prominent grouping comprises organizations involved in investigative journalism such as ProPublica and the International Consortium of Investigative Journalists (ICIJ), which were awarded significantly more often than not. This might reflect the awards’ inherent bias towards established, high-profile actors, echoing findings from other research that data journalism above a certain level appears to be an undertaking for larger organizations that have the resources and editorial commitment to invest in cross-disciplinary teams made up of writers, programmers and graphic designers (Borges-Rey, 2020; Young et al., 2018). This is also reflected in the team sizes. Of the 192 projects in our sample that had a byline, they named on average just over five individuals as authors or contributors, and about a third of projects were completed in collaboration with external partners who either contributed to the analysis or designed visualizations. This seems particularly true for award-winning projects that our analysis found were produced by larger teams than those only nominated (M = 6.31, SD = 4.7 vs M = 4.75, SD = 3.8).
+データ駆動型記事を分析した研究は、一般に、データジャーナリズムの進化は決してニュース作業の革命ではないと実証しています。
+データ駆動型ジャーナリズムが従来のニュース発見・報道の手法に取って代わり、ジャーナリズムに革命をもたらすという広範な信念に疑問を投げかけているのです。
+私たち自身の研究は、「デイリー」データ・ジャーナリズムのサンプルの他の実証的分析が発見したものとおおむね一致しています（Loosen et al.）。
+これらはかなり限定的なデータ収集に過ぎないものの、少なくともデータ・ジャーナリズムのアウトプットの発展や、おそらく何よりもある程度の一貫性を追跡可能です。
+誰が受賞に値するレベルのデータ駆動型ジャーナリズムを生み出しているかという点では、データ・ジャーナリズムの「金字塔」、つまり同業者の評価に値するものは、新聞社とそのオンライン部門が独占しているという結果がでています。
+4年間の分析で、新聞社およびそのオンライン部門は、候補者および受賞者の中で圧倒的に大きな割合を占めています（合計：43.1%、DJA 受賞：37.8%）。
+他に目立つのは、ProPublica や ICIJ などの調査報道を行う組織で、これらの組織は受賞回数が圧倒的に多くなっています。
+これは、この賞の本質的なバイアスが、確立された知名度の高い関係者に向けられていることを反映しているかもしれません。
+一定レベル以上のデータジャーナリズムは、ライター、プログラマー、グラフィックデザイナーからなる分野横断的なチームに投資するリソースと編集のコミットメントを持つ大規模組織向けの事業であるように見えるという他の調査結果にも現れています (Borges-Rey, 2020; Young et al., 2018)。
+私たちのサンプルでは、署名のある192件のプロジェクトのうち、著者または貢献者として名前を挙げたのは平均して5人強で、プロジェクトの約3分の1は、分析に貢献した、または視覚化を設計した外部パートナーとの共同作業で完成しました。
+このことは、受賞プロジェクトに特に当てはまるようで、我々の分析では、ノミネートされただけのプロジェクトよりも大きなチームによって制作されていることがわかりました（M = 6.31, SD = 4.7 vs M = 4.75, SD = 3.8 ）。
 
 With regards to the geographies of data journalism that receives recognition in this competition, we can see that the United States dominates: Nearly half of the nominees come from the United States (47.6%), followed at a distance by Great Britain (12.9%) and Germany (6.2%). However, data journalism appears to be an increasingly global phenomenon, as the number of countries represented by the nominees grew with each year, amounting to 33 countries from all five continents in 2016.
 
