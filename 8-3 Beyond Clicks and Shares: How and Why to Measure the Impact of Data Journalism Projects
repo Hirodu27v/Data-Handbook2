@@ -1,0 +1,113 @@
+クリックとシェアを超えて:データジャーナリズムのプロジェクトのインパクトを測定する方法と意義
+Written by: Lindsay Green-Barber
+概要
+本章では、データジャーナリズムが個人、ネットワーク、制度にインパクトを与えるユニークな立場にあることを論じ，そのインパクトを測定するための戦略を提案します。
+キーワード：インパクト、社会科学、インパクト測定、アナリティクス、データジャーナリズム、オーディエンス・エンゲージメント
+
+Journalism and Impact
+While many journalists balk at the idea of journalistic impact, in fact contemporary journalism, as a profession, is built on a foundation of impact: To inform the public so we can be civically engaged and hold the powerful to account. And while journalists worry that thinking about, talking about, strategizing for and measuring the positive (and negative) impact of their work will get too close to crossing the red line from journalism into advocacy, practitioners and commentators alike have spent many column inches and pixels hand-wringing about the negative effects of “fake news,” misinformation and partisan reporting on individuals, our society and democracy. In other words, while journalists want to avoid talking about the impact of their work, they recognize the serious social, political and cultural impacts of “fake news.”
+
+What’s more, prior to the professionalization of journalism in the late 19th and early 20th centuries, journalism was a practice in influence, supported by political parties and produced with the express goal of supporting the party and ensuring its candidates were elected (Pitt & Green-Barber, 2017). Thus, in a historical perspective, journalism’s professionalization and embrace of (the myth of) neutrality are actually quite new (Groseclose & Milyo, 2005; Hamilton, 2004). And journalism’s striving for “neutrality” was not a normative decision, but rather a function of changing economic models and a need to appeal to the largest possible audience in order to generate revenue (Hamilton, 2004).
+
+Given the concurrent and intimately related crises of the news industry business model and lack of public trust in media in the United States and Western Europe, one might argue that journalism’s turn away from acknowledging its impact has been an abdication of responsibility, at best, and a failure, at worst.
+
+But there are signs of hope. In recent years, some media organizations have begun to embrace the fact that they are influential in society. The proliferation of non-profit media, often supported by mission-driven philanthropic foundations and individuals, has created a Petri dish for impact experimentation. Many commercial media have also come around to the idea that communicating the positive impact of their work with audiences is a strategy for building trust and loyalty, which will hopefully translate into increases in revenue. For example, in 2017, The Washington Post added “Democracy Dies in Darkness” to its masthead, embracing (and advertising) its role in our political system. And CNN created an “Impact Your World” section on its website, connecting world events, its reporting, stories of “impact” and pathways for audience members to take action, from hashtag campaigns to donations.1
+
+Media organizations have also begun to try new strategies to maximize the positive impact of their work, as well as to use research methods and metrics different from those used for advertising to understand the effectiveness of these strategies. While, in some cases, digital metrics can be useful proxies for impact measurement, advertising metrics like unique page views or even more advanced analytics like time spent on a page are meant to measure the reach of content without consideration of the effects of this content on an individual.
+
+I would like to propose a framework for media impact that is a change in the status quo as a result of an intervention and that includes four types of impact: On individuals, on networks, on institutions and on public discourse. These types of impact are interrelated. For example, as journalism often assumes, reporting can increase individuals’ level of knowledge about an issue, resulting in them voting in a particular way and ultimately affecting institutions. Or, a report may have immediate effects on institutions, such as a firing or a restructuring, which then trickles down to impact individuals. However, impact that is catalyzed by journalism often takes time and involves complex social processes.
+
+Different types of journalism are better equipped for different types of impact. For example, James T. Hamilton shows that investigative reporting can save institutions money by uncovering malfeasance, corruption or wrongdoing and spurring change. And documentary film has proven to be particularly effective in generating new and/or strengthened advocacy networks to promote change (Green-Barber, 2014).
+
+The remainder of this chapter explores the relationship between data journalism and impact, demonstrating how data journalism can contribute to various types of social change. It then suggests methods for how data journalism’s effectiveness might be measured, and what journalists and news organizations can do with this information.
+
+Why Data Journalism
+While journalists employ data journalism for many reasons, there are two that come to the fore: First, to provide credible evidence to support claims made in storytelling; and second, to present information to audiences as data, rather than text-based narrative. The practice of data journalism is built on a foundational value judgement that data is credible, and, by extension, that a journalistic product that includes data reporting is credible—and potentially more so than it would be without.
+
+Data reporting that is used to communicate information as static numbers, data, charts, graphs or other visuals is similar to other journalistic formats (i.e., text, video, audio) in that it is essentially a linear form of communicating selected information to an audience. Data reporting that is made available to audiences through a news interactive is a unique form of storytelling in that it assumes an audience member will interact with the data, ask their own questions and search for answers in the data at hand. Thus, the “story” depends upon the user as much as it does on the journalism.
+
+Even this rough-hewn version of data journalism implicates all four types of impact.
+
+Individuals
+Data journalism tends to focus on individual audience members as the potential unit for change, providing audiences with credible information so that they may become more knowledgeable and, by extension, make more informed decisions. And while data journalism as a scaffolding for traditional, linear storytelling increases audience trust in the content, news or data interactives provide the greatest potential for data journalism to have an impact at the level of individuals.
+
+With a data interactive, that is, a “big interactive database that tells a news story,” a user can generate their own question and query the data to look for answers (Klein, 2012). Media companies often assume that data interactives will allow audiences to do deep dives and explore data, find relevant information, and tell stories. In an analysis of data interactives by one news organization, the author of this chapter found that the most successful data apps, meaning those that were highly trafficked and deeply explored, were part of a full editorial package that included other content, offered the ability to look up geographically local or relevant data, had a high degree of interactivity, were aesthetically pleasing and well-designed, and loaded quickly (Green-Barber, 2015b).
+
+ProPublica’s Dollars for Docs is a classic example of data journalism in that it accesses significant amounts of data, in this case about pharmaceutical and medical device companies’ payments to doctors, structures the data, and presents it to audiences as an interactive database with the goal to inspire individuals to conduct their own research and possibly take action.2 The project instructs audiences to “use this tool” to search for payments to their doctors, and, in a sidebar, says, “Patients, Take Action. We want to know how you’ve used or might use this information in your day to day lives. Have you talked to your doctor? Do you plan to? Tell us.”3
+
+Networks
+Data journalism provides credible information that can be used by networks (formal and/or informal) to strengthen their positions and work. For example, advocacy organizations often use data reporting to bolster their claims in public appeals or in legal proceedings, especially in cases where the data is not publicly available. Journalism’s practice of requesting access to data that is not available in the public realm, analyzing this data and publishing the findings, absorbs costs that would otherwise be insurmountable for individuals or networks (Hamilton, 2016).
+
+Institutions
+Data journalism can generate reporting that institutions work hard to keep hidden, as they are evidence of corruption, malfeasance, wrongdoing and/or incompetence. When this information comes to light, there is pressure on institutions to reform—resulting from the threats associated with elections on politicians, or market forces on publicly held companies.
+
+For example, the International Consortium of Investigative Journalists’ Panama Papers collaborative investigation analyzed more than 11.5 million records to uncover “politicians from more than 50 countries connected to offshore companies in 21 tax havens.”4 This investigation led to the resignation of politicians, such as Iceland’s prime minister, Sigmundur Gunnlaugsson, investigations of others, like Pakistan’s former prime minister, Nawaz Sharif (who was sentenced to ten years in jail in 2018), and countless other institutional responses.
+
+Public discourse
+Because data journalism can often be broken down into smaller parts, whether geographically, demographically or by other factors, the data can be used to tell different stories by different media. In this way, data journalism can be localized to generate a shift in public conversation about issues across geographic locations, demographic groups or other social boundaries.
+
+The Center for Investigative Reporting has published national interactive data sets about the US Department of Veterans Affairs (VA), one with average wait times for veterans trying to access medical care at VA hospitals, and a second with the number of opiates being prescribed to veterans by VA systems. In both cases, local journalism organizations used the data sets as the baseline to do local reporting about the issues.
+
+So, How Can Data Journalists Strategize for Impact?
+You have done the hard work: You got access to data, you crunched the numbers, you structured the data and you have an important story to tell. Now what?
+
+A high-impact strategy for data journalism might follow the following five steps:
+
+Set goals. What might happen as a result of your project? Who or what has the power and/or incentive to address any wrongdoing? Who should have access to the information you are bringing to light? Ask yourself these questions to decide what type or types of impact are reasonable for your project.
+
+Content. Once you have goals for your project, identify the important target audiences for the work. What source of news and information do these audiences trust? How might they best access the information? Do they need an interactive, or will a linear story be more effective?
+
+Engagement. How will you and your news organization engage with audiences, and how will audiences engage with your work? For example, if you have identified a news organization other than your own as a trusted source of information for a target audience, collaborate. If your data interactive has important information for an NGO community, hold a webinar explaining how to use it.
+
+Strategic research. Depending upon your goals and content and engagement plans, select the appropriate research methods and/or indicators in order to track progress and understand what is working and what is not working. While media often refer to “measuring” the impact of their work, I prefer the term “strategic research,” as both qualitative and quantitative research methods should be considered. The sooner you can identify research methods and indicators, the better your information will be. (The subsequent section discusses measurement options in greater depth.)
+
+Repeat. You have invested time and resources in your data journalism reporting, content, engagement and measurement. What worked? What will you change next time? What questions are still outstanding? Share these learnings with your team and the f ield to push the next project further ahead.
+
+How Do We “Measure” the Impact of Our Work?
+As alluded to earlier, media impact research has been dominated by advertising metrics. However, ad metrics, like page views, time on page and bounce rate are potential proxies for some impact. They are meant to measure the total exposure of content to individuals without concern for their opinions about the issues, whether or not they have learned new information, or their intent to take action based upon the content. When considering the impact of content on individuals, networks, institutions and public discourse, however, there are other innovative qualitative and quantitative methods that can be used to better understand success and failure in this area. This section explores a handful of promising research methods for understanding the impact of data journalism.
+
+Analytics. Media metrics can be used as proxies for desired outcomes, such as increased awareness or increased knowledge. However, media companies should be intentional and cautious when attributing change to analytics. For example, if a data journalism project has as its goal to spur institutional change, unique page views are not an appropriate metric of success; mentions of the data by public officials in documents would be a better indicator.
+
+Experimental research. Experimental research creates constant conditions under which the effects of an intervention can be tested. The Center for Media Engagement at the University of Texas at Austin has conducted fascinating experimental research about the effects of news homepage layout on audience recall and affect, and of solutions-oriented reporting on audience affect for news organizations. Technology companies are constantly testing the effects of different interactive elements on users. Journalism organizations can do the same to better understand the effects of data interactives on users, whether in partnership with universities or by working directly with researchers in-house from areas like marketing, business development and audience engagement.
+
+Surveys. Surveys, while not the most leading-edge research method, are a proven way to gather information from individuals about changes in interest, knowledge, opinion and action. Organizations can be creative with survey design, making use of technology that allows for things like return visit-triggered pop-ups or tracking newsletter click-through to generate a survey pool of potential respondents.
+
+Content analysis. Content analysis is a research method used to determine changes in discourse, over time. This method can be employed to any text-based corpus, making it extremely flexible. For example, when an organization produces content with the goal of influencing national public discourse, it could conduct a post-project content analysis on the top ten national newspapers to determine the influence of its stories. If the goal is to influence state legislature, an organization can use post-project content analysis on publicly available legislative agendas (Green-Barber, 2015a). Or, if the goal is to make data available to advocacy networks, post-project content analysis could be used to analyze an organization’s newsletters.
+
+Content analysis can be conducted in at least three ways. At the most basic level, a news organization can search for a project’s citations in order to document where and when it has been cited. For example, many reporters create Google News Alerts using a keyword from their reporting, together with their surname, in order to determine in what other outlets a project is picked up. This is not methodologically sound, but it provides interesting information and can be used to do a gut check about impact. This process may also generate additional questions about a project’s impact that are worth a deeper dive. Many organizations use news clipping services like Google News Alerts or Meltwater for this purpose.
+
+Rigorous content analysis would identify key words, data and/or phrases in a project, then analyze their prevalence pre- and post-publication in a finite corpus of text to document change. Computational text analysis goes a step further and infers shifts in discourse by advanced counting and analysis techniques. These more rigorous content analysis methods likely require a news organization to partner with trained researchers.
+
+Looking Ahead: Why Journalists Should Care about the Impact of Data Journalism
+To stay relevant, journalism must not only accept that it has an impact on society, but embrace that fact. By working to understand the ecosystem of change in which journalism functions, and its specific role within this system, the industry can work to maximize its positive impact and demonstrate its value to audiences.
+
+Data journalists, with their understanding of the value and importance of both quantitative and qualitative data, are well positioned for this endeavour. By articulating the goals of data journalism projects, developing creative audience engagement and distribution strategies, and building sophisticated methods for measuring success into these projects, reporters can lead this movement from within.
+
+Footnotes
+
+1. edition.cnn.com/specials/impact-your-world
+
+2. projects.propublica.org/docdollars/
+
+3. propublica.forms.fm/was-the-dollars-for-docs-information-helpful-tell-us-how-you-will-use-it/forms/2249
+
+4. www.icij.org/investigations/panama-papers/
+
+Works cited
+
+Green-Barber, L. (2014). Waves of change: The case of rape in the fields. The Center for Investigative Reporting. www.documentcloud.org/documents/1278731-waves-of-change-the-case-of-rape-in-the-fields.html
+
+Green-Barber, L. (2015a). Changing the conversation: The VA backlog. The Center for Investigative Reporting. s3.amazonaws.com/uploads-cironline-org/uploaded/uploads/VA+Backlog+White+Paper+11.10.14.pdf
+
+Green-Barber, L. (2015b). What makes a news interactive successful? Preliminary lessons from the Center for Investigative Reporting. The Center for Investigative Reporting. s3-us-west-2.amazonaws.com/revealnews.org/uploads/CIR+News+Interactives+White+Paper.pdf
+
+Groseclose, T., & Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, 120(4), 1191–1237. doi.org/10.1162/003355305775097542
+
+Hamilton, J. T. (2004). All the news that’s fit to sell: How the market transforms information into news. Princeton University Press.
+
+Hamilton, J. T. (2016). Democracy’s detectives: The economics of investigative journalism. Harvard University Press.
+
+Klein, S. (2012). News apps at ProPublica. In J. Gray, L. Chambers, & L. Bounegru (Eds.), The data journalism handbook: How journalists can use data to improve the news (pp. 185‒186). O’Reilly Media.
+
+Pitt, F., & Green-Barber, L. (2017). The case for media impact: A case study of ICIJ’s radical collaboration strategy. Tow Center for Digital Journalism. doi.org/10.7916/D85Q532V
+
