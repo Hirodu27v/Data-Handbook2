@@ -27,12 +27,13 @@ Written by: Lindsay Green-Barber
 しかし、ジャーナリズムによってもたらされるインパクトは、多くの場合、時間がかかり、複雑な社会的プロセスを伴います。
 メディア企業も、自分たちの仕事のポジティブなインパクトを最大化するために新しい戦略を試みるとともに、その効果を把握するために、広告とは異なる調査手法や測定基準を使うようになりつつあります。
 デジタル指標は、インパクト測定の有用なプロキシにもなりますが、ユニークページビューなどの広告指標や、ページ滞在時間などのさらに高度な分析指標は、そのコンテンツが個人に与える影響を考慮せずに、コンテンツの到達度を測定することを目的としています。
-
-I would like to propose a framework for media impact that is a change in the status quo as a result of an intervention and that includes four types of impact: On individuals, on networks, on institutions and on public discourse. These types of impact are interrelated. For example, as journalism often assumes, reporting can increase individuals’ level of knowledge about an issue, resulting in them voting in a particular way and ultimately affecting institutions. Or, a report may have immediate effects on institutions, such as a firing or a restructuring, which then trickles down to impact individuals. However, impact that is catalyzed by journalism often takes time and involves complex social processes.
-
-Different types of journalism are better equipped for different types of impact. For example, James T. Hamilton shows that investigative reporting can save institutions money by uncovering malfeasance, corruption or wrongdoing and spurring change. And documentary film has proven to be particularly effective in generating new and/or strengthened advocacy networks to promote change (Green-Barber, 2014).
-
-The remainder of this chapter explores the relationship between data journalism and impact, demonstrating how data journalism can contribute to various types of social change. It then suggests methods for how data journalism’s effectiveness might be measured, and what journalists and news organizations can do with this information.
+私は、介入の結果、現状が変化することをメディアインパクトと呼び、4つのタイプのインパクトを含むフレームワークを提案したいと思います。個人への影響、ネットワークへの影響、制度への影響、そして公論への影響です。
+これらのインパクトのタイプは相互に関連しています。例えば、ジャーナリズムがしばしば想定するように、報道によって個人の問題に対する知識レベルが向上し、その結果、特定の方法で投票するようになり、最終的に制度に影響を与えることができます。
+あるいは、報道が解雇やリストラなど、組織に直接的な影響を与え、それが個人へと波及する場合もあります。しかし、ジャーナリズムによってもたらされるインパクトは、多くの場合、時間がかかり、複雑な社会的プロセスを伴います。
+ジャーナリズムの種類によって、インパクトの種類は異なります。例えば、ジェームズ・T・ハミルトンは、調査報道が、不正や汚職、悪事を暴き、変化を促すことで、機関のコストを削減できることを示しています。
+そして、ドキュメンタリー映画は、変化を促進するための新たな、または強化されたアドボカシー・ネットワークを生み出す上で特に効果的であることが証明されているのです（Green-Barber, 2014）。
+本章の残りの部分では、データジャーナリズムとインパクトの関係を探り、データジャーナリズムがさまざまなタイプの社会変革にどのように貢献できるかを示します。
+そして、データ・ジャーナリズムの効果をどのように測定するか、また、ジャーナリストや報道機関がこの情報を使って何を行うことができる方法を提案します。
 
 Why Data Journalism
 While journalists employ data journalism for many reasons, there are two that come to the fore: First, to provide credible evidence to support claims made in storytelling; and second, to present information to audiences as data, rather than text-based narrative. The practice of data journalism is built on a foundational value judgement that data is credible, and, by extension, that a journalistic product that includes data reporting is credible—and potentially more so than it would be without.
