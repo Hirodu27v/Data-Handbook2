@@ -1,0 +1,135 @@
+データジャーナリズム：誰の利益になるのか？
+Written by Mary Lynn Young and Candis Callison
+要旨
+本章では、データジャーナリズムのプロジェクトが誰の利益になるのかを問い、特に公益を目的とした最近の犯罪関連のデータジャーナリズムに関して、想像される聴衆に疑問を投げかけます。
+先住民族の学者たちの研究を紹介し、拒否、誤った表現、植民地主義、データ収集がジャーナリズムの根強い課題であり、より良い倫理的診断が必要であることを示します。
+キーワード：植民地主義、先住民族、データジャーナリズム、犯罪コンテンツ、倫理、科学技術研究
+
+One of the early significant contributions to data journalism in the United States was chicagocrime.org, an online map of Chicago layered with crime statistics (Anderson, 2018; Holovaty, 2005, 2008). According to its founder, Adrian Holovaty, chicagocrime.org, which launched in 2005, was one of the original map mashups, combining crime data from the Chicago Police Department with Google Maps. It offered a page and RSS feed for every city block in Chicago and a multitude of ways to browse crime data—by type, by location type (e.g., sidewalk or apartment), by ZIP code, by street/ address, by date, and even by an arbitrary route. (Holovaty, 2008)1
+
+A few years later, the Los Angeles Times launched the journalism blog Homicide Report, which drew from police data to generate homicide blog posts about each of the more than 900 homicides in the county. Both projects utilized crime data and geography in major metropolitan US centres. And both provide insight into persistent critiques and challenges related to the aims and impacts of data-driven journalism, and journalism in general.
+
+Holovaty’s motives for launching chicagocrime.org were in keeping with journalism’s goals of generating local “news you can use” along with its increasingly technical identity and focus on “cool technical things” (Holovaty, 2005). The goals of Homicide Report’s founder, Los Angeles Times journalist Jill Leovy, were more critical. Leovy wanted to account for all homicides in Los Angeles County in order to deconstruct traditional journalism norms and practices that saw only certain homicides covered (Leovy, 2008; Young & Hermida, 2015).2 In a 2015 interview with National Public Radio’s Fresh Air, Leovy articulated her motives for launching the Homicide Report as a response to structural bias in the news, and her frustration that newspaper reporting on crime “paled to the reality so much”:
+
+The newspaper’s job is to cover unusual events, and when it comes to homicide, that always ends up meaning that you’re covering the very low edges of the bell curve. And you’re never the bulge in the middle because that’s implicitly the routine homicides, even though, of course, a homicide is never routine. Those homicides have gone on in the same form, in the same ways, for so long in America, particularly American cities, that they are the wallpaper of urban life. They are taken for granted, and it’s very difficult to make them into a narrative and a story that works for a newspaper (Leovy, 2015).
+
+By combining her experience as a crime journalist with the endless, less hierarchical space of digital journalism (compared to a newspaper front page) and access to public data, Leovy (2008) envisioned a news report that represented information about all the killings in the county, “mostly of young Latinos and, most disproportionately, of young Black men,” with as much equivalence as possible (Leovy, 2015). According to Leovy (2008), the response was powerful: “Readers responded strongly. ‘Oh my God,’ began one of the first posts by a reader. ‘The sheer volume is shocking,’ wrote another. ‘Almost like they’re disposable people,’ wrote a third.”
+
+An overview of what chicagocrime.org webpage looked like
+An overview of what chicagocrime.org webpage looked like
+As novel articulations of a growing subspecialty, these examples of data journalism received commendation and acclaim for innovation. The site, chicagocrime.org, according to Holovaty (2008), was even part of an exhibit at the Museum of Modern Art in New York. But questions about whose interests and who was the imagined audience of these signature projects and others that purport to share data in the interests of the public good have remained largely silent.
+
+Science and technology studies (STS) scholars have repeatedly demonstrated how harmful relationships between vulnerable populations and certain kinds of data can and do persist even while technology is heralded as new and transformative (Nelson, 2016; Reardon, 2009; TallBear, 2013).
+
+Data journalism’s positivist orientation (Coddington, 2019) is implicated as well despite extensive critique about the social construction of race and the role of technology in replicating White supremacy (Benjamin, 2019; Noble, 2018). In addition, studies of journalism representations, norms, practices, economics and crime news indicate a long history of racialization, social control, harm and ongoing colonialism(s) (Anderson & Robertson, 2011; Callison & Young, 2020; Ericson et al., 1991; Hamilton, 2000; Schudson, 2005; Stabile, 2006).
+
+This chapter briefly explores what structures are being supported and whose data is more likely to be gathered—or not—while raising questions about journalists’ need to be able to incorporate an “ethics of refusal” as they decide whether and how to employ data journalism (Simpson, 2014; TallBear, 2013). As Butler argues, “there are ways of distributing vulnerability, differential forms of allocation that make some populations more subject to arbitrary violence than others” (Butler, 2004).
+
+We draw from Coddington (2014, 2019) for our definition of data journalism as quantitative journalism consisting of three forms: data journalism, computational journalism and computer-assisted reporting. Persistent critiques of scientific practices and societal institutions that bring together research and data collection rationales, new technologies, and social issues, are relevant to all three fors of data journalism, as are questions about vulnerability and whose interests are being supported.
+
+STS and Indigenous studies scholar TallBear studied genomic research among Indigenous populations in the US and found that many of the stereotypes and colonial narratives associated with the notion of “vanishing Indians” were part of the rationale for research in addition to statements about potential identity (i.e., knowing about migration and connectedness of ancestors) and health benefits. She points out that, while the notion of genetic connectedness may have replaced that of racial hierarchy in the lexicon of mainstream science, relations of power, difference, and hierarchy remain integral to our broader culture, to our institutions and structures, and to the culture in which science gets done and which science helps produce (TallBear, 2007, p. 413).
+
+What TallBear argues is that undergirding scientific notions of machinic or lab-based objectivity are institutional prerogatives, historical and ongoing relations with communities, and cultural frameworks that drive both rationales for research and articulations of intended benefits. The questions of “in whose interest and why” must always be asked—and in some cases, research and/or data mining analyses are worth refusing because meaning making processes are predicated on entrenched notions of race, gender and class. What TallBear calls “the colonial assumptions and practices that continue to inform science,” we would argue, similarly inform journalism and, by extension, data journalism (TallBear, 2007, p. 423).
+
+Indigenous peoples have also been subject to contending with extensive anthropological and government archives and consistent media misrepresentations and stereotypes (Anderson & Robertson, 2011) in the service of varied forms and histories of settler colonialism (Tuck & Yang, 2012; Wolfe, 2006). Hence, the stakes for data journalism specifically as an extension of notions of machine-based objectivity are profound. In Simpson’s (2014) critique of anthropology, she suggests that Mohawk communities regularly engage in forms of refusal when it comes to both contending with such archives and participating in research centred on settler colonial institutions and frameworks. Refusal in Simpson’s framework is multidirectional: A refusal to be eliminated, a refusal to internalize the misrepresentations of your identity, culture and lands, and a refusal to conform to expectations of difference such that state or other (we add in this case, media) recognition is conveyed on you or your group.
+
+Such arguments by Indigenous scholars pose direct challenges to intentions, rationales and practices of data journalism, as they centre questions of history and power. These questions pertain not just to the state, but also to the role of journalism in maintaining social orders that support state aims and goals and structures and ideologies such as patriarchy, settler colonialism and White supremacy (Callison & Young, 2020).
+
+A further complication for Indigenous communities is that both data and accurate media representations are almost always difficult to locate—as well as the fact that data is a reflection of the institutional contexts in which the data is gathered, archived and accessed.3 Ericson’s critique of police statistics as not reflecting the social reality of crime but rather the “cultural, legal, and social constructs produced . . . for organizational purposes” (Ericson, 1998, p. 93) is relevant for journalists focused solely on data wrangling. For example, Laguna Pueblo journalist Jenni Monet (2020) characterizes Indigenous communities in the United States as “Asterisk nations,” which are those for whom no data exists. Especially in Alaska, many social data charts will have an asterisk saying there is no data for Alaska natives. Digital media, like Facebook, offer hopeful alternative platforms that might be seen as a tool for journalism to engage Indigenous audiences and their concerns and to create meaningful and accurate representations that address structural inequities and data gaps (Monet, 2018). Again then, the question of whether and how to participate revolves around who benefits, what processes are utilized in data collection and whose meaning-making processes prevail.
+
+For journalism, broadly speaking, meaning-making processes are often linked to issues of dissent, deviance, conflict, or “the behaviour of a thing or person straying from the norm” (Ericson, 1998, p. 84) within a positivist orientation. Journalism’s role in social ordering has had and continues to have material impacts and harmful effects on populations constructed as deviant (Callison & Young, 2020; Rhodes, 1993; Stabile, 2006). Stabile’s historical study of crime news in the United States, which includes newspapers, television coverage of crime and radio programmes, and the relationship of crime news to race, articulates the impact of norms of deviance on structurally vulnerable populations within an ideological context of White supremacy and for-profit journalism. She focuses on race and gender as they “are among the most important sites for struggles over the historical meaning assigned to deviance” (Stabile, 2006, p. 5), arguing that media supports the “processes of criminalization” of Black men by the state and its agents such as the police (Stabile, 2006, p. 3). An example is how media amplify and reinforce police data-gathering practices by focusing on specific crimes, such as carjackings, offenders and victims. She finds an “acquisitive and violent white society that flourished in the USA, in which fictions of white terror have consistently displaced the materialities of white terrorism” (Stabile, 2006, p. 2). Here Carey’s (1974) analysis of journalism as about generating enemies and allies might be understood as also relevant to the profession’s institutional relationships to capitalism and the state in North America, which include state genocide and ongoing colonialisms. Combined with journalism’s allergy to the notion that facts and knowledge are socially constructed, journalism—and news in particular—becomes the fascia by which discourses of social ordering have been and are co-generated, replicated and also potentially transformed (Dumit & O’Connor, 2016).
+
+On these critical points, the literatures from journalism, criminology, STS and other disciplines raise a set of urgent concerns that have been underaddressed with regards to data journalism. Scholars have spent more time on typologies (Coddington, 2019), the state of data journalism (Heravi, 2017), and effects of data journalism on broader journalistic epistemologies, cultures, practices and identities (Anderson, 2018; Borges-Rey, 2020; Gynnild, 2014; Lewis & Usher, 2014; Young & Hermida, 2015) than on its wider effects and consequences. Few scholars have raised questions related to power, with the exception of research by Borges-Rey (2016, 2020), who integrates a political economy analysis of the growth of data journalism in the United Kingdom.
+
+However, data journalism can point to some impacts, such as in this statement from Holovaty:
+
+A lot of good has come out of chicagocrime.org. At the local level, countless Chicago residents have contacted me to express their thanks for the public service. Community groups have brought print-outs of the site to their police-beat meetings, and passionate citizens have taken the site’s reports to their aldermen to point out troublesome intersections where the city might consider installing brighter street lights. (Holovaty, 2008)
+
+In this case, community groups have taken the data and created their own meaning and rationale for action. But how this works on a larger scale, in rural areas far from the centres of power and media, in communities already disproportionately surveilled, and in cases where communities are not well represented in newsrooms that remain predominantly White in both Canada and the United States, requires a broader set of ethical diagnostics (Callison & Young, 2020). Given these examples and evidence from critical literatures outside of journalism studies, potential harm could and should take priority over norms such as “news you can use” and technologically fuelled experimentations. The way journalists cover crime news from a data perspective requires deep understanding of the consequences as well as problems of considering intentions that are only internal to journalism, evidence of success and rationales of innovation.4 Ethical diagnostics need to better account for the notion of refusal, the long histories of misrepresentation and service to colonialism by journalism, and the uneven processes by which meaning-making and data collection occur. In whose interests and why become essential questions for journalists in considering how, where, and for whom data journalism is making a contribution.
+
+Footnotes
+
+1. It was an early iteration of the eulogized community data journalism site, EveryBlock, which was launched by Holovaty in 2008, and acquired by MSNBC.com in 2009 (Holovaty, A. (2013, 7 February). RIP EveryBlock. Adrian Holovaty. www.holovaty.com/writing/rip-everyblock
+
+2. It was later re-envisioned as an algorithmic journalism blog.
+
+3. For more on these issues, see Kukutai and Walter’s chapter in this volume.
+
+4. See Loosen’s chapter in this volume.
+
+
+
+Works Cited
+
+Anderson, C. W. (2018). Apostles of certainty: Data journalism and the politics of doubt. Oxford University Press.
+
+Anderson, M. C., & Robertson, C. L. (2011). Seeing red: A history of natives in Canadian newspapers. University of Manitoba Press.
+
+Benjamin, R. (2019). Race after technology: Abolitionist tools for the New Jim Code. Polity Press.
+
+Borges-Rey, E. (2016). Unravelling data journalism: A study of data journalism practice in British newsrooms. Journalism Practice, 10(7), 833–843. doi.org/10.1080/17512786.2016.1159921
+
+Borges-Rey, E. (2020). Towards an epistemology of data journalism in the devolved nations of the United Kingdom: Changes and continuities in materiality, performativity and reflexivity: Journalism, 21(7), 915–932. doi.org/10.1177/1464884917693864
+
+Butler, J. (2004). Precarious life: The powers of mourning and violence. Verso.
+
+Callison, C., & Young, M. L. (2020). Reckoning: Journalism’s limits and possibilities. Oxford University Press.
+
+Carey, J. W. (1974). The problem of journalism history. Journalism History, 1(1), 3–27. doi.org/10.1080/00947679.1974.12066714
+
+Coddington, M. (2014). Clarifying journalism’s quantitative turn. Digital Journalism,3, 331–348. doi.org/10.1080/21670811.2014.976400
+
+Coddington, M. (2019). Defining and mapping data journalism and computationaljournalism: A review of typologies and themes. In S. Eldridge & B. Franklin (Eds.), The Routledge handbook of developments in digital journalism studies (pp. 225–236). Routledge. doi.org/10.4324/9781315270449-18
+
+Dumit, J., & O’Connor, K. (2016). The senses and sciences of fascia: A practice as research investigation. In L. Hunter, E. Krimmer, & P. Lichtenfels (Eds.), Sentient performativities of embodiment: Thinking alongside the human (pp. 35–54). Rowman & Littlef ield.
+
+Ericson, R. (1998). How journalists visualize fact. The Annals of the American Academy of Political and Social Science, 560, 83–95. doi.org/10.1177/0002716298560001007
+
+Ericson, R., Baranek, P. M., & Chan, J. B. L. (1991). Representing order: Crime, law, and justice in the news media. University of Toronto Press.
+
+Gynnild, A. (2014). Journalism innovation leads to innovation journalism: The impact of computational exploration on changing mindsets. Journalism, 15(6), 713–730. doi.org/10.1177/1464884913486393
+
+Hamilton, J. T. (2000). Channeling violence: The economic market for violent television programming. Princeton University Press.
+
+Heravi, B. (2017, August 1). State of data journalism globally: First insights into the global data journalism survey. Medium. medium.com/ucd-ischool/state-of-data-journalism-globally-cb2f4696ad3d
+
+Holovaty, A. (2005, May 18). Announcing chicagocrime.org. Adrian Holovaty. www.holovaty.com/writing/chicagocrime.org-launch/
+
+Holovaty, A. (2008, January 31). In memory of chicagocrime.org. Adrian Holovaty. www.holovaty.com/writing/chicagocrime.org-tribute/
+
+Leovy, J. (2008, February 4). Unlimited space for untold sorrow. Los Angeles Times. www.latimes.com/archives/la-xpm-2008-feb-04-me-homicide4-story.html
+
+Leovy, J. (2015, January 25). “Ghettoside” explores why murders are invis- ible in Los Angeles [interview with Dave Davies]. Fresh Air. www.npr.org/2015/01/26/381589023/ghettoside-explores-why-murders-are-invisible-in-los-angeles?t=1617534739128
+
+
+Lewis, S. C., & Usher, N. (2014). Code, collaboration, and the future of journalism: A case study of the hacks/hackers global network. Digital Journalism, 2(3),383–393. doi.org/10.1080/21670811.2014.895504
+
+Monet, J. (2020, October 30). Native American voters could decide key Senate races while battling intense voter suppression. Democracy Now! www.democracynow.org/2020/10/30/jenni_monet_indigenous_sovereignty_2020
+
+Monet, J. (2018b, March 23). #DeleteFacebook? Not in Indian Country. Yes! Magazine. www.yesmagazine.org/social-justice/2018/03/23/deletefacebook-not-in-indian-country
+
+Nelson, A. (2016). The social life of DNA: Race, reparations, and reconciliation after the genome. Beacon Press
+
+Noble, S. (2018). Algorithms of oppression. NYU Press.
+
+Reardon, J. (2009). Race to the finish: Identity and governance in an age of genomics. Princeton University Press.
+
+Rhodes, J. (1993). The visibility of race and media history. Critical Studies in MassCommunication, 10(2), 184–190. doi.org/10.1080/15295039309366859
+
+Schudson, M. (2005). Autonomy from what? In R. Benson & E. Neveu (Eds.), Bourdieu and the journalistic field (pp. 214–223). Polity Press.
+
+Simpson, A. (2014). Mohawk interruptus: Political life across the borders of settler states. Duke University Press.
+
+Simpson, A. (2016). The state is a man: Theresa Spence, Loretta Saunders and the gender of settler sovereignty. Theory & Event, 19(4). muse.jhu.edu/article/633280
+
+Stabile, C. (2006). White victims, Black villains: Gender, race and crime news in USculture. Routledge.
+
+TallBear, K. (2007). Narratives of race and indigeneity in the genographic project. The Journal of Law, Medicine & Ethics, 35(3), 412–424. doi.org/10.1111/j.1748-720X.2007.00164.x
+
+TallBear, K. (2013). Native American DNA: Tribal belonging and the false promise of genetic science. University of Minnesota Press.
+
+Tuck, E., & Yang, K. (2012). Decolonization is not a metaphor. Decolonization: Indigeneity, Education & Society, 1(1), 1–40.
+
+Wolfe, P. (2006). Settler colonialism and the elimination of the native. Journal of Genocide Research, 8(4), 387–409. doi.org/10.1080/14623520601056240
+
+Young, M. L., & Hermida, A. (2015). From Mr. and Mrs. Outlier to central tendencies. Digital Journalism, 3(3), 381–397. doi.org/10.1080/21670811.2014.976409
