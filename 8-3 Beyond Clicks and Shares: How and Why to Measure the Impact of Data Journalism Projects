@@ -41,15 +41,15 @@ Written by: Lindsay Green-Barber
 静的な数字、データ、チャート、グラフ、その他のビジュアルとして情報を伝えるために使用されるデータ記事は、基本的に選択した情報を視聴者に伝える直線的な形式であるという点で他のジャーナリズム形式（例：テキスト、ビデオ、オーディオ）と類似しています。
 インタラクティブなニュースを通じて視聴者に提供されるデータレポートは、視聴者がデータと対話し、独自の質問を投げかけ、手元のデータから答えを探すことを想定しているという点で、ストーリーテリングのユニークな形態といえます。
 したがって、「ストーリー」はジャーナリズムと同様にユーザーにも依存します。
-こんな荒削りなデータジャーナリズムであっても、4つのタイプのインパクトすべてに関与しています。
-
-Individuals
-Data journalism tends to focus on individual audience members as the potential unit for change, providing audiences with credible information so that they may become more knowledgeable and, by extension, make more informed decisions. And while data journalism as a scaffolding for traditional, linear storytelling increases audience trust in the content, news or data interactives provide the greatest potential for data journalism to have an impact at the level of individuals.
-
-With a data interactive, that is, a “big interactive database that tells a news story,” a user can generate their own question and query the data to look for answers (Klein, 2012). Media companies often assume that data interactives will allow audiences to do deep dives and explore data, find relevant information, and tell stories. In an analysis of data interactives by one news organization, the author of this chapter found that the most successful data apps, meaning those that were highly trafficked and deeply explored, were part of a full editorial package that included other content, offered the ability to look up geographically local or relevant data, had a high degree of interactivity, were aesthetically pleasing and well-designed, and loaded quickly (Green-Barber, 2015b).
-
-ProPublica’s Dollars for Docs is a classic example of data journalism in that it accesses significant amounts of data, in this case about pharmaceutical and medical device companies’ payments to doctors, structures the data, and presents it to audiences as an interactive database with the goal to inspire individuals to conduct their own research and possibly take action.2 The project instructs audiences to “use this tool” to search for payments to their doctors, and, in a sidebar, says, “Patients, Take Action. We want to know how you’ve used or might use this information in your day to day lives. Have you talked to your doctor? Do you plan to? Tell us.”3
-
+こんな荒削りなデータジャーナリズムであっても、四つのタイプのインパクトすべてに関与しています。
+個人
+データジャーナリズムは、変化の単位となり得る個々の視聴者に焦点を当て、視聴者がより知識を深め、ひいてはより情報に基づいた意思決定を行えるように、信頼できる情報を提供する傾向があります。
+データジャーナリズムは、従来の直線的なストーリーテリングの足場として、コンテンツに対するオーディエンスの信頼を高める一方、ニュースやデータ・インタラクティブは、データ・ジャーナリズムが個人のレベルに影響を与える最大の可能性を提供します。
+データ・インタラクティブ，つまり「ニュース・ストーリーを伝える大きなインタラクティブ・データベース」では，ユーザは自分で質問を作成し、データを照会して答えを探せます。
+メディア企業は，データ・インタラクティヴによって，視聴者が深く潜ってデータを探索し，関連する情報を見つけ，ストーリーを伝えることができると思いがちです。
+著者は、ある報道機関によるデータ・インタラクティヴの分析で、最も成功したデータ・アプリ、つまり、トラフィックが多く、深く探求されたものは、他のコンテンツを含む完全な編集パッケージの一部であり、地理的にローカルまたは関連するデータを調べる機能を提供し，高いインタラクティブ性を持ち，美的に美しくデザインされ，読み込みが速かったことを明らかにしました。
+ProPublicaのDollars for Docsはデータジャーナリズムの典型例で、大量のデータ、この場合は製薬会社や医療機器会社の医師への支払いに関するデータにアクセスし、データを構造化して、対話型のデータベースとして視聴者に提示し、個人が自ら調査を行い、行動を起こすよう促すことを目的としています。
+このプロジェクトでは、読者に医師への支払いを検索するよう求めており、サイドバーに「患者の皆さん、行動する時です。この情報を日常生活でどのように使用したか、または使用する可能性があるかを知りたいと考えています。担当医と話しましたか?そのつもりですか。教えてください」と表示されています
 Networks
 Data journalism provides credible information that can be used by networks (formal and/or informal) to strengthen their positions and work. For example, advocacy organizations often use data reporting to bolster their claims in public appeals or in legal proceedings, especially in cases where the data is not publicly available. Journalism’s practice of requesting access to data that is not available in the public realm, analyzing this data and publishing the findings, absorbs costs that would otherwise be insurmountable for individuals or networks (Hamilton, 2016).
 
