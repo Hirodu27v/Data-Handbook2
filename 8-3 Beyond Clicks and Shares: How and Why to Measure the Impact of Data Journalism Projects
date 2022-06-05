@@ -50,13 +50,15 @@ Written by: Lindsay Green-Barber
 著者は、ある報道機関によるデータ・インタラクティヴの分析で、最も成功したデータ・アプリ、つまり、トラフィックが多く、深く探求されたものは、他のコンテンツを含む完全な編集パッケージの一部であり、地理的にローカルまたは関連するデータを調べる機能を提供し，高いインタラクティブ性を持ち，美的に美しくデザインされ，読み込みが速かったことを明らかにしました。
 ProPublicaのDollars for Docsはデータジャーナリズムの典型例で、大量のデータ、この場合は製薬会社や医療機器会社の医師への支払いに関するデータにアクセスし、データを構造化して、対話型のデータベースとして視聴者に提示し、個人が自ら調査を行い、行動を起こすよう促すことを目的としています。
 このプロジェクトでは、読者に医師への支払いを検索するよう求めており、サイドバーに「患者の皆さん、行動する時です。この情報を日常生活でどのように使用したか、または使用する可能性があるかを知りたいと考えています。担当医と話しましたか?そのつもりですか。教えてください」と表示されています
-Networks
-Data journalism provides credible information that can be used by networks (formal and/or informal) to strengthen their positions and work. For example, advocacy organizations often use data reporting to bolster their claims in public appeals or in legal proceedings, especially in cases where the data is not publicly available. Journalism’s practice of requesting access to data that is not available in the public realm, analyzing this data and publishing the findings, absorbs costs that would otherwise be insurmountable for individuals or networks (Hamilton, 2016).
-
-Institutions
-Data journalism can generate reporting that institutions work hard to keep hidden, as they are evidence of corruption, malfeasance, wrongdoing and/or incompetence. When this information comes to light, there is pressure on institutions to reform—resulting from the threats associated with elections on politicians, or market forces on publicly held companies.
-
-For example, the International Consortium of Investigative Journalists’ Panama Papers collaborative investigation analyzed more than 11.5 million records to uncover “politicians from more than 50 countries connected to offshore companies in 21 tax havens.”4 This investigation led to the resignation of politicians, such as Iceland’s prime minister, Sigmundur Gunnlaugsson, investigations of others, like Pakistan’s former prime minister, Nawaz Sharif (who was sentenced to ten years in jail in 2018), and countless other institutional responses.
+ネットワーク
+データ・ジャーナリズムは、(公式・非公式にかかわらず)ネットワークがその立場や活動を強化するために利用できる信頼性の高い情報を提供します。
+たとえば、アドボカシー団体は、特にデータが公開されていない場合に、公開請求や法的手続きで主張を裏付けるためにデータ記事を使用することがよくあります。
+ジャーナリズムは、公的領域で入手できないデータへのアクセスを要求し、そのデータを分析し、調査結果を公表することで、個人やネットワークにとって他では乗り越えられないようなコストを吸収しているのです（Hamilton, 2016）。
+教育機関
+データジャーナリズムは、腐敗、不正、不正行為、無能の証拠となるような、組織が隠そうと懸命に努力する内容の記事を生み出すことができます。
+このような情報が明らかになると、政治家にとっては選挙に関連する脅威、上場企業にとっては市場原理に関連する脅威から、組織に制度改革を求める圧力が発生します。
+例えば、国際調査報道ジャーナリスト連合によるパナマ文書の共同調査では、1150万件以上の記録を分析し、「50カ国以上の政治家が21のタックスヘイブンにあるオフショア企業に関係している」ことが明らかになりました。
+この調査により、アイスランドのシグムンドゥル・グンロイグソン首相などの政治家が辞任し、パキスタンのナワズ・シャリフ元首相（2018年に10年間の実刑判決を受けた）などの調査が行われ、その他無数の制度的対応が取られることになったのです。
 
 Public discourse
 Because data journalism can often be broken down into smaller parts, whether geographically, demographically or by other factors, the data can be used to tell different stories by different media. In this way, data journalism can be localized to generate a shift in public conversation about issues across geographic locations, demographic groups or other social boundaries.
