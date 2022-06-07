@@ -66,18 +66,14 @@ ProPublicaのDollars for Docsはデータジャーナリズムの典型例で、
 1つは退役軍人が退役軍人省（VA）の病院で医療を受けようとする際の平均待ち時間、もう1つはVAシステムで退役軍人に処方されているアヘンの数です。どちらのケースでも、地元の報道機関は、問題に関する報道を行うためのベースラインとしてデータセットを使用しました。
 それで、データジャーナリストはどのように戦略的にインパクトを与えることができるのか
 あなたは大変な仕事をこなしてきました。データにアクセスし、数字を計算し、データを構造化して、伝えるべき重要なストーリーを手に入れたのです。さて、どうする？
-
-A high-impact strategy for data journalism might follow the following five steps:
-
-Set goals. What might happen as a result of your project? Who or what has the power and/or incentive to address any wrongdoing? Who should have access to the information you are bringing to light? Ask yourself these questions to decide what type or types of impact are reasonable for your project.
-
-Content. Once you have goals for your project, identify the important target audiences for the work. What source of news and information do these audiences trust? How might they best access the information? Do they need an interactive, or will a linear story be more effective?
-
-Engagement. How will you and your news organization engage with audiences, and how will audiences engage with your work? For example, if you have identified a news organization other than your own as a trusted source of information for a target audience, collaborate. If your data interactive has important information for an NGO community, hold a webinar explaining how to use it.
-
-Strategic research. Depending upon your goals and content and engagement plans, select the appropriate research methods and/or indicators in order to track progress and understand what is working and what is not working. While media often refer to “measuring” the impact of their work, I prefer the term “strategic research,” as both qualitative and quantitative research methods should be considered. The sooner you can identify research methods and indicators, the better your information will be. (The subsequent section discusses measurement options in greater depth.)
-
-Repeat. You have invested time and resources in your data journalism reporting, content, engagement and measurement. What worked? What will you change next time? What questions are still outstanding? Share these learnings with your team and the f ield to push the next project further ahead.
+データジャーナリズムのための高インパクト戦略は、以下の5つのステップを踏むとよいでしょう。
+目標を設定する。あなたのプロジェクトの結果、何が起こりうるか？誰が、何が、不正行為に対処する権力とインセンティブを持っているか？あなたが明るみに出そうとしている情報には、誰がアクセスできるべきか？これらの質問を自問自答し、あなたのプロジェクトにとって妥当なインパクトの種類を決定してください。
+内容。プロジェクトの目標が決まったら、その作品の重要なターゲットオーディエンスを特定します。対象となる人々は、どのようなニュースや情報を信頼していますか？どのように情報にアクセスするのが最適でしょうか。インタラクティブなコンテンツが必要なのか、それとも直線的なストーリーが効果的なのか？
+エンゲージメント。あなたやあなたの報道機関は視聴者とどのように関わり、視聴者はあなたの作品にどのように関わるか？たとえば、ターゲットとする視聴者が信頼できる情報源として、自社以外の報道機関を特定した場合、協力しましょう。
+また、自社のデータ・インタラクティブがNGOコミュニティにとって重要な情報を持っている場合、その使い方を説明するウェビナーを開催します。
+戦略的研究。目標、内容、および契約プランに応じて、進捗状況を追跡し、何がうまくいっていて何がうまくいっていないかを理解するために、適切な調査方法や指標を選択します。メディアは 「測定」 という言葉をよく使いますが、私は 「戦略的研究」 という言葉を使います。質的な研究方法と量的な研究方法の両方を考慮する必要があるからです。
+調査方法や指標を早く知ることができれば、情報の精度も上がります。(次のセクションでは、測定オプションについて詳しく説明します。)
+（上記のプロセスを）繰り返します。データ・ジャーナリズムのレポート作成、コンテンツ、契約、測定に時間とリソースを投資してきました。何がうまくいった?今度は何を変えますか?どのような質問がまだ未解決ですか?これらの知識をチームと共有し、次のプロジェクトをさらに進めることができます。
 
 How Do We “Measure” the Impact of Our Work?
 As alluded to earlier, media impact research has been dominated by advertising metrics. However, ad metrics, like page views, time on page and bounce rate are potential proxies for some impact. They are meant to measure the total exposure of content to individuals without concern for their opinions about the issues, whether or not they have learned new information, or their intent to take action based upon the content. When considering the impact of content on individuals, networks, institutions and public discourse, however, there are other innovative qualitative and quantitative methods that can be used to better understand success and failure in this area. This section explores a handful of promising research methods for understanding the impact of data journalism.
