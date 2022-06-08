@@ -74,13 +74,16 @@ ProPublicaのDollars for Docsはデータジャーナリズムの典型例で、
 戦略的研究。目標、内容、および契約プランに応じて、進捗状況を追跡し、何がうまくいっていて何がうまくいっていないかを理解するために、適切な調査方法や指標を選択します。メディアは 「測定」 という言葉をよく使いますが、私は 「戦略的研究」 という言葉を使います。質的な研究方法と量的な研究方法の両方を考慮する必要があるからです。
 調査方法や指標を早く知ることができれば、情報の精度も上がります。(次のセクションでは、測定オプションについて詳しく説明します。)
 （上記のプロセスを）繰り返します。データ・ジャーナリズムのレポート作成、コンテンツ、契約、測定に時間とリソースを投資してきました。何がうまくいった?今度は何を変えますか?どのような質問がまだ未解決ですか?これらの知識をチームと共有し、次のプロジェクトをさらに進めることができます。
-
-How Do We “Measure” the Impact of Our Work?
-As alluded to earlier, media impact research has been dominated by advertising metrics. However, ad metrics, like page views, time on page and bounce rate are potential proxies for some impact. They are meant to measure the total exposure of content to individuals without concern for their opinions about the issues, whether or not they have learned new information, or their intent to take action based upon the content. When considering the impact of content on individuals, networks, institutions and public discourse, however, there are other innovative qualitative and quantitative methods that can be used to better understand success and failure in this area. This section explores a handful of promising research methods for understanding the impact of data journalism.
-
-Analytics. Media metrics can be used as proxies for desired outcomes, such as increased awareness or increased knowledge. However, media companies should be intentional and cautious when attributing change to analytics. For example, if a data journalism project has as its goal to spur institutional change, unique page views are not an appropriate metric of success; mentions of the data by public officials in documents would be a better indicator.
-
-Experimental research. Experimental research creates constant conditions under which the effects of an intervention can be tested. The Center for Media Engagement at the University of Texas at Austin has conducted fascinating experimental research about the effects of news homepage layout on audience recall and affect, and of solutions-oriented reporting on audience affect for news organizations. Technology companies are constantly testing the effects of different interactive elements on users. Journalism organizations can do the same to better understand the effects of data interactives on users, whether in partnership with universities or by working directly with researchers in-house from areas like marketing, business development and audience engagement.
+仕事のインパクトをどのように「測定」するのか？
+先に述べたように、メディアインパクトの研究は、広告指標に支配されてきました。
+しかし、ページビュー、ページ滞在時間、直帰率などの広告指標は、ある種類のインパクトしか測定できません。
+これらの指標は、問題に対する意見、新しい情報を学んだかどうか、コンテンツに基づいて行動を起こすかどうかといったことに関係なく、個人へのコンテンツの総接触量を測定することを目的としています。
+しかし、コンテンツが個人、ネットワーク、組織、公論に与える影響を考える場合、他にこの分野における成功と失敗をよりよく理解するために使用できる革新的な定性的および定量的手法があります。
+ここでは、データ・ジャーナリズムの影響を理解するための有望な研究手法の一端を探ってみましょう。
+分析。メディアの測定基準は、認知度の向上や知識の増加など、望ましい成果の代用品として使用することができる。しかし、メディア企業は、変化をアナリティクスに帰する際に意図的かつ慎重になるべきです。
+例えば、データジャーナリズムのプロジェクトが制度改革を促進することを目的としている場合、ユニークページビューは成功の適切な指標とは言えません。
+実験的研究。実験的研究は、介入の効果を検証するための一定の条件を作り出すものである。テキサス大学オースティン校のCenter for Media Engagementは、ニュースのホームページのレイアウトが視聴者の記憶や感情に与える影響や、解決策を重視した報道が読者の感情に与える影響について、興味深い実験研究を行っています。
+テクノロジー企業は、さまざまなインタラクティブ要素がユーザーに与える影響を常に検証しています。ジャーナリズム企業も同じように、データ・インタラクティヴがユーザーに与える影響をよりよく理解するために、大学との提携や、マーケティング、事業開発、視聴者参加などの分野の研究者と社内で直接連携することができます。
 
 Surveys. Surveys, while not the most leading-edge research method, are a proven way to gather information from individuals about changes in interest, knowledge, opinion and action. Organizations can be creative with survey design, making use of technology that allows for things like return visit-triggered pop-ups or tracking newsletter click-through to generate a survey pool of potential respondents.
 
