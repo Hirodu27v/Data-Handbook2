@@ -84,19 +84,23 @@ ProPublicaのDollars for Docsはデータジャーナリズムの典型例で、
 例えば、データジャーナリズムのプロジェクトが制度改革を促進することを目的としている場合、ユニークページビューは成功の適切な指標とは言えません。
 実験的研究。実験的研究は、介入の効果を検証するための一定の条件を作り出すものである。テキサス大学オースティン校のCenter for Media Engagementは、ニュースのホームページのレイアウトが視聴者の記憶や感情に与える影響や、解決策を重視した報道が読者の感情に与える影響について、興味深い実験研究を行っています。
 テクノロジー企業は、さまざまなインタラクティブ要素がユーザーに与える影響を常に検証しています。ジャーナリズム企業も同じように、データ・インタラクティヴがユーザーに与える影響をよりよく理解するために、大学との提携や、マーケティング、事業開発、視聴者参加などの分野の研究者と社内で直接連携することができます。
-
-Surveys. Surveys, while not the most leading-edge research method, are a proven way to gather information from individuals about changes in interest, knowledge, opinion and action. Organizations can be creative with survey design, making use of technology that allows for things like return visit-triggered pop-ups or tracking newsletter click-through to generate a survey pool of potential respondents.
-
-Content analysis. Content analysis is a research method used to determine changes in discourse, over time. This method can be employed to any text-based corpus, making it extremely flexible. For example, when an organization produces content with the goal of influencing national public discourse, it could conduct a post-project content analysis on the top ten national newspapers to determine the influence of its stories. If the goal is to influence state legislature, an organization can use post-project content analysis on publicly available legislative agendas (Green-Barber, 2015a). Or, if the goal is to make data available to advocacy networks, post-project content analysis could be used to analyze an organization’s newsletters.
-
-Content analysis can be conducted in at least three ways. At the most basic level, a news organization can search for a project’s citations in order to document where and when it has been cited. For example, many reporters create Google News Alerts using a keyword from their reporting, together with their surname, in order to determine in what other outlets a project is picked up. This is not methodologically sound, but it provides interesting information and can be used to do a gut check about impact. This process may also generate additional questions about a project’s impact that are worth a deeper dive. Many organizations use news clipping services like Google News Alerts or Meltwater for this purpose.
-
-Rigorous content analysis would identify key words, data and/or phrases in a project, then analyze their prevalence pre- and post-publication in a finite corpus of text to document change. Computational text analysis goes a step further and infers shifts in discourse by advanced counting and analysis techniques. These more rigorous content analysis methods likely require a news organization to partner with trained researchers.
-
-Looking Ahead: Why Journalists Should Care about the Impact of Data Journalism
-To stay relevant, journalism must not only accept that it has an impact on society, but embrace that fact. By working to understand the ecosystem of change in which journalism functions, and its specific role within this system, the industry can work to maximize its positive impact and demonstrate its value to audiences.
-
-Data journalists, with their understanding of the value and importance of both quantitative and qualitative data, are well positioned for this endeavour. By articulating the goals of data journalism projects, developing creative audience engagement and distribution strategies, and building sophisticated methods for measuring success into these projects, reporters can lead this movement from within.
+アンケート調査 アンケートは、最先端のリサーチ手法ではありませんが、個人の興味、知識・意見、行動の変化に関する情報を収集する方法として、実績のあるものです。
+アンケート調査には、再訪問を促すポップアップやニュースレターのクリックスルーを追跡する技術などを活用し、潜在的な回答者のプールを生成することで、調査設計に創造性を発揮できます。
+コンテンツ分析。コンテンツ分析は、談話の時間的な変化を判断するために使用される調査手法です。
+この方法は、あらゆるテキストベースのコーパスに適用できるため、非常に柔軟性があります。例えば、ある組織が国民の言論に影響を与えることを目的にコンテンツを制作した場合、プロジェクト後に全国紙上位10紙のコンテンツ分析を行い、その記事の影響力を調べることができます。
+州議会に影響を与えることを目的とする場合、組織は、公に入手可能な立法議案についてプロジェクト後のコンテンツ分析を行うことができます（Green-Barber, 2015a）。
+アドボカシーネットワークにデータを提供することが目的であれば、組織のニュースレターを分析します。
+コンテンツ分析は少なくとも三つの方法で行うことができます。
+最も基本的なレベルでは、報道機関がプロジェクトの引用を検索し、いつ、どこで引用されたかを記録することができます。例えば、多くの記者は、あるプロジェクトが他のどの媒体で取り上げられたか を調べるために、自分の取材したキーワードと自分の苗字を使って Google News Alerts を作成する。
+この方法は方法論的には適切ではないが、興味深い情報を提供し、インパクトについて直感的に確認するために使用することができます。
+また、このプロセスによって、プロジェクトのインパクトについて、さらに深く掘り下げる価値のある疑問が生まれるかもしれません。多くの組織では、Google News AlertsやMeltwaterなどのニュースクリッピングサービスをこの目的に使用しています。
+厳密なコンテンツ分析をするなら、プロジェクトにおけるキーワード、データ、フレーズを特定し、有限のテキストコーパスの中で出版前と出版後の普及状況を分析し、変化を記録することができます。
+コンピュータによるテキスト分析では、さらに一歩進んで、高度な集計・分析技術によって談話の変化を推測します。このようなより厳密な分析は、報道機関が訓練を受けた研究者と提携する必要があるでしょう。
+展望：データ・ジャーナリズムのインパクトにジャーナリストが注目すべき理由
+報道が重要であり続けるためには、ジャーナリズムが社会に影響を与える事実を積極的に受け入れる必要があります。
+ジャーナリズムが機能する変化のエコシステムと、このシステム内での特定の役割を理解することで、業界はそのポジティブな影響を最大化し、視聴者にその価値を示すことができます。
+データジャーナリストは、定量的データと定性的データの両方の価値と重要性を理解しており、この取り組みに適しているといえます。
+データジャーナリズムプロジェクトの目標を明確にし、創造的なオーディエンスのエンゲージメントと配信戦略を開発し、これらのプロジェクトの成功を測定する高度な方法を構築することで、記者は内部からこの動きをリードすることができます。
 
 Footnotes
 
