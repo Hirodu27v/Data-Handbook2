@@ -17,6 +17,15 @@ FiveThirtyEightの2016年のインタラクティブな選挙マップ予測を�
 データジャーナリズムを選挙予測と一緒くたにするのは不公平でしょう。特に世界的に見れば、データジャーナリズムはそれ以上のものであることは間違いないが、データジャーナリズムの究極の貢献は、このようなもののように見えることがある。
 無限に続く地図、クリック可能なチャート、計算の厳密さや統計的な腕前とは関係なく、ユーザーエラーや単純化しすぎ、疎外を踏襲しがちな計算機などです。
 このハンドブックの第2版を手にした今、私たちはデータジャーナリズムが成熟し、自省する段階に達したと宣言することができます。そして、それゆえに、"何のためのデータ・ジャーナリズムなのか？"を問うことが重要なのです。
+データジャーナリズムは、今日、ジャーナリズムを再構築し、再活性化するための可能性を示唆しているに過ぎません。このハンドブックの初版は、2011年にMozilla Festivalで行われた大人数の共同プロジェクトとして始まりました。
+この取り組みを私は見ていましたが、すぐに、実際に目に見える成果として実現することはないだろうと考えていました（私は間違っていました）。
+この第2版は、アムステルダム大学出版局が発行し、シカゴ大学出版局が寄稿者を募って米国で配布しており、データジャーナリズムの自由な性質が、プロ意識、秩序、正当性と引き換えにある程度交換されてきたことを示唆しています。
+データジャーナリズムは主流となり、ジャーナリズム関連の学校で教えられ、ニュースルームにも組み込まれています（Usher, 2016）。
+データジャーナリズムは標準化されており、過去5～7年間ほとんど変化していません。国横断的なデータジャーナリズムコンテストを検証すると、形式とトピック（最も多いのは政治）の革新は停滞し、地図とチャートが依然として主流であることがわかります（Loosen et al.、2020）。
+インタラクティブ性は、情報可視化の関係者が「入門レベルのテクニック」と考えるものに限られており（Young et al.、2018）、さらに、データジャーナリズムは「動的、有向、加重グラフ」の可視化には十分に至っていないのです（Stoiber et al.、2015）。
+データジャーナリストはまだ、オリジナルの「ビッグ・データ」ではなく、前処理されたデータを扱っています--そしてこのデータは、インターネットサービスプロバイダーが収集するような深さとサイズのマルチレベルデータではなく、せいぜい「ビッグ的」な政府データです。
+
+
 The daily refreshing of FiveThirtyEight’s interactive 2016 election map forecasts was all but ritual among my fellow Washingtonians, from politicians to journalists to students to government workers and beyond. Some of this ilk favoured The New York Times’ Upshot poll aggregator; the more odds-minded of them, Real Clear Politics, and those with more exotic tastes turned to The Guardian’s US election coverage. For these serial refreshers, all was and would be right with the world so long as the odds were ever in Hillary Clinton’s favour in the US presidential election’s version of the Hunger Games, the bigger the spread, the better.
 
 We know how this story ends. Nate Silver’s map, even going into election day, had Hillary Clinton likely to win by 71.4%. Perhaps it’s due time to get over the 2016 US election, and after all, obsession with election maps is perhaps a particularly American pastime, due to the regular cycle of national elections—although that is not to say that a worldwide audience is not also paying attention (N. P. Lewis & Waters, 2018). But until link rot destroys the map, it is there, still haunting journalists and Clinton supporters alike, providing fodder for Republicans to remind their foes that the “lamestream media” is “fake news.” Politics aside, the 2016 US presidential election should not be forgotten by data journalists: Even if the quantification was correct to anyone’s best knowledge, the failures in mapping and visualization have become one more tool through which to dismantle journalists’ claim to epistemic authority (or more simply, their claim to be “authorized knowers”).
