@@ -24,6 +24,11 @@ FiveThirtyEightの2016年のインタラクティブな選挙マップ予測を�
 データジャーナリズムは標準化されており、過去5～7年間ほとんど変化していません。国横断的なデータジャーナリズムコンテストを検証すると、形式とトピック（最も多いのは政治）の革新は停滞し、地図とチャートが依然として主流であることがわかります（Loosen et al.、2020）。
 インタラクティブ性は、情報可視化の関係者が「入門レベルのテクニック」と考えるものに限られており（Young et al.、2018）、さらに、データジャーナリズムは「動的、有向、加重グラフ」の可視化には十分に至っていないのです（Stoiber et al.、2015）。
 データジャーナリストはまだ、オリジナルの「ビッグ・データ」ではなく、前処理されたデータを扱っています--そしてこのデータは、インターネットサービスプロバイダーが収集するような深さとサイズのマルチレベルデータではなく、せいぜい「ビッグ的」な政府データです。
+この批評は、米国中心ではないにせよ、主に欧米中心の視点からなされたものですが、だからといって、私が提唱する本質的な行動を促す呼びかけが損なわれたわけではありません。
+データ・ジャーナリストは、ジャーナリズムのための革命的な道具箱の上に座っているようなもので、まだ解き放たれていません。
+しかし、この革命がうまく機能しなければ、ユーザー体験とニュース消費者の知識欲の両方をさらに損ない、最悪の場合、ニュースに対する不信感をさらに募らせることになります。
+データジャーナリズムが過去5～10年間と同じような姿を続けるだけなら、デジタルとプラットフォームの時代におけるジャーナリズムの大義を推進することにはほとんどならないでしょう。
+そこで、この本質的な問い（「データ・ジャーナリズムは何のためにあるのか」）を問い直すために、データジャーナリストと、データにあまり詳しくないがウェブにどっぷり浸かってビデオやオーディオやコードを扱うジャーナリスト、そして彼らをつつく学者たちが、データ・ジャーナリズムの原点、現在の根拠、未来を再考する必要があると提案します。
 
 
 The daily refreshing of FiveThirtyEight’s interactive 2016 election map forecasts was all but ritual among my fellow Washingtonians, from politicians to journalists to students to government workers and beyond. Some of this ilk favoured The New York Times’ Upshot poll aggregator; the more odds-minded of them, Real Clear Politics, and those with more exotic tastes turned to The Guardian’s US election coverage. For these serial refreshers, all was and would be right with the world so long as the odds were ever in Hillary Clinton’s favour in the US presidential election’s version of the Hunger Games, the bigger the spread, the better.
