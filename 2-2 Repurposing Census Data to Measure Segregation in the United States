@@ -17,8 +17,6 @@ Written by Aaron Williams
 どうやったら分かるのでしょう。隔離と多様性という二つの言葉は人によって定義が大きく異なります。また、多くの人が自分の住んでいる場所は隔離されていると認識しているかもしれませんが、隔離をどのように測定するかによって、その答えは変わってきます。
 私は（あいまいな）逸話で行動したくありませんでした。 そこで私は、学術的な意味での「隔離」を測る方法を探し、そこから取材のベースを作っていきました。
 
-Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
-Figure 2.1. Dot-density population map of race in the United States from census estimates, 2018. Source: The Washington Post. https://www.washingtonpost.com/graphics/2018/national/ segregation-us-cities/
 私は、ワシントンDCにあるアメリカン大学の社会学准教授、マイケル・ベイダーから、複数の人種グループの空間的分布を同時に判定する統計指標「多変量群エントロピー指数（タイル指数）」を教えてもらいました。
 私たちはこれを使って、アメリカのすべての国勢調査ブロックグループを、そのグループが属する郡の人種人口と比較して点数化しました。
 このプロジェクトは、完成までにおよそ1年を要しました。そのほとんどを、データや様々な隔離度の測定方法の調査に費やしました。
